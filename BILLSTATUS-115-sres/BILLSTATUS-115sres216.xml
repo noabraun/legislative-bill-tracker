@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssfr00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-07-10T21:42:47Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>216</billNumber>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>C001098</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+          <lisID>2175</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>Ted</firstName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+      </item>
+    </sponsors>
+    <title>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</title>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-10</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-07-10</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2017-07-10</introducedDate>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Calling for the unconditional release of United States citizens and legal permanent resident aliens being held for political purposes by the Government of Iran.</latestTitle>
+        <type>HRES</type>
+        <number>317</number>
+        <latestAction>
+          <actionDate>2017-07-26</actionDate>
+          <actionTime>15:10:29</actionTime>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+      </item>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A resolution calling on the Government of Iran to release unjustly detained United States citizens and legal permanent resident aliens, and for other purposes.</latestTitle>
+        <type>SRES</type>
+        <number>245</number>
+        <latestAction>
+          <actionDate>2017-08-03</actionDate>
+          <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S4881)</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billType>SRES</billType>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <congress>115</congress>
+    <recordedVotes />
+    <updateDate>2017-09-11T03:06:22Z</updateDate>
+    <latestAction>
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <links />
+      <actionDate>2017-07-10</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-07-11T00:26:33Z</createDate>
+    <committeeReports />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

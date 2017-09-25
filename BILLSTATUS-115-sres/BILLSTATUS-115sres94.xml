@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-04-04T22:33:10Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-03-23T19:08:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <recordedVotes />
+    <cosponsors>
+      <item>
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <firstName>Kamala</firstName>
+        <lastName>Harris</lastName>
+        <party>D</party>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001075</bioguideId>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <middleName>D.</middleName>
+      </item>
+    </cosponsors>
+    <title>A resolution designating March 2017 as "National Read Aloud Month".</title>
+    <congress>115</congress>
+    <relatedBills />
+    <updateDate>2017-05-16T18:52:08Z</updateDate>
+    <calendarNumbers />
+    <billType>SRES</billType>
+    <introducedDate>2017-03-23</introducedDate>
+    <actions>
+      <actionTypeCounts>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Floor</type>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>17000</actionCode>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-04-04</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2220</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2220</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S2220)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-04-04</actionDate>
+        <actionCode>14500</actionCode>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.(consideration: CR S2220)</text>
+        <links>
+          <link>
+            <name>S2220</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2220</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S1978</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1978</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S1978)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-23</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <version>1.0.0</version>
+    <amendments />
+    <notes />
+    <originChamber>Senate</originChamber>
+    <sponsors>
+      <item>
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <firstName>ROB</firstName>
+        <lastName>PORTMAN</lastName>
+        <party>R</party>
+        <byRequestType />
+        <state>OH</state>
+        <bioguideId>P000449</bioguideId>
+        <identifiers>
+          <lisID>924</lisID>
+          <gpoId>8266</gpoId>
+          <bioguideId>P000449</bioguideId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <createDate>2017-03-24T05:21:00Z</createDate>
+    <billNumber>94</billNumber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A resolution designating March 2017 as "National Read Aloud Month".</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+        <title>A resolution designating March 2017 as "National Read Aloud Month".</title>
+        <chamberName />
+      </item>
+    </titles>
+    <laws />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-04-24T22:22:44Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-03-23</actionDate>
+          <updateDate>2017-03-23T04:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Designates March 2017 as National Read Aloud Month. Encourages parents and guardians to read to their children for 15 minutes every day because of the developmental benefits that activity has for children.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-04-26T18:10:06Z</lastSummaryUpdateDate>
+          <versionCode>82</versionCode>
+          <name>Passed Senate without amendment</name>
+          <actionDate>2017-04-04</actionDate>
+          <updateDate>2017-04-04T14:04:29Z</updateDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates March 2017 as National Read Aloud Month. Encourages parents and guardians to read to their children for 15 minutes every day because of the developmental benefits that activity has for children.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <actionDate>2017-04-04</actionDate>
+      <links />
+    </latestAction>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Books and print media</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Commemorative events and holidays</name>
+          </item>
+          <item>
+            <name>Language arts</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

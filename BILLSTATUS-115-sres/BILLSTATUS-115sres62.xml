@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Agriculture, Nutrition, and Forestry</name>
+          </item>
+          <item>
+            <name>Senate Committee on Armed Services</name>
+          </item>
+          <item>
+            <name>Senate Committee on Banking, Housing, and Urban Affairs</name>
+          </item>
+          <item>
+            <name>Senate Committee on Commerce, Science, and Transportation</name>
+          </item>
+          <item>
+            <name>Senate Committee on Energy and Natural Resources</name>
+          </item>
+          <item>
+            <name>Senate Committee on Environment and Public Works</name>
+          </item>
+          <item>
+            <name>Senate Committee on Finance</name>
+          </item>
+          <item>
+            <name>Senate Committee on Foreign Relations</name>
+          </item>
+          <item>
+            <name>Senate Committee on Health, Education, Labor, and Pensions</name>
+          </item>
+          <item>
+            <name>Senate Committee on Homeland Security and Governmental Affairs</name>
+          </item>
+          <item>
+            <name>Senate Committee on Indian Affairs</name>
+          </item>
+          <item>
+            <name>Senate Committee on Rules and Administration</name>
+          </item>
+          <item>
+            <name>Senate Committee on Small Business and Entrepreneurship</name>
+          </item>
+          <item>
+            <name>Senate Committee on Veterans' Affairs</name>
+          </item>
+          <item>
+            <name>Senate Committee on the Budget</name>
+          </item>
+          <item>
+            <name>Senate Committee on the Judiciary</name>
+          </item>
+          <item>
+            <name>Senate Select Committee on Intelligence</name>
+          </item>
+          <item>
+            <name>Senate Special Committee on Aging</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1506</url>
+            <name>S1506</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1506)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.(consideration: CR S1506)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1506</url>
+            <name>S1506</name>
+          </link>
+        </links>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 8.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1307-1312</url>
+            <name>H1307-1312</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Rules and Administration. Original measure reported to Senate by Senator Shelby. Without written report. (text of measure as introduced: CR H1307-1312)</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <text>Committee on Rules and Administration. Original measure reported to Senate by Senator Shelby. Without written report.(text of measure as introduced: CR H1307-1312)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1307-1312</url>
+            <name>H1307-1312</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>ssra00</systemCode>
+          <name>Rules and Administration Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <originalBillReported>1</originalBillReported>
+        <introducedInSenate>1</introducedInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <agreedToInSenate>1</agreedToInSenate>
+        <reportedToSenate>1</reportedToSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-02-16</introducedDate>
+    <createDate>2017-02-17T09:06:53Z</createDate>
+    <amendments />
+    <relatedBills />
+    <billNumber>62</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported original measure</name>
+              <date>2017-02-16T18:31:53Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <number>0008</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <title>An original resolution authorizing expenditures by committees of the Senate for the periods March 1, 2017 through September 30, 2017, October 1, 2017 through September 30, 2018, and October 1, 2018 through February 28, 2019.</title>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by committees of the Senate for the periods March 1, 2017 through September 30, 2017, October 1, 2017 through September 30, 2018, and October 1, 2018 through February 28, 2019.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by committees of the Senate for the periods March 1, 2017 through September 30, 2017, October 1, 2017 through September 30, 2018, and October 1, 2018 through February 28, 2019.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-04-15T16:20:16Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Authorizes expenditures by the following Senate committees for March 1, 2017-September 30, 2017, for FY2018, and for October 1, 2018-February 28, 2019: (1) Agriculture, Nutrition, and Forestry; (2) Armed Services; (3) Banking, Housing, and Urban Affairs; (4) Budget; (5) Commerce, Science, and Transportation; (6) Energy and Natural Resources; (7) Environment and Public Works; (8) Finance; (9) Foreign Relations; (10) Health, Education, Labor, and Pensions; (11) Homeland Security and Governmental Affairs; (12) Judiciary; (13) Rules and Administration; (14) Small Business and Entrepreneurship; (15) Veterans' Affairs; (16) Special Committee on Aging; (17) Select Committee on Intelligence; and (18) Indian Affairs. Requires committee expenses, with specified exceptions, to be paid from the contingent fund of the Senate upon vouchers approved by the chairman of the applicable committee. </p> <p> Authorizes establishment of a special reserve within funds in the Expenses of Inquiries and Investigations account, to be available to any committee to meet specified unpaid obligations or expenses.</p>]]></text>
+          <actionDate>2017-02-16</actionDate>
+        </item>
+        <item>
+          <versionCode>80</versionCode>
+          <lastSummaryUpdateDate>2017-04-22T13:59:29Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-16T20:02:25Z</updateDate>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) Authorizes expenditures by the following Senate committees for March 1, 2017-September 30, 2017, for FY2018, and for October 1, 2018-February 28, 2019: (1) Agriculture, Nutrition, and Forestry; (2) Armed Services; (3) Banking, Housing, and Urban Affairs; (4) Budget; (5) Commerce, Science, and Transportation; (6) Energy and Natural Resources; (7) Environment and Public Works; (8) Finance; (9) Foreign Relations; (10) Health, Education, Labor, and Pensions; (11) Homeland Security and Governmental Affairs; (12) Judiciary; (13) Rules and Administration; (14) Small Business and Entrepreneurship; (15) Veterans' Affairs; (16) Special Committee on Aging; (17) Select Committee on Intelligence; and (18) Indian Affairs.</p> <p> (Sec. 20) Authorizes establishment of a special reserve within funds for Inquiries and Investigations, to be available to any committee to meet specified unpaid obligations or expenses.</p>]]></text>
+          <actionDate>2017-02-16</actionDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <lastSummaryUpdateDate>2017-04-24T18:21:46Z</lastSummaryUpdateDate>
+          <updateDate>2017-02-28T14:11:39Z</updateDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the Senate reported version is repeated here.)</p> <p>(Sec. 1) Authorizes expenditures by the following Senate committees for March 1, 2017-September 30, 2017, for FY2018, and for October 1, 2018-February 28, 2019: (1) Agriculture, Nutrition, and Forestry; (2) Armed Services; (3) Banking, Housing, and Urban Affairs; (4) Budget; (5) Commerce, Science, and Transportation; (6) Energy and Natural Resources; (7) Environment and Public Works; (8) Finance; (9) Foreign Relations; (10) Health, Education, Labor, and Pensions; (11) Homeland Security and Governmental Affairs; (12) Judiciary; (13) Rules and Administration; (14) Small Business and Entrepreneurship; (15) Veterans' Affairs; (16) Special Committee on Aging; (17) Select Committee on Intelligence; and (18) Indian Affairs.</p> <p> (Sec. 20) Authorizes establishment of a special reserve within funds for Inquiries and Investigations, to be available to any committee to meet specified unpaid obligations or expenses.</p>]]></text>
+          <actionDate>2017-02-28</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2017-02-28</actionDate>
+      <text>Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1506)</text>
+      <links />
+    </latestAction>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <bioguideId>S000320</bioguideId>
+        <identifiers>
+          <lisID>1049</lisID>
+          <gpoId>8277</gpoId>
+          <bioguideId>S000320</bioguideId>
+        </identifiers>
+        <middleName>CRAIG</middleName>
+        <firstName>RICHARD</firstName>
+        <fullName>Sen. Shelby, Richard C. [R-AL]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <lastName>SHELBY</lastName>
+        <state>AL</state>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <updateDate>2017-05-04T00:09:01Z</updateDate>
+    <congress>115</congress>
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

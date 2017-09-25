@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-04T15:44:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-05-04</introducedDate>
+    <notes />
+    <title>A resolution promoting awareness of motorcycle profiling and encouraging collaboration and communication with the motorcycle community and law enforcement officials to prevent instances of profiling.</title>
+    <billType>SRES</billType>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-04</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S2776</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S2776</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2776)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-05-04</actionDate>
+      </item>
+    </actions>
+    <createDate>2017-05-05T00:41:39Z</createDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <updateDate>2017-09-06T05:26:44Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>J000293</bioguideId>
+        <firstName>Ron</firstName>
+        <lastName>Johnson</lastName>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <lisID>2086</lisID>
+          <gpoId>8355</gpoId>
+        </identifiers>
+        <state>WI</state>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Promoting awareness of motorcycle profiling and encouraging collaboration and communication with the motorcycle community and law enforcement officials to prevent instances of profiling.</latestTitle>
+        <type>HRES</type>
+        <number>318</number>
+        <latestAction>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+          <actionDate>2017-06-02</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001181</bioguideId>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>NH</state>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Angus</firstName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <gpoId />
+          <bioguideId>K000383</bioguideId>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000383</bioguideId>
+        <lastName>King</lastName>
+        <party>I</party>
+        <sponsorshipWithdrawnDate />
+        <state>ME</state>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Lisa</firstName>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <lisID>1694</lisID>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001153</bioguideId>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>AK</state>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Joni</firstName>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000295</bioguideId>
+        <lastName>Ernst</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>IA</state>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>TAMMY</firstName>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001230</bioguideId>
+        <lastName>BALDWIN</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>WI</state>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution promoting awareness of motorcycle profiling and encouraging collaboration and communication with the motorcycle community and law enforcement officials to prevent instances of profiling.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A resolution promoting awareness of motorcycle profiling and encouraging collaboration and communication with the motorcycle community and law enforcement officials to prevent instances of profiling.</title>
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Law enforcement officers</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-05-04T04:00:00Z</updateDate>
+          <text><![CDATA[<p>Promotes increased public awareness of motorcycle profiling.</p> <p>Encourages collaboration and communication with the motorcycle community and law enforcement to engage in efforts to end motorcycle profiling.</p> <p>Urges state law enforcement officials to include statements condemning motorcycle profiling in written policies and training materials.</p> <ul> </ul>]]></text>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-05-16T22:02:01Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-04</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S2776)</text>
+      <actionDate>2017-05-04</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>154</billNumber>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

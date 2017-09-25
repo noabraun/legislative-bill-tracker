@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <originalBillReported>1</originalBillReported>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>1</reportedToSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Rules and Administration Committee</name>
+          <systemCode>ssra00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S597</url>
+            <name>S597</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S597)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Roberts. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionDate>2017-02-01</actionDate>
+        <text>Committee on Agriculture, Nutrition, and Forestry. Original measure reported to Senate by Senator Roberts. Without written report.</text>
+        <committee>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+          <systemCode>ssaf00</systemCode>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14000</actionCode>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-02-01</actionDate>
+        <text>Introduced in Senate</text>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2017-02-01</introducedDate>
+    <updateDate>2017-05-04T00:08:47Z</updateDate>
+    <cboCostEstimates />
+    <cosponsors />
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Senate Committee on Agriculture, Nutrition, and Forestry</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <links />
+      <actionDate>2017-02-01</actionDate>
+      <text>Referred to the Committee on Rules and Administration. (text of measure as introduced: CR S597)</text>
+    </latestAction>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-02-01T18:50:57Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>ssra00</systemCode>
+          <subcommittees />
+          <name>Rules and Administration Committee</name>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-02-01T18:50:22Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>ssaf00</systemCode>
+          <subcommittees />
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-02-02T05:28:46Z</createDate>
+    <title>An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-16T19:16:10Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-01</actionDate>
+          <updateDate>2017-02-01T05:00:00Z</updateDate>
+          <text><![CDATA[<p>Authorizes expenditures by the Senate Committee on Agriculture, Nutrition, and Forestry for the 115th Congress.</p> <p>Limits expenses of such committee to specified amounts from: (1) March 1, 2017, through September 30, 2017, (2) October 1, 2017, through September 30, 2018, and (3) October 1, 2018, through February 28, 2019.</p>]]></text>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-03-16T19:15:13Z</lastSummaryUpdateDate>
+          <versionCode>80</versionCode>
+          <actionDate>2017-02-01</actionDate>
+          <updateDate>2017-02-01T14:38:35Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Authorizes expenditures by the Senate Committee on Agriculture, Nutrition, and Forestry for the 115th Congress.</p> <p>Limits expenses of such committee to specified amounts from: (1) March 1, 2017, through September 30, 2017, (2) October 1, 2017, through September 30, 2018, and (3) October 1, 2018, through February 28, 2019.</p>]]></text>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>SRES</billType>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <title>An original resolution authorizing expenditures by the Committee on Agriculture, Nutrition, and Forestry.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <committeeReports />
+    <sponsors>
+      <item>
+        <state>KS</state>
+        <party>R</party>
+        <bioguideId>R000307</bioguideId>
+        <identifiers>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+        </identifiers>
+        <lastName>ROBERTS</lastName>
+        <firstName>PAT</firstName>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>30</billNumber>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

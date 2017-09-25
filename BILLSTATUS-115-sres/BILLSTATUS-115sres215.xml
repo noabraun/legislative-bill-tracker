@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links>
+          <link>
+            <name>S4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4695</url>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.(consideration: CR S4695)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+        <actionDate>2017-08-01</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <links />
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <actionCode>14500</actionCode>
+        <actionDate>2017-08-01</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S3865</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S3865</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on the Judiciary. (text of measure as introduced: CR S3865)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-06-29</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <agreedToInSenate>1</agreedToInSenate>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <state>NC</state>
+        <firstName>RICHARD</firstName>
+        <bioguideId>B001135</bioguideId>
+        <party>R</party>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <lisID>153</lisID>
+          <gpoId>8286</gpoId>
+        </identifiers>
+        <lastName>BURR</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>Designates July 14, 2017, as Collector Car Appreciation Day. </p> <p>Recognizes that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-06-29</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-08-16T18:53:50Z</lastSummaryUpdateDate>
+          <updateDate>2017-06-29T04:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+        </item>
+        <item>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Designates July 14, 2017, as Collector Car Appreciation Day. </p> <p>Recognizes that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States. </p>]]></text>
+          <versionCode>82</versionCode>
+          <actionDate>2017-08-01</actionDate>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <lastSummaryUpdateDate>2017-09-05T18:33:08Z</lastSummaryUpdateDate>
+          <updateDate>2017-08-01T13:10:21Z</updateDate>
+          <name>Passed Senate without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <title>A resolution designating July 14, 2017, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.</title>
+    <laws />
+    <createDate>2017-06-30T00:41:33Z</createDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <bioguideId>T000464</bioguideId>
+        <lastName>Tester</lastName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <state>MT</state>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>A resolution designating July 14, 2017, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A resolution designating July 14, 2017, as Collector Car Appreciation Day and recognizing that the collection and restoration of historic and classic cars is an important part of preserving the technological achievements and cultural heritage of the United States.</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-09-11T02:39:36Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>215</billNumber>
+    <committeeReports />
+    <amendments />
+    <notes />
+    <introducedDate>2017-06-29</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Discharged from</name>
+              <date>2017-08-02T00:00:36Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T21:54:22Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <billType>SRES</billType>
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4695)</text>
+      <actionDate>2017-08-01</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

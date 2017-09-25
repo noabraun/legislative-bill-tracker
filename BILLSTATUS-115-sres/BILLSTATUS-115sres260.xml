@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5804</url>
+            <name>S5804</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5810</url>
+            <name>S5810</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5810; text: CR S5804)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-09-18</actionDate>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+        <actionCode>17000</actionCode>
+        <type>Floor</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-09-18</actionDate>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <policyArea />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees />
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills />
+    <laws />
+    <title>A resolution designating September 2017 as "School Bus Safety Month".</title>
+    <billNumber>260</billNumber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A resolution designating September 2017 as "School Bus Safety Month".</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>A resolution designating September 2017 as "School Bus Safety Month".</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <party>D</party>
+        <bioguideId>B001288</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+          <lisID>2194</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <lastName>Booker</lastName>
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <createDate>2017-09-19T00:26:17Z</createDate>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <actionDate>2017-09-18</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5810; text: CR S5804)</text>
+      <links />
+    </latestAction>
+    <billType>SRES</billType>
+    <updateDate>2017-09-19T13:42:08Z</updateDate>
+    <introducedDate>2017-09-18</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>F000463</bioguideId>
+        <firstName>Deb</firstName>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+          <lisID>2179</lisID>
+        </identifiers>
+        <party>R</party>
+        <lastName>Fischer</lastName>
+        <state>NE</state>
+        <middleName />
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

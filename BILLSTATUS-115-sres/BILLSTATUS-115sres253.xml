@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-20T04:46:49Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5485</url>
+            <name>S5485</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5707</url>
+            <name>S5707</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5707; text: CR S5485)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>17000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5485</url>
+            <name>S5485</name>
+          </link>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5707</url>
+            <name>S5707</name>
+          </link>
+        </links>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.(consideration: CR S5707; text: CR S5485)</text>
+        <actionDate>2017-09-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-09-13</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills />
+    <billNumber>253</billNumber>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>A resolution designating the week beginning September 18, 2017, as "National Hispanic-Serving Institutions Week".</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>A resolution designating the week beginning September 18, 2017, as "National Hispanic-Serving Institutions Week".</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <title>A resolution designating the week beginning September 18, 2017, as "National Hispanic-Serving Institutions Week".</title>
+    <laws />
+    <committees>
+      <billCommittees />
+    </committees>
+    <amendments />
+    <recordedVotes />
+    <createDate>2017-09-14T00:41:18Z</createDate>
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <middleName />
+        <firstName>ROBERT</firstName>
+        <state>NJ</state>
+        <bioguideId>M000639</bioguideId>
+        <identifiers>
+          <gpoId>8239</gpoId>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+        </identifiers>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>MENENDEZ</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-09-13</actionDate>
+      <links />
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S5707; text: CR S5485)</text>
+    </latestAction>
+    <notes />
+    <calendarNumbers />
+    <introducedDate>2017-09-13</introducedDate>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <lastName>Cornyn</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <lisID>1692</lisID>
+          <bioguideId>C001056</bioguideId>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>TX</state>
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Blumenthal</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001277</bioguideId>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CT</state>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Booker</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001288</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+        </identifiers>
+        <middleName>A.</middleName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NJ</state>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Casey</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001070</bioguideId>
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>PA</state>
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Cortez Masto</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001113</bioguideId>
+        <identifiers>
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <firstName>Catherine</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>FEINSTEIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000062</bioguideId>
+        <identifiers>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+          <bioguideId>F000062</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CA</state>
+        <firstName>DIANNE</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Kaine</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000384</bioguideId>
+        <identifiers>
+          <lisID>2176</lisID>
+          <bioguideId>K000384</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>VA</state>
+        <firstName>Timothy</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Duckworth</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000622</bioguideId>
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <firstName>Tammy</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Bennet</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001267</bioguideId>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>CO</state>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>SCHUMER</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000148</bioguideId>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+          <lisID>1036</lisID>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <firstName>CHARLES</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>I</party>
+        <lastName>SANDERS</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000033</bioguideId>
+        <identifiers>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+          <gpoId>8270</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>VT</state>
+        <firstName>BERNARD</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Heller</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001041</bioguideId>
+        <identifiers>
+          <gpoId>8060</gpoId>
+          <lisID>1863</lisID>
+          <bioguideId>H001041</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NV</state>
+        <firstName>Dean</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>NELSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000032</bioguideId>
+        <identifiers>
+          <lisID>859</lisID>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <middleName>WILLIAM</middleName>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>Rubio</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>FL</state>
+        <firstName>Marco</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>Heinrich</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001046</bioguideId>
+        <identifiers>
+          <gpoId>8056</gpoId>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <firstName>Martin</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

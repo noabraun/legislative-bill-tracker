@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Congress</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional operations and organization</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Senate</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <committeeReports />
+    <actions>
+      <item>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6</url>
+            <name>S6</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text as passed Senate: CR S6)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <committee />
+        <actionCode>17000</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <text>Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent.(consideration: CR S6; text as passed Senate: CR S6)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S6</url>
+            <name>S6</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <text>Introduced in Senate</text>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <passedOrAgreedToInSenateDayOf>1</passedOrAgreedToInSenateDayOf>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-01-03</introducedDate>
+    <createDate>2017-01-04T04:47:42Z</createDate>
+    <amendments />
+    <relatedBills />
+    <billNumber>3</billNumber>
+    <committees>
+      <billCommittees />
+    </committees>
+    <calendarNumbers />
+    <title>A resolution fixing the hour of daily meeting of the Senate.</title>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution fixing the hour of daily meeting of the Senate.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <title>A resolution fixing the hour of daily meeting of the Senate.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-02-04T14:04:24Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>Sets the daily meeting of the Senate at 12 Noon unless otherwise ordered.</p>]]></text>
+          <actionDate>2017-01-03</actionDate>
+        </item>
+        <item>
+          <versionCode>82</versionCode>
+          <lastSummaryUpdateDate>2017-02-04T14:04:33Z</lastSummaryUpdateDate>
+          <updateDate>2017-01-03T14:31:52Z</updateDate>
+          <name>Passed Senate without amendment</name>
+          <actionDesc>Passed Senate without amendment</actionDesc>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary of that version is repeated here.)</p> <p>Sets the daily meeting of the Senate at 12 Noon unless otherwise ordered.</p>]]></text>
+          <actionDate>2017-01-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <actionDate>2017-01-03</actionDate>
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6; text as passed Senate: CR S6)</text>
+      <links />
+    </latestAction>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <bioguideId>M000355</bioguideId>
+        <identifiers>
+          <lisID>1395</lisID>
+          <gpoId>8254</gpoId>
+          <bioguideId>M000355</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>MITCH</firstName>
+        <fullName>Sen. McConnell, Mitch [R-KY]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <lastName>MCCONNELL</lastName>
+        <state>KY</state>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <recordedVotes />
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <cboCostEstimates />
+    <updateDate>2017-05-04T00:08:30Z</updateDate>
+    <congress>115</congress>
+    <billType>SRES</billType>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee />
+        <text>Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+        <type>Floor</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S4715-4716</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4715-4716</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent. (consideration: CR S4715-4716)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.(consideration: CR S4715-4716)</text>
+        <type>Committee</type>
+        <links>
+          <link>
+            <name>S4715-4716</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4715-4716</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>14500</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S4119</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4119</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Commerce, Science, and Transportation. (text of measure as introduced: CR S4119)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <committeeDischarged>1</committeeDischarged>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <agreedToInSenate>1</agreedToInSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <lastName>Duckworth</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000622</bioguideId>
+        <identifiers>
+          <lisID>2123</lisID>
+          <bioguideId>D000622</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <firstName>Tammy</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>UDALL</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>U000039</bioguideId>
+        <identifiers>
+          <gpoId>8260</gpoId>
+          <bioguideId>U000039</bioguideId>
+          <lisID>1567</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>NM</state>
+        <firstName>TOM</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000563</bioguideId>
+        <identifiers>
+          <lisID>326</lisID>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+        </identifiers>
+        <middleName>J.</middleName>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>IL</state>
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+      <item>
+        <party>R</party>
+        <lastName>MORAN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000934</bioguideId>
+        <identifiers>
+          <gpoId>8307</gpoId>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <sponsorshipWithdrawnDate />
+        <state>KS</state>
+        <firstName>JERRY</firstName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>SHELLEY</firstName>
+        <party>R</party>
+        <bioguideId>C001047</bioguideId>
+        <middleName>MOORE</middleName>
+        <state>WV</state>
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <identifiers>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <billType>SRES</billType>
+    <policyArea>
+      <name>Sports and Recreation</name>
+    </policyArea>
+    <introducedDate>2017-07-20</introducedDate>
+    <title>A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <actionDate>2017-08-02</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <notes />
+    <billNumber>227</billNumber>
+    <committeeReports />
+    <recordedVotes />
+    <updateDate>2017-09-23T04:33:55Z</updateDate>
+    <laws />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Sports and Recreation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Athletes</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>A resolution recognizing "National Youth Sports Week" and the efforts by parents, volunteers, and national organizations in their efforts to promote healthy living and youth development.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <createDate>2017-07-21T00:56:42Z</createDate>
+    <relatedBills>
+      <item>
+        <number>435</number>
+        <congress>115</congress>
+        <latestTitle>Recognizing the millions of youth in this Nation benefitting from youth sports and the parents, volunteers, and local and national organizations that make youth sports in this country possible, and for other purposes.</latestTitle>
+        <type>HRES</type>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-07-14</actionDate>
+          <text>Referred to the Subcommittee on Digital Commerce and Consumer Protection.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-08-02T20:49:01Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-07-20T19:07:27Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>sscm00</systemCode>
+          <subcommittees />
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

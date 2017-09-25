@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-24T05:12:19Z</createDate>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <type>HRES</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>54</number>
+        <latestTitle>Reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms.</latestTitle>
+        <latestAction>
+          <actionTime>17:49:14</actionTime>
+          <actionDate>2017-04-03</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-06-05</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-06-05</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-06-05</actionDate>
+        <type>Committee</type>
+        <actionCode>14000</actionCode>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <text>Committee on Foreign Relations. Reported by Senator Corker with an amendment in the nature of a substitute and with an amended preamble. Without written report.</text>
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Foreign Relations. Ordered to be reported with amendments favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-23</actionDate>
+        <committee>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S404</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S404</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Referred to the Committee on Foreign Relations. (text of measure as introduced: CR S404)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionDate>2017-01-23</actionDate>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <committee />
+        <text>Introduced in Senate</text>
+      </item>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <reportedToSenate>2</reportedToSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <laws />
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <bioguideId>R000595</bioguideId>
+        <party>R</party>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Rubio</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <bioguideId>K000384</bioguideId>
+        <party>D</party>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2176</lisID>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Kaine</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Timothy</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-23</sponsorshipDate>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <bioguideId>L000575</bioguideId>
+        <party>R</party>
+        <state>OK</state>
+        <identifiers>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Lankford</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <bioguideId>M000133</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>MARKEY</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <bioguideId>M001176</bioguideId>
+        <party>D</party>
+        <state>OR</state>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Merkley</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-17</sponsorshipDate>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <bioguideId>H000338</bioguideId>
+        <party>R</party>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>HATCH</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>ORRIN</firstName>
+        <middleName>GRANT</middleName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-23</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>C001088</bioguideId>
+        <lastName>Coons</lastName>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <middleName>A.</middleName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>DE</state>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p>Declares that the Senate: </p> <ul> <li>upholds its commitment to the partnership between the United States and Argentina and reaffirms that Argentina is a major U.S. ally; </li> <li>encourages the Department of State to coordinate an interagency strategy to increase cooperation with the government of Argentina on areas of bilateral, regional, and global concern; </li> <li>commends President Mauricio Macri and his Administration for making far-reaching economic reforms that will benefit the people of Argentina, stimulate economic growth, and deepen Argentina's integration with the global economy; </li> <li>praises such government for resolving its dispute with international creditors; </li> <li>encourages such government to continue to investigate and prosecute those responsible for the 1994 bombing of the Argentine-Israeli Mutual Association (AMIA) in Buenos Aires and the death of AMIA special prosecutor Alberto Nisman; and</li> <li> expresses its desire that the growing partnership between the United States and Argentina will result in greater cooperation at multilateral institutions.</li> </ul> <ul></ul>]]></text>
+          <lastSummaryUpdateDate>2017-01-30T20:47:02Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-01-23</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-01-23T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <versionCode>01</versionCode>
+          <text><![CDATA[<p>Declares that the Senate: </p> <ul> <li>upholds its commitment to the partnership between the United States and Argentina and reaffirms that Argentina is a major U.S. ally; </li> <li>encourages the Department of State to coordinate an interagency strategy to increase cooperation with the government of Argentina on areas of bilateral, regional, and global concern; </li> <li>commends President Mauricio Macri and his Administration for making far-reaching economic reforms; </li> <li>encourages efforts to promote inclusive economic growth and reduce inequality; </li> <li>encourages such government to continue to investigate and prosecute those responsible for the 1994 bombing of the Argentine-Israeli Mutual Association (AMIA) in Buenos Aires and the death of AMIA special prosecutor Alberto Nisman; </li> <li> expresses its desire that the growing partnership between the United States and Argentina will result in greater cooperation at multilateral institutions; and </li> <li> supports the continuing implementation of the United States Trade and Investment Framework Agreement with Argentina and Argentina's efforts toward greater integration with the global economy.</li> </ul> <ul></ul>]]></text>
+          <lastSummaryUpdateDate>2017-06-17T14:13:18Z</lastSummaryUpdateDate>
+          <name>Reported to Senate with amendment(s)</name>
+          <actionDate>2017-06-05</actionDate>
+          <actionDesc>Reported to Senate with amendment(s)</actionDesc>
+          <updateDate>2017-06-05T14:46:34Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A resolution reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A resolution reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms.</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <originChamber>Senate</originChamber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Foreign Relations Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-06-05T22:17:10Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-05-26T01:30:06Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-23T20:53:52Z</date>
+            </item>
+          </activities>
+          <systemCode>ssfr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Alliances</name>
+          </item>
+          <item>
+            <name>Argentina</name>
+          </item>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Foreign loans and debt</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>United Nations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <billNumber>18</billNumber>
+    <title>A resolution reaffirming the United States-Argentina partnership and recognizing Argentina's economic reforms.</title>
+    <updateDate>2017-06-22T14:22:50Z</updateDate>
+    <billType>SRES</billType>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <calendar>Senate Calendar of Business</calendar>
+        <number>0114</number>
+      </item>
+    </calendarNumbers>
+    <latestAction>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.</text>
+      <actionDate>2017-06-05</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

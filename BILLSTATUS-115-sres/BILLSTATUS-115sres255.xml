@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>H001069</bioguideId>
+        <firstName>Heidi</firstName>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+        </identifiers>
+        <middleName />
+        <lastName>Heitkamp</lastName>
+        <state>ND</state>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+      </item>
+    </sponsors>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-09-14</actionDate>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>HRES</type>
+        <latestTitle>Congratulating the National Federation of Federal Employees on the celebration of its 100th anniversary and recognizing its members' vital contributions to the United States.</latestTitle>
+        <number>526</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <version>1.0.0</version>
+    <recordedVotes />
+    <createDate>2017-09-15T00:41:21Z</createDate>
+    <billType>SRES</billType>
+    <title>A resolution congratulating the National Federation of Federal Employees on the celebration of the 100th anniversary of its founding and recognizing the vital contributions of its members to the United States.</title>
+    <notes />
+    <congress>115</congress>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-14</actionDate>
+      <text>Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S5746)</text>
+    </latestAction>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors />
+    <originChamber>Senate</originChamber>
+    <updateDate>2017-09-22T12:43:16Z</updateDate>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>S5746</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5746</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Referred to the Committee on Homeland Security and Governmental Affairs. (text of measure as introduced: CR S5746)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-09-14</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-14T21:19:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>255</billNumber>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <introducedDate>2017-09-14</introducedDate>
+    <calendarNumbers />
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution congratulating the National Federation of Federal Employees on the celebration of the 100th anniversary of its founding and recognizing the vital contributions of its members to the United States.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A resolution congratulating the National Federation of Federal Employees on the celebration of the 100th anniversary of its founding and recognizing the vital contributions of its members to the United States.</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
