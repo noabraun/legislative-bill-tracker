@@ -107,7 +107,21 @@ def get_bill_type(bill_dict):
     return bill_type
 
 def get_committee(bill_dict):
-    committee_info = bill_dict.get('billStatus').get('bill').get('committees').get('billCommittees')
+    committee_info = bill_dict.get('billStatus').get('bill').get('committees').get('billCommittees').get('item').get('name')
+
+def get_bill_number(bill_dict):
+    bill_number = {'bill_number': bill_dict.get('billStatus').get('bill').get('billNumber')}
+
+    return bill_number
+
+def get_bill_summary(bill_dict):
+    bill_summary_list = bill_dict.get('billStatus').get('bill').get('summaries').get('billSummaries').get('item')
+    current_summary_dict = bill_summary_list[len(bill_summary_list)-1] #gets most recent summary item index
+    bill_summary = current_summary_dict.get('text')
+    summary_date = current_summary_dict.get('lastSummaryUpdateDate')
+
+    return {'bill_summary': bill_summary, 'summary_date': summary_date}
+
 
 
 # for item in os.listdir(directory):
@@ -133,11 +147,13 @@ json_obj = json.dumps(o)
 #converts xml to json 
 bill_dict = json.loads(json_obj)
 # converts json to dict
-print sponsor_info = get_sponsor_info(bill_dict)
+print get_sponsor_info(bill_dict)
 print get_bill_info(bill_dict)
 print get_bill_title(bill_dict)
 print get_date_introduced(bill_dict)
 print get_bill_type(bill_dict)
+print get_bill_number(bill_dict)
+print get_bill_summary(bill_dict)
 
 
 
