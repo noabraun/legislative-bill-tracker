@@ -101,6 +101,11 @@ def get_date_introduced(bill_dict):
 
     return date_introduced
 
+def get_bill_type(bill_dict):
+    bill_type = {'bill_type': bill_dict.get('billStatus').get('bill').get('billType')}
+
+    return bill_type
+
 def get_committee(bill_dict):
     committee_info = bill_dict.get('billStatus').get('bill').get('committees').get('billCommittees')
 
@@ -128,11 +133,11 @@ json_obj = json.dumps(o)
 #converts xml to json 
 bill_dict = json.loads(json_obj)
 # converts json to dict
-sponsor_info = get_sponsor_info(bill_dict)
+print sponsor_info = get_sponsor_info(bill_dict)
 print get_bill_info(bill_dict)
 print get_bill_title(bill_dict)
 print get_date_introduced(bill_dict)
-print sponsor_info
+print get_bill_type(bill_dict)
 
 
 
