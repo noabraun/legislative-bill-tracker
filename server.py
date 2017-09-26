@@ -3,49 +3,47 @@ import os
 import xmltodict, json
 location = os.getcwd() # get present working directory
 directory = 'BILLSTATUS-115-sres'
-
-# def co_sponsor_info(bill_dict):
-#     """adjusts if cosponsored bill NEED TO REVISE THIS TO LOOP OVER DATA"""
-
-#     sponsor_dict = bill_dict.get('billStatus').get('bill').get('cosponsors').get('item')
-#     sponsor_fname = sponsor_dict.get('firstName')
-#     sponsor_lname = sponsor_dict.get('lastName')
-#     sponsor_party = sponsor_dict.get('party')
-#     sponsor_state = sponsor_dict.get('state')
-#     sponsor_date = sponsor_dict.get('sponsorshipDate')
-#     sponsor_withdraw_date = sponsor_dict.get('sponsorshipWithdrawnDate')
-#     is_original_sponsor = sponsor_dict.get('isOriginalCosponsor')
-#     sponsor_info = {sponsor_fname + ' ' + sponsor_lname: {'original_sponsor': 
-#                                                          is_original_sponsor, 'state': 
-#                                                          sponsor_state, 'party': 
-#                                                          sponsor_party, 'sponsor_date': 
-#                                                          sponsor_date, 'withdraw_date': 
-#                                                          sponsor_withdraw_date }}
-#     return sponsor_info
+counter = 0 
 
 
 def get_sponsor_info(bill_dict):
     """gets sponsor info from bill dict"""
     """ EDIT TRY EXCEPT """
 
-    
-
     is_cosponsored = True if bill_dict.get('billStatus').get('bill').get('cosponsors') else False
     sponsor_info = {}
+    output = open('cosponsors.json', 'a')
 
     if is_cosponsored:
-        output = open('cosponsors.json', 'w')
+        
         cosponsor_info = {}
         sponsor_dict = bill_dict.get('billStatus').get('bill').get('cosponsors').get('item')
 
-        for item in sponsor_dict:
-            sponsor_fname = item.get('firstName')
-            sponsor_lname = item.get('lastName')
-            sponsor_party = item.get('party')
-            sponsor_state = item.get('state')
-            sponsor_date = item.get('sponsorshipDate')
-            sponsor_withdraw_date = item.get('sponsorshipWithdrawnDate')
-            is_original_sponsor = item.get('isOriginalCosponsor')
+        if type(sponsor_dict) == list:
+
+            for item in sponsor_dict:
+                sponsor_fname = item.get('firstName')
+                sponsor_lname = item.get('lastName')
+                sponsor_party = item.get('party')
+                sponsor_state = item.get('state')
+                sponsor_date = item.get('sponsorshipDate')
+                sponsor_withdraw_date = item.get('sponsorshipWithdrawnDate')
+                is_original_sponsor = item.get('isOriginalCosponsor')
+
+                cosponsor_info = {sponsor_fname + ' ' + sponsor_lname: {'original_sponsor': 
+                                                                     is_original_sponsor, 'state': 
+                                                                     sponsor_state, 'party': 
+                                                                     sponsor_party, 'sponsor_date': 
+                                                                     sponsor_date, 'withdraw_date': 
+                                                                     sponsor_withdraw_date }}
+        else:
+            sponsor_fname = sponsor_dict.get('firstName')
+            sponsor_lname = sponsor_dict.get('lastName')
+            sponsor_party = sponsor_dict.get('party')
+            sponsor_state = sponsor_dict.get('state')
+            sponsor_date = sponsor_dict.get('sponsorshipDate')
+            sponsor_withdraw_date = sponsor_dict.get('sponsorshipWithdrawnDate')
+            is_original_sponsor = sponsor_dict.get('isOriginalCosponsor')
 
             cosponsor_info = {sponsor_fname + ' ' + sponsor_lname: {'original_sponsor': 
                                                                  is_original_sponsor, 'state': 
@@ -54,11 +52,9 @@ def get_sponsor_info(bill_dict):
                                                                  sponsor_date, 'withdraw_date': 
                                                                  sponsor_withdraw_date }}
 
-            json_obj = json.dumps(cosponsor_info)
+        json_obj = json.dumps(cosponsor_info)
 
-            output.write(json_obj+'\n')
-
-        output.close()
+        output.write(json_obj+'\n')
 
     else: 
         sponsor_dict = bill_dict.get('billStatus').get('bill').get('sponsors').get('item')
@@ -69,8 +65,9 @@ def get_sponsor_info(bill_dict):
         sponsor_info = {sponsor_fname + ' ' + sponsor_lname: {'state': 
                                                              sponsor_state, 'party': 
                                                              sponsor_party}}
-
         return sponsor_info
+
+    output.close()
 
 
 def get_bill_info(bill_dict):
@@ -84,16 +81,35 @@ def get_bill_info(bill_dict):
 
     policy_area = bill_info.get('policyArea').get('name')
 
-    return 
+    return {'bill_subjects': bill_subjects, 'policy_area': policy_area}
 
 
 def get_bill_title(bill_dict):
-    bill_info = bill_dict.get('billStatus').get('bill').get('titles').get('item')
+
+    bill_title = bill_dict.get('billStatus').get('bill').get('titles').get('item')
+
+    if type(bill_title) == list: 
+        title = bill_title[0].get('title')
+    else: 
+        title = bill_dict.get('billStatus').get('bill').get('titles').get('item').get('title')
+
+    bill_title = {'bill_title': title}
+    return bill_title
+
+def get_date_introduced(bill_dict):
+    date_introduced = {'date_introduced': bill_dict.get('billStatus').get('bill').get('introducedDate')}
+
+    return date_introduced
+
+def get_committee(bill_dict):
+    committee_info = bill_dict.get('billStatus').get('bill').get('committees').get('billCommittees')
 
 
 # for item in os.listdir(directory):
+#     print item
 #     #opens file within the directory
 #     with open(directory + '/' + item,'r') as f:
+#         counter += 1
 #         o = xmltodict.parse(f.read())
 #         #reads the xml file
 #     json_obj = json.dumps(o) 
@@ -102,6 +118,7 @@ def get_bill_title(bill_dict):
 #     # converts json to dict
 #     sponsor_info = get_sponsor_info(bill_dict)
 #     print sponsor_info
+#     print counter
     
 
 with open(directory + '/' + 'BILLSTATUS-115sres47.xml','r') as f:
@@ -112,6 +129,9 @@ json_obj = json.dumps(o)
 bill_dict = json.loads(json_obj)
 # converts json to dict
 sponsor_info = get_sponsor_info(bill_dict)
+print get_bill_info(bill_dict)
+print get_bill_title(bill_dict)
+print get_date_introduced(bill_dict)
 print sponsor_info
 
 
