@@ -12,7 +12,7 @@ def get_sponsor_info(bill_dict):
 
     is_cosponsored = True if bill_dict.get('billStatus').get('bill').get('cosponsors') else False
     sponsor_info = {}
-    output = open('cosponsors.json', 'a')
+    output = open('cosponsors.json', 'w')
 
     if is_cosponsored:
         
@@ -84,7 +84,7 @@ def get_bill_info(bill_dict):
 
         policy_area = bill_info.get('policyArea').get('name')
 
-        return {'bill_subjects': bill_subjects, 'policy_area': policy_area}
+        return {'bill_subjects': bill_subjects, 'policy_area': [policy_area]}
 
 
 def get_bill_title(bill_dict):
@@ -179,31 +179,31 @@ def get_action_taken(bill_dict):
 
     return {action_date: action_text, 'action_type': actions_type_list}
 
-# for item in os.listdir(directory):
-#     print item
-#     if item[0] == '.':
-#         pass
-#     else: 
-#         #opens file within the directory
-#         with open(directory + '/' + item,'r') as f:
-#             counter += 1
-#             o = xmltodict.parse(f.read())
-#             #reads the xml file
-#         json_obj = json.dumps(o) 
-#         #converts xml to json 
-#         bill_dict = json.loads(json_obj)
-#         print get_action_taken(bill_dict)
-#         # converts json to dict
-#         print counter
+for item in os.listdir(directory):
+    print item
+    if item[0] == '.':
+        pass
+    else: 
+        #opens file within the directory
+        with open(directory + '/' + item,'r') as f:
+            counter += 1
+            o = xmltodict.parse(f.read())
+            #reads the xml file
+        json_obj = json.dumps(o) 
+        #converts xml to json 
+        bill_dict = json.loads(json_obj)
+        
+        # converts json to dict
+        print counter
        
 
-with open(directory + '/' + 'BILLSTATUS-115sres52.xml','r') as f:
-     o = xmltodict.parse(f.read())
-        #reads the xml file
-json_obj = json.dumps(o) 
-#converts xml to json 
-bill_dict = json.loads(json_obj)
-# converts json to dict
+# with open(directory + '/' + 'BILLSTATUS-115sres52.xml','r') as f:
+#      o = xmltodict.parse(f.read())
+#         #reads the xml file
+# json_obj = json.dumps(o) 
+# #converts xml to json 
+# bill_dict = json.loads(json_obj)
+# # converts json to dict
 
 print get_sponsor_info(bill_dict)
 print get_bill_info(bill_dict)

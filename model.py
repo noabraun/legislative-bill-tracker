@@ -38,16 +38,16 @@ class Senator(db.Model):
     __tablename__ = "senators"
 
     senator_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
-    fname = db.Column(db.String(64))
-    lname = db.Column(db.String(64))
+    name = db.Column(db.String(64))
     state = db.Column(db.String(16))
     party = db.Column(db.String(32))
+    original_sponsor = db.Column(db.Boolean, nullable=True)
 
     def __repr__(self):
         """Provide helpful representation when printed."""
 
-        return "<Senator senator_id=%s fname=%s lname=%s state=%s party=%s>" % (self.senator_id, self.fname, 
-                                                                               self.lname, self.state, self.party)
+        return "<Senator senator_id=%s name=%s state=%s party=%s original_sponsor=%s>" % (self.senator_id, self.name, 
+                                                                     self.state, self.party, self.original_sponsor)
 
 
 class Tag(db.Model):
