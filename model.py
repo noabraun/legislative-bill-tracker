@@ -17,7 +17,7 @@ class Bill(db.Model):
     __tablename__ = "bills"
 
     bill_id = db.Column(db.String(32), primary_key=True)
-    title = db.Column(db.String(128), nullable=False)
+    title = db.Column(db.Text, nullable=False)
     date = db.Column(db.DateTime)
     description = db.Column(db.Text, nullable=True)
     bill_type = db.Column(db.String(32), nullable=False)
@@ -56,7 +56,7 @@ class Tag(db.Model):
     __tablename__ = "tags"
 
     tag_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
-    tag_text = db.Column(db.String(512), nullable=True)
+    tag_text = db.Column(db.Text, nullable=True)
 
     def __repr__(self):
         """Provide helpful representation when printed."""
@@ -70,7 +70,7 @@ class Committee(db.Model):
     __tablename__ = "committees"
 
     committee_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
-    name = db.Column(db.String(512), nullable=True)
+    name = db.Column(db.Text, nullable=True)
 
     def __repr__(self):
         """Provide helpful representation when printed."""
@@ -84,9 +84,9 @@ class Action(db.Model):
     __tablename__ = "actions"
 
     action_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
-    bill_id = db.Column(db.Integer, db.ForeignKey('bill.id'))
+    bill_id = db.Column(db.String(16), db.ForeignKey('bills.bill_id'))
     action_text = db.Column(db.Text, nullable=True)
-    action_type = db.Column(db.String(128), nullable=True)
+
     date = db.Column(db.DateTime)
 
     bill = db.relationship('Bill', backref='actions')
@@ -94,9 +94,10 @@ class Action(db.Model):
     def __repr__(self):
         """Provide helpful representation when printed."""
 
-        return "<Action action_id=%s bill_id=%s action_text=%s action_type=%s date=%s>" % (self.action_id, 
-                                                                                          self.bill_id, self.action_text, 
-                                                                                          self.action_type, self.date)
+        return "<Action action_id=%s bill_id=%s action_text=%s date=%s>" % (self.action_id, 
+                                                                           self.bill_id, 
+                                                                           self.action_text, 
+                                                                           self.date)
 
 class Sponsorship(db.Model):
     """Middle table between Bills and Senators"""
@@ -104,7 +105,7 @@ class Sponsorship(db.Model):
     __tablename__ = "sponsorships"
 
     sponsorship_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
-    bill_id = db.Column(db.Integer, db.ForeignKey('bills.bill_id'), nullable=False)
+    bill_id = db.Column(db.String(16), db.ForeignKey('bills.bill_id'), nullable=False)
     senator_id = db.Column(db.Integer, db.ForeignKey('senators.senator_id'), nullable=False)
     withdrawn = db.Column(db.Boolean)
     withdrawn_date = db.Column(db.DateTime)
@@ -125,14 +126,14 @@ class BillTag(db.Model):
 
     __tablename__ = "bill_tags"
 
-     bill_tag_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
-     bill_id = db.Column(db.Integer, db.ForeignKey('bills.bill_id'), nullable=False)
-     tag_id = db.Column(db.Integer, db.ForeignKey('tags.tag_id'), nullable=False)
+    bill_tag_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
+    bill_id = db.Column(db.String(16), db.ForeignKey('bills.bill_id'), nullable=False)
+    tag_id = db.Column(db.Integer, db.ForeignKey('tags.tag_id'), nullable=False)
 
     def __repr__(self):
         """Provide helpful representation when printed."""
 
-        return "<BillTag bill_tag_id=%s bill_id=%s tag_id=%s>" % (self.bill_tag_id self.bill_id, self.tag_id)
+        return "<BillTag bill_tag_id=%s bill_id=%s tag_id=%s>" % (self.bill_tag_id, self.bill_id, self.tag_id)
 
 
 class BillCommittee(db.Model):
@@ -141,13 +142,13 @@ class BillCommittee(db.Model):
     __tablename__ = "bill_committees"
 
     bill_committee_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
-    bill_id = db.Column(db.Integer, db.ForeignKey('bills.bill_id'), nullable=False)
+    bill_id = db.Column(db.String(16), db.ForeignKey('bills.bill_id'), nullable=False)
     committee_id = db.Column(db.Integer, db.ForeignKey('committees.committee_id'), nullable=False)
 
     def __repr__(self):
         """Provide helpful representation when printed."""
 
-        return "<BillCommittee bill_committee_id=%s bill_id=%s committee_id=%s>" % (self.bill_committee_id 
+        return "<BillCommittee bill_committee_id=%s bill_id=%s committee_id=%s>" % (self.bill_committee_id, 
                                                                                    self.bill_id, self.committee_id)
 
 

@@ -77,7 +77,7 @@ def get_bill_info(bill_dict):
     bill_subjects = []
 
     if bill_info.get('legislativeSubjects') == None:
-        return {'bill_subjects': None}
+        return {'bill_subjects': None, 'policy_area': None}
     else:
         for item in bill_info.get('legislativeSubjects').get('item'):
             bill_subjects.append(item.values())
@@ -146,14 +146,25 @@ def get_bill_number(bill_dict):
 
 def get_bill_summary(bill_dict):
     """gets most recent summary of the bill and the date associated with the summary"""
-    bill_summary_list = bill_dict.get('billStatus').get('bill').get('summaries').get('billSummaries').get('item')
-    current_summary_dict = bill_summary_list[len(bill_summary_list)-1] 
-    #gets most recent summary item index
+    bill_summary = bill_dict.get('billStatus').get('bill').get('summaries').get('billSummaries')
 
-    bill_summary = current_summary_dict.get('text')
-    summary_date = current_summary_dict.get('lastSummaryUpdateDate')
+    if bill_summary == None: 
+        return {'bill_summary': None, 'summary_date': None}
+    else: 
+        bill_summary = bill_summary.get('item')
+    
+        if type(bill_summary) == dict: 
+            bill_text = bill_summary.get('text')
+            summary_date = bill_summary.get('lastSummaryUpdateDate')
 
-    return {'bill_summary': bill_summary, 'summary_date': summary_date}
+        else: 
+            current_summary_dict = bill_summary[-1] 
+            #gets most recent summary item index
+
+            bill_text = current_summary_dict.get('text')
+            summary_date = current_summary_dict.get('lastSummaryUpdateDate')
+
+        return {'bill_summary': bill_text, 'summary_date': summary_date}
 
 def get_action_taken(bill_dict):
     """gets all the actions taken on a particular bill as well as action types"""
@@ -170,14 +181,14 @@ def get_action_taken(bill_dict):
 
             action_info.append((action_date, action_text))
 
-        return {'action': action_info, 'action_type': actions_type_list}
+        return {'action': action_info}
 
     else:
         action_date = actions_taken.get('actionDate')
         action_text = actions_taken.get('text')
         
 
-    return {action_date: action_text, 'action_type': actions_type_list}
+    return {'action': [(action_date, action_text)]}
 
 for item in os.listdir(directory):
     print item

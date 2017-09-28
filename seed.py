@@ -1,44 +1,45 @@
 """Utility file to seed bill database from the parsed data (parse.py)"""
 import datetime
+import xml.etree.ElementTree as etree 
+import os
+import xmltodict, json
 from sqlalchemy import func
 from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
 from server import app
 import parse 
 directory = 'BILLSTATUS-115-sres'
 
-def load_file(directory): 
-    for item in os.listdir(directory):
-        if item[0] == '.':
-            pass
-        else: 
+def load_file(filename): 
+    counter = 0 
+    # for item in os.listdir(directory):
+    #     if item[0] == '.':
+    #         pass
+    #     else: 
             #opens file within the directory
-            with open(directory + '/' + item,'r') as f:
-                counter += 1
-                o = xmltodict.parse(f.read())
-                #reads the xml file
-            json_obj = json.dumps(o) 
-            #converts xml to json 
-            bill_dict = json.loads(json_obj)
-            # converts json to dict
-            
-            return bill_dict
-        
+    with open(directory + '/' + filename,'r') as f:
+        counter += 1
+        o = xmltodict.parse(f.read())
+        #reads the xml file
+    json_obj = json.dumps(o) 
+    #converts xml to json 
+    bill_dict = json.loads(json_obj)
+    # converts json to dict
+    
+    return bill_dict
 
-def load_bills():
+
+def load_bills(bill_dict):
     """Load bills from data files into database using parse.py"""
 
-    bill_dict = load_file(directory)
-    #loads bill dict from current file
-
-    bill_number = parse.get_bill_number(bill_dict).get('bill_number')
+    bill_number = str(parse.get_bill_number(bill_dict).get('bill_number'))
     bill_type = parse.get_bill_type(bill_dict).get('bill_type')
-    bill_title = parse.get_bill_title(bill_dict).get('bill_title')
+    title = parse.get_bill_title(bill_dict).get('bill_title')
     bill_date = parse.get_date_introduced(bill_dict).get('date_introduced')
     description = parse.get_bill_summary(bill_dict).get('bill_summary')
 
     date = datetime.datetime.strptime(bill_date, "%Y-%m-%d")
 
-    bill = Bill(bill_id=bill_type + '-' + bill_number, bill_title=bill_title, 
+    bill = Bill(bill_id=bill_type + '-' + bill_number, title=title, 
            date=date, description=description, bill_type=bill_type)
 
     # adds bill to session so we can store it 
@@ -48,18 +49,18 @@ def load_bills():
     db.session.commit()
 
 
-def load_senators():
+def load_senators(bill_dict):
     """Load Senators from data files into database using parse.py"""
 
     print "Senators"
 
-    bill_dict = load_file(directory)
-    #loads bill dict from current file
 
     if parse.get_sponsor_info(bill_dict) == None: 
+        # ACCOUNT FOR THE JSON STUFF COMING OUT OF THE FILE 
 
         with open('cosponsors.json','r') as f:
             for line in f: 
+                line = json.loads(line)
                 name = line.keys()[0]
                 party = line.get(name).get('party')
                 original_sponsor = line.get(name).get('original_sponsor')
@@ -83,36 +84,75 @@ def load_senators():
 
 
 
-def load_tags():
+def load_tags(bill_dict):
     """Load tags from data files into database using parse.py"""
 
     print "Tags"
 
-    bill_dict = load_file(directory)
-    #loads bill dict from current file
-
     bill_tags = parse.get_bill_info(bill_dict)
 
     for key in bill_tags:
-        for item in bill_tags.get(key):
-            tag_text = item[0]
-            tag = Tag(tag_text=tag_text)
-
+        if bill_tags.get(key) == None: 
+            tag = Tag(tag_text=None)
             db.session.add(tag)
+        else: 
+            for item in bill_tags.get(key):
+                tag_text = item[0]
+                tag = Tag(tag_text=tag_text)
+
+                db.session.add(tag)
 
     db.session.commit()
 
 
-def load_committees():
+def load_committees(bill_dict):
     """Load committees from data files into database using parse.py"""
+
+    print "Committees"
+
+    for item in parse.get_committee(bill_dict).keys():
+        committee_name = parse.get_committee(bill_dict).get(item)
+        if committee_name == None: 
+            pass
+        else: 
+            committee = Committee(name=committee_name)
+            db.session.add(committee)
+
+    db.session.commit()
+
+def load_actions(bill_dict):
+    """Load actions from data files into database using parse.py"""
+
+    print "Actions"
+
+    bill_number = parse.get_bill_number(bill_dict).get('bill_number')
+    bill_type = parse.get_bill_type(bill_dict).get('bill_type')
+    bill_id = bill_type + '-' + bill_number
+    
+    for item in parse.get_action_taken(bill_dict).get('action'):
+
+        action_date = item[0]
+        date = datetime.datetime.strptime(action_date, "%Y-%m-%d")
+        action_text = item[1]
+
+        action = Action(bill_id=bill_id, action_text=action_text, date=date)
+        db.session.add(action)
+
+    db.session.commit()
+
 
 
 if __name__ == "__main__":
     connect_to_db(app)
     db.create_all()
 
-    load_file(directory)
-    load_bills()
-    load_senators()
-    load_tags()
-    load_committees()
+    for item in os.listdir(directory):
+        if item[0] == '.':
+            pass
+        else: 
+            bill_dict = load_file(item)
+            load_bills(bill_dict)
+            load_senators(bill_dict)
+            load_tags(bill_dict)
+            load_committees(bill_dict)
+            load_actions(bill_dict)
