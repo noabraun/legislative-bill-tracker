@@ -36,6 +36,10 @@ def get_sponsor_info(bill_dict):
                                                                      sponsor_party, 'sponsor_date': 
                                                                      sponsor_date, 'withdraw_date': 
                                                                      sponsor_withdraw_date }}
+
+                json_obj = json.dumps(cosponsor_info)
+
+                output.write(json_obj+'\n')
         else:
             sponsor_fname = sponsor_dict.get('firstName')
             sponsor_lname = sponsor_dict.get('lastName')
@@ -52,9 +56,9 @@ def get_sponsor_info(bill_dict):
                                                                  sponsor_date, 'withdraw_date': 
                                                                  sponsor_withdraw_date }}
 
-        json_obj = json.dumps(cosponsor_info)
+            json_obj = json.dumps(cosponsor_info)
 
-        output.write(json_obj+'\n')
+            output.write(json_obj+'\n')
 
     else: 
         sponsor_dict = bill_dict.get('billStatus').get('bill').get('sponsors').get('item')

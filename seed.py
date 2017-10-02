@@ -54,9 +54,9 @@ def load_senators(bill_dict):
 
     print "Senators"
 
+    db_not_empty = Senator.query.filter_by(senator_id=1).first()
 
     if parse.get_sponsor_info(bill_dict) == None: 
-        # ACCOUNT FOR THE JSON STUFF COMING OUT OF THE FILE 
 
         with open('cosponsors.json','r') as f:
             for line in f: 
@@ -65,19 +65,33 @@ def load_senators(bill_dict):
                 party = line.get(name).get('party')
                 original_sponsor = line.get(name).get('original_sponsor')
                 state = line.get(name).get('state')
+                name = name.title()
 
-                senator = Senator(name=name, party=party, state=state, original_sponsor=original_sponsor)
-
-                db.session.add(senator)
+                senator = Senator(name=name, party=party, state=state, 
+                          original_sponsor=original_sponsor)
+                if not db_not_empty: #if db is empty
+                    db.session.add(senator)
+                elif Senator.query.filter_by(name=name).first():
+                    pass
+                else: 
+                    db.session.add(senator)
     else: 
         name = parse.get_sponsor_info(bill_dict).keys()[0]
         party = parse.get_sponsor_info(bill_dict).get(name).get('party')
         original_sponsor = True
         state = parse.get_sponsor_info(bill_dict).get(name).get('state')
+        name = name.title()
+        senator = Senator(name=name, party=party, state=state, 
+                  original_sponsor=original_sponsor)
 
-        senator = Senator(name=name, party=party, state=state, original_sponsor=original_sponsor)
+        if not db_not_empty: #if db is empty
+            db.session.add(senator)
+        elif Senator.query.filter_by(name=name).first():
+            pass
+        else: 
+            db.session.add(senator)
 
-        db.session.add(senator)
+        # db.session.add(senator)
 
     # commits bill info to DB
     db.session.commit()
@@ -128,7 +142,7 @@ def load_actions(bill_dict):
     bill_number = parse.get_bill_number(bill_dict).get('bill_number')
     bill_type = parse.get_bill_type(bill_dict).get('bill_type')
     bill_id = bill_type + '-' + bill_number
-    
+
     for item in parse.get_action_taken(bill_dict).get('action'):
 
         action_date = item[0]
@@ -140,7 +154,70 @@ def load_actions(bill_dict):
 
     db.session.commit()
 
+def load_sponsorships(bill_dict):
+    """Load sponsorships from data files into database using parse.py"""
 
+    print "Sponsorships"
+
+    bill_number = parse.get_bill_number(bill_dict).get('bill_number')
+    bill_type = parse.get_bill_type(bill_dict).get('bill_type')
+    bill_id = bill_type + '-' + bill_number
+
+    if not parse.get_sponsor_info(bill_dict): 
+
+        with open('cosponsors.json','r') as f:
+            for line in f: 
+
+                # if bill_id == 'SRES-47':
+                #     import pdb; pdb.set_trace()
+
+                line = json.loads(line)
+                name = line.keys()[0]
+                #fix capitaliztion and redundancy in senator table
+                date = line.get(name).get('withdraw_date')
+                name = name.title()
+                senator = Senator.query.filter_by(name=name).first()
+
+                if not date: 
+                    withdrawn = False
+                    withdrawn_date = None
+                else:
+                    withdrawn_date = datetime.datetime.strptime(date, "%Y-%m-%d")
+                    withdrawn = True
+
+                sponsorship = Sponsorship(bill_id=bill_id, senator=senator, 
+                              withdrawn=withdrawn, withdrawn_date=withdrawn_date)
+
+                db.session.add(sponsorship)
+
+    else: 
+        withdrawn = False
+        withdrawn_date = None
+
+        name = parse.get_sponsor_info(bill_dict).keys()[0]
+
+        senator = Senator.query.filter_by(name=name).first()
+
+        sponsorship = Sponsorship(bill_id=bill_id, senator=senator, 
+                      withdrawn=withdrawn, withdrawn_date=withdrawn_date)
+
+        db.session.add(sponsorship)
+
+    db.session.commit()
+
+def load_bill_tag(bill_dict):
+    """Association table between Bills and Tags from data files 
+       into database using parse.py"""
+
+    print "Bill Tags"
+
+    bill_number = parse.get_bill_number(bill_dict).get('bill_number')
+    bill_type = parse.get_bill_type(bill_dict).get('bill_type')
+    bill_id = bill_type + '-' + bill_number
+
+    bill_tag = BillTag(bill_id, self.tag_id)
+
+    
 
 if __name__ == "__main__":
     connect_to_db(app)
@@ -156,3 +233,4 @@ if __name__ == "__main__":
             load_tags(bill_dict)
             load_committees(bill_dict)
             load_actions(bill_dict)
+            load_sponsorships(bill_dict)

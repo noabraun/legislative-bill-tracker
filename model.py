@@ -111,6 +111,7 @@ class Sponsorship(db.Model):
     withdrawn_date = db.Column(db.DateTime)
 
     bill = db.relationship("Bill", backref="sponsorships")
+    senator = db.relationship("Senator", backref="sponsorships")
 
     def __repr__(self):
         """Provide helpful representation when printed."""
