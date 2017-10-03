@@ -8,6 +8,7 @@ from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Spon
 from server import app
 import parse 
 directory = 'BILLSTATUS-115-sres'
+# directory = 'BILLSTATUS-115-s'
 
 def load_file(filename): 
     counter = 0 
@@ -116,15 +117,18 @@ def load_tags(bill_dict):
 
         else: 
             for item in bill_tags.get(key):
-                tag_text = item[0]
-                tag = Tag(tag_text=tag_text)
-                db.session.add(tag)
-                db.session.commit()
+                if item == None: 
+                    pass
+                else: 
+                    tag_text = item[0]
+                    tag = Tag(tag_text=tag_text)
+                    db.session.add(tag)
+                    db.session.commit()
 
-                tags = Tag.query.filter_by(tag_text=tag_text).first()
-                bill_tag_item = BillTag(bill_id=bill_id, tag_id=tags.tag_id)
-                db.session.add(bill_tag_item)
-                db.session.commit() 
+                    tags = Tag.query.filter_by(tag_text=tag_text).first()
+                    bill_tag_item = BillTag(bill_id=bill_id, tag_id=tags.tag_id)
+                    db.session.add(bill_tag_item)
+                    db.session.commit() 
 
 
 def load_committees(bill_dict):
@@ -204,6 +208,7 @@ def load_sponsorships(bill_dict):
                               withdrawn=withdrawn, withdrawn_date=withdrawn_date)
 
                 db.session.add(sponsorship)
+                db.session.commit()
 
     else: 
         withdrawn = False
@@ -217,8 +222,9 @@ def load_sponsorships(bill_dict):
                       withdrawn=withdrawn, withdrawn_date=withdrawn_date)
 
         db.session.add(sponsorship)
+        db.session.commit()
 
-    db.session.commit()
+    # db.session.commit()
     
 
     

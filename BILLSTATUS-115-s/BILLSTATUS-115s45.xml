@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-01-05</introducedDate>
+    <originChamber>Senate</originChamber>
+    <notes />
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-05</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <committee />
+        <type>IntroReferral</type>
+        <links />
+        <actionDate>2017-01-05</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <calendarNumbers />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <createDate>2017-01-06T04:57:27Z</createDate>
+    <latestAction>
+      <links />
+      <actionDate>2017-01-05</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <billNumber>45</billNumber>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-02-02T16:40:02Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-01-05</actionDate>
+          <text><![CDATA[<p><strong>Stop Illegal Reentry Act or Kate's Law</strong></p> <p>This bill amends the Immigration and Nationality Act to increase from two years to five years the maximum prison term for an alien who re-enters after being excluded, denied admission, deported, or removed. </p> <p>The bill establishes: </p> <ul> <li>a 10-year maximum prison term for an alien who re-enters after being denied admission, excluded, deported, or removed on three or more prior occasions; and </li> <li>a 5-year mandatory minimum prison term for an alien who re-enters after being removed following a conviction for an aggravated felony or following two or more prior convictions for illegal re-entry.</li> </ul>]]></text>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-01-05T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <congress>115</congress>
+    <title>Kate's Law</title>
+    <sponsors>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <state>TX</state>
+        <firstName>Ted</firstName>
+        <byRequestType />
+        <middleName />
+        <lastName>Cruz</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>David</firstName>
+        <lastName>Perdue</lastName>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>Alfred</middleName>
+        <bioguideId>P000612</bioguideId>
+        <identifiers>
+          <lisID>2286</lisID>
+          <gpoId />
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>CHARLES</firstName>
+        <lastName>GRASSLEY</lastName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <state>IA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>ERNEST</middleName>
+        <bioguideId>G000386</bioguideId>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+          <gpoId>8316</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Ron</firstName>
+        <lastName>Johnson</lastName>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>J000293</bioguideId>
+        <identifiers>
+          <bioguideId>J000293</bioguideId>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Marco</firstName>
+        <lastName>Rubio</lastName>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <state>FL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>JIM</firstName>
+        <lastName>INHOFE</lastName>
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <state>OK</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>I000024</bioguideId>
+        <identifiers>
+          <lisID>583</lisID>
+          <gpoId>8322</gpoId>
+          <bioguideId>I000024</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Ben</firstName>
+        <lastName>Sasse</lastName>
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <state>NE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>S001197</bioguideId>
+        <identifiers>
+          <lisID>2289</lisID>
+          <gpoId />
+          <bioguideId>S001197</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>ROGER</firstName>
+        <lastName>WICKER</lastName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <state>MS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>F.</middleName>
+        <bioguideId>W000437</bioguideId>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>John</firstName>
+        <lastName>Boozman</lastName>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>B001236</bioguideId>
+        <identifiers>
+          <gpoId>8247</gpoId>
+          <lisID>1687</lisID>
+          <bioguideId>B001236</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <lastName>Cotton</lastName>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <state>AR</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <party>R</party>
+        <firstName>Pat</firstName>
+        <lastName>Toomey</lastName>
+        <fullName>Sen. Toomey, Pat [R-PA]</fullName>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>T000461</bioguideId>
+        <identifiers>
+          <bioguideId>T000461</bioguideId>
+          <gpoId />
+          <lisID>1594</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <party>R</party>
+        <firstName>PAT</firstName>
+        <lastName>ROBERTS</lastName>
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <state>KS</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>R000307</bioguideId>
+        <identifiers>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+          <gpoId>8275</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <party>R</party>
+        <firstName>Luther</firstName>
+        <lastName>Strange</lastName>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>S001202</bioguideId>
+        <identifiers>
+          <bioguideId>S001202</bioguideId>
+          <lisID>2357</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <lastName>Rounds</lastName>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <state>SD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>R000605</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <party>R</party>
+        <firstName>Dean</firstName>
+        <lastName>Heller</lastName>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <state>NV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <bioguideId>H001041</bioguideId>
+        <identifiers>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+          <bioguideId>H001041</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Kate's Law</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Stop Illegal Reentry Act</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Kate's Law</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Stop Illegal Reentry Act</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to amend the Immigration and Nationality Act to increase penalties for individuals who illegally reenter the United States after being removed and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Kate's Law</title>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <billType>S</billType>
+    <amendments />
+    <version>1.0.0</version>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-05T19:38:32Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-02-06</actionDate>
+          <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        </latestAction>
+        <latestTitle>Kate's Law</latestTitle>
+        <number>361</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <updateDate>2017-07-11T04:57:16Z</updateDate>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

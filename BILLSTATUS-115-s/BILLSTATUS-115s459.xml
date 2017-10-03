@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-20T06:02:35Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>2</reportedToSenate>
+        <introducedInSenate>1</introducedInSenate>
+        <orderedReported>1</orderedReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 156.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/119</url>
+            <name>report No. 115-119</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-119.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Johnson without amendment. With written report No. 115-119.</text>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-26</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/119</url>
+            <name>report No. 115-119</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-27</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>1863</number>
+        <type>HR</type>
+        <latestTitle>To designate the area between the intersections of Wisconsin Avenue, Northwest and Davis Street, Northwest and Wisconsin Avenue, Northwest and Edmunds Street, Northwest in Washington, District of Columbia, as "Boris Nemtsov Plaza", and for other purposes.</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Oversight and Government Reform.</text>
+          <actionDate>2017-04-03</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <billNumber>459</billNumber>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to designate the area between the intersections of Wisconsin Avenue, Northwest and Davis Street, Northwest and Wisconsin Avenue, Northwest and Edmunds Street, Northwest in Washington, District of Columbia, as "Boris Nemtsov Plaza", and for other purposes.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A bill to designate the area between the intersections of Wisconsin Avenue, Northwest and Davis Street, Northwest and Wisconsin Avenue, Northwest and Edmunds Street, Northwest in Washington, District of Columbia, as "Boris Nemtsov Plaza", and for other purposes.</title>
+      </item>
+    </titles>
+    <title>A bill to designate the area between the intersections of Wisconsin Avenue, Northwest and Davis Street, Northwest and Wisconsin Avenue, Northwest and Edmunds Street, Northwest in Washington, District of Columbia, as "Boris Nemtsov Plaza", and for other purposes.</title>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-26T20:38:58Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-05-17T14:00:44Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-02-27T23:44:42Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <recordedVotes />
+    <createDate>2017-02-28T05:17:32Z</createDate>
+    <billType>S</billType>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-06T20:10:26Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill: (1) designates the area between the intersections of Wisconsin Avenue and Davis Street and Wisconsin Avenue and Edmunds Street in northwest Washington, DC as &quot;Boris Nemtsov Plaza,&quot; and (2) redesignates the address of 2650 Wisconsin Avenue in northwest DC as &quot;1 Boris Nemtsov Plaza.&quot;</p>]]></text>
+          <updateDate>2017-02-27T05:00:00Z</updateDate>
+          <actionDate>2017-02-27</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-07-06T20:10:45Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) This bill: (1) designates the area between the intersections of Wisconsin Avenue and Davis Street and Wisconsin Avenue and Edmunds Street in northwest Washington, DC as &quot;Boris Nemtsov Plaza,&quot; and (2) redesignates the address of 2650 Wisconsin Avenue in northwest DC as &quot;1 Boris Nemtsov Plaza.&quot;</p>]]></text>
+          <updateDate>2017-06-26T15:31:46Z</updateDate>
+          <actionDate>2017-06-26</actionDate>
+          <versionCode>80</versionCode>
+          <name>Reported to Senate without amendment</name>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-119</citation>
+      </committeeReport>
+    </committeeReports>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>Marco</firstName>
+        <state>FL</state>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <lisID>2084</lisID>
+          <bioguideId>R000595</bioguideId>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>District of Columbia</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Protest and dissent</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-06-26</actionDate>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 156.</text>
+    </latestAction>
+    <notes />
+    <calendarNumbers>
+      <item>
+        <number>0156</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <introducedDate>2017-02-27</introducedDate>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-06-13T18:59:00Z</pubDate>
+        <title>S. 459, a bill to designate the area between the intersections of Wisconsin Avenue, Northwest and Davis Street, Northwest and Wisconsin Avenue, Northwest and Edmunds Street, Northwest in Washington, District of Columbia, as “Boris Nemtsov Plaza”, and for</title>
+        <url>https://www.cbo.gov/publication/52806</url>
+      </item>
+    </cboCostEstimates>
+    <originChamber>Senate</originChamber>
+    <cosponsors>
+      <item>
+        <state>AZ</state>
+        <bioguideId>M000303</bioguideId>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>MCCAIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>SIDNEY</middleName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>WI</state>
+        <bioguideId>J000293</bioguideId>
+        <firstName>Ron</firstName>
+        <identifiers>
+          <gpoId>8355</gpoId>
+          <lisID>2086</lisID>
+          <bioguideId>J000293</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Johnson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <fullName>Sen. Johnson, Ron [R-WI]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>DE</state>
+        <bioguideId>C001088</bioguideId>
+        <firstName>Christopher</firstName>
+        <identifiers>
+          <lisID>1984</lisID>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Coons</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IL</state>
+        <bioguideId>D000563</bioguideId>
+        <firstName>RICHARD</firstName>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+        </identifiers>
+        <party>D</party>
+        <lastName>DURBIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>MS</state>
+        <bioguideId>W000437</bioguideId>
+        <firstName>ROGER</firstName>
+        <identifiers>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <party>R</party>
+        <lastName>WICKER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>F.</middleName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NH</state>
+        <bioguideId>S001181</bioguideId>
+        <firstName>Jeanne</firstName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>Shaheen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-05-10</sponsorshipDate>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NJ</state>
+        <bioguideId>M000639</bioguideId>
+        <firstName>ROBERT</firstName>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <party>D</party>
+        <lastName>MENENDEZ</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-06-05</sponsorshipDate>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CO</state>
+        <bioguideId>G000562</bioguideId>
+        <firstName>Cory</firstName>
+        <identifiers>
+          <lisID>1998</lisID>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Gardner</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-09-19</sponsorshipDate>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

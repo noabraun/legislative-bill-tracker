@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Health care costs and insurance</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Income tax deductions</name>
+          </item>
+          <item>
+            <name>Physical fitness and lifestyle</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <bioguideId>T000250</bioguideId>
+        <lastName>THUNE</lastName>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <byRequestType />
+        <middleName>R.</middleName>
+        <state>SD</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-03-01</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <latestTitle>PHIT Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-03-01</actionDate>
+          <text>Referred to the House Committee on Ways and Means.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>1267</number>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-03-01</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-01</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Finance Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T17:36:12Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-13T12:11:57Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-03-02T05:13:50Z</createDate>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <state>CT</state>
+        <middleName />
+        <lastName>Murphy</lastName>
+        <firstName>Christopher</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001169</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001169</bioguideId>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+      </item>
+      <item>
+        <state>WV</state>
+        <middleName>MOORE</middleName>
+        <lastName>CAPITO</lastName>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001047</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+      </item>
+      <item>
+        <state>IN</state>
+        <middleName />
+        <lastName>Donnelly</lastName>
+        <firstName>Joe</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000607</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1850</lisID>
+          <bioguideId>D000607</bioguideId>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+      </item>
+      <item>
+        <state>SD</state>
+        <middleName />
+        <lastName>Rounds</lastName>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000605</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>GA</state>
+        <middleName />
+        <lastName>Isakson</lastName>
+        <firstName>Johnny</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Isakson, Johnny [R-GA]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>I000055</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <lisID>1608</lisID>
+          <bioguideId>I000055</bioguideId>
+          <gpoId>8323</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+      </item>
+      <item>
+        <state>MS</state>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <firstName>ROGER</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000437</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+      </item>
+      <item>
+        <state>AZ</state>
+        <middleName>SIDNEY</middleName>
+        <lastName>MCCAIN</lastName>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000303</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <state>WI</state>
+        <middleName />
+        <lastName>BALDWIN</lastName>
+        <firstName>TAMMY</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001230</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+      </item>
+      <item>
+        <state>WY</state>
+        <middleName />
+        <lastName>Barrasso</lastName>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001261</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001261</bioguideId>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+      </item>
+      <item>
+        <state>KS</state>
+        <middleName />
+        <lastName>MORAN</lastName>
+        <firstName>JERRY</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M000934</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+      </item>
+      <item>
+        <state>MI</state>
+        <middleName>C.</middleName>
+        <lastName>Peters</lastName>
+        <firstName>Gary</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000595</bioguideId>
+        <party>D</party>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-09-12</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <introducedDate>2017-03-01</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-03-01T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-03-09T15:49:29Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Personal Health Investment Today Act of 2017 or the PHIT Act of 2017</strong></p> <p>This bill amends the Internal Revenue Code to allow a medical care tax deduction for up to $1,000 ($2,000 for a joint return or a head of household) of qualified sports and fitness expenses per year. The bill defines "qualified sports and fitness expenses" as amounts paid exclusively for the sole purpose of participating in a physical activity, including: (1) fitness facility memberships, (2) physical exercise or activity programs, and (3) equipment for a physical exercise or activity program. </p>]]></text>
+          <actionDate>2017-03-01</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>PHIT Act of 2017</title>
+    <laws />
+    <billNumber>482</billNumber>
+    <titles>
+      <item>
+        <title>PHIT Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Personal Health Investment Today Act of 2017</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>PHIT Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>Personal Health Investment Today Act of 2017</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>A bill to amend the Internal Revenue Code of 1986 to treat certain amounts paid for physical activity, fitness, and exercise as amounts paid for medical care.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <title>PHIT Act of 2017</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

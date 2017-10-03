@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <congress>115</congress>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <cboCostEstimates />
+    <billNumber>581</billNumber>
+    <calendarNumbers />
+    <title>Jessie's Law</title>
+    <actions>
+      <item>
+        <actionDate>2017-08-11</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-08-04</actionDate>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <actionTime>13:05:17</actionTime>
+        <actionCode>H14000</actionCode>
+        <actionDate>2017-08-04</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Unanimous Consent.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.</text>
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+        <actionDate>2017-08-03</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee />
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4787</url>
+            <name>S4787</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S4787)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-03</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <text>Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.</text>
+        <links />
+        <type>Committee</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <actionCode>14500</actionCode>
+        <actionDate>2017-08-03</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-03-08</actionDate>
+        <committee>
+          <systemCode>sshr00</systemCode>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1691-1692</url>
+            <name>S1691-1692</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1691-1692)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-08</actionDate>
+      </item>
+      <actionTypeCounts>
+        <sentToHouse>1</sentToHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <passedSenate>1</passedSenate>
+        <billReferrals>1</billReferrals>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <committeeDischarged>1</committeeDischarged>
+        <introducedInSenate>1</introducedInSenate>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>8</senate>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <version>1.0.0</version>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-03-08T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-03-08</actionDate>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-07-17T12:49:30Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Jessie's Law</b></p> <p>This bill requires the Department of Health and Human Services to develop and disseminate standards for hospitals and physicians regarding displaying the history of opioid addiction in the medical records of patients who have provided information about their addiction to a health care provider.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug therapy</name>
+          </item>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <links />
+      <actionDate>2017-08-11</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <introducedDate>2017-03-08</introducedDate>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <title>Jessie's Law</title>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Jessie's Law</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to include information concerning a patient's opioid addiction in certain medical records.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Jessie's Law</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <title>Jessie's Law</title>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Jessie's Law</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Energy and Commerce Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-08-11T20:09:45Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsif00</systemCode>
+          <activities>
+            <item>
+              <date>2017-08-04T18:47:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Health, Education, Labor, and Pensions Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>sshr00</systemCode>
+          <activities>
+            <item>
+              <date>2017-08-03T15:39:27Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-03-08T20:58:39Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-03-09T05:25:17Z</createDate>
+    <sponsors>
+      <item>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <bioguideId>M001183</bioguideId>
+        <firstName>Joe</firstName>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <middleName />
+        <byRequestType />
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+          <lisID>1983</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <lastName>CAPITO</lastName>
+        <party>R</party>
+        <bioguideId>C001047</bioguideId>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <firstName>SHELLEY</firstName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <middleName>MOORE</middleName>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <state>WV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Klobuchar</lastName>
+        <party>D</party>
+        <bioguideId>K000367</bioguideId>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <firstName>Amy</firstName>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>FEINSTEIN</lastName>
+        <party>D</party>
+        <bioguideId>F000062</bioguideId>
+        <identifiers>
+          <bioguideId>F000062</bioguideId>
+          <lisID>1332</lisID>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <firstName>DIANNE</firstName>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+        <state>CA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <bioguideId>S001181</bioguideId>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <firstName>Jeanne</firstName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <party>I</party>
+        <bioguideId>K000383</bioguideId>
+        <identifiers>
+          <bioguideId>K000383</bioguideId>
+          <lisID>2185</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Angus</firstName>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <state>ME</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Murkowski</lastName>
+        <party>R</party>
+        <bioguideId>M001153</bioguideId>
+        <identifiers>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+        </identifiers>
+        <firstName>Lisa</firstName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <middleName />
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <state>AK</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <originChamber>Senate</originChamber>
+    <updateDate>2017-09-11T02:39:42Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>1554</number>
+        <type>HR</type>
+        <latestTitle>Jessie's Law</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-03-17</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <laws />
+    <amendments>
+      <amendment>
+        <purpose>In the nature of a substitute.</purpose>
+        <number>752</number>
+        <congress>115</congress>
+        <type>SAMDT</type>
+        <description />
+        <latestAction>
+          <text>Amendment SA 752 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2017-08-03</actionDate>
+        </latestAction>
+        <number>752</number>
+        <submittedDate>2017-08-03T04:00:00Z</submittedDate>
+        <sponsors>
+          <item>
+            <party>D</party>
+            <firstName>Joe</firstName>
+            <bioguideId>M001183</bioguideId>
+            <lastName>Manchin</lastName>
+            <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+            <middleName />
+            <state>WV</state>
+            <identifiers>
+              <bioguideId>M001183</bioguideId>
+              <gpoId>8256</gpoId>
+              <lisID>1983</lisID>
+            </identifiers>
+          </item>
+        </sponsors>
+        <purpose>In the nature of a substitute.</purpose>
+        <description />
+        <chamber>Senate</chamber>
+        <type>SAMDT</type>
+        <proposedDate>2017-08-03T04:00:00Z</proposedDate>
+        <version>1.0.0</version>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <titles />
+        <links />
+        <notes />
+        <amendedBill>
+          <number>581</number>
+          <originChamber>Senate</originChamber>
+          <originChamberCode>S</originChamberCode>
+          <congress>115</congress>
+          <type>S</type>
+          <title>Jessie's Law</title>
+        </amendedBill>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2017-08-03</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.752</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/752</url>
+                </link>
+                <link>
+                  <name>SA 752</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/752</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 752 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-08-03</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <name>S.Amdt.752</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/752</url>
+                </link>
+                <link>
+                  <name>S4787</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4787</url>
+                </link>
+                <link>
+                  <name>SA 752</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/752</url>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 752 proposed by Senator Alexander for Senator Manchin. (consideration: CR S4787; text: CR S4787)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-08-03</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>Senate amendment proposed (on the floor): Amendment SA 752 proposed by Senator Alexander for Senator Manchin.(consideration: CR S4787; text: CR S4787)</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>S.Amdt.752</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/752</url>
+                </link>
+                <link>
+                  <name>S4787</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4787</url>
+                </link>
+                <link>
+                  <name>SA 752</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/752</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>93000</actionCode>
+              <actionDate>2017-08-03</actionDate>
+              <committee />
+            </item>
+            <item>
+              <text>Senate amendment agreed to: Amendment SA 752 agreed to in Senate by Unanimous Consent.</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>S.Amdt.752</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/752</url>
+                </link>
+                <link>
+                  <name>SA 752</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/752</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>94000</actionCode>
+              <actionDate>2017-08-03</actionDate>
+              <committee />
+            </item>
+            <item>
+              <text>Senate amendment submitted</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links />
+              <type>Floor</type>
+              <actionCode>91000</actionCode>
+              <actionDate>2017-08-03</actionDate>
+              <committee />
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <congress>115</congress>
+        <updateDate>2017-09-11T02:39:42Z</updateDate>
+        <amendedAmendment />
+        <createDate>2017-08-04T13:56:37Z</createDate>
+      </amendment>
+    </amendments>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <actions>
+      <item>
+        <actionDate>2017-03-07</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <actionDate>2017-03-07</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <recordedVotes />
+    <amendments />
+    <introducedDate>2017-03-07</introducedDate>
+    <updateDate>2017-05-04T00:18:20Z</updateDate>
+    <cboCostEstimates />
+    <cosponsors>
+      <item>
+        <state>VT</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEAHY</lastName>
+        <firstName>PATRICK</firstName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1383</lisID>
+          <gpoId>8244</gpoId>
+          <bioguideId>L000174</bioguideId>
+        </identifiers>
+        <bioguideId>L000174</bioguideId>
+        <middleName>JOSEPH</middleName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>WA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>MURRAY</lastName>
+        <firstName>PATTY</firstName>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <bioguideId>M001111</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>DE</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>CARPER</lastName>
+        <firstName>THOMAS</firstName>
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000174</bioguideId>
+          <gpoId>8283</gpoId>
+          <lisID>179</lisID>
+        </identifiers>
+        <bioguideId>C000174</bioguideId>
+        <middleName>R.</middleName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>WA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>CANTWELL</lastName>
+        <firstName>MARIA</firstName>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <bioguideId>C000127</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>VT</state>
+        <party>I</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>SANDERS</lastName>
+        <firstName>BERNARD</firstName>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <bioguideId>S000033</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shaheen</lastName>
+        <firstName>Jeanne</firstName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <bioguideId>S001181</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>OR</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Merkley</lastName>
+        <firstName>Jeff</firstName>
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1900</lisID>
+          <gpoId>8238</gpoId>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <bioguideId>M001176</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>NY</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gillibrand</lastName>
+        <firstName>Kirsten</firstName>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1866</lisID>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+        </identifiers>
+        <bioguideId>G000555</bioguideId>
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>DE</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Coons</lastName>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <bioguideId>C001088</bioguideId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <bioguideId>C001088</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>CT</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Blumenthal</lastName>
+        <firstName>Richard</firstName>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2076</lisID>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <bioguideId>B001277</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>HI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schatz</lastName>
+        <firstName>Brian</firstName>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+        </identifiers>
+        <bioguideId>S001194</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>WI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>BALDWIN</lastName>
+        <firstName>TAMMY</firstName>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <bioguideId>B001230</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>MA</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>MARKEY</lastName>
+        <firstName>EDWARD</firstName>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7972</gpoId>
+          <bioguideId>M000133</bioguideId>
+          <lisID>735</lisID>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <middleName>J.</middleName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>NJ</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Booker</lastName>
+        <firstName>Cory</firstName>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2194</lisID>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+        </identifiers>
+        <bioguideId>B001288</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>MD</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Van Hollen</lastName>
+        <firstName>Chris</firstName>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <bioguideId>V000128</bioguideId>
+        <middleName />
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+      </item>
+      <item>
+        <state>NH</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hassan</lastName>
+        <firstName>Margaret</firstName>
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2302</lisID>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <bioguideId>H001076</bioguideId>
+        <middleName>Wood</middleName>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+      <item>
+        <state>MI</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Peters</lastName>
+        <firstName>Gary</firstName>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1929</lisID>
+          <gpoId>7994</gpoId>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <bioguideId>P000595</bioguideId>
+        <middleName>C.</middleName>
+        <sponsorshipDate>2017-03-08</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>Border security and unlawful immigration</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Iran</name>
+          </item>
+          <item>
+            <name>Libya</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Refugees, asylum, displaced persons</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>Somalia</name>
+          </item>
+          <item>
+            <name>Sudan</name>
+          </item>
+          <item>
+            <name>Syria</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+          <item>
+            <name>Yemen</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <latestAction>
+      <links />
+      <actionDate>2017-03-07</actionDate>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </latestAction>
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-07T21:52:19Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <createDate>2017-03-08T05:28:21Z</createDate>
+    <title>A bill to block implementation of the Executive Order that restricts individuals from certain countries from entering the United States.</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-07</actionDate>
+          <lastSummaryUpdateDate>2017-03-18T15:59:09Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-03-07T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill prohibits any federal agency funds, resources, or fees from being used to implement or enforce Executive Order 13780, entitled "Protecting the Nation from Foreign Terrorist Entry into the United States." Among the order's major provisions are restrictions on the entry of nationals from six countries (Iran, Libya, Somalia, Sudan, Syria, and Yemen) and additional limitations on refugee admissions to the United States.</p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billType>S</billType>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>A bill to block implementation of the Executive Order that restricts individuals from certain countries from entering the United States.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>A bill to block implementation of the Executive Order that restricts individuals from certain countries from entering the United States.</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <latestTitle>A bill to block implementation of the Executive order that restricts individuals from certain countries from entering the United States.</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <latestAction>
+          <actionDate>2017-01-30</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <number>248</number>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <state>CT</state>
+        <party>D</party>
+        <bioguideId>M001169</bioguideId>
+        <identifiers>
+          <lisID>1837</lisID>
+          <gpoId>7870</gpoId>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <lastName>Murphy</lastName>
+        <firstName>Christopher</firstName>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <byRequestType />
+        <middleName />
+      </item>
+    </sponsors>
+    <billNumber>549</billNumber>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

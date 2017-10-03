@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-01-30</introducedDate>
+    <laws />
+    <createDate>2017-01-31T05:23:13Z</createDate>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-30</actionDate>
+        <committee>
+          <systemCode>ssfi00</systemCode>
+          <name>Finance Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-01-30</actionDate>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <lastName>THUNE</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <party>R</party>
+        <state>SD</state>
+        <middleName>R.</middleName>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Rural Hospital Regulatory Relief Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Rural Hospital Regulatory Relief Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>A bill to provide for a permanent extension of the enforcement instruction on supervision requirements for outpatient therapeutic services in critical access and small rural hospitals.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Rural Hospital Regulatory Relief Act of 2017</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Finance Committee</name>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-30T22:44:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssfi00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Rural Hospital Regulatory Relief Act of 2017</title>
+    <billNumber>243</billNumber>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <firstName>Heidi</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001069</bioguideId>
+        <lastName>Heitkamp</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <sponsorshipDate>2017-01-30</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <identifiers>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001061</bioguideId>
+        <lastName>Hoeven</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>ND</state>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Jon</firstName>
+        <identifiers>
+          <bioguideId>T000464</bioguideId>
+          <lisID>1829</lisID>
+          <gpoId>8258</gpoId>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000464</bioguideId>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <state>MT</state>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+        </identifiers>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000605</bioguideId>
+        <lastName>Rounds</lastName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <state>SD</state>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <updateDate>2017-09-07T06:39:01Z</updateDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-01-30</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-30T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-14T23:01:50Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Rural Hospital Regulatory Relief Act of 2017</strong></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to permanently extend the application by the Centers for Medicare &amp; Medicaid Services of an instruction&nbsp;against&nbsp;the enforcement of&nbsp;certain physician supervision requirements with respect to outpatient therapeutic services in critical access hospitals and small rural hospitals.</p>]]></text>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-01-30</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <number>741</number>
+        <latestTitle>Rural Hospital Regulatory Relief Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Health.</text>
+          <actionDate>2017-02-09</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Health and Human Services</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Home and outpatient care</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <committeeReports />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

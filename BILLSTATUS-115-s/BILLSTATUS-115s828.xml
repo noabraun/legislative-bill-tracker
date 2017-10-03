@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>1624</number>
+        <latestTitle>Municipal Finance Support Act of 2017</latestTitle>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-07-25</actionDate>
+          <text>Ordered to be Reported (Amended) by the Yeas and Nays: 60 - 0.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <state>SD</state>
+        <firstName>Mike</firstName>
+        <bioguideId>R000605</bioguideId>
+        <party>R</party>
+        <middleName />
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+        </identifiers>
+        <lastName>Rounds</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-08-04T19:18:17Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p>This bill amends the Federal Deposit Insurance Act to require certain municipal obligations to be treated as level 2B liquid assets if they are investment grade, liquid, and readily marketable. Under current law, corporate debt securities and publicly traded common-equity shares, but not municipal obligations, may be treated as level 2B liquid assets (which are considered to be high-quality assets).</p>]]></text>
+          <actionDate>2017-04-05</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <title>A bill to amend the Federal Deposit Insurance Act to require the appropriate Federal banking agencies to treat certain municipal obligations as level 2B liquid assets, and for other purposes.</title>
+    <laws />
+    <createDate>2017-04-06T02:11:54Z</createDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <state>VA</state>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <firstName>Mark</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000805</bioguideId>
+        <lastName>Warner</lastName>
+        <middleName>R.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+          <gpoId>8269</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MT</state>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <firstName>Jon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000464</bioguideId>
+        <lastName>Tester</lastName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+          <gpoId>8258</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>SC</state>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <firstName>Tim</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001184</bioguideId>
+        <lastName>Scott</lastName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+          <lisID>2056</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>IN</state>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <firstName>Joe</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>D000607</bioguideId>
+        <lastName>Donnelly</lastName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <gpoId>7941</gpoId>
+          <lisID>1850</lisID>
+          <bioguideId>D000607</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>ND</state>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <firstName>Heidi</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001069</bioguideId>
+        <lastName>Heitkamp</lastName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2174</lisID>
+          <bioguideId>H001069</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <state>AR</state>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <firstName>Tom</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001095</bioguideId>
+        <lastName>Cotton</lastName>
+        <middleName />
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <gpoId />
+          <lisID>2098</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>NC</state>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000476</bioguideId>
+        <lastName>Tillis</lastName>
+        <middleName>Roland</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <lisID>2291</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>MD</state>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <firstName>Chris</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>V000128</bioguideId>
+        <lastName>Van Hollen</lastName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <state>LA</state>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>K000393</bioguideId>
+        <lastName>Kennedy</lastName>
+        <middleName>Neely</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>NY</state>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <firstName>CHARLES</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000148</bioguideId>
+        <lastName>SCHUMER</lastName>
+        <middleName>E.</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000148</bioguideId>
+          <lisID>1036</lisID>
+          <gpoId>8279</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>GA</state>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <firstName>David</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000612</bioguideId>
+        <lastName>Perdue</lastName>
+        <middleName>Alfred</middleName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <identifiers>
+          <bioguideId>P000612</bioguideId>
+          <lisID>2286</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <state>MN</state>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000367</bioguideId>
+        <lastName>Klobuchar</lastName>
+        <middleName />
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <lisID>1826</lisID>
+          <gpoId>8249</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <state>MI</state>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <firstName>DEBORAH</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000770</bioguideId>
+        <lastName>STABENOW</lastName>
+        <middleName>ANN</middleName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-08-02</sponsorshipDate>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <lisID>1531</lisID>
+          <gpoId>8261</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend the Federal Deposit Insurance Act to require the appropriate Federal banking agencies to treat certain municipal obligations as level 2B liquid assets, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <title>A bill to amend the Federal Deposit Insurance Act to require the appropriate Federal banking agencies to treat certain municipal obligations as level 2B liquid assets, and for other purposes.</title>
+      </item>
+    </titles>
+    <updateDate>2017-09-11T02:58:53Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Banking and financial institutions regulation</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Federal Deposit Insurance Corporation (FDIC)</name>
+          </item>
+          <item>
+            <name>Federal Reserve System</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>State and local finance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>828</billNumber>
+    <committeeReports />
+    <amendments />
+    <notes />
+    <introducedDate>2017-04-05</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-04-05T16:04:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <billType>S</billType>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <actionDate>2017-04-05</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-30</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <orderedReported>1</orderedReported>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>1456</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Shark Fin Sales Elimination Act of 2017</latestTitle>
+        <latestAction>
+          <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+          <actionDate>2017-03-20</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <state>NJ</state>
+        <firstName>Cory</firstName>
+        <bioguideId>B001288</bioguideId>
+        <party>D</party>
+        <middleName>A.</middleName>
+        <byRequestType />
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+        </identifiers>
+        <lastName>Booker</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-30</actionDate>
+          <lastSummaryUpdateDate>2017-07-25T15:02:32Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <updateDate>2017-03-30T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Shark Fin Trade Elimination Act of 2017</b></p> <p>This bill makes it illegal to possess, buy, sell, or transport shark fins or any product containing shark fins. A person may possess a shark fin that was lawfully taken consistent with a license or permit under certain circumstances.</p> <p>Penalties are imposed for violations under the Magnuson-Stevens Fishery Conservation and Management Act.The maximum civil penalty for each violation shall be $100,000, or the fair market value of the shark fins involved, whichever is greater.</p>]]></text>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <title>Shark Fin Trade Elimination Act of 2017</title>
+    <laws />
+    <createDate>2017-03-31T05:07:22Z</createDate>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52955</url>
+        <title>S. 793, Shark Fin Trade Elimination Act of 2017</title>
+        <pubDate>2017-07-24T20:00:29Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <identifiers>
+          <bioguideId>C001047</bioguideId>
+          <lisID>1676</lisID>
+          <gpoId>8223</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CAPITO</lastName>
+        <firstName>SHELLEY</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>C001047</bioguideId>
+        <state>WV</state>
+        <middleName>MOORE</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <identifiers>
+          <bioguideId>C000127</bioguideId>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>CANTWELL</lastName>
+        <firstName>MARIA</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>C000127</bioguideId>
+        <state>WA</state>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+          <gpoId>8253</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>MCCAIN</lastName>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>M000303</bioguideId>
+        <state>AZ</state>
+        <middleName>SIDNEY</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Peters</lastName>
+        <firstName>Gary</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>P000595</bioguideId>
+        <state>MI</state>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Inhofe, James M. [R-OK]</fullName>
+        <identifiers>
+          <lisID>583</lisID>
+          <bioguideId>I000024</bioguideId>
+          <gpoId>8322</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>INHOFE</lastName>
+        <firstName>JIM</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>I000024</bioguideId>
+        <state>OK</state>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Whitehouse</lastName>
+        <firstName>Sheldon</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>W000802</bioguideId>
+        <state>RI</state>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>WICKER</lastName>
+        <firstName>ROGER</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>W000437</bioguideId>
+        <state>MS</state>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <identifiers>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+          <gpoId>8332</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Blumenthal</lastName>
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Portman, Rob [R-OH]</fullName>
+        <identifiers>
+          <lisID>924</lisID>
+          <bioguideId>P000449</bioguideId>
+          <gpoId>8266</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>PORTMAN</lastName>
+        <firstName>ROB</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>R</party>
+        <bioguideId>P000449</bioguideId>
+        <state>OH</state>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <identifiers>
+          <bioguideId>S001194</bioguideId>
+          <lisID>2173</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Schatz</lastName>
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <party>D</party>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <middleName />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Shark Fin Trade Elimination Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Shark Fin Trade Elimination Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prohibit sale of shark fins, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Shark Fin Trade Elimination Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-09-11T02:58:35Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Animal protection and human-animal relationships</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Fishes</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>793</billNumber>
+    <committeeReports />
+    <amendments />
+    <notes />
+    <introducedDate>2017-03-30</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-05-18T14:00:08Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-30T20:46:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <billType>S</billType>
+    <latestAction>
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+      <actionDate>2017-05-18</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

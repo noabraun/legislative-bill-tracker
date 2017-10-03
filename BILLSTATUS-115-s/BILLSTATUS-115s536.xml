@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <sponsors>
+      <item>
+        <middleName>F.</middleName>
+        <firstName>JOHN</firstName>
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <state>RI</state>
+        <bioguideId>R000122</bioguideId>
+        <identifiers>
+          <gpoId>8272</gpoId>
+          <bioguideId>R000122</bioguideId>
+          <lisID>949</lisID>
+        </identifiers>
+        <party>D</party>
+        <byRequestType />
+        <lastName>REED</lastName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>C001035</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>COLLINS</lastName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <middleName>MARGARET</middleName>
+        <firstName>SUSAN</firstName>
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <identifiers>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>W000805</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>Warner</lastName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <middleName>R.</middleName>
+        <firstName>Mark</firstName>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <identifiers>
+          <lisID>1897</lisID>
+          <bioguideId>W000805</bioguideId>
+          <gpoId>8269</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>M000303</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCCAIN</lastName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <middleName>SIDNEY</middleName>
+        <firstName>JOHN</firstName>
+        <state>AZ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <identifiers>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <title>Cybersecurity Disclosure Act of 2017</title>
+    <billType>S</billType>
+    <notes />
+    <latestAction>
+      <actionDate>2017-09-12</actionDate>
+      <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <recordedVotes />
+    <cboCostEstimates />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-09-12T14:00:34Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-07T16:15:19Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <hearingsHeld>1</hearingsHeld>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-12</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-07</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S1641-1642</url>
+            <name>S1641-1642</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S1641-1642)</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-07</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <committeeReports />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>Securities and Exchange Commission (SEC)</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Cybersecurity Disclosure Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Cybersecurity Disclosure Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to promote transparency in the oversight of cybersecurity risks at publicly traded companies.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Cybersecurity Disclosure Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <introducedDate>2017-03-07</introducedDate>
+    <createDate>2017-03-08T05:28:21Z</createDate>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-17T20:19:42Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Cybersecurity Disclosure Act of 2017</b></p> <p>This bill directs the Securities and Exchange Commission (SEC) to issue final rules requiring a registered issuer to:</p> <ul> <li>disclose in its mandatory annual report or annual proxy statement whether any member of its governing body has expertise or experience in cybersecurity, including details necessary to describe fully the nature of that expertise or experience; and </li> <li>if no member has such expertise or experience, describe what other company cybersecurity steps were taken into account by the persons responsible for identifying and evaluating nominees for the governing body. </li></ul> <p>The SEC shall, in coordination with the National Institute of Standards and Technology, define what constitutes expertise or experience in cybersecurity. </p>]]></text>
+          <updateDate>2017-03-07T05:00:00Z</updateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-03-07</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>536</billNumber>
+    <amendments />
+    <updateDate>2017-09-19T05:57:24Z</updateDate>
+    <relatedBills />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

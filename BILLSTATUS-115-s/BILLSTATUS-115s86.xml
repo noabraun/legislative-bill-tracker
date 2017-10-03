@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-01-10</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>ssva00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-01-10</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>369</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To eliminate the sunset of the Veterans Choice Program, and for other purposes.</latestTitle>
+        <latestAction>
+          <text>Placed on the Union Calendar, Calendar No. 36.</text>
+          <actionDate>2017-03-29</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>544</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>A bill to amend the Veterans Access, Choice, and Accountability Act of 2014 to modify the termination date for the Veterans Choice Program, and for other purposes.</latestTitle>
+        <latestAction>
+          <text>Became Public Law No: 115-26.</text>
+          <actionDate>2017-04-19</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <state>AZ</state>
+        <firstName>JOHN</firstName>
+        <bioguideId>M000303</bioguideId>
+        <party>R</party>
+        <middleName>SIDNEY</middleName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8253</gpoId>
+          <bioguideId>M000303</bioguideId>
+          <lisID>754</lisID>
+        </identifiers>
+        <lastName>MCCAIN</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-10T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-07-11T20:39:27Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Veterans Choice Continuation Act</strong></p> <p>This bill amends the Veterans Access, Choice, and Accountability Act of 2014 to eliminate the August 7, 2017, termination date for the Veterans Choice Program, which allows the program to operate until all of the money in the Veterans Choice Fund is expended. </p>]]></text>
+          <actionDate>2017-01-10</actionDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <title>Veterans Choice Continuation Act</title>
+    <laws />
+    <createDate>2017-01-11T05:09:45Z</createDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <firstName>JEFF</firstName>
+        <state>AZ</state>
+        <lastName>FLAKE</lastName>
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+          <lisID>1633</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>F000444</bioguideId>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <state>LA</state>
+        <lastName>Cassidy</lastName>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <gpoId>7964</gpoId>
+          <lisID>1925</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001075</bioguideId>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Ted</firstName>
+        <state>TX</state>
+        <lastName>Cruz</lastName>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001098</bioguideId>
+          <gpoId />
+          <lisID>2175</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001098</bioguideId>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>James</firstName>
+        <state>OK</state>
+        <lastName>Lankford</lastName>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000575</bioguideId>
+          <gpoId>8113</gpoId>
+          <lisID>2050</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000575</bioguideId>
+        <sponsorshipDate>2017-02-08</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Thomas</firstName>
+        <state>NC</state>
+        <lastName>Tillis</lastName>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <middleName>Roland</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+          <lisID>2291</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>T000476</bioguideId>
+        <sponsorshipDate>2017-02-08</sponsorshipDate>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Veterans Choice Continuation Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Veterans Choice Continuation Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to amend the Veterans Access, Choice, and Accountability Act of 2014 to modify the termination date for the Veterans Choice Program.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Veterans Choice Continuation Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2017-09-11T02:39:37Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Hospital care</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>86</billNumber>
+    <committeeReports />
+    <amendments />
+    <notes />
+    <introducedDate>2017-01-10</introducedDate>
+    <congress>115</congress>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <date>2017-01-10T19:24:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <billType>S</billType>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+      <actionDate>2017-01-10</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

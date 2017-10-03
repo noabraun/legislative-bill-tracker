@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-22T14:57:11Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <committeeFiledReportToAccompany>1</committeeFiledReportToAccompany>
+        <senateCommitteeReportFiledAfterReporting>1</senateCommitteeReportFiledAfterReporting>
+        <reportedToSenate>1</reportedToSenate>
+        <originalBillReported>1</originalBillReported>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/151</url>
+            <name>Report No. 115-151</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>By Senator Burr from Select Committee on Intelligence filed written report. Report No. 115-151. Additional and Minority views filed.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>By Senator Burr from Select Committee on Intelligence filed written report. Report No. 115-151. Additional and Minority views filed.</text>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <actionCode>14900</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-09-07</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/151</url>
+            <name>Report No. 115-151</name>
+          </link>
+        </links>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-08-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 207.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-08-18</actionDate>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr under authority of the order of the Senate of 08/03/2017. Without written report.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Burr under authority of the order of the Senate of 08/03/2017. Without written report.</text>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <actionCode>14000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-08-18</actionDate>
+        <links />
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-08-18</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-07-31</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Select Committee on Intelligence.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>3180</number>
+        <type>HR</type>
+        <latestTitle>Intelligence Authorization Act for Fiscal Year 2018</latestTitle>
+      </item>
+    </relatedBills>
+    <billNumber>1761</billNumber>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced for portions of this bill</titleType>
+        <title>Securing Energy Infrastructure Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>An original bill to authorize appropriations for fiscal year 2018 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <title>Intelligence Authorization Act for Fiscal Year 2018</title>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-08-18T14:46:52Z</date>
+              <name>Reported original measure</name>
+            </item>
+          </activities>
+          <systemCode>slin00</systemCode>
+          <subcommittees />
+          <name>Intelligence Committee</name>
+          <type>Select</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <recordedVotes />
+    <createDate>2017-08-19T00:26:30Z</createDate>
+    <billType>S</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-151</citation>
+      </committeeReport>
+    </committeeReports>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName />
+        <firstName>RICHARD</firstName>
+        <state>NC</state>
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+          <bioguideId>B001135</bioguideId>
+        </identifiers>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <lastName>BURR</lastName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-09-07</actionDate>
+      <links />
+      <text>By Senator Burr from Select Committee on Intelligence filed written report. Report No. 115-151. Additional and Minority views filed.</text>
+    </latestAction>
+    <notes />
+    <calendarNumbers>
+      <item>
+        <number>0207</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <introducedDate>2017-08-18</introducedDate>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-09-22T14:53:00Z</pubDate>
+        <title>S. 1761, Intelligence Authorization Act for Fiscal Year 2018</title>
+        <url>https://www.cbo.gov/publication/53127</url>
+      </item>
+    </cboCostEstimates>
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

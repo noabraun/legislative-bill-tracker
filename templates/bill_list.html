@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="well spaced" style="width:60%">
+    <h1>Bills</h1>
+    <ul>
+      {% for bill in bills %}
+          <li>
+              <a href="/bills/{{ bill.bill_id }}">
+                {{ bill.bill_id }}: {{ bill.title }}
+              </a>
+          </li>
+
+      {% endfor %}
+    </ul>
+</div>
+{% endblock %}
+
+
+
+

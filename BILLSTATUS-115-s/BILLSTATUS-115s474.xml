@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Arab-Israeli relations</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Foreign aid and international relief</name>
+          </item>
+          <item>
+            <name>Gaza Strip</name>
+          </item>
+          <item>
+            <name>Israel</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Palestinians</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>West Bank</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8335</gpoId>
+          <bioguideId>G000359</bioguideId>
+          <lisID>452</lisID>
+        </identifiers>
+        <bioguideId>G000359</bioguideId>
+        <lastName>GRAHAM</lastName>
+        <firstName>LINDSEY</firstName>
+        <fullName>Sen. Graham, Lindsey [R-SC]</fullName>
+        <byRequestType />
+        <middleName>O.</middleName>
+        <state>SC</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <actionDate>2017-02-28</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <congress>115</congress>
+        <latestTitle>Taylor Force Act</latestTitle>
+        <latestAction>
+          <text>Referred to the House Committee on Foreign Affairs.</text>
+          <actionDate>2017-02-16</actionDate>
+        </latestAction>
+        <number>1164</number>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>115</congress>
+        <latestTitle>Taylor Force Act</latestTitle>
+        <latestAction>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 211.</text>
+          <actionDate>2017-09-06</actionDate>
+        </latestAction>
+        <number>1697</number>
+      </item>
+    </relatedBills>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>ssfr00</systemCode>
+          <name>Foreign Relations Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-02-28</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionCode>10000</actionCode>
+        <links />
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Foreign Relations Committee</name>
+          <systemCode>ssfr00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-02-28T20:43:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-11T03:06:26Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-03-01T05:20:57Z</createDate>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+        <lastName>Blunt</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Roy</firstName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <state>MO</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001095</bioguideId>
+        <identifiers>
+          <bioguideId>C001095</bioguideId>
+          <lisID>2098</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <state>AR</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001184</bioguideId>
+        <identifiers>
+          <gpoId>8141</gpoId>
+          <bioguideId>S001184</bioguideId>
+          <lisID>2056</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tim</firstName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <state>SC</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001098</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001098</bioguideId>
+          <lisID>2175</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Cruz, Ted [R-TX]</fullName>
+        <lastName>Cruz</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <state>TX</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001135</bioguideId>
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <lastName>BURR</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <state>NC</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000250</bioguideId>
+        <identifiers>
+          <bioguideId>T000250</bioguideId>
+          <lisID>1534</lisID>
+          <gpoId>8257</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Thune, John [R-SD]</fullName>
+        <lastName>THUNE</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <state>SD</state>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <identifiers>
+          <gpoId>8242</gpoId>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+        <lastName>Rubio</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Marco</firstName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <state>FL</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001236</bioguideId>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <lastName>Boozman</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <state>AR</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000605</bioguideId>
+        <identifiers>
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <lastName>Rounds</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <state>SD</state>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001035</bioguideId>
+        <identifiers>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+          <gpoId>8291</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <lastName>COLLINS</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <state>ME</state>
+        <middleName>MARGARET</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+          <lisID>2291</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+        <lastName>Tillis</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Thomas</firstName>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <state>NC</state>
+        <middleName>Roland</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001183</bioguideId>
+        <identifiers>
+          <bioguideId>M001183</bioguideId>
+          <lisID>1983</lisID>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <lastName>Manchin</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <state>WV</state>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001202</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001202</bioguideId>
+          <lisID>2357</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+        <lastName>Strange</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Luther</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <state>AL</state>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>Y000064</bioguideId>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <lisID>2019</lisID>
+          <gpoId>7948</gpoId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <lastName>Young</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Todd</firstName>
+        <sponsorshipDate>2017-06-22</sponsorshipDate>
+        <state>IN</state>
+        <middleName>C.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <identifiers>
+          <gpoId>8300</gpoId>
+          <lisID>1881</lisID>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <lastName>Barrasso</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <state>WY</state>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000584</bioguideId>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+          <lisID>1896</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <lastName>Risch</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>James</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000393</bioguideId>
+        <identifiers>
+          <lisID>2303</lisID>
+          <bioguideId>K000393</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Kennedy, John [R-LA]</fullName>
+        <lastName>Kennedy</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>LA</state>
+        <middleName>Neely</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+        </identifiers>
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <lastName>Cornyn</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <state>TX</state>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000639</bioguideId>
+        <identifiers>
+          <bioguideId>M000639</bioguideId>
+          <lisID>791</lisID>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <party>D</party>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <lastName>MENENDEZ</lastName>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROBERT</firstName>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <state>NJ</state>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <introducedDate>2017-02-28</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-28T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-03-28T15:19:03Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong></strong>This bill prohibits certain assistance under the Foreign Assistance Act of 1961 from being made available for the West Bank and Gaza unless the Department of State certifies that the Palestinian Authority: (1) is taking steps to end acts of violence against Israeli citizens perpetrated by individuals under its jurisdictional control; and (2) has terminated payments for acts of terrorism against Israeli citizens to any individual who has been convicted and imprisoned for such acts, to any individual who died committing such acts, and to family members of such an individual.</p>]]></text>
+          <actionDate>2017-02-28</actionDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>A bill to condition assistance to the West Bank and Gaza on steps by the Palestinian Authority to end violence and terrorism against Israeli citizens.</title>
+    <laws />
+    <billNumber>474</billNumber>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to condition assistance to the West Bank and Gaza on steps by the Palestinian Authority to end violence and terrorism against Israeli citizens.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>A bill to condition assistance to the West Bank and Gaza on steps by the Palestinian Authority to end violence and terrorism against Israeli citizens.</title>
+        <chamberCode />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

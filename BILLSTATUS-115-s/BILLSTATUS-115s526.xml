@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <systemCode>sssb00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-02T22:13:55Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-03-02</introducedDate>
+    <notes />
+    <title>Microloan Modernization Act of 2017</title>
+    <billType>S</billType>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <committee>
+          <name>Small Business and Entrepreneurship Committee</name>
+          <systemCode>sssb00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in Senate</text>
+        <committee />
+        <actionDate>2017-03-02</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-03-03T05:11:28Z</createDate>
+    <cboCostEstimates />
+    <recordedVotes />
+    <updateDate>2017-09-06T05:07:00Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>F000463</bioguideId>
+        <firstName>Deb</firstName>
+        <lastName>Fischer</lastName>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2179</lisID>
+          <bioguideId>F000463</bioguideId>
+        </identifiers>
+        <state>NE</state>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills>
+      <item>
+        <latestTitle>Microloan Modernization Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>2056</number>
+        <type>HR</type>
+        <latestAction>
+          <text>Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+          <actionDate>2017-07-25</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <cosponsors>
+      <item>
+        <middleName>A.</middleName>
+        <bioguideId>C001088</bioguideId>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <firstName>Christopher</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <identifiers>
+          <bioguideId>C001088</bioguideId>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>DE</state>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>S001184</bioguideId>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <firstName>Tim</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Scott</lastName>
+        <party>R</party>
+        <fullName>Sen. Scott, Tim [R-SC]</fullName>
+        <identifiers>
+          <bioguideId>S001184</bioguideId>
+          <gpoId>8141</gpoId>
+          <lisID>2056</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SC</state>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <bioguideId>G000555</bioguideId>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+        <firstName>Kirsten</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gillibrand</lastName>
+        <party>D</party>
+        <fullName>Sen. Gillibrand, Kirsten E. [D-NY]</fullName>
+        <identifiers>
+          <gpoId>8336</gpoId>
+          <bioguideId>G000555</bioguideId>
+          <lisID>1866</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+      </item>
+      <item>
+        <middleName />
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2017-03-06</sponsorshipDate>
+        <firstName>Jeanne</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+      </item>
+      <item>
+        <middleName>C.</middleName>
+        <bioguideId>P000595</bioguideId>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <firstName>Gary</firstName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Peters</lastName>
+        <party>D</party>
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <identifiers>
+          <gpoId>7994</gpoId>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Microloan Modernization Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Microloan Modernization Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to amend the Small Business Act to provide for expanded participation in the microloan program, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Microloan Modernization Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government lending and loan guarantees</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Small business</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-04-20T17:59:01Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-03-02T05:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Microloan Modernization Act of 2017</b></p> <p>This bill amends the Small Business Act to repeal the &quot;25/75&quot; rule under the Small Business Administration (SBA) Microloan Program (assisting low-income individuals to start and operate a small business) that permits SBA-designated microloan intermediary lenders to expend up to 25% of the intensive marketing, management, and technical assistance grant funds they receive from the SBA to provide information and technical assistance to small business concerns that are their prospective borrowers.</p> <p>The total amount of loans outstanding and committed to any particular intermediary (excluding outstanding grants) from the SBA business loan and investment fund shall be increased from $5 million to $6 million for the remaining years of the intermediary's participation in the program. </p> <p>The SBA shall:</p> <ul> <li>compare the operations of a representative sample of eligible intermediaries that participate in the microloan program and of eligible intermediaries that do not,</li> <li>study the reasons why the latter do not participate,</li> <li>recommend how to encourage increased participation by intermediaries in the microloan program, and </li> <li>recommend how to decrease the associated costs for intermediary participation.</li> </ul> <p>The Government Accountability Office shall evaluate:</p> <ul> <li> SBA oversight of the microloan program, including oversight of participating intermediaries; and</li> <li>the specific processes the SBA uses to ensure program compliance by participating intermediaries and overall microloan program performance.</li></ul>]]></text>
+          <actionDate>2017-03-02</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+      <actionDate>2017-03-02</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>526</billNumber>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

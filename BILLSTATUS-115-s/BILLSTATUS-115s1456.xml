@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-28T18:00:57Z</date>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <title>Sanctity of Human Life Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to provide that human life shall be deemed to begin with fertilization.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Sanctity of Human Life Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Sanctity of Human Life Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>1456</billNumber>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>S001202</bioguideId>
+        <middleName />
+        <state>AL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001202</bioguideId>
+          <lisID>2357</lisID>
+        </identifiers>
+        <byRequestType />
+        <firstName>Luther</firstName>
+        <fullName>Sen. Strange, Luther [R-AL]</fullName>
+        <lastName>Strange</lastName>
+      </item>
+    </sponsors>
+    <title>Sanctity of Human Life Act</title>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-06-28</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-06-28</introducedDate>
+    <relatedBills />
+    <billType>S</billType>
+    <cboCostEstimates />
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <congress>115</congress>
+    <recordedVotes />
+    <updateDate>2017-09-11T03:00:42Z</updateDate>
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <links />
+      <actionDate>2017-06-28</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-06-28T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-06-28</actionDate>
+          <name>Introduced in Senate</name>
+          <lastSummaryUpdateDate>2017-07-17T14:56:45Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Sanctity of Human Life Act</b></p> <p>This bill declares that: (1) the right to life guaranteed by the Constitution is vested in each human and is a person's most fundamental right; (2) each human life begins with fertilization, cloning, or its equivalent, at which time every human has all the legal and constitutional attributes and privileges of personhood; and (3) Congress, each state, the District of Columbia, and each U.S. territory have the authority to protect all human lives.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-06-29T00:26:35Z</createDate>
+    <committeeReports />
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Abortion</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

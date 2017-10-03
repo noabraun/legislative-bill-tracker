@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-04-05</introducedDate>
+    <latestAction>
+      <actionTime>14:30:59</actionTime>
+      <actionDate>2017-08-04</actionDate>
+      <links />
+      <text>Held at the desk.</text>
+    </latestAction>
+    <billType>S</billType>
+    <createDate>2017-04-06T02:11:55Z</createDate>
+    <recordedVotes />
+    <billNumber>860</billNumber>
+    <actions>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-08-04</actionDate>
+        <actionTime>14:30:59</actionTime>
+        <links />
+        <text>Held at the desk.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H15000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-08-04</actionDate>
+        <actionTime>13:04:45</actionTime>
+        <links />
+        <text>Received in the House.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H14000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4651-4659</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4651-4659</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Voice Vote. (text: CR S4651-4659)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <actionDate>2017-08-01</actionDate>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>17000</actionCode>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4649-4659</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4649-4659</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S4649-4659)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionDate>2017-08-01</actionDate>
+        <links />
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>14500</actionCode>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-05</actionDate>
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <passedSenate>1</passedSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <sentToHouse>1</sentToHouse>
+        <introducedInSenate>1</introducedInSenate>
+        <committeeDischarged>1</committeeDischarged>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <heldAtTheDesk>1</heldAtTheDesk>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>8</senate>
+        <houseOfRepresentatives>2</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <committeeReports />
+    <version>1.0.0</version>
+    <title>Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <number>1809</number>
+        <type>HR</type>
+        <latestTitle>Juvenile Justice Reform Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <text>Received in the Senate.</text>
+          <actionDate>2017-05-24</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <notes />
+    <sponsors>
+      <item>
+        <state>IA</state>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <firstName>CHARLES</firstName>
+        <middleName>ERNEST</middleName>
+        <lastName>GRASSLEY</lastName>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>G000386</bioguideId>
+        <identifiers>
+          <bioguideId>G000386</bioguideId>
+          <gpoId>8316</gpoId>
+          <lisID>457</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+      </item>
+      <item>
+        <title>Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to reauthorize and improve the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+        <chamberCode>S</chamberCode>
+        <chamberName>Senate</chamberName>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-08-01T22:07:35Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-04-05T23:32:22Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <updateDate>2017-09-11T03:06:28Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Accounting and auditing</name>
+          </item>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Child health</name>
+          </item>
+          <item>
+            <name>Child safety and welfare</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Correctional facilities and imprisonment</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against children</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Drug, alcohol, tobacco use</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Human trafficking</name>
+          </item>
+          <item>
+            <name>Indian social and development programs</name>
+          </item>
+          <item>
+            <name>Judicial procedure and administration</name>
+          </item>
+          <item>
+            <name>Juvenile crime and gang violence</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Performance measurement</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Teenage pregnancy</name>
+          </item>
+          <item>
+            <name>Women's health</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <bioguideId>W000802</bioguideId>
+        <lastName>Whitehouse</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>RI</state>
+        <identifiers>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+          <lisID>1823</lisID>
+        </identifiers>
+        <firstName>Sheldon</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+      </item>
+      <item>
+        <bioguideId>T000476</bioguideId>
+        <lastName>Tillis</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>T000476</bioguideId>
+          <gpoId />
+          <lisID>2291</lisID>
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>Roland</middleName>
+        <party>R</party>
+        <fullName>Sen. Tillis, Thom [R-NC]</fullName>
+      </item>
+      <item>
+        <bioguideId>F000062</bioguideId>
+        <lastName>FEINSTEIN</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <firstName>DIANNE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+      </item>
+      <item>
+        <bioguideId>H000338</bioguideId>
+        <lastName>HATCH</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>UT</state>
+        <identifiers>
+          <lisID>1351</lisID>
+          <bioguideId>H000338</bioguideId>
+          <gpoId>8314</gpoId>
+        </identifiers>
+        <firstName>ORRIN</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>GRANT</middleName>
+        <party>R</party>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+      </item>
+      <item>
+        <bioguideId>L000174</bioguideId>
+        <lastName>LEAHY</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>VT</state>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <firstName>PATRICK</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>JOSEPH</middleName>
+        <party>D</party>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+      </item>
+      <item>
+        <bioguideId>D000563</bioguideId>
+        <lastName>DURBIN</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>IL</state>
+        <identifiers>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+          <lisID>326</lisID>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <party>D</party>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+      </item>
+      <item>
+        <bioguideId>C001056</bioguideId>
+        <lastName>Cornyn</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+          <gpoId>8295</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+      </item>
+      <item>
+        <bioguideId>B000575</bioguideId>
+        <lastName>Blunt</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>B000575</bioguideId>
+          <gpoId>8313</gpoId>
+          <lisID>1464</lisID>
+        </identifiers>
+        <firstName>Roy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Blunt, Roy [R-MO]</fullName>
+      </item>
+      <item>
+        <bioguideId>K000367</bioguideId>
+        <lastName>Klobuchar</lastName>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+        </identifiers>
+        <firstName>Amy</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+      </item>
+      <item>
+        <bioguideId>R000595</bioguideId>
+        <lastName>Rubio</lastName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000595</bioguideId>
+          <lisID>2084</lisID>
+          <gpoId>8242</gpoId>
+        </identifiers>
+        <firstName>Marco</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Rubio, Marco [R-FL]</fullName>
+      </item>
+      <item>
+        <bioguideId>F000457</bioguideId>
+        <lastName>Franken</lastName>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <lisID>1969</lisID>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <firstName>Al</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>D</party>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+      </item>
+      <item>
+        <bioguideId>B001288</bioguideId>
+        <lastName>Booker</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>NJ</state>
+        <identifiers>
+          <bioguideId>B001288</bioguideId>
+          <lisID>2194</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Cory</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <party>D</party>
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+      </item>
+      <item>
+        <bioguideId>E000295</bioguideId>
+        <lastName>Ernst</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <state>IA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000295</bioguideId>
+          <lisID>2283</lisID>
+        </identifiers>
+        <firstName>Joni</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <laws />
+    <originChamber>Senate</originChamber>
+    <amendments>
+      <amendment>
+        <number>741</number>
+        <purpose>To improve the bill.</purpose>
+        <notes />
+        <version>1.0.0</version>
+        <number>741</number>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedAmendment />
+        <createDate>2017-08-02T04:36:33Z</createDate>
+        <congress>115</congress>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <sponsors>
+          <item>
+            <identifiers>
+              <bioguideId>G000386</bioguideId>
+              <gpoId>8316</gpoId>
+              <lisID>457</lisID>
+            </identifiers>
+            <bioguideId>G000386</bioguideId>
+            <lastName>GRASSLEY</lastName>
+            <firstName>CHARLES</firstName>
+            <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+            <middleName>ERNEST</middleName>
+            <state>IA</state>
+            <party>R</party>
+          </item>
+        </sponsors>
+        <description />
+        <purpose>To improve the bill.</purpose>
+        <proposedDate>2017-08-01T04:00:00Z</proposedDate>
+        <actions>
+          <count>6</count>
+          <actions>
+            <item>
+              <actionDate>2017-08-01</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/741</url>
+                  <name>S.Amdt.741</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/741</url>
+                  <name>SA 741</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 741 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-08-01</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/741</url>
+                  <name>S.Amdt.741</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4650-4651</url>
+                  <name>S4650-4651</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4651</url>
+                  <name>S4651</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/741</url>
+                  <name>SA 741</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <code>0</code>
+                <name>Senate</name>
+              </sourceSystem>
+              <text>Amendment SA 741 proposed by Senator Grassley. (consideration: CR S4650-4651; text: CR S4651)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-08-01</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <text>Senate amendment proposed (on the floor): Amendment SA 741 proposed by Senator Grassley.(consideration: CR S4650-4651; text: CR S4651)</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/741</url>
+                  <name>S.Amdt.741</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4650-4651</url>
+                  <name>S4650-4651</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4651</url>
+                  <name>S4651</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/741</url>
+                  <name>SA 741</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <actionCode>93000</actionCode>
+              <actionDate>2017-08-01</actionDate>
+            </item>
+            <item>
+              <text>Senate amendment agreed to: Amendment SA 741 agreed to in Senate by Unanimous Consent.</text>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/741</url>
+                  <name>S.Amdt.741</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/741</url>
+                  <name>SA 741</name>
+                </link>
+              </links>
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <actionCode>94000</actionCode>
+              <actionDate>2017-08-01</actionDate>
+            </item>
+            <item>
+              <text>Senate amendment submitted</text>
+              <links />
+              <type>Floor</type>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <actionCode>91000</actionCode>
+              <actionDate>2017-08-01</actionDate>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <amendmentProposed>1</amendmentProposed>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+        </actions>
+        <type>SAMDT</type>
+        <submittedDate>2017-08-01T04:00:00Z</submittedDate>
+        <chamber>Senate</chamber>
+        <amendedBill>
+          <title>Juvenile Justice and Delinquency Prevention Reauthorization Act of 2017</title>
+          <originChamber>Senate</originChamber>
+          <number>860</number>
+          <type>S</type>
+          <originChamberCode>S</originChamberCode>
+          <congress>115</congress>
+        </amendedBill>
+        <updateDate>2017-09-11T03:06:28Z</updateDate>
+        <links />
+        <titles />
+        <description />
+        <latestAction>
+          <text>Amendment SA 741 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2017-08-01</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>SAMDT</type>
+      </amendment>
+    </amendments>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

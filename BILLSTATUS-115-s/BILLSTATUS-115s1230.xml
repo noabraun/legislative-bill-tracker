@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <systemCode>sseg00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-25T15:29:33Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-26T13:45:36Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>Public Lands, Forests, and Mining Subcommittee</name>
+              <systemCode>sseg03</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-26T04:30:37Z</updateDate>
+    <committeeReports />
+    <actions>
+      <actionTypeCounts>
+        <hearingsHeld>1</hearingsHeld>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>sseg03</systemCode>
+          <name>Public Lands, Forests, and Mining Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-05-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in Senate</text>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-05-26T00:41:39Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>B001261</bioguideId>
+        <lastName>Barrasso</lastName>
+        <middleName />
+        <firstName>John</firstName>
+        <fullName>Sen. Barrasso, John [R-WY]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>1881</lisID>
+          <gpoId>8300</gpoId>
+          <bioguideId>B001261</bioguideId>
+        </identifiers>
+        <state>WY</state>
+      </item>
+    </sponsors>
+    <billNumber>1230</billNumber>
+    <notes />
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <lastName>FLAKE</lastName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>F000444</bioguideId>
+        <firstName>JEFF</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Flake, Jeff [R-AZ]</fullName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <gpoId>7803</gpoId>
+          <bioguideId>F000444</bioguideId>
+          <lisID>1633</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>CRAPO</lastName>
+        <state>ID</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000880</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Crapo, Mike [R-ID]</fullName>
+        <middleName>D.</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>C000880</bioguideId>
+          <lisID>250</lisID>
+          <gpoId>8289</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>ENZI</lastName>
+        <state>WY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000285</bioguideId>
+        <firstName>MICHAEL</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Enzi, Michael B. [R-WY]</fullName>
+        <middleName>B.</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1542</lisID>
+          <gpoId>8328</gpoId>
+          <bioguideId>E000285</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Gardner</lastName>
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000562</bioguideId>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>HATCH</lastName>
+        <state>UT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H000338</bioguideId>
+        <firstName>ORRIN</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <middleName>GRANT</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1351</lisID>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Heller</lastName>
+        <state>NV</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001041</bioguideId>
+        <firstName>Dean</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <middleName />
+        <party>R</party>
+        <identifiers>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+          <bioguideId>H001041</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>MCCAIN</lastName>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000303</bioguideId>
+        <firstName>JOHN</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <middleName>SIDNEY</middleName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M000303</bioguideId>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <lastName>Risch</lastName>
+        <state>ID</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000584</bioguideId>
+        <firstName>James</firstName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <middleName>E.</middleName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1896</lisID>
+          <bioguideId>R000584</bioguideId>
+          <gpoId>8274</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <laws />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Water Rights Protection Act of 2017</b></p> <p> This bill prohibits the Departments of the Interior and Agriculture from:</p> <ul> <li>conditioning the issuance, renewal, amendment, or extension of any permit, approval, license, lease, allotment, easement, right-of-way, or other land use or occupancy agreement (permit) on the transfer of any water right to the United States or on any impairment of title granted or otherwise recognized under state law by federal or state action;</li> <li>requiring any water user (including a federally recognized Indian tribe) to apply for or acquire a water right in the name of the United States under state law as a condition of the issuance, renewal, amendment, or extension of such a permit; or </li> <li>conditioning or withholding the issuance, renewal, amendment, or extension of such a permit on limiting the date, time, quantity, location of diversion or pumping, or place of use of a state water right beyond any limitations under state water law, or on the modification of the terms and conditions of groundwater withdrawal, guidance and reporting procedures, or conservation and source protection measures established by a state. </li> </ul> <p>In developing any rule or similar federal action relating to the issuance, renewal, amendment, or extension of any permit, such departments: (1) shall recognize the longstanding water use authority of the states and coordinate with the states to ensure that any federal action is consistent with applicable state water law, and (2) shall not adversely affect the authority of a state in permitting the beneficial use of water or adjudicating water rights.</p>]]></text>
+          <actionDate>2017-05-25</actionDate>
+          <updateDate>2017-05-25T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-09-21T21:39:04Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <title>Water Rights Protection Act of 2017</title>
+    <introducedDate>2017-05-25</introducedDate>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-07-25</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 187.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>2939</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Water Rights Protection Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <amendments />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Water Rights Protection Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Water Rights Protection Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to prohibit the conditioning of any permit, lease, or other use agreement on the transfer of any water right to the United States by the Secretaries of the Interior and Agriculture, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Water Rights Protection Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

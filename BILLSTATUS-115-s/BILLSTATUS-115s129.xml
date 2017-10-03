@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-09-18T20:34:56Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-09-19T16:53:19Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <systemCode>hsii13</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2017-03-30T15:39:02Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-01-24T15:00:00Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-01-12T20:18:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Commerce, Science, and Transportation Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>sscm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-29T16:59:42Z</updateDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-15</citation>
+      </committeeReport>
+    </committeeReports>
+    <actions>
+      <actionTypeCounts>
+        <freeText>1</freeText>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <sentToHouse>1</sentToHouse>
+        <measureLaidBeforeSenate>1</measureLaidBeforeSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <reportedToSenate>2</reportedToSenate>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <orderedReported>1</orderedReported>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <introducedInSenate>1</introducedInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <passedSenate>1</passedSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>11</senate>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-19</actionDate>
+        <committee>
+          <systemCode>hsii13</systemCode>
+          <name>Water, Power and Oceans Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-09-18</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Received in the House.</text>
+        <actionCode>H14000</actionCode>
+        <actionDate>2017-09-18</actionDate>
+        <links />
+        <committee />
+        <actionTime>14:03:23</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-18</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Passed Senate with an amendment by Voice Vote.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <text>Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.</text>
+        <actionCode>17000</actionCode>
+        <actionDate>2017-09-14</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-09-14</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S5770-5771</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5770-5771</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Measure laid before Senate by unanimous consent. (consideration: CR S5770-5771)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>report No. 115-15</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/15</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>An errata sheet on written report No. 115-15 was printed. (text: &lt;a href="https://www.gpo.gov/fdsys/pkg/CRPT-115srpt15/pdf/CRPT-115srpt15-ERRATA.pdf"&gt;115S.Rept.15 errata&lt;/a&gt;)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 26.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-15</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/15</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-15.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Commerce, Science, and Transportation. Reported by Senator Thune without amendment. With written report No. 115-15.</text>
+        <actionCode>14000</actionCode>
+        <actionDate>2017-03-30</actionDate>
+        <links>
+          <link>
+            <name>report No. 115-15</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/15</url>
+          </link>
+        </links>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <systemCode>sscm00</systemCode>
+          <name>Commerce, Science, and Transportation Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <createDate>2017-01-13T04:55:34Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>W000437</bioguideId>
+        <lastName>WICKER</lastName>
+        <middleName>F.</middleName>
+        <firstName>ROGER</firstName>
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>1226</lisID>
+          <gpoId>8263</gpoId>
+          <bioguideId>W000437</bioguideId>
+        </identifiers>
+        <state>MS</state>
+      </item>
+    </sponsors>
+    <billNumber>129</billNumber>
+    <notes />
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Agricultural research</name>
+          </item>
+          <item>
+            <name>Aquaculture</name>
+          </item>
+          <item>
+            <name>Aquatic ecology</name>
+          </item>
+          <item>
+            <name>Congressional committees</name>
+          </item>
+          <item>
+            <name>Congressional officers and employees</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Food supply, safety, and labeling</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Great Lakes</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Seafood</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <state>HI</state>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <lisID>2173</lisID>
+          <gpoId />
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <bioguideId>S001194</bioguideId>
+      </item>
+      <item>
+        <state>WA</state>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>MARIA</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <lastName>CANTWELL</lastName>
+        <identifiers>
+          <lisID>172</lisID>
+          <gpoId>8288</gpoId>
+          <bioguideId>C000127</bioguideId>
+        </identifiers>
+        <bioguideId>C000127</bioguideId>
+      </item>
+      <item>
+        <state>AK</state>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dan</firstName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <lastName>Sullivan</lastName>
+        <identifiers>
+          <lisID>2290</lisID>
+          <bioguideId>S001198</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001198</bioguideId>
+      </item>
+      <item>
+        <state>AK</state>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lisa</firstName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <lastName>Murkowski</lastName>
+        <identifiers>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+          <bioguideId>M001153</bioguideId>
+        </identifiers>
+        <bioguideId>M001153</bioguideId>
+      </item>
+      <item>
+        <state>FL</state>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <firstName>CLARENCE</firstName>
+        <middleName>WILLIAM</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+      </item>
+    </cosponsors>
+    <laws />
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-02-14T21:46:38Z</pubDate>
+        <title>S. 129, National Sea Grant College Program Amendments Act of 2017</title>
+        <url>https://www.cbo.gov/publication/52425</url>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><b>National Sea Grant College Program Amendments Act of 2017</b></p> <p> This bill amends the National Sea Grant College Program Act to reauthorize through FY2022 the National Sea Grant College Program.</p> <p>The bill requires the National Oceanic and Atmospheric Administration (NOAA) to award Dean John A. Knauss Marine Policy Fellowships. Currently, NOAA has discretion in awarding such fellowships. Those fellowships support the placement of graduate students in fields related to ocean, coastal, and Great Lakes resources in positions with the executive and legislative branches.</p> <p>NOAA must establish priorities for the use of donations given for the National Sea Grant Program. </p> <p>An agency may appoint a recipient of a Dean John A. Knauss Marine Policy Fellowship to a federal position within two years after such recipient successfully completes a fellowship.</p> <p>The bill authorizes through FY2022 grants for university research on: (1) the biology, prevention, and control of aquatic nonnative species; (2) oyster diseases, oyster restoration, and oyster-related human health risks; (3) the biology, prevention, and forecasting of harmful algal blooms; and (4) sustainable aquaculture techniques and technologies. The bill also authorizes through FY2022 grants for: (1) fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance existing core program funding; and (2) priority issues identified in the National Sea Grant Program's strategic plan.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-01-12</actionDate>
+          <lastSummaryUpdateDate>2017-01-27T14:55:56Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <title>National Sea Grant College Program Amendments Act of 2017</title>
+    <introducedDate>2017-01-12</introducedDate>
+    <version>1.0.0</version>
+    <relatedBills />
+    <amendments>
+      <amendment>
+        <latestAction>
+          <text>Amendment SA 1091 agreed to in Senate by Unanimous Consent.</text>
+          <actionDate>2017-09-14</actionDate>
+        </latestAction>
+        <type>SAMDT</type>
+        <description />
+        <purpose>In the nature of a substitute.</purpose>
+        <congress>115</congress>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <type>SAMDT</type>
+        <number>1091</number>
+        <purpose>In the nature of a substitute.</purpose>
+        <version>1.0.0</version>
+        <sponsors>
+          <item>
+            <identifiers>
+              <lisID>1226</lisID>
+              <gpoId>8263</gpoId>
+              <bioguideId>W000437</bioguideId>
+            </identifiers>
+            <middleName>F.</middleName>
+            <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+            <lastName>WICKER</lastName>
+            <party>R</party>
+            <state>MS</state>
+            <firstName>ROGER</firstName>
+            <bioguideId>W000437</bioguideId>
+          </item>
+        </sponsors>
+        <congress>115</congress>
+        <proposedDate>2017-09-14T04:00:00Z</proposedDate>
+        <actions>
+          <actions>
+            <item>
+              <actionDate>2017-09-14</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1091</url>
+                  <name>S.Amdt.1091</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1091</url>
+                  <name>SA 1091</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 1091 agreed to in Senate by Unanimous Consent.</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-09-14</actionDate>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1091</url>
+                  <name>S.Amdt.1091</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5769-5770</url>
+                  <name>S5769-5770</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5770</url>
+                  <name>S5770</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1091</url>
+                  <name>SA 1091</name>
+                </link>
+              </links>
+              <sourceSystem>
+                <name>Senate</name>
+                <code>0</code>
+              </sourceSystem>
+              <text>Amendment SA 1091 proposed by Senator McConnell for Senator Wicker. (consideration: CR S5770; text: CR S5769-5770)</text>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-09-14</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <type>Floor</type>
+              <text>Senate amendment proposed (on the floor): Amendment SA 1091 proposed by Senator McConnell for Senator Wicker.</text>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1091</url>
+                  <name>S.Amdt.1091</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5769-5770</url>
+                  <name>S5769-5770</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S5770</url>
+                  <name>S5770</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1091</url>
+                  <name>SA 1091</name>
+                </link>
+              </links>
+              <actionDate>2017-09-14</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionCode>93000</actionCode>
+            </item>
+            <item>
+              <type>Floor</type>
+              <text>Senate amendment agreed to: Amendment SA 1091 agreed to in Senate by Unanimous Consent.</text>
+              <committee />
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1091</url>
+                  <name>S.Amdt.1091</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/senate-amendment/1091</url>
+                  <name>SA 1091</name>
+                </link>
+              </links>
+              <actionDate>2017-09-14</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionCode>94000</actionCode>
+            </item>
+            <item>
+              <type>Floor</type>
+              <text>Senate amendment submitted</text>
+              <committee />
+              <links />
+              <actionDate>2017-09-14</actionDate>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <actionCode>91000</actionCode>
+            </item>
+          </actions>
+          <actionTypeCounts>
+            <senateAmendmentSubmitted>1</senateAmendmentSubmitted>
+            <amendmentProposed>1</amendmentProposed>
+            <senateAmendmentProposedOnTheFloor>1</senateAmendmentProposedOnTheFloor>
+            <amendmentAgreedTo>1</amendmentAgreedTo>
+            <senateAmendmentAgreedTo>1</senateAmendmentAgreedTo>
+          </actionTypeCounts>
+          <actionByCounts>
+            <senate>5</senate>
+          </actionByCounts>
+          <count>6</count>
+        </actions>
+        <amendedBill>
+          <type>S</type>
+          <number>129</number>
+          <originChamberCode>S</originChamberCode>
+          <congress>115</congress>
+          <originChamber>Senate</originChamber>
+          <title>National Sea Grant College Program Amendments Act of 2017</title>
+        </amendedBill>
+        <amendedAmendment />
+        <titles />
+        <links />
+        <description />
+        <createDate>2017-09-15T04:50:51Z</createDate>
+        <updateDate>2017-09-29T16:59:42Z</updateDate>
+        <chamber>Senate</chamber>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <notes />
+        <submittedDate>2017-09-14T04:00:00Z</submittedDate>
+        <number>1091</number>
+      </amendment>
+    </amendments>
+    <calendarNumbers>
+      <item>
+        <number>0026</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <latestAction>
+      <actionDate>2017-09-19</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </latestAction>
+    <originChamber>Senate</originChamber>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <chamberName>Senate</chamberName>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>National Sea Grant College Program Amendments Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

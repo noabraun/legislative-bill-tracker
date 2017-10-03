@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <relatedBills />
+    <version>1.0.0</version>
+    <latestAction>
+      <links />
+      <actionDate>2017-03-08</actionDate>
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <cboCostEstimates />
+    <actions>
+      <item>
+        <actionDate>2017-03-08</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <type>IntroReferral</type>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-08</actionDate>
+        <actionCode>10000</actionCode>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>James</firstName>
+        <lastName>Lankford</lastName>
+        <byRequestType />
+        <state>OK</state>
+        <identifiers>
+          <lisID>2050</lisID>
+          <gpoId>8113</gpoId>
+          <bioguideId>L000575</bioguideId>
+        </identifiers>
+        <fullName>Sen. Lankford, James [R-OK]</fullName>
+        <middleName />
+        <bioguideId>L000575</bioguideId>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <text><![CDATA[<p><strong>Truth in Regulations Act of</strong> <b>2017</b></p> <p>This bill requires agencies to have written procedures to ensure that an issuance of policy guidance documents (other than regulatory actions) is approved by each appropriate senior agency official unless a supervisor or agency head has agreed to an employee's justification to deviate from the requirements. An agency must also maintain on its website a list of, links to, and a means for the public to comment on and request issuance, modification, or rescission of, such documents.</p> <p>A guidance document may not include mandatory language unless: (1) the agency is describing a statutory or regulatory requirement, (2) the language is addressed to agency employees, or (3) the prohibition against that mandatory language prevents agency consideration of a position advanced by an affected private party.</p> <p>The bill requires agencies to publish drafts of guidance documents for public comment. </p> <p>The bill replaces the &quot;good cause&quot; exception to proposed rulemaking notice and publication requirements with an exception that applies if the agency determines that an imminent threat to public health or safety or a similar exigent circumstance exists. When such exception is applied, the agency, within 18 months after the rule takes effect, shall: (1) provide for a period in which interested persons may submit written data, views, or arguments; and (2) consider such submissions and, if appropriate, repeal or amend the rule.</p>]]></text>
+          <actionDate>2017-03-08</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-03-08T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-05-03T18:20:10Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Truth in Regulations Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Truth in Regulations Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to establish agency procedures for the issuance of guidance documents, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Truth in Regulations Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <cosponsors />
+    <laws />
+    <title>Truth in Regulations Act of 2017</title>
+    <billType>S</billType>
+    <introducedDate>2017-03-08</introducedDate>
+    <createDate>2017-03-09T05:25:17Z</createDate>
+    <recordedVotes />
+    <congress>115</congress>
+    <updateDate>2017-07-07T04:28:26Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssga00</systemCode>
+          <activities>
+            <item>
+              <date>2017-03-08T20:57:32Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <billNumber>580</billNumber>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

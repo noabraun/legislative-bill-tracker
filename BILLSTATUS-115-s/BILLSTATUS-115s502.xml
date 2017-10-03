@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <middleName />
+        <identifiers>
+          <gpoId>8249</gpoId>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+        </identifiers>
+        <firstName>Amy</firstName>
+        <lastName>Klobuchar</lastName>
+        <bioguideId>K000367</bioguideId>
+        <party>D</party>
+        <state>MN</state>
+        <sponsorshipDate>2017-03-02</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <version>1.0.0</version>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Land transfers</name>
+          </item>
+          <item>
+            <name>Minnesota</name>
+          </item>
+          <item>
+            <name>Parks, recreation areas, trails</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <introducedDate>2017-03-02</introducedDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <calendarNumbers>
+      <item>
+        <number>0082</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <originChamber>Senate</originChamber>
+    <laws />
+    <latestAction>
+      <actionDate>2017-05-16</actionDate>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 82.</text>
+    </latestAction>
+    <updateDate>2017-08-10T13:24:05Z</updateDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-05-16T15:08:29Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-03-30T13:30:00Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-02T18:26:59Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+          <name>Energy and Natural Resources Committee</name>
+          <subcommittees />
+          <systemCode>sseg00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <reportedToSenate>2</reportedToSenate>
+        <orderedReported>1</orderedReported>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-16</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 82.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-05-16</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-64</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/64</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-64.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Committee on Energy and Natural Resources. Reported by Senator Murkowski without amendment. With written report No. 115-64.</text>
+        <actionCode>14000</actionCode>
+        <links>
+          <link>
+            <name>report No. 115-64</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/64</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>Committee</type>
+        <actionDate>2017-05-16</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-03-30</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-02</actionDate>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>6</senate>
+      </actionByCounts>
+    </actions>
+    <title>A bill to modify the boundary of Voyageurs National Park in the State of Minnesota, and for other purposes.</title>
+    <createDate>2017-03-03T05:11:27Z</createDate>
+    <notes />
+    <cboCostEstimates>
+      <item>
+        <title>S. 502, a bill to modify the boundary of Voyageurs National Park in the state of Minnesota, and for other purposes</title>
+        <pubDate>2017-04-10T20:46:59Z</pubDate>
+        <url>https://www.cbo.gov/publication/52610</url>
+      </item>
+    </cboCostEstimates>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>A bill to modify the boundary of Voyageurs National Park in the State of Minnesota, and for other purposes.</title>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>A bill to modify the boundary of Voyageurs National Park in the State of Minnesota, and for other purposes.</title>
+      </item>
+    </titles>
+    <billType>S</billType>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-06-01T20:15:30Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>This bill modifies the boundaries of Voyageurs National Park in Minnesota. </p> <p> The bill transfers to the National Park Service of the Department of the Interior administrative jurisdiction over: </p> <ul type="disc"> <li>any land managed by the Bureau of Land Management (BLM) within the boundaries of the park, and </li> <li>any additional public land identified by the BLM as appropriate for transfer within the boundaries of the park. </li> </ul> <p>Any land located within or adjacent to the boundaries of the park that is owned by Minnesota (or a political subdivision) may be acquired by Interior through donation or exchange only. </p>]]></text>
+          <actionDate>2017-03-02</actionDate>
+          <updateDate>2017-03-02T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+          <lastSummaryUpdateDate>2017-06-01T20:16:15Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) This bill modifies the boundaries of Voyageurs National Park in Minnesota. </p> <p> The bill transfers to the National Park Service of the Department of the Interior administrative jurisdiction over: </p> <ul type="disc"> <li>any land managed by the Bureau of Land Management (BLM) within the boundaries of the park, and </li> <li>any additional public land identified by the BLM as appropriate for transfer within the boundaries of the park. </li> </ul> <p>Any land located within or adjacent to the boundaries of the park that is owned by Minnesota (or a political subdivision) may be acquired by Interior through donation or exchange only. </p> <p>Upon completion of any such acquisition from Minnesota, Interior shall revise the park's boundaries to reflect the acquisition.</p>]]></text>
+          <actionDate>2017-05-16</actionDate>
+          <updateDate>2017-05-16T12:30:10Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <firstName>Al</firstName>
+        <byRequestType />
+        <bioguideId>F000457</bioguideId>
+        <lastName>Franken</lastName>
+        <party>D</party>
+        <state>MN</state>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <identifiers>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+        </identifiers>
+        <middleName />
+      </item>
+    </sponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-64</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <number>1350</number>
+        <latestTitle>To modify the boundary of Voyageurs National Park in the State of Minnesota, and for other purposes.</latestTitle>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-03-15</actionDate>
+          <text>Referred to the Subcommittee on Federal Lands.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billNumber>502</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <committee>
+          <systemCode>ssbu00</systemCode>
+          <name>Budget Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Budget.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-06-15</actionDate>
+        <actionCode>10000</actionCode>
+        <text>Introduced in Senate</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>D000563</bioguideId>
+        <lastName>DURBIN</lastName>
+        <identifiers>
+          <lisID>326</lisID>
+          <gpoId>8326</gpoId>
+          <bioguideId>D000563</bioguideId>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <state>IL</state>
+        <party>D</party>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Wyden, Ron [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>W000779</bioguideId>
+        <lastName>WYDEN</lastName>
+        <identifiers>
+          <lisID>1247</lisID>
+          <gpoId>8265</gpoId>
+          <bioguideId>W000779</bioguideId>
+        </identifiers>
+        <firstName>RON</firstName>
+        <state>OR</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>M001111</bioguideId>
+        <lastName>MURRAY</lastName>
+        <identifiers>
+          <lisID>1409</lisID>
+          <gpoId>8237</gpoId>
+          <bioguideId>M001111</bioguideId>
+        </identifiers>
+        <firstName>PATTY</firstName>
+        <state>WA</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>S000033</bioguideId>
+        <lastName>SANDERS</lastName>
+        <identifiers>
+          <lisID>1010</lisID>
+          <gpoId>8270</gpoId>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <firstName>BERNARD</firstName>
+        <state>VT</state>
+        <party>I</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>B001230</bioguideId>
+        <lastName>BALDWIN</lastName>
+        <identifiers>
+          <gpoId>8215</gpoId>
+          <bioguideId>B001230</bioguideId>
+          <lisID>1558</lisID>
+        </identifiers>
+        <firstName>TAMMY</firstName>
+        <state>WI</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>B001267</bioguideId>
+        <lastName>Bennet</lastName>
+        <identifiers>
+          <lisID>1965</lisID>
+          <gpoId>8302</gpoId>
+          <bioguideId>B001267</bioguideId>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <state>CO</state>
+        <party>D</party>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>B001277</bioguideId>
+        <lastName>Blumenthal</lastName>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <lisID>2076</lisID>
+          <bioguideId>B001277</bioguideId>
+        </identifiers>
+        <firstName>Richard</firstName>
+        <state>CT</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Booker, Cory A. [D-NJ]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>B001288</bioguideId>
+        <lastName>Booker</lastName>
+        <identifiers>
+          <lisID>2194</lisID>
+          <bioguideId>B001288</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Cory</firstName>
+        <state>NJ</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>B000944</bioguideId>
+        <lastName>BROWN</lastName>
+        <identifiers>
+          <lisID>136</lisID>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+        </identifiers>
+        <firstName>SHERROD</firstName>
+        <state>OH</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>C000127</bioguideId>
+        <lastName>CANTWELL</lastName>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <firstName>MARIA</firstName>
+        <state>WA</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>C000141</bioguideId>
+        <lastName>CARDIN</lastName>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+          <lisID>174</lisID>
+        </identifiers>
+        <firstName>BENJAMIN</firstName>
+        <state>MD</state>
+        <party>D</party>
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Carper, Thomas R. [D-DE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>C000174</bioguideId>
+        <lastName>CARPER</lastName>
+        <identifiers>
+          <gpoId>8283</gpoId>
+          <bioguideId>C000174</bioguideId>
+          <lisID>179</lisID>
+        </identifiers>
+        <firstName>THOMAS</firstName>
+        <state>DE</state>
+        <party>D</party>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>C001070</bioguideId>
+        <lastName>Casey</lastName>
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <lisID>1828</lisID>
+          <bioguideId>C001070</bioguideId>
+        </identifiers>
+        <firstName>Bob</firstName>
+        <state>PA</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>C001088</bioguideId>
+        <lastName>Coons</lastName>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <state>DE</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Cortez Masto, Catherine  [D-NV]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>C001113</bioguideId>
+        <lastName>Cortez Masto</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2299</lisID>
+          <bioguideId>C001113</bioguideId>
+        </identifiers>
+        <firstName>Catherine</firstName>
+        <state>NV</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>D000622</bioguideId>
+        <lastName>Duckworth</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <firstName>Tammy</firstName>
+        <state>IL</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Feinstein, Dianne [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>F000062</bioguideId>
+        <lastName>FEINSTEIN</lastName>
+        <identifiers>
+          <lisID>1332</lisID>
+          <bioguideId>F000062</bioguideId>
+          <gpoId>8338</gpoId>
+        </identifiers>
+        <firstName>DIANNE</firstName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>F000457</bioguideId>
+        <lastName>Franken</lastName>
+        <identifiers>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+          <bioguideId>F000457</bioguideId>
+        </identifiers>
+        <firstName>Al</firstName>
+        <state>MN</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Harris, Kamala D. [D-CA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>H001075</bioguideId>
+        <lastName>Harris</lastName>
+        <identifiers>
+          <lisID>2301</lisID>
+          <gpoId />
+          <bioguideId>H001075</bioguideId>
+        </identifiers>
+        <firstName>Kamala</firstName>
+        <state>CA</state>
+        <party>D</party>
+        <middleName>D.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hassan, Margaret Wood [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>H001076</bioguideId>
+        <lastName>Hassan</lastName>
+        <identifiers>
+          <lisID>2302</lisID>
+          <gpoId />
+          <bioguideId>H001076</bioguideId>
+        </identifiers>
+        <firstName>Margaret</firstName>
+        <state>NH</state>
+        <party>D</party>
+        <middleName>Wood</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Heinrich, Martin [D-NM]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>H001046</bioguideId>
+        <lastName>Heinrich</lastName>
+        <identifiers>
+          <lisID>1937</lisID>
+          <bioguideId>H001046</bioguideId>
+          <gpoId>8056</gpoId>
+        </identifiers>
+        <firstName>Martin</firstName>
+        <state>NM</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>H001042</bioguideId>
+        <lastName>Hirono</lastName>
+        <identifiers>
+          <gpoId>7913</gpoId>
+          <bioguideId>H001042</bioguideId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <firstName>Mazie</firstName>
+        <state>HI</state>
+        <party>D</party>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Kaine, Tim [D-VA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>K000384</bioguideId>
+        <lastName>Kaine</lastName>
+        <identifiers>
+          <lisID>2176</lisID>
+          <gpoId />
+          <bioguideId>K000384</bioguideId>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <state>VA</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>K000383</bioguideId>
+        <lastName>King</lastName>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Angus</firstName>
+        <state>ME</state>
+        <party>I</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Klobuchar, Amy [D-MN]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>K000367</bioguideId>
+        <lastName>Klobuchar</lastName>
+        <identifiers>
+          <lisID>1826</lisID>
+          <bioguideId>K000367</bioguideId>
+          <gpoId>8249</gpoId>
+        </identifiers>
+        <firstName>Amy</firstName>
+        <state>MN</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>L000174</bioguideId>
+        <lastName>LEAHY</lastName>
+        <identifiers>
+          <lisID>1383</lisID>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+        </identifiers>
+        <firstName>PATRICK</firstName>
+        <state>VT</state>
+        <party>D</party>
+        <middleName>JOSEPH</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>M000133</bioguideId>
+        <lastName>MARKEY</lastName>
+        <identifiers>
+          <lisID>735</lisID>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+        </identifiers>
+        <firstName>EDWARD</firstName>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Merkley, Jeff [D-OR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>M001176</bioguideId>
+        <lastName>Merkley</lastName>
+        <identifiers>
+          <gpoId>8238</gpoId>
+          <lisID>1900</lisID>
+          <bioguideId>M001176</bioguideId>
+        </identifiers>
+        <firstName>Jeff</firstName>
+        <state>OR</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>M001169</bioguideId>
+        <lastName>Murphy</lastName>
+        <identifiers>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <firstName>Christopher</firstName>
+        <state>CT</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>N000032</bioguideId>
+        <lastName>NELSON</lastName>
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+          <bioguideId>N000032</bioguideId>
+        </identifiers>
+        <firstName>CLARENCE</firstName>
+        <state>FL</state>
+        <party>D</party>
+        <middleName>WILLIAM</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Peters, Gary C. [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>P000595</bioguideId>
+        <lastName>Peters</lastName>
+        <identifiers>
+          <lisID>1929</lisID>
+          <bioguideId>P000595</bioguideId>
+          <gpoId>7994</gpoId>
+        </identifiers>
+        <firstName>Gary</firstName>
+        <state>MI</state>
+        <party>D</party>
+        <middleName>C.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Reed, Jack [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>R000122</bioguideId>
+        <lastName>REED</lastName>
+        <identifiers>
+          <lisID>949</lisID>
+          <bioguideId>R000122</bioguideId>
+          <gpoId>8272</gpoId>
+        </identifiers>
+        <firstName>JOHN</firstName>
+        <state>RI</state>
+        <party>D</party>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>S001194</bioguideId>
+        <lastName>Schatz</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <state>HI</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>S001181</bioguideId>
+        <lastName>Shaheen</lastName>
+        <identifiers>
+          <lisID>1901</lisID>
+          <gpoId>8276</gpoId>
+          <bioguideId>S001181</bioguideId>
+        </identifiers>
+        <firstName>Jeanne</firstName>
+        <state>NH</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>S000770</bioguideId>
+        <lastName>STABENOW</lastName>
+        <identifiers>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+          <bioguideId>S000770</bioguideId>
+        </identifiers>
+        <firstName>DEBORAH</firstName>
+        <state>MI</state>
+        <party>D</party>
+        <middleName>ANN</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Udall, Tom [D-NM]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>U000039</bioguideId>
+        <lastName>UDALL</lastName>
+        <identifiers>
+          <lisID>1567</lisID>
+          <bioguideId>U000039</bioguideId>
+          <gpoId>8260</gpoId>
+        </identifiers>
+        <firstName>TOM</firstName>
+        <state>NM</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>V000128</bioguideId>
+        <lastName>Van Hollen</lastName>
+        <identifiers>
+          <gpoId>7983</gpoId>
+          <bioguideId>V000128</bioguideId>
+          <lisID>1729</lisID>
+        </identifiers>
+        <firstName>Chris</firstName>
+        <state>MD</state>
+        <party>D</party>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>W000817</bioguideId>
+        <lastName>Warren</lastName>
+        <identifiers>
+          <lisID>2182</lisID>
+          <gpoId />
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <party>D</party>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Whitehouse, Sheldon [D-RI]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <bioguideId>W000802</bioguideId>
+        <lastName>Whitehouse</lastName>
+        <identifiers>
+          <lisID>1823</lisID>
+          <bioguideId>W000802</bioguideId>
+          <gpoId>8264</gpoId>
+        </identifiers>
+        <firstName>Sheldon</firstName>
+        <state>RI</state>
+        <party>D</party>
+        <middleName />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>CHARLES</firstName>
+        <party>D</party>
+        <bioguideId>S000148</bioguideId>
+        <middleName>E.</middleName>
+        <state>NY</state>
+        <lastName>SCHUMER</lastName>
+        <fullName>Sen. Schumer, Charles E. [D-NY]</fullName>
+        <identifiers>
+          <lisID>1036</lisID>
+          <bioguideId>S000148</bioguideId>
+          <gpoId>8279</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <billType>S</billType>
+    <policyArea>
+      <name>Economics and Public Finance</name>
+    </policyArea>
+    <introducedDate>2017-06-15</introducedDate>
+    <title>No Hearing, No Vote Act of 2017</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-06-15</actionDate>
+          <text><![CDATA[<p><b>No Hearing, No Vote Act of 2017 </b></p> <p>This bill amends the Congressional Budget Act of 1974 to prohibit the Senate from considering any reconciliation bill or reconciliation resolution, unless:</p> <ul> <li> the legislation is either ordered reported to the Senate by the committee receiving reconciliation instructions or reported by the Senate Budget Committee after receiving recommendations from multiple committees receiving instructions, and </li> <li>each committee that ordered the legislation to be reported or ordered recommendations to be reported to the Senate Budget Committee held at least one hearing regarding any major provision of the legislation that is within the jurisdiction of the committee</li> </ul> <p>An affirmative vote of three-fifths of the Senators, duly chosen and sworn, is required to either: (1) waive or suspend the requirements of this bill, or (2) sustain an appeal of the ruling of the chair on a point of order raised, with respect to the requirements. </p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-06-15T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-19T14:26:38Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Read twice and referred to the Committee on the Budget.</text>
+      <actionDate>2017-06-15</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <notes />
+    <billNumber>1376</billNumber>
+    <committeeReports />
+    <recordedVotes />
+    <updateDate>2017-09-22T12:43:17Z</updateDate>
+    <laws />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Economics and Public Finance</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>No Hearing, No Vote Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>A bill to ensure that all fast-tracked reconciliation bills are subject to a committee hearing, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>No Hearing, No Vote Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>No Hearing, No Vote Act of 2017</title>
+      </item>
+    </titles>
+    <createDate>2017-06-16T00:41:36Z</createDate>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssbu00</systemCode>
+          <subcommittees />
+          <name>Budget Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-15T21:19:50Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

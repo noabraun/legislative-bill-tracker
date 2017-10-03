@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="well spaced" style="width:60%">
+    <h1>Senators</h1>
+    <ul>
+      {% for senator in senators %}
+          <li>
+              <a href="/senators/{{ senator.name }}">
+                {{ senator.name}}
+              </a>
+          </li>
+
+      {% endfor %}
+    </ul>
+</div>
+{% endblock %}
+

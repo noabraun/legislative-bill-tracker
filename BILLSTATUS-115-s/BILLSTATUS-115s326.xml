@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-02-07</introducedDate>
+    <laws />
+    <createDate>2017-02-08T08:07:49Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <name>Finance Committee</name>
+          <systemCode>ssfi00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Finance.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>10000</actionCode>
+        <links />
+        <text>Introduced in Senate</text>
+        <actionDate>2017-02-07</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>H001041</bioguideId>
+        <firstName>Dean</firstName>
+        <fullName>Sen. Heller, Dean [R-NV]</fullName>
+        <lastName>Heller</lastName>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>H001041</bioguideId>
+          <lisID>1863</lisID>
+          <gpoId>8060</gpoId>
+        </identifiers>
+        <party>R</party>
+        <state>NV</state>
+        <middleName />
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <chamberCode />
+        <title>Public Buildings Renewal Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Public Buildings Renewal Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>A bill to amend the Internal Revenue Code of 1986 to provide for the tax-exempt financing of certain government-owned buildings.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <title>Public Buildings Renewal Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssfi00</systemCode>
+          <activities>
+            <item>
+              <date>2017-02-07T17:09:51Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Finance Committee</name>
+          <type>Standing</type>
+          <chamber>Senate</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Public Buildings Renewal Act of 2017</title>
+    <billNumber>326</billNumber>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <firstName>CLARENCE</firstName>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>N000032</bioguideId>
+        <middleName>WILLIAM</middleName>
+        <party>D</party>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <lastName>NELSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000032</bioguideId>
+          <gpoId>8236</gpoId>
+          <lisID>859</lisID>
+        </identifiers>
+        <state>FL</state>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001075</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Cassidy, Bill [R-LA]</fullName>
+        <lastName>Cassidy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001075</bioguideId>
+          <lisID>1925</lisID>
+          <gpoId>7964</gpoId>
+        </identifiers>
+        <state>LA</state>
+      </item>
+      <item>
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>B001267</bioguideId>
+        <middleName>F.</middleName>
+        <party>D</party>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <lastName>Bennet</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <state>CO</state>
+      </item>
+      <item>
+        <firstName>Cory</firstName>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000562</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Gardner, Cory [R-CO]</fullName>
+        <lastName>Gardner</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000562</bioguideId>
+          <gpoId>7862</gpoId>
+          <lisID>1998</lisID>
+        </identifiers>
+        <state>CO</state>
+      </item>
+      <item>
+        <firstName>Todd</firstName>
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>Y000064</bioguideId>
+        <middleName>C.</middleName>
+        <party>R</party>
+        <fullName>Sen. Young, Todd C. [R-IN]</fullName>
+        <lastName>Young</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Y000064</bioguideId>
+          <gpoId>7948</gpoId>
+          <lisID>2019</lisID>
+        </identifiers>
+        <state>IN</state>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-02-13</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>P000612</bioguideId>
+        <middleName>Alfred</middleName>
+        <party>R</party>
+        <fullName>Sen. Perdue, David [R-GA]</fullName>
+        <lastName>Perdue</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2286</lisID>
+          <bioguideId>P000612</bioguideId>
+        </identifiers>
+        <state>GA</state>
+      </item>
+      <item>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001095</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Cotton, Tom [R-AR]</fullName>
+        <lastName>Cotton</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2098</lisID>
+          <gpoId />
+          <bioguideId>C001095</bioguideId>
+        </identifiers>
+        <state>AR</state>
+      </item>
+      <item>
+        <firstName>BENJAMIN</firstName>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C000141</bioguideId>
+        <middleName>L.</middleName>
+        <party>D</party>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <lastName>CARDIN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C000141</bioguideId>
+          <lisID>174</lisID>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <state>MD</state>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>R000605</bioguideId>
+        <middleName />
+        <party>R</party>
+        <fullName>Sen. Rounds, Mike  [R-SD]</fullName>
+        <lastName>Rounds</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000605</bioguideId>
+          <lisID>2288</lisID>
+        </identifiers>
+        <state>SD</state>
+      </item>
+    </cosponsors>
+    <updateDate>2017-09-07T06:36:59Z</updateDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <originChamber>Senate</originChamber>
+    <latestAction>
+      <links />
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <actionDate>2017-02-07</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-07</actionDate>
+          <lastSummaryUpdateDate>2017-02-24T13:24:43Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Public Buildings Renewal Act of 2017</b></p> <p>This bill amends the Internal Revenue Code to permit the tax-exempt financing of certain government-owned buildings by expanding the definition of &quot;exempt facility bond&quot; to include bonds used for qualified government buildings. </p> <p>A qualified government building is a government-owned building or facility that consists of one or more of the following: </p> <ul> <li>an elementary or secondary school;</li> <li>a facility of a state college or university used for educational purposes;</li> <li>a public library;</li> <li>a court;</li> <li>a hospital, health care, laboratory, or research facility; </li> <li>a public safety facility; or</li> <li>an office for government employees.</li> </ul> <p>The bill excludes buildings or facilities that include specified recreational equipment or are used for the primary purpose of providing retail food and beverage services, recreation, or entertainment.</p> <p>The bill establishes: (1) a $5 billion limit on the amount of tax-exempt financing which may be provided for government buildings, and (2) procedures for allocating and applying for the financing. </p> <p>The bill exempts the bonds for government buildings from the volume cap on private activity bonds. </p>]]></text>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>To amend the Internal Revenue Code of 1986 to provide for the tax-exempt financing of certain government-owned buildings.</latestTitle>
+        <number>960</number>
+        <latestAction>
+          <text>Referred to the House Committee on Ways and Means.</text>
+          <actionDate>2017-02-07</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Building construction</name>
+          </item>
+          <item>
+            <name>Educational facilities and institutions</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Law enforcement administration and funding</name>
+          </item>
+          <item>
+            <name>Libraries and archives</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Securities</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <committeeReports />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>PATTY</firstName>
+        <bioguideId>M001111</bioguideId>
+        <party>D</party>
+        <fullName>Sen. Murray, Patty [D-WA]</fullName>
+        <byRequestType />
+        <state>WA</state>
+        <lastName>MURRAY</lastName>
+        <identifiers>
+          <bioguideId>M001111</bioguideId>
+          <gpoId>8237</gpoId>
+          <lisID>1409</lisID>
+        </identifiers>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <actions>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <hearingsHeld>2</hearingsHeld>
+        <introducedInSenate>1</introducedInSenate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>4</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <systemCode>spag00</systemCode>
+          <name>Aging Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Special Committee on Aging. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Veterans' Affairs. Hearings held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-09</actionDate>
+        <committee>
+          <systemCode>ssva00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-09</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>Military and Veteran Caregiver Services Improvement Act of 2017</latestTitle>
+        <number>1472</number>
+        <congress>115</congress>
+        <latestAction>
+          <text>Referred to the Subcommittee on Military Personnel.</text>
+          <actionDate>2017-04-05</actionDate>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <amendments />
+    <committeeReports />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>spag00</systemCode>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-06-14T18:30:02Z</date>
+            </item>
+          </activities>
+          <name>Aging Committee</name>
+          <subcommittees />
+          <type>Special</type>
+        </item>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssva00</systemCode>
+          <activities>
+            <item>
+              <name>Hearings by</name>
+              <date>2017-05-17T18:30:12Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-09T17:01:14Z</date>
+            </item>
+          </activities>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <laws />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Military and Veteran Caregiver Services Improvement Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Military and Veteran Caregiver Services Improvement Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to expand eligibility for the program of comprehensive assistance for family caregivers of the Department of Veterans Affairs, to expand benefits available to participants under such program, to enhance special compensation for members of the uniformed services who require assistance in everyday life, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Military and Veteran Caregiver Services Improvement Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+      </item>
+    </titles>
+    <title>Military and Veteran Caregiver Services Improvement Act of 2017</title>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>115</congress>
+    <billType>S</billType>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <lastName>COLLINS</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8291</gpoId>
+          <bioguideId>C001035</bioguideId>
+          <lisID>1541</lisID>
+        </identifiers>
+        <bioguideId>C001035</bioguideId>
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>SUSAN</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Collins, Susan M. [R-ME]</fullName>
+        <middleName>MARGARET</middleName>
+      </item>
+      <item>
+        <lastName>BALDWIN</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1558</lisID>
+          <bioguideId>B001230</bioguideId>
+          <gpoId>8215</gpoId>
+        </identifiers>
+        <bioguideId>B001230</bioguideId>
+        <state>WI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>TAMMY</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Baldwin, Tammy [D-WI]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Bennet</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1965</lisID>
+          <bioguideId>B001267</bioguideId>
+          <gpoId>8302</gpoId>
+        </identifiers>
+        <bioguideId>B001267</bioguideId>
+        <state>CO</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Bennet, Michael F. [D-CO]</fullName>
+        <middleName>F.</middleName>
+      </item>
+      <item>
+        <lastName>Blumenthal</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8332</gpoId>
+          <bioguideId>B001277</bioguideId>
+          <lisID>2076</lisID>
+        </identifiers>
+        <bioguideId>B001277</bioguideId>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Richard</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Blumenthal, Richard [D-CT]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>BROWN</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>B000944</bioguideId>
+          <gpoId>8309</gpoId>
+          <lisID>136</lisID>
+        </identifiers>
+        <bioguideId>B000944</bioguideId>
+        <state>OH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>SHERROD</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Brown, Sherrod [D-OH]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Coons</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8297</gpoId>
+          <lisID>1984</lisID>
+          <bioguideId>C001088</bioguideId>
+        </identifiers>
+        <bioguideId>C001088</bioguideId>
+        <state>DE</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Coons, Christopher A. [D-DE]</fullName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <lastName>DURBIN</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>D000563</bioguideId>
+          <gpoId>8326</gpoId>
+          <lisID>326</lisID>
+        </identifiers>
+        <bioguideId>D000563</bioguideId>
+        <state>IL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>RICHARD</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Durbin, Richard J. [D-IL]</fullName>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <lastName>Franken</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>F000457</bioguideId>
+          <gpoId>8339</gpoId>
+          <lisID>1969</lisID>
+        </identifiers>
+        <bioguideId>F000457</bioguideId>
+        <state>MN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Al</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Franken, Al [D-MN]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <party>I</party>
+        <identifiers>
+          <lisID>2185</lisID>
+          <bioguideId>K000383</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000383</bioguideId>
+        <state>ME</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Angus</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. King, Angus S., Jr. [I-ME]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Murphy</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>7870</gpoId>
+          <lisID>1837</lisID>
+          <bioguideId>M001169</bioguideId>
+        </identifiers>
+        <bioguideId>M001169</bioguideId>
+        <state>CT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Christopher</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Murphy, Christopher [D-CT]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Schatz</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>2173</lisID>
+          <bioguideId>S001194</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>S001194</bioguideId>
+        <state>HI</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Schatz, Brian [D-HI]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>SANDERS</lastName>
+        <party>I</party>
+        <identifiers>
+          <gpoId>8270</gpoId>
+          <lisID>1010</lisID>
+          <bioguideId>S000033</bioguideId>
+        </identifiers>
+        <bioguideId>S000033</bioguideId>
+        <state>VT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>BERNARD</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Sanders, Bernard [I-VT]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Shaheen</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1901</lisID>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+        </identifiers>
+        <bioguideId>S001181</bioguideId>
+        <state>NH</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeanne</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Tester</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8258</gpoId>
+          <lisID>1829</lisID>
+          <bioguideId>T000464</bioguideId>
+        </identifiers>
+        <bioguideId>T000464</bioguideId>
+        <state>MT</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jon</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Tester, Jon [D-MT]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Warner</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8269</gpoId>
+          <bioguideId>W000805</bioguideId>
+          <lisID>1897</lisID>
+        </identifiers>
+        <bioguideId>W000805</bioguideId>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Warner, Mark R. [D-VA]</fullName>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <lastName>CANTWELL</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>172</lisID>
+          <bioguideId>C000127</bioguideId>
+          <gpoId>8288</gpoId>
+        </identifiers>
+        <bioguideId>C000127</bioguideId>
+        <state>WA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>MARIA</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <fullName>Sen. Cantwell, Maria [D-WA]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>MARKEY</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M000133</bioguideId>
+          <gpoId>7972</gpoId>
+          <lisID>735</lisID>
+        </identifiers>
+        <bioguideId>M000133</bioguideId>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>EDWARD</firstName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <fullName>Sen. Markey, Edward J. [D-MA]</fullName>
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <lastName>Hirono</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>H001042</bioguideId>
+          <gpoId>7913</gpoId>
+          <lisID>1844</lisID>
+        </identifiers>
+        <bioguideId>H001042</bioguideId>
+        <state>HI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mazie</firstName>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <fullName>Sen. Hirono, Mazie K. [D-HI]</fullName>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <lastName>Manchin</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1983</lisID>
+          <bioguideId>M001183</bioguideId>
+          <gpoId>8256</gpoId>
+        </identifiers>
+        <bioguideId>M001183</bioguideId>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Joe</firstName>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <fullName>Sen. Manchin, Joe, III [D-WV]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Warren</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2182</lisID>
+          <bioguideId>W000817</bioguideId>
+        </identifiers>
+        <bioguideId>W000817</bioguideId>
+        <state>MA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Elizabeth</firstName>
+        <sponsorshipDate>2017-04-07</sponsorshipDate>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <lastName>MENENDEZ</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>791</lisID>
+          <bioguideId>M000639</bioguideId>
+          <gpoId>8239</gpoId>
+        </identifiers>
+        <bioguideId>M000639</bioguideId>
+        <state>NJ</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>ROBERT</firstName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <fullName>Sen. Menendez, Robert [D-NJ]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Casey</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8282</gpoId>
+          <bioguideId>C001070</bioguideId>
+          <lisID>1828</lisID>
+        </identifiers>
+        <bioguideId>C001070</bioguideId>
+        <state>PA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bob</firstName>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <fullName>Sen. Casey, Robert P., Jr. [D-PA]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>STABENOW</lastName>
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S000770</bioguideId>
+          <gpoId>8261</gpoId>
+          <lisID>1531</lisID>
+        </identifiers>
+        <bioguideId>S000770</bioguideId>
+        <state>MI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>DEBORAH</firstName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <fullName>Sen. Stabenow, Debbie [D-MI]</fullName>
+        <middleName>ANN</middleName>
+      </item>
+      <item>
+        <lastName>Van Hollen</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>1729</lisID>
+          <bioguideId>V000128</bioguideId>
+          <gpoId>7983</gpoId>
+        </identifiers>
+        <bioguideId>V000128</bioguideId>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Chris</firstName>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <fullName>Sen. Van Hollen, Chris [D-MD]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>Duckworth</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000622</bioguideId>
+          <lisID>2123</lisID>
+        </identifiers>
+        <bioguideId>D000622</bioguideId>
+        <state>IL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tammy</firstName>
+        <sponsorshipDate>2017-06-14</sponsorshipDate>
+        <fullName>Sen. Duckworth, Tammy [D-IL]</fullName>
+        <middleName />
+      </item>
+      <item>
+        <lastName>CARDIN</lastName>
+        <party>D</party>
+        <identifiers>
+          <lisID>174</lisID>
+          <bioguideId>C000141</bioguideId>
+          <gpoId>8287</gpoId>
+        </identifiers>
+        <bioguideId>C000141</bioguideId>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>BENJAMIN</firstName>
+        <sponsorshipDate>2017-06-19</sponsorshipDate>
+        <fullName>Sen. Cardin, Benjamin L. [D-MD]</fullName>
+        <middleName>L.</middleName>
+      </item>
+      <item>
+        <lastName>NELSON</lastName>
+        <party>D</party>
+        <identifiers>
+          <gpoId>8236</gpoId>
+          <bioguideId>N000032</bioguideId>
+          <lisID>859</lisID>
+        </identifiers>
+        <bioguideId>N000032</bioguideId>
+        <state>FL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>CLARENCE</firstName>
+        <sponsorshipDate>2017-08-03</sponsorshipDate>
+        <fullName>Sen. Nelson, Bill [D-FL]</fullName>
+        <middleName>WILLIAM</middleName>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Employee leave</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Financial services and investments</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Mental health</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Neurological disorders</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <notes />
+    <cboCostEstimates />
+    <latestAction>
+      <text>Special Committee on Aging. Hearings held.</text>
+      <links />
+      <actionDate>2017-06-14</actionDate>
+    </latestAction>
+    <updateDate>2017-08-04T07:55:00Z</updateDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Military and Veteran Caregiver Services Improvement Act of 2017</strong></p> <p>This bill expands eligibility for the family caregiver program of the Department of Veterans Affairs (VA) to include members of the Armed Forces or veterans who are seriously injured or who became ill on active duty prior to September 11, 2001 (currently, limited to service after September 11, 2001). </p> <p>Services to caregivers of veterans under such program are expanded to include&nbsp;child care services, financial planning services, and legal services. </p> <p> The bill terminates the support program for caregivers of covered veterans on October 1, 2022, except that any caregiver activities carried out on September 30, 2022, shall be continued on and after October 1, 2022. </p> <p>The bill authorizes the transfer of entitlement to post 9/11 education assistance to family members by veterans who are retired for a physical disability or&nbsp;who are seriously injured veterans in need of family caregiver services, without regard to length-of-service requirements. </p> <p>The VA is authorized to pay monthly special compensation to seriously injured or ill veterans in need of personal care services and to their caregivers. </p> <p>Flexible work schedules or telework&nbsp;are authorized for federal employees who are caregivers of veterans. </p> <p>The Public Health Service Act is amended to&nbsp;designate a veteran participating in the program of comprehensive assistance for family caregivers as an adult with a special need for purposes of the&nbsp;lifespan respite care program. </p> <p>An interagency working group is established in the executive branch to review and report on policies relating to the caregivers of veterans and members of the Armed Forces.</p> <p>The VA shall provide for studies on members of the Armed Forces who commenced service after September 11, 2001, and veterans who have incurred a serious injury or illness, including a mental health injury, and their caregivers.</p>]]></text>
+          <actionDate>2017-03-09</actionDate>
+          <name>Introduced in Senate</name>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <lastSummaryUpdateDate>2017-03-18T15:08:57Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-09T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <billNumber>591</billNumber>
+    <createDate>2017-03-10T05:16:41Z</createDate>
+    <version>1.0.0</version>
+    <introducedDate>2017-03-09</introducedDate>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

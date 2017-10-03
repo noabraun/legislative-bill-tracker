@@ -3,6 +3,7 @@ import os
 import xmltodict, json
 location = os.getcwd() # get present working directory
 directory = 'BILLSTATUS-115-sres'
+# directory = 'BILLSTATUS-115-s'
 counter = 0 
 from pprint import pprint
 
@@ -80,13 +81,21 @@ def get_bill_info(bill_dict):
     bill_info = bill_dict.get('billStatus').get('bill').get('subjects').get('billSubjects')
     bill_subjects = []
 
-    if bill_info.get('legislativeSubjects') == None:
+    if not bill_info.get('legislativeSubjects'):
         return {'bill_subjects': None, 'policy_area': None}
     else:
-        for item in bill_info.get('legislativeSubjects').get('item'):
-            bill_subjects.append(item.values())
+        tags = bill_info.get('legislativeSubjects').get('item')
+        if type(tags) == dict: 
+            bill_subjects = [tags.get('name')]
+        else: 
+            for item in tags:
+                bill_subjects.append(item.values())
 
-        policy_area = bill_info.get('policyArea').get('name')
+        if not bill_info.get('policyArea'):
+            policy_area = None
+
+        else: 
+            policy_area = bill_info.get('policyArea').get('name')
 
         return {'bill_subjects': bill_subjects, 'policy_area': [policy_area]}
 

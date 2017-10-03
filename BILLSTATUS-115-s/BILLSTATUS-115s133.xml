@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>slin00</systemCode>
+          <chamber>Senate</chamber>
+          <name>Intelligence Committee</name>
+          <type>Select</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-01-20T23:41:24Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-12T21:50:12Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <originChamber>Senate</originChamber>
+    <cosponsors />
+    <notes />
+    <introducedDate>2017-01-12</introducedDate>
+    <committeeReports>
+      <committeeReport>
+        <citation>S. Rept. 115-2</citation>
+      </committeeReport>
+    </committeeReports>
+    <createDate>2017-01-13T04:55:35Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-01-20</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.</text>
+        <type>Calendars</type>
+      </item>
+      <item>
+        <actionDate>2017-01-20</actionDate>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>report No. 115-2</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/2</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Select Committee on Intelligence. Reported by Senator Burr without amendment. With written report No. 115-2. Additional views filed.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-20</actionDate>
+        <links>
+          <link>
+            <name>report No. 115-2</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/senate-report/2</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <text>Select Committee on Intelligence. Reported by Senator Burr without amendment. With written report No. 115-2. Additional views filed.</text>
+        <actionCode>14000</actionCode>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <name>Intelligence Committee</name>
+          <systemCode>slin00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Select Committee on Intelligence.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in Senate</text>
+        <actionCode>10000</actionCode>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <senate>5</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInSenate>1</introducedInSenate>
+        <placedOnCalendarGeneralOrders>1</placedOnCalendarGeneralOrders>
+        <reportedToSenate>2</reportedToSenate>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2017-08-10T13:23:59Z</updateDate>
+    <billType>S</billType>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <fullName>Sen. Burr, Richard [R-NC]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001135</bioguideId>
+          <gpoId>8286</gpoId>
+          <lisID>153</lisID>
+        </identifiers>
+        <lastName>BURR</lastName>
+        <firstName>RICHARD</firstName>
+        <bioguideId>B001135</bioguideId>
+        <party>R</party>
+        <byRequestType />
+        <state>NC</state>
+      </item>
+    </sponsors>
+    <recordedVotes />
+    <calendarNumbers>
+      <item>
+        <number>0004</number>
+        <calendar>Senate Calendar of Business</calendar>
+      </item>
+    </calendarNumbers>
+    <billNumber>133</billNumber>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType />
+        <chamberCode>S</chamberCode>
+        <title>Intelligence Authorization Act for Fiscal Year 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Intelligence Authorization Act for Fiscal Year 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to Senate</titleType>
+        <chamberName>Senate</chamberName>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberCode>S</chamberCode>
+        <title>Intelligence Authorization Act for Fiscal Year 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Intelligence Authorization Act for Fiscal Year 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>A bill to authorize appropriations for fiscal year 2017 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <title>Intelligence Authorization Act for Fiscal Year 2017</title>
+      </item>
+    </titles>
+    <title>Intelligence Authorization Act for Fiscal Year 2017</title>
+    <version>1.0.0</version>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-01-31T16:05:54Z</pubDate>
+        <url>https://www.cbo.gov/publication/52395</url>
+        <title>S. 133, Intelligence Authorization Act for Fiscal Year 2017</title>
+      </item>
+    </cboCostEstimates>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <name>Introduced in Senate</name>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-02-27T20:42:25Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Intelligence Authorization Act for Fiscal Year 2017</b></p> <p>This bill authorizes FY2017 appropriations for the conduct of intelligence and intelligence-related activities of: </p> <ul> <li>the Office of the Director of National Intelligence (ODNI); </li> <li>the Central Intelligence Agency (CIA); </li> <li>the Department of Defense;</li> <li> the Defense Intelligence Agency (DIA); </li> <li>the National Security Agency (NSA);</li> <li> the Departments of the Army, Navy, and Air Force; </li> <li>the U.S. Coast Guard;</li> <li> the Departments of State, the Treasury, Energy, and Justice; </li> <li>the Federal Bureau of Investigation (FBI);</li> <li> the Drug Enforcement Administration;</li> <li> the National Reconnaissance Office (NRO); </li> <li>the National Geospatial-Intelligence Agency; and </li> <li>the Department of Homeland Security (DHS). </li> </ul> <p>The bill authorizes FY2017 appropriations for: (1) the Intelligence Community Management Account, and (2) the Central Intelligence Agency Retirement and Disability Fund.</p> <p>The ODNI must: (1) submit a five-year investment strategy for outreach and recruiting efforts in the fields of science, technology, engineering, and mathematics (STEM) that includes cybersecurity and computer literacy; (2) implement a multisector workforce initiative to enable the intelligence community to build and maintain an appropriate ratio of employees and core contractors; (3) issue guidance regarding the intelligence community's engagements with the entertainment industry; and (4) implement a uniform policy to ensure the independence of inspectors general of the intelligence community, the ODNI, the CIA, the NSA, the DIA, the NGA, and the NRO.</p> <p>Begininning on October 1, 2018: (1) personnel of the intelligence community must be managed solely on the basis of the workload required to carry out intelligence community functions and the funds made available for each such fiscal year; and (2) management of intelligence personnel shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees.</p> <p>DHS's national cybersecurity and communications integration center must carry out a program to provide assistance to certain critical infrastructure entities to reduce the risk of regional or national catastrophic harm caused by a cyber attack.</p> <p>The Office of the National Counterintelligence Executive is redesignated as the National Counterintelligence and Security Center with a director to be appointed by the President with the advice and consent of the Senate.</p> <p>The bill revises or sets forth requirements for: </p> <ul> <li>the ODNI to participate in fund-raising events for nonprofit organizations that support intelligence community employees and their families, </li> <li>CIA employee death and retirement benefits, </li> <li>publication of the logos of terrorist organizations, </li> <li>space-based environmental monitoring missions and acquisition programs to meet national security requirements for cloud characterization and theater weather imagery, </li> <li>an evaluation of aerial imagery technologies that can be used to share intelligence with other countries as a replacement for the current regime of observation flights, </li> <li>a declassification review of intelligence reports regarding past terrorist activities of detainees transferred or released from Guantanamo Bay, Cuba, and </li> <li>a concept for a combined interagency space operations center and an updated strategy for national security satellite systems. </li> </ul> <p>The bill establishes an executive branch interagency committee to counter active measures by the Russian Federation to exert covert influence over peoples and governments. The State Department must coordinate with the FBI and the ODNI to establish a mandatory advance notification regime governing all travel by accredited diplomatic and consular personnel of the Russian Federation in the United States.</p>]]></text>
+          <actionDate>2017-01-12</actionDate>
+          <updateDate>2017-01-12T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <actionDesc>Reported to Senate without amendment</actionDesc>
+          <name>Reported to Senate without amendment</name>
+          <versionCode>80</versionCode>
+          <lastSummaryUpdateDate>2017-02-27T20:39:58Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Intelligence Authorization Act for Fiscal Year 2017</b></p> <p>TITLE I--INTELLIGENCE ACTIVITIES </p> <p>(Sec. 101) This bill authorizes FY2017 appropriations for the conduct of intelligence and intelligence-related activities of: </p> <ul> <li>the Office of the Director of National Intelligence (ODNI); </li> <li>the Central Intelligence Agency (CIA); </li> <li>the Department of Defense (DOD);</li> <li> the Defense Intelligence Agency (DIA); </li> <li>the National Security Agency (NSA);</li> <li> the Departments of the Army, Navy, and Air Force; </li> <li>the U.S. Coast Guard;</li> <li> the Departments of State, the Treasury, Energy, and Justice; </li> <li>the Federal Bureau of Investigation (FBI);</li> <li> the Drug Enforcement Administration;</li> <li> the National Reconnaissance Office (NRO); </li> <li>the National Geospatial-Intelligence Agency; and </li> <li>the Department of Homeland Security (DHS). </li> </ul> <p>(Sec. 102) The amounts authorized, and the authorized personnel ceilings, are those in the classified Schedule of Authorizations, which shall be made available to the congressional appropriations committees and the President.</p> <p>(Sec. 103) The ODNI, if it provides prior notice to Congress, may authorize employment of civilian personnel in excess of the number authorized for FY2017 if necessary for the performance of important intelligence functions. </p> <p>The ODNI must establish guidelines to govern the treatment under such authorized personnel levels of employment or assignment in: (1) a student or trainee program; (2) a reserve corps or as a reemployed annuitant; or (3) details, joint duty, or long-term, full-time training.</p> <p>(Sec. 104) The bill authorizes FY2017 appropriations for the Intelligence Community Management Account. Additional funds identified in the classified schedule for advanced research and development shall remain available until September 30, 2018.</p> <p>TITLE II--CENTRAL INTELLIGENCE AGENCY RETIREMENT AND DISABILITY SYSTEM </p> <p>(Sec. 201) This title authorizes FY2017 appropriations for the Central Intelligence Agency Retirement and Disability Fund.</p> <p>TITLE III--GENERAL INTELLIGENCE COMMUNITY MATTERS </p> <p>(Sec. 301) Appropriations authorized by this bill for salary, pay, retirement, and other benefits for federal employees may be increased by such additional or supplemental amounts as necessary for increases in such compensation or benefits authorized by law.</p> <p>(Sec. 302) Appropriations authorized by this bill shall not be deemed to constitute authority to conduct any intelligence activity not otherwise authorized by the Constitution or U.S. laws. <p>(Sec. 303) The ODNI may participate in fund-raising events for nonprofit organizations that support: (1) surviving family members of deceased intelligence community employees; or (2) welfare, education, or recreation of intelligence community employees, former employees, or family members. It must notify Congress within seven days after engaging in such fund-raising. <p>(Sec. 304) The ODNI must submit a five-year investment strategy for outreach and recruiting efforts in the fields of science, technology, engineering, and mathematics (STEM) that includes cybersecurity and computer literacy. From FY2018 to FY2022, each element of the intelligence community must submit an annual investment plan that supports the ODNI's strategy along with the materials it submits as justification of its budget requests.</p> <p>(Sec. 305) Each element of the intelligence community may establish higher minimum rates of pay for positions that require STEM expertise. </p> <p>(Sec. 306) The ODNI must implement a multisector workforce initiative to improve management of the intelligence community workforce and establish processes that enable the intelligence community to build and maintain an appropriate ratio of employees and core contractors.</p> <p> Beginning on October 1, 2018: (1) personnel of the intelligence community must be managed solely on the basis of the workload required to carry out intelligence community functions and the funds made available for each such fiscal year; and (2) management of intelligence personnel shall not be subject to any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees.</p> <p>The ODNI must ensure that, during a fiscal year, there are employees in the number and with the combination of skills and qualifications necessary to carry out the functions for which funds are provided to the national intelligence program for that fiscal year.</p> <p>The ODNI must report to Congress on its methodology for calculating the number of civilian and contractor full-time equivalent positions in the intelligence community, its personnel cost analysis tools, and the plans of each element of the intelligence community to implement the multisector workforce initiative. The Inspector General of the Intelligence Community must report on the accuracy of such numbers and costs. </p> <p>(Sec. 307) The ODNI must notify Congress of any project for the repair or modification of a facility for intelligence community personnel that has an estimated cost greater than $1 million.</p> <p>(Sec. 308) The ODNI must issue guidance regarding the intelligence community's engagements with the entertainment industry on theater productions, motion pictures, radio or television broadcasts, podcasts, webcasts, music, dance, books, or other published material. The guidance must: (1) allow an element of the intelligence community to conduct such engagements only with prior approval by the head of that element, and (2) require annual reports to Congress regarding such engagements. </p> <p>The guidance for entertainment industry engagements shall not apply to routine inquiries made by the press or news media to the public affairs office of an element of the intelligence community.</p> <p>(Sec. 309) The ODNI must implement a uniform policy to ensure the independence of inspectors general of the intelligence community, the ODNI, the CIA, the NSA, the DIA, the NGA, and the NRO. The policy must: (1) prevent any conflict of interest in matters that inspectors general employees personally and substantially participated in during previous employment, and (2) ensure that personnel are free in fact and in appearance from personal, external, and organizational impairments to independence.</p> <p>The ODNI may not require employees of an inspector general office for an element of the intelligence community to rotate to a position in an office or organization in their element over which the office of inspector general exercises jurisdiction. Inspector general employees are exempt from a rotation that may impact their office's independence.</p> <p>(Sec. 310) Within 15 days after the President issues a policy or the Director of National Intelligence issues policy implementation guidance that assigns tasks, roles, or responsibilities to the intelligence community, the ODNI must notify and provide summaries to Congress.</p> <p>(Sec. 311) Elements of the intelligence community must submit to Congress each memorandum of understanding regarding significant operational activities or policy among the intelligence community and other federal entities.</p> <p>(Sec. 312) DHS's national cybersecurity and communications integration center (NCCIC) must carry out a program to provide assistance to certain critical infrastructure entities to reduce the risk of regional or national catastrophic harm caused by a cyber attack. Participation by critical infrastructure entities is voluntary. </p> <p> To assist the NCCIC to fulfill the requirements of the program, the DHS Under Secretary for Intelligence and Analysis must coordinate the provision of assistance from appropriate elements of the intelligence community to: (1) the DHS Under Secretary responsible for overseeing critical infrastructure protection and cybersecurity, and (2) voluntary participants through the NCCIC.</p> <p>Private entities must obtain DHS approval to participate in the program and must also obtain the ODNI's approval for any support assistance provided by the intelligence community.</p> <p>(Sec. 313) The bill makes a technical correction regarding the annual rate of basic pay for the Director of the National Counter Proliferation Center. </p> <p>(Sec. 314) The intelligence community is prohibited from charging reproduction fees for reviewing and processing a request for the mandatory declassification of information that are in excess of the reproduction fees that would be charged for Freedom of Information Act requests. </p> <p>TITLE IV--MATTERS RELATING TO ELEMENTS OF THE INTELLIGENCE COMMUNITY</p> <p>Subtitle A--Office of the Director of National Intelligence</p> <p>(Sec. 401) The Office of the National Counterintelligence Executive is redesignated as the National Counterintelligence and Security Center with a director to be appointed by the President with the advice and consent of the Senate. </p> <p>(Sec. 402) The National Security Act of 1947 is amended to require the ODNI to submit to Congress any analytic materials prepared for an investigation of proposed investments into the United States. If the investment will have an operational impact on the intelligence community, the ODNI must report on actions to mitigate such impact. </p> <p>(Sec. 403) The ODNI must publish on a public website a list of all logos, symbols, and markings associated with foreign terrorist organizations.</p> <p>Subtitle B--Central Intelligence Agency</p> <p>(Sec. 411) The CIA may: (1) pay death benefits substantially similar to those authorized for Foreign Service members, and (2) adjust eligibility requirements for such benefits. </p> <p>(Sec. 412) The CIA inspector general may designate officers or employees as law enforcement officers for purposes of pay and retirement benefits if they are appointed to a position that investigates suspected criminal offenses. </p> <p>Subtitle C--Other Elements</p> <p>(Sec. 421) The FBI must submit a strategic workforce report regarding initiatives to integrate information technology expertise in the investigative process. The report must assess: (1) recruitment, training, and retention of personnel with skills in encryption, cryptography, and big data analytics; (2) the integration of officers with such skills into agent-led investigations; (3) collaborations between the FBI and the private sector on cyber issues; and (4) whether to reinstitute the FBI Director's advisory board to advise on the integration of technical expertise. </p> <p>(Sec. 422) The NRO shall develop a plan to carry out space-based environmental monitoring missions with acquisition programs to meet the national security requirements for cloud characterization and theater weather imagery. The plan must: (1) address the amount of funds that would be necessary to be transferred from the Air Force to the NRO during FY2018-FY2022 to carry out such plan, and (2) be submitted to Congress no later than July 1, 2017.</p> <p>The NRO may waive the requirement to develop such a plan if the Air Force is already carrying out an approved formal acquisition program that addresses DOD requirements for such activities.</p> <p>TITLE V--MATTERS RELATING TO FOREIGN COUNTRIES</p> <p>(Sec. 501) This title establishes an executive branch interagency committee to counter active measures by the Russian Federation to exert covert influence over peoples and governments (with the role of the Russian Federation hidden or not acknowledged publicly) through front groups, covert broadcasting, media manipulation, disinformation or forgeries, funding agents of influence, incitement, offensive counterintelligence, assassinations, or terrorist acts. The committee shall expose falsehoods, agents of influence, corruption, human rights abuses, terrorism, and assassinations carried out by the security services or political elites of the Russian Federation or their proxies.</p> <p>The committee must report annually on the steps it is taking to counter Russia's active covert influence measures. </p> <p>(Sec. 502) The State Department must coordinate with the FBI and the ODNI to establish a mandatory advance notification regime governing all travel by accredited diplomatic and consular personnel of the Russian Federation in the United States.</p> <p>The State Department and the FBI must submit quarterly reports to Congress detailing the number of travel notifications submitted under such regime and the known or suspected violations. </p> <p>(Sec. 503) The ODNI must conduct a study to determine the feasibility of creating an intelligence sharing arrangement and database to provide foreign countries that were parties to the Treaty on Open Skies on February 22, 2016 (except for the Russian Federation or the Republic of Belarus), with aerial imagery of the territories or other parties to the treaty that is comparable, delivered more frequently, and in equal or higher resolution than imagery available through the database established under the treaty. (The Treaty on Open Skies, done at Helsinki on March 24, 1992, and entered into force January 1, 2002, established a regime for unarmed aerial observation flights over the territories of other state party participants.)</p> <p>The ODNI's imagery sharing study must evaluate: (1) methods by which the United States could collect and provide imagery through commercial satellites, national technical means, or other intelligence, surveillance, and reconnaissance platforms under an information sharing arrangement; (2) the ability of other state parties to contribute to the arrangement; (3) statutory impediments or funding insufficiencies; (4) whether imagery of Moscow, Chechnya, the international border between Russia and Georgia, Kaliningrad, or the Republic of Belarus could be provided under such an arrangement; and (5) the costs of such an arrangement compared to the costs under the treaty for plane maintenance, aircraft fuel, crew expenses, mitigation measures necessary associated with Russian Federation overflights over the United States or other state parties, and new sensor development and acquisition.</p> <p>The ODNI must report on: (1) the extent to which Russian flights under the Open Skies Treaty contribute to the Russian Federation's war fighting doctrine, and (2) the Russian Federation's capability to exceed the imagery limits set forth in the treaty.</p> <p>TITLE VI--REPORTS AND OTHER MATTERS</p> <p>(Sec. 601) The ODNI must complete a declassification review of intelligence reports on the past terrorist activities of detainees transferred or released from U.S. Naval Station, Guantanamo Bay, Cuba. The ODNI must: (1) make such declassified reports available to the public and provide a summary prepared by the President of the measures being taken by the countries to which such individuals have been transferred or released to monitor them and prevent them from carrying out future terrorist activities, and (2) report to Congress the results of the review with a description of reports that were not declassified. </p> <p>The information provided on past terrorist activities conducted by an individual before transfer to Guantanamo must describe the supporting intelligence, the extent of corroboration, the level of confidence held by the intelligence community, and any dissent or reassessment by an element of the intelligence community.</p> <p>(Sec. 602) DOD may establish a Cyber Center for Education and Innovation Home of the National Cryptologic Museum. DOD may enter an agreement with the National Cryptologic Museum Foundation for the design, construction, and operation of such center. <p>(Sec. 603) The NSA must coordinate with DOD and the Joint Chiefs of Staff to report on national security systems. <p>(Sec. 604) Elements of the intelligence community must certify to the ODNI that all prospective joint facilities in a vicinity have been considered before they purchase, lease, or construct a new facility that is 20,000 square feet or larger.</p> <p>(Sec. 605) The ODNI must consult with DOD and the Joint Chiefs of Staff to update the strategy for an interagency review of policies for planning and acquiring national security satellite systems and architectures consistent with the National Space Policy issued on June 28, 2010. </p> <p>The ODNI must appoint a single official to oversee development of a plan to functionally integrate the intelligence community's governance, operations, analysis, collection, policy, and acquisition activities related to space and counterspace.</p> <p>The NRO and the U.S. Strategic Command must: (1) submit a concept of operations for the Joint Interagency Combined Space Operations Center, and (2) provide briefings to Congress on the activities and progress of the center.</p> <p>(Sec. 606) The ODNI must propose a plan to monitor advances in life sciences and biotechnology. The plan must address: (1) organic life science and biotechnology expertise within the intelligence community and the utilization of outside expertise, (2) U.S. competitiveness in the global bio-economy and the risks and threats in genetic editing technologies, and (3) organizational requirements and responsibilities.</p> <p>The ONDI must report on the role of the intelligence community in the event of a biological attack on the United States, including gaps in technical capabilities to address a novel unknown pathogen.</p> <p>(Sec. 607) The ODNI must submit plans to implement declassification proposals produced in the course of producing the fundamental classification guidance review for FY2017 required by Executive Order 13526. </p> <p>(Sec. 608) The ODNI must report on: (1) the government's system for classifying and declassifying information, and (2) recommendations to improve the protection of national security information and the sharing of information with government partners and allies. </p> <p>The ODNI must certify annually whether existing and proposed controlled access programs are substantiated and justified. </p> <p>(Sec. 609) The ODNI must report on the intelligence community's actions to implement recommendations of the National Commission for the Review of the Research and Development Programs of the United States Intelligence Community and the balance between short-, medium-, and long-term research.</p> <p>(Sec. 610) The ODNI must report on a plan to implement an Intelligence Community Research and Development Corps.</p> <p>(Sec. 611) The ODNI must report on information collection by individual elements of the intelligence community about the number of applicants for, participants in, and individuals hired by the intelligence community after participating in: (1) the Federal Cyber Scholarship-for-Service Program; (2) the National Security Education Program; (3) the Science, Mathematics, and Research for Transformation Defense Education Program; (4) the National Centers of Academic Excellence in Information Assurance and Cyber Defense; or (5) other intelligence community academic, scholarship, fellowship, or internship programs. If elements of the intelligence community do not independently collect such information, the report must address whether they can begin collecting such information during FY2017 and the resources required to independently collect such information.</p> <p>(Sec. 612) The ODNI must submit a report listing, by year, the number of intelligence community employees who have been detailed to the National Security Council during the previous 10-year period. </p> <p>(Sec. 613) The ODNI must report to Congress every 180 days for two years regarding foreign fighter flows to and from terrorist safe havens abroad. </p> <p>(Sec. 614) DHS must report on the cybersecurity threats to, and the cyber vulnerabilities within, the software, communications networks, or computer networks employed by U.S. maritime shipping concerns and entities conducting significant operations at U.S. seaports or transshipment points. The report must include a status update on the Coast Guard's efforts to include cybersecurity concerns in the National Response Framework or the Emergency Support Functions relating to U.S. shipping or ports.</p> <p>(Sec. 615) The DHS Under Secretary for Intelligence and Analysis must coordinate with the Office of Community Partnerships to report on DHS counter-narrative activities with respect to the Islamic State and other extremist groups. Such report must describe any coordination of such programs with the State Department. </p> <p>(Sec. 616) The Inspector General of the Intelligence Community must report on reprisals made against employees of a contractor of the intelligence community for making a disclosure of information that would be protected by law if the contractor were an employee of the federal government.</p>]]></text>
+          <actionDate>2017-01-20</actionDate>
+          <updateDate>2017-01-20T14:14:58Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Consolidated Appropriations Act, 2017</latestTitle>
+        <number>244</number>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-05-05</actionDate>
+          <text>Became Public Law No: 115-31.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Arms control and nonproliferation</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Atmospheric science and weather</name>
+          </item>
+          <item>
+            <name>Aviation and airports</name>
+          </item>
+          <item>
+            <name>Belarus</name>
+          </item>
+          <item>
+            <name>Biological and life sciences</name>
+          </item>
+          <item>
+            <name>Books and print media</name>
+          </item>
+          <item>
+            <name>Broadcasting, cable, digital technologies</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Central Intelligence Agency (CIA)</name>
+          </item>
+          <item>
+            <name>Coast guard</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Computers and information technology</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Cuba</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Department of Defense</name>
+          </item>
+          <item>
+            <name>Department of Energy</name>
+          </item>
+          <item>
+            <name>Department of Homeland Security</name>
+          </item>
+          <item>
+            <name>Department of Justice</name>
+          </item>
+          <item>
+            <name>Department of State</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Detention of persons</name>
+          </item>
+          <item>
+            <name>Diplomacy, foreign officials, Americans abroad</name>
+          </item>
+          <item>
+            <name>Director of National Intelligence</name>
+          </item>
+          <item>
+            <name>Drug Enforcement Administration (DEA)</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Espionage and treason</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Federal Bureau of Investigation (FBI)</name>
+          </item>
+          <item>
+            <name>Federal officials</name>
+          </item>
+          <item>
+            <name>Georgia (Republic)</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Government employee pay, benefits, personnel management</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Government trust funds</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Infectious and parasitic diseases</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>International law and treaties</name>
+          </item>
+          <item>
+            <name>Latin America</name>
+          </item>
+          <item>
+            <name>Marine and inland water transportation</name>
+          </item>
+          <item>
+            <name>Maryland</name>
+          </item>
+          <item>
+            <name>Military command and structure</name>
+          </item>
+          <item>
+            <name>Military facilities and property</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+          <item>
+            <name>Navigation, waterways, harbors</name>
+          </item>
+          <item>
+            <name>Performing arts</name>
+          </item>
+          <item>
+            <name>Political movements and philosophies</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+          <item>
+            <name>Public contracts and procurement</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>Russia</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Social work, volunteer service, charitable organizations</name>
+          </item>
+          <item>
+            <name>Spacecraft and satellites</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Television and film</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+          <item>
+            <name>Travel and tourism</name>
+          </item>
+          <item>
+            <name>U.S. and foreign investments</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+          <item>
+            <name>User charges and fees</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-01-20</actionDate>
+      <links />
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 4.</text>
+    </latestAction>
+    <laws />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

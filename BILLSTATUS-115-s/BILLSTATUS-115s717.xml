@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-03-23</introducedDate>
+    <latestAction>
+      <actionDate>2017-08-23</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <billType>S</billType>
+    <createDate>2017-03-24T05:21:03Z</createDate>
+    <recordedVotes />
+    <billNumber>717</billNumber>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+        <senate>7</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-08-23</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-08-04</actionDate>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links />
+        <text>Received in the House.</text>
+        <actionTime>13:04:49</actionTime>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>H14000</actionCode>
+        <actionDate>2017-08-04</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-08-02</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Message on Senate action sent to the House.</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>S4694-4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4694-4695</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Passed Senate without amendment by Unanimous Consent. (text: CR S4694-4695)</text>
+        <type>Floor</type>
+      </item>
+      <item>
+        <type>Floor</type>
+        <links />
+        <text>Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>17000</actionCode>
+        <actionDate>2017-08-01</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-08-01</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links>
+          <link>
+            <name>S4694-4695</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/senate-section/page/S4694-4695</url>
+          </link>
+        </links>
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S4694-4695)</text>
+        <type>Discharge</type>
+      </item>
+      <item>
+        <type>Committee</type>
+        <links />
+        <text>Senate Committee on the Judiciary discharged by Unanimous Consent.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <actionCode>14500</actionCode>
+        <actionDate>2017-08-01</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>10000</actionCode>
+        <actionDate>2017-03-23</actionDate>
+      </item>
+      <actionTypeCounts>
+        <referredToCommittee>1</referredToCommittee>
+        <passedSenate>1</passedSenate>
+        <billReferrals>1</billReferrals>
+        <introducedInSenate>1</introducedInSenate>
+        <receivedInTheHouse>1</receivedInTheHouse>
+        <senateCommitteeDischarged>1</senateCommitteeDischarged>
+        <placeholderTextForH>1</placeholderTextForH>
+        <committeeDischarged>1</committeeDischarged>
+        <passedAgreedToInSenate>1</passedAgreedToInSenate>
+        <sentToHouse>1</sentToHouse>
+      </actionTypeCounts>
+    </actions>
+    <committeeReports />
+    <version>1.0.0</version>
+    <title>POWER Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Pro bono Work to Empower and Represent Act of 2017 or the POWER Act </b></p> <p>This bill requires each U.S. Attorney for each judicial district to lead at least one public event that promotes pro bono legal services as a critical way to: (1) empower survivors of domestic violence, dating violence, sexual assault, and stalking; and (2) engage citizens in assisting those survivors.</p> <p>A similar requirement applies to districts containing Indian tribes and tribal organizations.</p> <p>Each U.S. Attorney shall: (1) have discretion on the design, organization, and implementation of such public events; and (2) seek to maximize an event's local impact and the access of such survivors to high-quality pro bono legal services. </p>]]></text>
+          <lastSummaryUpdateDate>2017-07-25T14:34:13Z</lastSummaryUpdateDate>
+          <name>Introduced in Senate</name>
+          <actionDate>2017-03-23</actionDate>
+          <updateDate>2017-03-23T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in Senate</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <relatedBills>
+      <item>
+        <number>1762</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>POWER Act</latestTitle>
+        <latestAction>
+          <actionDate>2017-04-12</actionDate>
+          <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <notes />
+    <sponsors>
+      <item>
+        <state>AK</state>
+        <fullName>Sen. Sullivan, Dan  [R-AK]</fullName>
+        <firstName>Dan</firstName>
+        <middleName />
+        <lastName>Sullivan</lastName>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>S001198</bioguideId>
+        <identifiers>
+          <bioguideId>S001198</bioguideId>
+          <lisID>2290</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+    </sponsors>
+    <titles>
+      <item>
+        <title>POWER Act</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <title>Pro bono Work to Empower and Represent Act of 2017</title>
+        <titleType>Short Titles as Passed Senate</titleType>
+        <parentTitleType>Short Titles Senate</parentTitleType>
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <title>POWER Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Pro bono Work to Empower and Represent Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>A bill to promote pro bono legal services as a critical way in which to empower survivors of domestic violence.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>POWER Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>POWER Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <title>Pro bono Work to Empower and Represent Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed Senate</titleType>
+        <parentTitleType />
+        <chamberName>Senate</chamberName>
+        <chamberCode>S</chamberCode>
+      </item>
+      <item>
+        <title>POWER Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Pro bono Work to Empower and Represent Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-08-23T18:56:19Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-08-04T18:46:43Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <systemCode>ssju00</systemCode>
+          <activities>
+            <item>
+              <date>2017-08-01T23:48:21Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-03-23T19:42:28Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <updateDate>2017-09-11T03:06:27Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Assault and harassment offenses</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Domestic violence and child abuse</name>
+          </item>
+          <item>
+            <name>Lawyers and legal services</name>
+          </item>
+          <item>
+            <name>Sex offenses</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <cosponsors>
+      <item>
+        <firstName>Heidi</firstName>
+        <state>ND</state>
+        <lastName>Heitkamp</lastName>
+        <fullName>Sen. Heitkamp, Heidi [D-ND]</fullName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001069</bioguideId>
+          <lisID>2174</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H001069</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Jeanne</firstName>
+        <state>NH</state>
+        <lastName>Shaheen</lastName>
+        <fullName>Sen. Shaheen, Jeanne [D-NH]</fullName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001181</bioguideId>
+          <gpoId>8276</gpoId>
+          <lisID>1901</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>S001181</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Lisa</firstName>
+        <state>AK</state>
+        <lastName>Murkowski</lastName>
+        <fullName>Sen. Murkowski, Lisa [R-AK]</fullName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001153</bioguideId>
+          <lisID>1694</lisID>
+          <gpoId>8234</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>M001153</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>SHELLEY</firstName>
+        <state>WV</state>
+        <lastName>CAPITO</lastName>
+        <fullName>Sen. Capito, Shelley Moore [R-WV]</fullName>
+        <middleName>MOORE</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8223</gpoId>
+          <lisID>1676</lisID>
+          <bioguideId>C001047</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001047</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>John</firstName>
+        <state>TX</state>
+        <lastName>Cornyn</lastName>
+        <fullName>Sen. Cornyn, John [R-TX]</fullName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8295</gpoId>
+          <bioguideId>C001056</bioguideId>
+          <lisID>1692</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>C001056</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Steve</firstName>
+        <state>MT</state>
+        <lastName>Daines</lastName>
+        <fullName>Sen. Daines, Steve [R-MT]</fullName>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000618</bioguideId>
+          <lisID>2138</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000618</bioguideId>
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>ORRIN</firstName>
+        <state>UT</state>
+        <lastName>HATCH</lastName>
+        <fullName>Sen. Hatch, Orrin G. [R-UT]</fullName>
+        <middleName>GRANT</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8314</gpoId>
+          <bioguideId>H000338</bioguideId>
+          <lisID>1351</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>H000338</bioguideId>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>PATRICK</firstName>
+        <state>VT</state>
+        <lastName>LEAHY</lastName>
+        <fullName>Sen. Leahy, Patrick J. [D-VT]</fullName>
+        <middleName>JOSEPH</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000174</bioguideId>
+          <gpoId>8244</gpoId>
+          <lisID>1383</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>L000174</bioguideId>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>Joe</firstName>
+        <state>IN</state>
+        <lastName>Donnelly</lastName>
+        <fullName>Sen. Donnelly, Joe [D-IN]</fullName>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000607</bioguideId>
+          <lisID>1850</lisID>
+          <gpoId>7941</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>D000607</bioguideId>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <firstName>CHARLES</firstName>
+        <state>IA</state>
+        <lastName>GRASSLEY</lastName>
+        <fullName>Sen. Grassley, Chuck [R-IA]</fullName>
+        <middleName>ERNEST</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8316</gpoId>
+          <bioguideId>G000386</bioguideId>
+          <lisID>457</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>G000386</bioguideId>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <party>R</party>
+      </item>
+      <item>
+        <firstName>Elizabeth</firstName>
+        <state>MA</state>
+        <lastName>Warren</lastName>
+        <fullName>Sen. Warren, Elizabeth [D-MA]</fullName>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000817</bioguideId>
+          <lisID>2182</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <bioguideId>W000817</bioguideId>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <cboCostEstimates />
+    <laws />
+    <originChamber>Senate</originChamber>
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

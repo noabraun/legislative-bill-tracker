@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>S</billType>
+    <version>1.0.0</version>
+    <updateDate>2017-06-28T04:47:58Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+        <orderedReported>1</orderedReported>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>3</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Indian Affairs. Ordered to be reported with an amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <committee>
+          <systemCode>slia00</systemCode>
+          <name>Indian Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Indian Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-11</actionDate>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <links />
+        <actionCode>10000</actionCode>
+        <committee />
+      </item>
+    </actions>
+    <originChamber>Senate</originChamber>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Foreign Trade and International Finance</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Indian Community Economic Enhancement Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Indian Economic Enhancement Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>A bill to amend the Native American Business Development, Trade Promotion, and Tourism Act of 2000, the Buy Indian Act, and the Native American Programs Act of 1974 to provide industry and economic development opportunities to Indian communities.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Indian Economic Enhancement Act of 2017</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <congress>115</congress>
+    <notes />
+    <createDate>2017-05-12T00:26:39Z</createDate>
+    <amendments />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <billNumber>1116</billNumber>
+    <title>Indian Economic Enhancement Act of 2017</title>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>slia00</systemCode>
+          <type>Other</type>
+          <name>Indian Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-05-17T18:30:34Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-05-11T21:03:13Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-05-11</introducedDate>
+    <recordedVotes />
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52845</url>
+        <title>S. 1116, Indian Community Economic Enhancement Act of 2017</title>
+        <pubDate>2017-06-22T20:47:50Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <committeeReports />
+    <policyArea>
+      <name>Foreign Trade and International Finance</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <party>R</party>
+        <fullName>Sen. McCain, John [R-AZ]</fullName>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId>8253</gpoId>
+          <lisID>754</lisID>
+          <bioguideId>M000303</bioguideId>
+        </identifiers>
+        <bioguideId>M000303</bioguideId>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>SIDNEY</middleName>
+        <lastName>MCCAIN</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <firstName>John</firstName>
+        <middleName />
+        <bioguideId>H001061</bioguideId>
+        <lastName>Hoeven</lastName>
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <byRequestType />
+        <identifiers>
+          <gpoId>8331</gpoId>
+          <lisID>2079</lisID>
+          <bioguideId>H001061</bioguideId>
+        </identifiers>
+        <state>ND</state>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment favorably.</text>
+      <actionDate>2017-05-17</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

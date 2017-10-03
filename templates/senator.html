@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="well spaced" style="width:97%">
+  <h2>{{ senator.name }}</h2>
+
+  <p>State: {{ senator.state }}</p>
+
+  {% if senator.party == 'D' %}
+    <p>Party: Democrat</p>
+  {% endif %}
+
+  {% if senator.party == 'R' %}
+    <p>Party: Republican</p>
+  {% endif %}
+
+  <p>Wikipedia: {{senator_wiki}}</p>
+
+</div>
+{% endblock %}

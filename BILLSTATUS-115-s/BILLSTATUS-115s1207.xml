@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <notes />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural conservation and pollution</name>
+          </item>
+          <item>
+            <name>Energy storage, supplies, demand</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Motor fuels</name>
+          </item>
+          <item>
+            <name>Oil and gas</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>F000463</bioguideId>
+          <gpoId />
+          <lisID>2179</lisID>
+        </identifiers>
+        <bioguideId>F000463</bioguideId>
+        <lastName>Fischer</lastName>
+        <firstName>Deb</firstName>
+        <fullName>Sen. Fischer, Deb [R-NE]</fullName>
+        <byRequestType />
+        <middleName />
+        <state>NE</state>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <originChamber>Senate</originChamber>
+    <calendarNumbers />
+    <committeeReports />
+    <latestAction>
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <actionDate>2017-05-23</actionDate>
+      <links />
+    </latestAction>
+    <recordedVotes />
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestTitle>FUELS Act</latestTitle>
+        <type>HR</type>
+        <number>1737</number>
+        <latestAction>
+          <actionDate>2017-03-28</actionDate>
+          <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <committee>
+          <systemCode>ssev00</systemCode>
+          <name>Environment and Public Works Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in Senate</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>10000</actionCode>
+        <actionDate>2017-05-23</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInSenate>1</introducedInSenate>
+        <referredToCommittee>1</referredToCommittee>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>2</senate>
+      </actionByCounts>
+    </actions>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-23T20:35:37Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-11T03:00:17Z</updateDate>
+    <cboCostEstimates />
+    <createDate>2017-05-24T00:26:38Z</createDate>
+    <billType>S</billType>
+    <cosponsors>
+      <item>
+        <state>ID</state>
+        <middleName>E.</middleName>
+        <lastName>Risch</lastName>
+        <firstName>James</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Risch, James E. [R-ID]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000584</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>R000584</bioguideId>
+          <lisID>1896</lisID>
+          <gpoId>8274</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <state>AR</state>
+        <middleName />
+        <lastName>Boozman</lastName>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Boozman, John [R-AR]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001236</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001236</bioguideId>
+          <lisID>1687</lisID>
+          <gpoId>8247</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <state>MS</state>
+        <middleName>F.</middleName>
+        <lastName>WICKER</lastName>
+        <firstName>ROGER</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Wicker, Roger F. [R-MS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>W000437</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>W000437</bioguideId>
+          <gpoId>8263</gpoId>
+          <lisID>1226</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <state>IA</state>
+        <middleName />
+        <lastName>Ernst</lastName>
+        <firstName>Joni</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Ernst, Joni  [R-IA]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>E000295</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <lisID>2283</lisID>
+          <bioguideId>E000295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <state>KS</state>
+        <middleName />
+        <lastName>MORAN</lastName>
+        <firstName>JERRY</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Moran, Jerry [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M000934</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M000934</bioguideId>
+          <lisID>1507</lisID>
+          <gpoId>8307</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <state>NE</state>
+        <middleName />
+        <lastName>Sasse</lastName>
+        <firstName>Ben</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Sasse, Ben  [R-NE]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001197</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S001197</bioguideId>
+          <lisID>2289</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <state>ND</state>
+        <middleName />
+        <lastName>Hoeven</lastName>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Hoeven, John [R-ND]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>H001061</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001061</bioguideId>
+          <lisID>2079</lisID>
+          <gpoId>8331</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+      <item>
+        <state>KS</state>
+        <middleName />
+        <lastName>ROBERTS</lastName>
+        <firstName>PAT</firstName>
+        <sponsorshipWithdrawnDate />
+        <fullName>Sen. Roberts, Pat [R-KS]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>R000307</bioguideId>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8275</gpoId>
+          <lisID>968</lisID>
+          <bioguideId>R000307</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <introducedDate>2017-05-23</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Farmers Undertake Environmental Land Stewardship Act or the FUELS Act</strong></p> <p>This bill amends the Water Resources Reform and Development Act of 2014 to require the Environmental Protection Agency, in implementing the Spill Prevention, Control, and Countermeasure rule (concerning oil pollution prevention) with respect to any farm, to:</p> <ul> <li>require certification by a professional engineer for a farm with an aggregate aboveground storage capacity of more than 42,000 gallons (currently, 20,000 gallons); </li> <li>allow self-certification by the owner or operator of a farm with an aggregate aboveground storage capacity of more than 10,000 gallons but less than 42,000 gallons (currently, of less than 20,000 gallons and more than the lesser of 6,000 gallons and the adjustment quantity established under such Act); and </li> <li>not require compliance with the rule by any farm with an aggregate aboveground storage capacity of 10,000 gallons or less (currently, of more than 2,500 gallons and less than the lesser of 6,000 gallons and such adjustment quantity). </li></ul> <p>The rule&nbsp;shall apply&nbsp;to aboveground storage containers at farms on a separate parcel that have an individual capacity of not more than 1,320 gallons (currently, 1,000 gallons) and an aggregate capacity of not more than 3,000 gallons (currently, 2,500 gallons).</p>]]></text>
+          <lastSummaryUpdateDate>2017-09-05T15:07:49Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in Senate</actionDesc>
+          <actionDate>2017-05-23</actionDate>
+          <name>Introduced in Senate</name>
+          <updateDate>2017-05-23T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>FUELS Act</title>
+    <laws />
+    <billNumber>1207</billNumber>
+    <titles>
+      <item>
+        <title>Farmers Undertake Environmental Land Stewardship Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>FUELS Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Farmers Undertake Environmental Land Stewardship Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>A bill to amend the Water Resources Reform and Development Act of 2014 with respect to the application of the Spill Prevention, Control, and Countermeasure rule to certain farms, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>FUELS Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

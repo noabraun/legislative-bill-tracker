@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="well spaced" style="width:97%">
+  <h2>{{ bill.bill_id }}: {{ bill.title }}</h2>
+
+  <p>Date proposed: {{ bill.date }}</p>
+  <p>Description: {{ bill.description }}</p>
+
+</div>
+{% endblock %}
