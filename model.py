@@ -16,7 +16,7 @@ class Bill(db.Model):
 
     __tablename__ = "bills"
 
-    bill_id = db.Column(db.String(32), primary_key=True)
+    bill_id = db.Column(db.String(16), primary_key=True)
     title = db.Column(db.Text, nullable=False)
     date = db.Column(db.DateTime)
     description = db.Column(db.Text, nullable=True)

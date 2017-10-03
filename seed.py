@@ -104,19 +104,27 @@ def load_tags(bill_dict):
     print "Tags"
 
     bill_tags = parse.get_bill_info(bill_dict)
+    bill_number = parse.get_bill_number(bill_dict).get('bill_number')
+    bill_type = parse.get_bill_type(bill_dict).get('bill_type')
+    bill_id = bill_type + '-' + bill_number
 
     for key in bill_tags:
         if bill_tags.get(key) == None: 
             tag = Tag(tag_text=None)
             db.session.add(tag)
+            db.session.commit()
+
         else: 
             for item in bill_tags.get(key):
                 tag_text = item[0]
                 tag = Tag(tag_text=tag_text)
-
                 db.session.add(tag)
+                db.session.commit()
 
-    db.session.commit()
+                tags = Tag.query.filter_by(tag_text=tag_text).first()
+                bill_tag_item = BillTag(bill_id=bill_id, tag_id=tags.tag_id)
+                db.session.add(bill_tag_item)
+                db.session.commit() 
 
 
 def load_committees(bill_dict):
@@ -124,15 +132,25 @@ def load_committees(bill_dict):
 
     print "Committees"
 
+    bill_number = parse.get_bill_number(bill_dict).get('bill_number')
+    bill_type = parse.get_bill_type(bill_dict).get('bill_type')
+    bill_id = bill_type + '-' + bill_number
+
     for item in parse.get_committee(bill_dict).keys():
         committee_name = parse.get_committee(bill_dict).get(item)
         if committee_name == None: 
             pass
         else: 
+            # import pdb; pdb.set_trace()
             committee = Committee(name=committee_name)
             db.session.add(committee)
+            db.session.commit() 
 
-    db.session.commit()
+
+            committees = Committee.query.filter_by(name=committee_name).first()
+            bill_committee = BillCommittee(bill_id=bill_id, committee_id=committees.committee_id)
+            db.session.add(bill_committee)
+            db.session.commit()       
 
 def load_actions(bill_dict):
     """Load actions from data files into database using parse.py"""
@@ -168,9 +186,6 @@ def load_sponsorships(bill_dict):
         with open('cosponsors.json','r') as f:
             for line in f: 
 
-                # if bill_id == 'SRES-47':
-                #     import pdb; pdb.set_trace()
-
                 line = json.loads(line)
                 name = line.keys()[0]
                 #fix capitaliztion and redundancy in senator table
@@ -204,18 +219,7 @@ def load_sponsorships(bill_dict):
         db.session.add(sponsorship)
 
     db.session.commit()
-
-def load_bill_tag(bill_dict):
-    """Association table between Bills and Tags from data files 
-       into database using parse.py"""
-
-    print "Bill Tags"
-
-    bill_number = parse.get_bill_number(bill_dict).get('bill_number')
-    bill_type = parse.get_bill_type(bill_dict).get('bill_type')
-    bill_id = bill_type + '-' + bill_number
-
-    bill_tag = BillTag(bill_id, self.tag_id)
+    
 
     
 

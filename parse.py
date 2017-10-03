@@ -141,6 +141,9 @@ def get_committee(bill_dict):
             return {'committee_info': committee_info}
 
 
+
+
+
 def get_bill_number(bill_dict):
     """gets bill number - will be used as bill_id in the bill table"""
     bill_number = {'bill_number': bill_dict.get('billStatus').get('bill').get('billNumber')}

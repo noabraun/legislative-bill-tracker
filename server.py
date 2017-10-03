@@ -1,4 +1,5 @@
 """Dolla Dolla Bills yo"""
+""" Not fake news """
 
 from jinja2 import StrictUndefined
 
