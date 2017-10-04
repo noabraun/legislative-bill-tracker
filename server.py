@@ -2,12 +2,15 @@
 """ Not fake news """
 
 from jinja2 import StrictUndefined
-
-from flask import Flask, render_template, request, flash, redirect, session
+from flask import Flask, render_template, request, flash, redirect, session, Markup
 from flask_debugtoolbar import DebugToolbarExtension
-
 from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
 import wikipedia
+from newsapi.articles import Articles
+from markupsafe import Markup
+
+
+a = Articles(API_KEY="336f09646bd34a7b9736a784bb20abe4")
 
 app = Flask(__name__)
 
@@ -25,7 +28,7 @@ def index():
     return render_template("homepage.html")
 
 @app.route("/bills")
-def user_list():
+def bill_list():
     """Show list of bills."""
 
     bills = Bill.query.order_by().all()
@@ -36,7 +39,13 @@ def bill_detail(bill_id):
     """Show info about bill."""
 
     bill = Bill.query.filter_by(bill_id=bill_id).first()
-    return render_template("bill.html", bill=bill)
+
+    sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
+    action = Action.query.filter_by(bill_id=bill_id).all()
+
+    return render_template("bill.html", bill=bill, 
+                          sponsorship=sponsorship, action=action)
+
 
 @app.route("/senators")
 def senator_list():
@@ -48,11 +57,13 @@ def senator_list():
 @app.route("/senators/<name>")
 def senator_detail(name):
     """Show info about senator."""
-
-    senator_wiki = wikipedia.summary(name +" (politician)", sentences=2)
+    senator_wiki_page = wikipedia.page(name +" (politician)")
+    url_wiki = senator_wiki_page.url
+    senator_wiki = wikipedia.summary(name +" (politician)", sentences=5)
     senator = Senator.query.filter_by(name=name).first()
     return render_template("senator.html", senator=senator, 
-                          senator_wiki=senator_wiki)
+                          senator_wiki=senator_wiki, url_wiki=url_wiki)
+
 
 
 

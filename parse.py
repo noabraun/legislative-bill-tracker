@@ -174,7 +174,7 @@ def get_bill_summary(bill_dict):
             summary_date = bill_summary.get('lastSummaryUpdateDate')
 
         else: 
-            current_summary_dict = bill_summary[-1] 
+            current_summary_dict = bill_summary[-1]
             #gets most recent summary item index
 
             bill_text = current_summary_dict.get('text')

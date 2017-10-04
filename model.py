@@ -86,7 +86,6 @@ class Action(db.Model):
     action_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
     bill_id = db.Column(db.String(16), db.ForeignKey('bills.bill_id'))
     action_text = db.Column(db.Text, nullable=True)
-
     date = db.Column(db.DateTime)
 
     bill = db.relationship('Bill', backref='actions')
