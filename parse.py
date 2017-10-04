@@ -2,8 +2,8 @@ import xml.etree.ElementTree as etree
 import os
 import xmltodict, json
 location = os.getcwd() # get present working directory
-directory = 'BILLSTATUS-115-sres'
-# directory = 'BILLSTATUS-115-s'
+# directory = 'BILLSTATUS-115-sres'
+directory = 'BILLSTATUS-115-s'
 counter = 0 
 from pprint import pprint
 

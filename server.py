@@ -46,7 +46,6 @@ def bill_detail(bill_id):
     return render_template("bill.html", bill=bill, 
                           sponsorship=sponsorship, action=action)
 
-
 @app.route("/senators")
 def senator_list():
     """Show list of senators."""
@@ -59,23 +58,61 @@ def senator_detail(name):
     """Show info about senator."""
     senator_wiki_page = wikipedia.page(name +" (politician)")
     url_wiki = senator_wiki_page.url
+    # image_wiki = senator_wiki_page.images
     senator_wiki = wikipedia.summary(name +" (politician)", sentences=5)
     senator = Senator.query.filter_by(name=name).first()
     return render_template("senator.html", senator=senator, 
                           senator_wiki=senator_wiki, url_wiki=url_wiki)
 
+@app.route("/search")
+def process_search_results():
+    """ Use user inputted search to look for associated tags """
+
+ # search_input = request.form.get('searchInput')
+
+    search_input = request.args.get('nav_search')
+    #returns what the user entered to search 
+
+    search_results = []
+
+    senator_name = Senator.query.filter(Senator.name.like("%"+search_input+"%")).all()
+    search_results.append(senator_name)
+
+    senator_state = Senator.query.filter(Senator.state.like("%"+search_input+"%")).all()
+    search_results.append(senator_state)
+
+    tag = Tag.query.filter(Tag.tag_text.like("%"+search_input+"%")).all()
+    search_results.append(tag)
+
+    committee = Committee.query.filter(Committee.name.like("%"+search_input+"%")).all()
+    search_results.append(committee)
+
+    action_text = Action.query.filter(Action.action_text.like("%"+search_input+"%")).all()
+    search_results.append(action_text)
+
+    bill_title = Bill.query.filter(Bill.title.like("%"+search_input+"%")).all()
+    search_results.append(bill_title)
+
+    bill_summary = Bill.query.filter(Bill.description.like("%"+search_input+"%")).all()
+    search_results.append(bill_summary)
+
+    bill_type = Bill.query.filter(Bill.bill_type.like("%"+search_input+"%")).all()
+    search_results.append(bill_type)
 
 
 
 
+    # action_date = Action.query.filter(Action.date.like("%"+search_input+"%")).all()
+    # search_results.append(action_date)
+
+    return render_template('search_results.html', search_results=search_results)
 
 
+@app.route("/search-results")
+def present_search_results():
+    """ Present search results from input """
 
-
-
-
-
-
+   
 
 # @app.route("/senators/<senator.name>")
 # def senator_detail(senator_id):
