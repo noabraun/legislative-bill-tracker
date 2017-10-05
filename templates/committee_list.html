@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="well spaced" style="width:60%">
+    <h1>Committees</h1>
+    <ul>
+      {% for committee in committees %}
+          <li>
+              <a href="/committees/{{ committee.name }}">
+                {{ committee.name }}
+              </a>
+          </li>
+
+      {% endfor %}
+    </ul>
+</div>
+{% endblock %}

@@ -8,6 +8,7 @@ from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Spon
 import wikipedia
 from newsapi.articles import Articles
 from markupsafe import Markup
+from sqlalchemy import distinct, or_
 
 
 a = Articles(API_KEY="336f09646bd34a7b9736a784bb20abe4")
@@ -43,8 +44,15 @@ def bill_detail(bill_id):
     sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
     action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date).all()
 
+    senators_sponsored =[]
+    for item in bill.sponsorships:
+        senator_id = item.senator_id
+        sen_spons = Senator.query.filter_by(senator_id=senator_id).all()
+        senators_sponsored.append(sen_spons)
+
     return render_template("bill.html", bill=bill, 
-                          sponsorship=sponsorship, action=action)
+                          sponsorship=sponsorship, action=action, 
+                          senators_sponsored=senators_sponsored)
 
 @app.route("/senators")
 def senator_list():
@@ -81,11 +89,12 @@ def process_search_results():
 
     search_results = {}
 
-    senator_name = Senator.query.filter(Senator.name.like("%"+search_input+"%")).all()
+    senator_name = Senator.query.filter(or_(Senator.name.like("%"+search_input+"%"),
+                                            Senator.state.like("%"+search_input+"%"))).all()
     search_results['senator_name'] = senator_name
 
-    senator_state = Senator.query.filter(Senator.state.like("%"+search_input+"%")).all()
-    search_results['senator_state'] = senator_state
+    # senator_state = Senator.query.filter(Senator.state.like("%"+search_input+"%")).all()
+    # search_results['senator_state'] = senator_state
 
     tag = Tag.query.filter(Tag.tag_text.like("%"+search_input+"%")).all()
     search_results['tag'] = tag
@@ -96,43 +105,42 @@ def process_search_results():
     action_text = Action.query.filter(Action.action_text.like("%"+search_input+"%")).all()
     search_results['action_text'] = action_text
 
-    bill_title = Bill.query.filter(Bill.title.like("%"+search_input+"%")).all()
+    bill_title = Bill.query.filter(or_(Bill.title.like("%"+search_input+"%"), 
+                                      Bill.description.like("%"+search_input+"%"),
+                                      Bill.bill_type.like("%"+search_input+"%"))).all()
+ 
+
     search_results['bill_title'] = bill_title
 
-    bill_summary = Bill.query.filter(Bill.description.like("%"+search_input+"%")).all()
-    search_results['bill_summary'] = bill_summary
 
-    bill_type = Bill.query.filter(Bill.bill_type.like("%"+search_input+"%")).all()
-    search_results['bill_type'] = bill_type
-
-        # action_date = Action.query.filter(Action.date.like("%"+search_input+"%")).all()
-        # search_results.append(action_date)
+    return render_template('search_results.html', search_results=search_results, search_input=search_input)
 
 
+@app.route("/committees")
+def committee_list():
+    """Show list of committees."""
 
-    return render_template('search_results.html', search_results=search_results)
-
-
-@app.route("/search-results")
-def present_search_results():
-    """ Present search results from input """
-
-   
-
-# @app.route("/senators/<senator.name>")
-# def senator_detail(senator_id):
-#     """Show info about Senator."""
-
-#     senator = Senator.query.options(db.joinedload('ratings').joinedload('movie')).get(user_id)
-#     return render_template("user.html", user=user)
+    committees = Committee.query.all()
+    return render_template("committee_list.html", committees=committees)
 
 
-@app.route("/movies")
-def movie_list():
-    """Show list of movies."""
+@app.route("/committees/<name>")
+def committee_detail(name):
+    """Show info about committee."""
+    # senator_wiki_page = wikipedia.page(name +" (politician)")
+    # url_wiki = senator_wiki_page.url
+    # # image_wiki = senator_wiki_page.images
+    # senator_wiki = wikipedia.summary(name +" (politician)", sentences=5)
+    committee = Committee.query.filter_by(name=name).first()
+    bill_committee = BillCommittee.query.filter_by(committee_id=committee.committee_id).all()
+    bills_sponsored =[]
+    for item in bill_committee:
+        bill_id = item.bill_id
+        bill_spons = Bill.query.filter_by(bill_id=bill_id).all()
+        bills_sponsored.append(bill_spons)
 
-    movies = Movie.query.order_by('title').all()
-    return render_template("movie_list.html", movies=movies)
+    return render_template("committee.html", committee=committee, bills_sponsored=bills_sponsored)
+
 
 
 

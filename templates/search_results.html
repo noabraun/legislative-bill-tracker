@@ -2,6 +2,8 @@
 {% block content %}
     <title>Search Results</title>
 
+<h1>Search Results for '{{search_input}}'</h1>
+
 <ul>
     {% if search_results.get('senator_name') != []%}
 
@@ -28,15 +30,15 @@
     {% if search_results.get('committee') != []%}
 
         {% for committee in search_results.get('committee') %}
-            {% for bill in comittee.bills %}
+            {% for bill in committee.bills %}
                 <li>
-                    <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
+                    <a href="/committees/{{ committee.name }}"> {{ committee.name }}</a><br>
                 </li>
             {% endfor %}
         {% endfor %}
 
     {% endif %}
-
+{#
     {% if search_results.get('senator_state') != []%}
     
         {% for senator in search_results.get('senator_state') %}
@@ -46,6 +48,7 @@
         {% endfor %}
 
     {% endif %}
+#}
 
     {% if search_results.get('bill_title') != []%}
 
@@ -57,25 +60,6 @@
 
     {% endif %}
 
-    {% if search_results.get('bill_summary') != []%}
-
-        {% for bill in search_results.get('bill_summary') %}
-            <li>
-                <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
-            </li>
-        {% endfor %}
-
-    {% endif %}
-
-    {% if search_results.get('bill_type') != []%}
-
-        {% for bill in search_results.get('bill_type') %}
-            <li>
-                <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
-            </li>
-        {% endfor %}
-
-    {% endif %}
 </ul>
 
 

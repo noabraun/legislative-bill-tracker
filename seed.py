@@ -7,9 +7,9 @@ from sqlalchemy import func
 from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
 from server import app
 import parse 
-# directory = 'BILLSTATUS-115-sres'
+directory = 'BILLSTATUS-115-sres'
 # directory = 'BILLSTATUS-115-s'
-directory = 'BILLSTATUS-115-hr'
+# directory = 'BILLSTATUS-115-hr'
 
 
 def load_file(filename): 
@@ -138,6 +138,8 @@ def load_committees(bill_dict):
 
     print "Committees"
 
+    db_not_empty = Committee.query.filter_by(committee_id=1).first()
+
     bill_number = parse.get_bill_number(bill_dict).get('bill_number')
     bill_type = parse.get_bill_type(bill_dict).get('bill_type')
     bill_id = bill_type + '-' + bill_number
@@ -147,16 +149,24 @@ def load_committees(bill_dict):
         if committee_name == None: 
             pass
         else: 
-            # import pdb; pdb.set_trace()
             committee = Committee(name=committee_name)
-            db.session.add(committee)
-            db.session.commit() 
-
+            if not db_not_empty: #if db is empty
+                    db.session.add(committee)
+                    db.session.commit() 
+            elif Committee.query.filter_by(name=committee_name).first():
+                pass
+            else: 
+                db.session.add(committee) 
+                db.session.commit()    
+            # import pdb; pdb.set_trace()
+            # committee = Committee(name=committee_name)
+            # db.session.add(committee)
+            # db.session.commit() 
 
             committees = Committee.query.filter_by(name=committee_name).first()
             bill_committee = BillCommittee(bill_id=bill_id, committee_id=committees.committee_id)
             db.session.add(bill_committee)
-            db.session.commit()       
+            db.session.commit()   
 
 def load_actions(bill_dict):
     """Load actions from data files into database using parse.py"""
