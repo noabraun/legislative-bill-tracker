@@ -141,7 +141,27 @@ def committee_detail(name):
 
     return render_template("committee.html", committee=committee, bills_sponsored=bills_sponsored)
 
+@app.route("/tags")
+def tag_list():
+    """Show list of tags."""
 
+    tags = Tag.query.all()
+    return render_template("tag_list.html", tags=tags)
+
+
+@app.route("/tags/<tag_text>")
+def tag_detail(tag_text):
+    """Show info about tag."""
+
+    tag = Tag.query.filter_by(tag_text=tag_text).first()
+    bill_tag = BillTag.query.filter_by(tag_id=tag.tag_id).all()
+    bills_tagged =[]
+    for item in bill_tag:
+        bill_id = item.bill_id
+        bill_spons = Bill.query.filter_by(bill_id=bill_id).all()
+        bills_tagged.append(bill_spons)
+
+    return render_template("tag.html", tag=tag, bills_tagged=bills_tagged)
 
 
 

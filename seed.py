@@ -106,26 +106,38 @@ def load_tags(bill_dict):
 
     print "Tags"
 
+    db_not_empty = Tag.query.filter_by(tag_id=1).first()
+
     bill_tags = parse.get_bill_info(bill_dict)
     bill_number = parse.get_bill_number(bill_dict).get('bill_number')
     bill_type = parse.get_bill_type(bill_dict).get('bill_type')
     bill_id = bill_type + '-' + bill_number
 
     for key in bill_tags:
-        if bill_tags.get(key) == None: 
-            tag = Tag(tag_text=None)
-            db.session.add(tag)
-            db.session.commit()
+        # if bill_tags.get(key) == None: 
+            # tag = Tag(tag_text=None)
+            # db.session.add(tag)
+            # db.session.commit()
 
-        else: 
+        if bill_tags.get(key):
             for item in bill_tags.get(key):
                 if item == None: 
                     pass
                 else: 
                     tag_text = item[0]
                     tag = Tag(tag_text=tag_text)
-                    db.session.add(tag)
-                    db.session.commit()
+                    # db.session.add(tag)
+                    # db.session.commit()
+
+                    if not db_not_empty: #if db is empty
+                        db.session.add(tag)
+                        db.session.commit()
+                    elif Tag.query.filter_by(tag_text=tag_text).first():
+                        pass
+                    else: 
+                        db.session.add(tag)
+                        db.session.commit()
+
 
                     tags = Tag.query.filter_by(tag_text=tag_text).first()
                     bill_tag_item = BillTag(bill_id=bill_id, tag_id=tags.tag_id)

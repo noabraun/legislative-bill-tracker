@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="well spaced" style="width:60%">
+    <h1>{{ tag.tag_text }}</h1>
+
+    <p>Bills tagged with {{ tag.tag_text }}: </p>
+
+    <ul>
+        {% for bill_item in bills_tagged %}
+            {% for bill_info in bill_item %}
+                <li>
+                    <a href="/bills/{{ bill_info.bill_id }}">{{ bill_info.bill_id }}: {{ bill_info.title }}</a>
+                </li>
+            {% endfor %}
+        {% endfor %}
+    </ul>
+
+</div>
+{% endblock %}

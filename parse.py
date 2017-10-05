@@ -87,7 +87,7 @@ def get_bill_info(bill_dict):
     else:
         tags = bill_info.get('legislativeSubjects').get('item')
         if type(tags) == dict: 
-            bill_subjects = [tags.get('name')]
+            bill_subjects = [[tags.get('name')]]
         else: 
             for item in tags:
                 bill_subjects.append(item.values())
@@ -98,7 +98,7 @@ def get_bill_info(bill_dict):
         else: 
             policy_area = bill_info.get('policyArea').get('name')
 
-        return {'bill_subjects': bill_subjects, 'policy_area': [policy_area]}
+        return {'bill_subjects': bill_subjects, 'policy_area': [[policy_area]]}
 
 
 def get_bill_title(bill_dict):
@@ -149,8 +149,6 @@ def get_committee(bill_dict):
         else: 
             committee_info = bill_dict.get('billStatus').get('bill').get('committees').get('billCommittees').get('item').get('name')
             return {'committee_info': committee_info}
-
-
 
 
 

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="well spaced" style="width:60%">
+    <h1>Tags</h1>
+    <ul>
+      {% for tag in tags %}
+          <li>
+              <a href="/tags/{{ tag.tag_text }}">
+                {{ tag.tag_text }}
+              </a>
+          </li>
+
+      {% endfor %}
+    </ul>
+</div>
+{% endblock %}
