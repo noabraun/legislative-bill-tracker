@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-08-17T16:31:33Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-07-17T16:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>E-2 Visa Improvement Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To amend the Immigration and Nationality Act to permit certain E-2 nonimmigrant investors to adjust status to lawful permanent resident status.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>E-2 Visa Improvement Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>E–2 Visa Improvement Act of 2017</title>
+      </item>
+    </titles>
+    <billNumber>3265</billNumber>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>R000609</bioguideId>
+        <middleName>H.</middleName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000609</bioguideId>
+          <gpoId />
+          <lisID>2316</lisID>
+        </identifiers>
+        <district>4</district>
+        <byRequestType />
+        <firstName>John</firstName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <lastName>Rutherford</lastName>
+      </item>
+    </sponsors>
+    <title>E-2 Visa Improvement Act of 2017</title>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-08-17</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-07-17</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-17</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-07-17</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-07-17</introducedDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>Kuster</lastName>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <party>D</party>
+        <bioguideId>K000382</bioguideId>
+        <middleName>M.</middleName>
+        <district>2</district>
+        <firstName>Ann</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Cook</lastName>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <party>R</party>
+        <bioguideId>C001094</bioguideId>
+        <middleName />
+        <district>8</district>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Ross</lastName>
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7884</gpoId>
+          <bioguideId>R000593</bioguideId>
+          <lisID>2003</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-08-01</sponsorshipDate>
+        <fullName>Rep. Ross, Dennis A. [R-FL-15]</fullName>
+        <party>R</party>
+        <bioguideId>R000593</bioguideId>
+        <middleName>A.</middleName>
+        <district>15</district>
+        <firstName>Dennis</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <recordedVotes />
+    <updateDate>2017-09-11T02:54:52Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2017-08-17</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>E-2 Visa Improvement Act of 2017</strong></p> <p>This bill amends the Immigration and Nationality Act to permit a nonimmigrant E-2 alien (treaty investor) who has been in the United States in such status for at least 10 years and has created full-time employment for at least 2 individuals to apply for immediate employment-based immigrant status.</p> <p>Up to 10,000 such visas may be made available each fiscal year.</p> <p> Sons and daughters of E-2 aliens (or aliens seeking such status) can remain on their parent's visa as a child until age 26. Employment authorization may be granted at age 18.</p>]]></text>
+          <lastSummaryUpdateDate>2017-07-29T12:50:56Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2017-07-17</actionDate>
+          <updateDate>2017-07-17T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-07-18T03:11:32Z</createDate>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUTHERFORD:H.R. 3265.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.[Page H5920]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

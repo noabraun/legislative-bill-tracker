@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-04-17</actionDate>
+        <committee>
+          <name>Social Security Subcommittee</name>
+          <systemCode>hswm01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-04-06</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-04-07T03:11:59Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-17T16:22:29Z</date>
+                </item>
+              </activities>
+              <systemCode>hswm01</systemCode>
+              <name>Social Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-06T13:10:05Z</date>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>2031</billNumber>
+    <sponsors>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <identifiers>
+          <lisID>603</lisID>
+          <gpoId>8159</gpoId>
+          <bioguideId>J000174</bioguideId>
+        </identifiers>
+        <lastName>JOHNSON</lastName>
+        <bioguideId>J000174</bioguideId>
+        <party>R</party>
+        <state>TX</state>
+        <firstName>SAM</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-04-06</introducedDate>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <title>Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <updateDate>2017-10-04T10:26:09Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-29T22:13:47Z</lastSummaryUpdateDate>
+          <actionDate>2017-04-06</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</b></p> <p>This bill amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to&nbsp;disqualify an individual from&nbsp;receiving&nbsp;disability insurance benefits&nbsp;with respect to&nbsp;any month&nbsp;for which the individual receives unemployment insurance benefits.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-04-06T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <actionDate>2017-04-17</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <identifiers>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <firstName>PATRICK</firstName>
+        <state>OH</state>
+        <district>12</district>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <lastName>TIBERI</lastName>
+        <middleName>J.</middleName>
+        <bioguideId>T000462</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Smith, Adrian [R-NE-3]</fullName>
+        <identifiers>
+          <gpoId>8040</gpoId>
+          <bioguideId>S001172</bioguideId>
+          <lisID>1860</lisID>
+        </identifiers>
+        <firstName>Adrian</firstName>
+        <state>NE</state>
+        <district>3</district>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <lastName>Smith</lastName>
+        <middleName />
+        <bioguideId>S001172</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <identifiers>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <state>PA</state>
+        <district>3</district>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <lastName>Kelly</lastName>
+        <middleName />
+        <bioguideId>K000376</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <identifiers>
+          <lisID>2048</lisID>
+          <gpoId>8106</gpoId>
+          <bioguideId>R000586</bioguideId>
+        </identifiers>
+        <firstName>James</firstName>
+        <state>OH</state>
+        <district>16</district>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <lastName>Renacci</lastName>
+        <middleName>B.</middleName>
+        <bioguideId>R000586</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <identifiers>
+          <bioguideId>R000585</bioguideId>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <state>NY</state>
+        <district>23</district>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+        <lastName>Reed</lastName>
+        <middleName />
+        <bioguideId>R000585</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Garrett, Thomas A., Jr. [R-VA-5]</fullName>
+        <identifiers>
+          <bioguideId>G000580</bioguideId>
+          <lisID>2353</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Thomas</firstName>
+        <state>VA</state>
+        <district>5</district>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Garrett</lastName>
+        <middleName>A.</middleName>
+        <bioguideId>G000580</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Disability assistance</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+          <item>
+            <name>Trade adjustment assistance</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend title II of the Social Security Act to prevent concurrent receipt of unemployment benefits and Social Security disability insurance, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Social Security Disability Insurance and Unemployment Benefits Double Dip Elimination Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SAM JOHNSON of Texas:H.R. 2031.Congress has the power to enact this legislation pursuantto the following:Clause 1 of section 8 of article I of the Constitution, to``provide for the common defense and general welfare of theUnited States.''[Page H2791]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

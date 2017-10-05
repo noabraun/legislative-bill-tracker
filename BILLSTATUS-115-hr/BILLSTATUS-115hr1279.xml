@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-27</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <systemCode>hsas02</systemCode>
+          <name>Military Personnel Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Military Personnel.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-01</actionDate>
+        <text>Referred to House Armed Services</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-01</actionDate>
+        <text>Referred to House Veterans' Affairs</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-01</actionDate>
+        <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-01</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-03-01</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <createDate>2017-03-02T05:13:47Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T15:03:35Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-27T15:49:23Z</date>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+        </item>
+        <item>
+          <name>Armed Services Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T15:03:40Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <name>Military Personnel Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-03-23T13:49:52Z</date>
+                </item>
+              </activities>
+              <systemCode>hsas02</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>1279</billNumber>
+    <sponsors>
+      <item>
+        <district>5</district>
+        <fullName>Rep. Esty, Elizabeth H. [D-CT-5]</fullName>
+        <identifiers>
+          <lisID>2114</lisID>
+          <bioguideId>E000293</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Esty</lastName>
+        <bioguideId>E000293</bioguideId>
+        <party>D</party>
+        <state>CT</state>
+        <firstName>Elizabeth</firstName>
+        <middleName>H.</middleName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-03-01</introducedDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-02-06</actionDate>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>Helping Veterans Exposed to Burn Pits Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>319</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <title>Helping Veterans Exposed to Burn Pits Act</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2017-10-04T07:15:44Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-01T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-03-11T15:23:46Z</lastSummaryUpdateDate>
+          <actionDate>2017-03-01</actionDate>
+          <text><![CDATA[<p><strong>Helping Veterans Exposed to Burn Pits Act</strong></p> <p> This bill directs the Department of Veterans Affairs (VA) to establish a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of health conditions relating to exposure to burn pits and other environmental exposures in Afghanistan or Iraq.</p> <p>The VA shall, in selecting the center's site, consider entities that: </p> <ul> <li> are equipped with the specialized equipment needed to study, diagnose, and treat health conditions relating to such exposure;</li> <li> have a track record of publishing information on post-deployment health exposures among veterans who served in support of Operation Iraqi Freedom and Operation Enduring Freedom;</li> <li> have access to animal models and in vitro models of dust immunology and lung injury consistent with the injuries of members of the Armed Forces who served in support of such operations; and </li> <li> have expertise in allergy, immunology, and pulmonary diseases.</li> </ul> <p>The VA shall ensure that the center collaborates with the Department of Defense (DOD), institutions of higher education, and other appropriate public and private entities to: </p> <ul> <li>provide for dissemination within the VA of best practices for the treatment of such conditions and the training of health professionals, </li> <li> provide guidance for the VA and DOD health systems in determining the personnel required to provide quality health care for members of the Armed Forces and veterans with such conditions,</li> <li>establish, and oversee a program to train VA and DOD health professionals in the treatment of such conditions,</li> <li> facilitate advancements in the study of the short-term and long-term effects of such exposure,</li> <li> conduct basic science and translational research on such conditions for the purposes of understanding the etiology of such conditions and developing preventive interventions and new treatments, and</li> <li> provide medical treatment to veterans diagnosed with medical conditions specific to exposure to burn pits and other environmental exposures. </li> </ul> <p>The center shall have access to and make use of the data accumulated by the burn pits registry.</p>]]></text>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-03-27</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+          <lisID>635</lisID>
+        </identifiers>
+        <bioguideId>K000210</bioguideId>
+        <middleName>T.</middleName>
+        <lastName>KING</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>PETER</firstName>
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+          <gpoId>8004</gpoId>
+        </identifiers>
+        <bioguideId>M001143</bioguideId>
+        <middleName />
+        <lastName>MCCOLLUM</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MN</state>
+        <firstName>BETTY</firstName>
+        <district>4</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2266</lisID>
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <bioguideId>C001106</bioguideId>
+        <middleName>A.</middleName>
+        <lastName>Costello</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <firstName>Ryan</firstName>
+        <district>6</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+        </identifiers>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <firstName>WALTER</firstName>
+        <district>3</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <sponsorshipDate>2017-03-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <bioguideId>S001200</bioguideId>
+        <middleName />
+        <lastName>Soto</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <firstName>Darren</firstName>
+        <district>9</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1504</lisID>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <bioguideId>M000312</bioguideId>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000608</bioguideId>
+          <lisID>2113</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>P000608</bioguideId>
+        <middleName>H.</middleName>
+        <lastName>Peters</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <firstName>Scott</firstName>
+        <district>52</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+          <lisID>2259</lisID>
+        </identifiers>
+        <bioguideId>W000822</bioguideId>
+        <middleName />
+        <lastName>Watson Coleman</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <firstName>Bonnie</firstName>
+        <district>12</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <bioguideId>R000515</bioguideId>
+        <middleName>L.</middleName>
+        <lastName>RUSH</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <firstName>BOBBY</firstName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2246</lisID>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+        </identifiers>
+        <bioguideId>M001196</bioguideId>
+        <middleName />
+        <lastName>Moulton</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <firstName>Seth</firstName>
+        <district>6</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001180</bioguideId>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+        </identifiers>
+        <bioguideId>M001180</bioguideId>
+        <middleName>B.</middleName>
+        <lastName>McKinley</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <firstName>David</firstName>
+        <district>1</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001287</bioguideId>
+          <lisID>2102</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>B001287</bioguideId>
+        <middleName />
+        <lastName>Bera</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <firstName>Ami</firstName>
+        <district>7</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bera, Ami [D-CA-7]</fullName>
+        <sponsorshipDate>2017-04-06</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <bioguideId>S001170</bioguideId>
+        <middleName />
+        <lastName>Shea-Porter</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <firstName>Carol</firstName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>985</lisID>
+          <bioguideId>R000435</bioguideId>
+          <gpoId>7890</gpoId>
+        </identifiers>
+        <bioguideId>R000435</bioguideId>
+        <middleName />
+        <lastName>ROS-LEHTINEN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <firstName>ILEANA</firstName>
+        <district>27</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ros-Lehtinen, Ileana [R-FL-27]</fullName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>867</lisID>
+          <bioguideId>N000127</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>N000127</bioguideId>
+        <middleName />
+        <lastName>NOLAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <firstName>RICHARD</firstName>
+        <district>8</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2159</lisID>
+          <bioguideId>C001090</bioguideId>
+        </identifiers>
+        <bioguideId>C001090</bioguideId>
+        <middleName />
+        <lastName>Cartwright</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <firstName>Matt</firstName>
+        <district>17</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000600</bioguideId>
+          <gpoId />
+          <lisID>2222</lisID>
+        </identifiers>
+        <bioguideId>R000600</bioguideId>
+        <middleName>Coleman</middleName>
+        <lastName>Radewagen</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AS</state>
+        <firstName>Aumua Amata</firstName>
+        <district>0</district>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Radewagen, Aumua Amata Coleman [R-AS-At Large]</fullName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+          <lisID>2332</lisID>
+        </identifiers>
+        <bioguideId>R000606</bioguideId>
+        <middleName />
+        <lastName>Raskin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <firstName>Jamie</firstName>
+        <district>8</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001091</bioguideId>
+          <lisID>2163</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>C001091</bioguideId>
+        <middleName />
+        <lastName>Castro</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <firstName>Joaquin</firstName>
+        <district>20</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2306</lisID>
+          <bioguideId>O000171</bioguideId>
+          <gpoId />
+        </identifiers>
+        <bioguideId>O000171</bioguideId>
+        <middleName />
+        <lastName>O'Halleran</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <firstName>Tom</firstName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7860</gpoId>
+          <lisID>1910</lisID>
+          <bioguideId>P000598</bioguideId>
+        </identifiers>
+        <bioguideId>P000598</bioguideId>
+        <middleName />
+        <lastName>Polis</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CO</state>
+        <firstName>Jared</firstName>
+        <district>2</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>279</lisID>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+        </identifiers>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OR</state>
+        <firstName>PETER</firstName>
+        <district>4</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <gpoId />
+          <lisID>2153</lisID>
+        </identifiers>
+        <bioguideId>B001281</bioguideId>
+        <middleName />
+        <lastName>Beatty</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <firstName>Joyce</firstName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <bioguideId>P000597</bioguideId>
+        <middleName />
+        <lastName>Pingree</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>ME</state>
+        <firstName>Chellie</firstName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <lastName>HASTINGS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <firstName>ALCEE</firstName>
+        <district>20</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+        </identifiers>
+        <bioguideId>L000397</bioguideId>
+        <middleName />
+        <lastName>LOFGREN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <firstName>ZOE</firstName>
+        <district>19</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <bioguideId>S000480</bioguideId>
+        <middleName>M.</middleName>
+        <lastName>SLAUGHTER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>LOUISE</firstName>
+        <district>25</district>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Afghanistan</name>
+          </item>
+          <item>
+            <name>Allergies</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Cardiovascular and respiratory health</name>
+          </item>
+          <item>
+            <name>Department of Veterans Affairs</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Environmental health</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Fires</name>
+          </item>
+          <item>
+            <name>Hazardous wastes and toxic substances</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health programs administration and funding</name>
+          </item>
+          <item>
+            <name>Health promotion and preventive care</name>
+          </item>
+          <item>
+            <name>Immunology and vaccination</name>
+          </item>
+          <item>
+            <name>Iraq</name>
+          </item>
+          <item>
+            <name>Medical education</name>
+          </item>
+          <item>
+            <name>Medical research</name>
+          </item>
+          <item>
+            <name>Middle East</name>
+          </item>
+          <item>
+            <name>Military medicine</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Helping Veterans Exposed to Burn Pits Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Helping Veterans Exposed to Burn Pits Act</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to establish within the Department of Veterans Affairs a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of health conditions relating to exposure to burn pits.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Helping Veterans Exposed to Burn Pits Act</title>
+        <chamberName />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ESTY:H.R. 1279.Congress has the power to enact this legislation pursuantto the following:clause 18 of section 8 of article 1 of the Constitution.[Page H1464]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

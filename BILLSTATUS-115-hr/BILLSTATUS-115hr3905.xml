@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2017-10-02</actionDate>
+    </latestAction>
+    <laws />
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <date>2017-10-02T16:02:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <calendarNumbers />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-10-02</introducedDate>
+    <createDate>2017-10-03T03:11:21Z</createDate>
+    <amendments />
+    <cboCostEstimates />
+    <policyArea />
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <firstName>COLLIN</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>D</party>
+        <middleName>C.</middleName>
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+          <gpoId>8007</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>P000258</bioguideId>
+        <district>7</district>
+        <lastName>PETERSON</lastName>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <state>MN</state>
+      </item>
+      <item>
+        <firstName>Jason</firstName>
+        <sponsorshipDate>2017-10-02</sponsorshipDate>
+        <party>R</party>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <identifiers>
+          <bioguideId>L000587</bioguideId>
+          <lisID>2335</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000587</bioguideId>
+        <district>2</district>
+        <lastName>Lewis</lastName>
+        <fullName>Rep. Lewis, Jason [R-MN-2]</fullName>
+        <state>MN</state>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <relatedBills />
+    <title>To require congressional approval of any mineral withdrawal or monument designation involving the National Forest System lands in the State of Minnesota, to provide for the renewal of certain mineral leases in such lands, and for other purposes.</title>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionDate>2017-10-02</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-10-02</actionDate>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-10-02</actionDate>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require congressional approval of any mineral withdrawal or monument designation involving the National Forest System lands in the State of Minnesota, to provide for the renewal of certain mineral leases in such lands, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>To require congressional approval of any mineral withdrawal or monument designation involving the National Forest System lands in the State of Minnesota, to provide for the renewal of certain mineral leases in such lands, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-10-03T07:17:07Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Tom</firstName>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <bioguideId>E000294</bioguideId>
+        <lastName>Emmer</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2253</lisID>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <state>MN</state>
+        <district>6</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>3905</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

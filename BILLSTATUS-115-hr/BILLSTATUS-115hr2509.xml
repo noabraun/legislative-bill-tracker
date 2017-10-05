@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-17T14:05:20Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-30T16:34:28Z</date>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hswm02</systemCode>
+            </item>
+          </subcommittees>
+          <name>Ways and Means Committee</name>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <introducedDate>2017-05-17</introducedDate>
+    <notes />
+    <title>Medicare Mental Health Inpatient Equity Act of 2017</title>
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-05-30</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hswm02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <actionDate>2017-05-17</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-05-17</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-05-17</actionDate>
+        <type>IntroReferral</type>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <createDate>2017-05-18T03:11:41Z</createDate>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <updateDate>2017-09-06T07:13:40Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <bioguideId>T000469</bioguideId>
+        <firstName>Paul</firstName>
+        <district>20</district>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <identifiers>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <lastName>Tonko</lastName>
+        <state>NY</state>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TONKO:H.R. 2509.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 1____________________[Page H4312]</pre>]]></constitutionalAuthorityStatementText>
+    <calendarNumbers />
+    <amendments />
+    <relatedBills />
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <bioguideId>K000389</bioguideId>
+        <firstName>Ro</firstName>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Khanna</lastName>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <bioguideId>M001163</bioguideId>
+        <firstName>Doris</firstName>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Matsui</lastName>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <lisID>1814</lisID>
+          <gpoId>7810</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>O.</middleName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MA</state>
+        <bioguideId>K000379</bioguideId>
+        <firstName>Joseph</firstName>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kennedy</lastName>
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <identifiers>
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>P.</middleName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>CO</state>
+        <bioguideId>D000197</bioguideId>
+        <firstName>DIANA</firstName>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>DEGETTE</lastName>
+        <fullName>Rep. DeGette, Diana [D-CO-1]</fullName>
+        <identifiers>
+          <gpoId>7859</gpoId>
+          <bioguideId>D000197</bioguideId>
+          <lisID>1479</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <bioguideId>C000714</bioguideId>
+        <firstName>JOHN</firstName>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>CONYERS</lastName>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <identifiers>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+          <lisID>229</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <party>D</party>
+      </item>
+      <item>
+        <state>OR</state>
+        <bioguideId>B000574</bioguideId>
+        <firstName>EARL</firstName>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <lastName>BLUMENAUER</lastName>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+          <gpoId>8116</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <chamberName />
+        <title>Medicare Mental Health Inpatient Equity Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Medicare Mental Health Inpatient Equity Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend title XVIII of the Social Security Act to eliminate the 190-day lifetime limit on inpatient psychiatric hospital services under the Medicare Program.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Medicare Mental Health Inpatient Equity Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-05-30</actionDate>
+      <links />
+    </latestAction>
+    <billNumber>2509</billNumber>
+    <congress>115</congress>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

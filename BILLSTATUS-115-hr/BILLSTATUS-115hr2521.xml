@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <date>2017-05-18T14:06:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsag16</systemCode>
+              <activities>
+                <item>
+                  <date>2017-06-08T13:45:48Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>General Farm Commodities and Risk Management Subcommittee</name>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-27T07:16:13Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-06-08</actionDate>
+        <committee>
+          <name>General Farm Commodities and Risk Management Subcommittee</name>
+          <systemCode>hsag16</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-05-18</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Agriculture Committee</name>
+          <systemCode>hsag00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR E662)</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E662</url>
+            <name>E662</name>
+          </link>
+        </links>
+        <actionCode>B00100</actionCode>
+        <actionDate>2017-05-18</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-05-18</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-05-18</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WILSON of South Carolina:H.R. 2521.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H4358]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-05-19T03:11:40Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <lastName>Wilson</lastName>
+        <middleName />
+        <firstName>Joe</firstName>
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <district>2</district>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <state>SC</state>
+      </item>
+    </sponsors>
+    <billNumber>2521</billNumber>
+    <congress>115</congress>
+    <notes />
+    <cosponsors>
+      <item>
+        <bioguideId>R000597</bioguideId>
+        <district>7</district>
+        <middleName />
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rice, Tom [R-SC-7]</fullName>
+        <identifiers>
+          <lisID>2160</lisID>
+          <gpoId />
+          <bioguideId>R000597</bioguideId>
+        </identifiers>
+        <lastName>Rice</lastName>
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>D000615</bioguideId>
+        <district>3</district>
+        <middleName />
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <lastName>Duncan</lastName>
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>C000537</bioguideId>
+        <district>6</district>
+        <middleName>E.</middleName>
+        <state>SC</state>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Clyburn, James E. [D-SC-6]</fullName>
+        <identifiers>
+          <gpoId>8146</gpoId>
+          <bioguideId>C000537</bioguideId>
+          <lisID>208</lisID>
+        </identifiers>
+        <lastName>CLYBURN</lastName>
+        <firstName>JAMES</firstName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>G000566</bioguideId>
+        <district>4</district>
+        <middleName />
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Gowdy, Trey [R-SC-4]</fullName>
+        <identifiers>
+          <bioguideId>G000566</bioguideId>
+          <gpoId>8144</gpoId>
+          <lisID>2058</lisID>
+        </identifiers>
+        <lastName>Gowdy</lastName>
+        <firstName>Trey</firstName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>S000051</bioguideId>
+        <district>1</district>
+        <middleName />
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <identifiers>
+          <bioguideId>S000051</bioguideId>
+          <lisID>1012</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Sanford</lastName>
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+      </item>
+      <item>
+        <bioguideId>N000190</bioguideId>
+        <district>5</district>
+        <middleName />
+        <state>SC</state>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Norman, Ralph [R-SC-5]</fullName>
+        <identifiers>
+          <bioguideId>N000190</bioguideId>
+          <lisID>2361</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Norman</lastName>
+        <firstName>Ralph</firstName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-05-18T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-06-15T18:54:01Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>South Carolina Peanut Parity Act of 2017 </b></p> <p>This bill amends the Farm Security and Rural Investment Act of 2002 to add South Carolina to the Virginia/Carolina peanut producing region for the purpose of appointing members of the Peanut Standards Board. </p> <p>(Under current law, the region includes Virginia and North Carolina. The board advises the Department of Agriculture regarding the establishment of quality and handling standards for domestically produced and imported peanuts.) </p>]]></text>
+          <actionDate>2017-05-18</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <title>South Carolina Peanut Parity Act of 2017</title>
+    <introducedDate>2017-05-18</introducedDate>
+    <version>1.0.0</version>
+    <relatedBills />
+    <amendments />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-06-08</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>South Carolina Peanut Parity Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>South Carolina Peanut Parity Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Farm Security and Rural Investment Act of 2002 to include South Carolina as a part of the Virginia/Carolina peanut producing region for purposes of appointment to the Peanut Standards Board.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>South Carolina Peanut Parity Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

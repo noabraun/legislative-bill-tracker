@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-16T15:14:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-03-02T14:23:39Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hswm02</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Ways and Means Committee</name>
+        </item>
+        <item>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-02-16T15:14:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-02-17T19:09:45Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>ACO Assignment Improvement Act of 2017</b></p> <p>This bill amends title XVIII (Medicare) of the Social Security Act to establish additional requirements for assigning Medicare fee-for-service beneficiaries to accountable care organizations (ACOs) under the Medicare shared savings program. Under current law, the program enables ACOs to receive payments for savings stemming from care coordination and management.</p> <p>The bill requires the basis for assignment to reflect beneficiaries' utilization of not only primary care services provided by ACO physicians, but also those provided by other ACO practitioners. Other ACO practitioners include physician assistants, nurse practitioners, clinical nurse specialists, certified registered nurse anesthetists, certified nurse-midwives, clinical social workers, clinical psychologists, and registered dieticians or nutrition professionals.</p>]]></text>
+          <versionCode>00</versionCode>
+          <updateDate>2017-02-16T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-06-28T20:14:51Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-16</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Medicare</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <title>ACO Assignment Improvement Act of 2017</title>
+    <sponsors>
+      <item>
+        <middleName />
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <firstName>Derek</firstName>
+        <district>6</district>
+        <byRequestType />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <bioguideId>K000381</bioguideId>
+        <lastName>Kilmer</lastName>
+        <state>WA</state>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KILMER:H.R. 1160.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H1305]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <congress>115</congress>
+    <billType>HR</billType>
+    <createDate>2017-02-17T04:46:13Z</createDate>
+    <introducedDate>2017-02-16</introducedDate>
+    <relatedBills />
+    <version>1.0.0</version>
+    <actions>
+      <item>
+        <actionDate>2017-03-02</actionDate>
+        <committee>
+          <systemCode>hswm02</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-17</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <actionDate>2017-02-16</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Ways and Means</text>
+        <actionDate>2017-02-16</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-02-16</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-16</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-16</actionDate>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <title>ACO Assignment Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>ACO Assignment Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To amend title XVIII of the Social Security Act to improve the way beneficiaries are assigned under the Medicare shared savings program by also basing such assignment on primary care services furnished by nurse practitioners, physician assistants, and clinical nurse specialists.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>ACO Assignment Improvement Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jenkins</lastName>
+        <firstName>Lynn</firstName>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <district>2</district>
+        <bioguideId>J000290</bioguideId>
+        <identifiers>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+        <state>KS</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Shea-Porter</lastName>
+        <firstName>Carol</firstName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <district>1</district>
+        <bioguideId>S001170</bioguideId>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-20</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Kuster</lastName>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <district>2</district>
+        <bioguideId>K000382</bioguideId>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+          <lisID>2145</lisID>
+        </identifiers>
+        <state>NH</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-28</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Delaney</lastName>
+        <firstName>John</firstName>
+        <fullName>Rep. Delaney, John K. [D-MD-6]</fullName>
+        <district>6</district>
+        <bioguideId>D000620</bioguideId>
+        <identifiers>
+          <gpoId />
+          <lisID>2133</lisID>
+          <bioguideId>D000620</bioguideId>
+        </identifiers>
+        <state>MD</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Reed</lastName>
+        <firstName>Tom</firstName>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <district>23</district>
+        <bioguideId>R000585</bioguideId>
+        <identifiers>
+          <lisID>1982</lisID>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Higgins</lastName>
+        <firstName>Brian</firstName>
+        <fullName>Rep. Higgins, Brian [D-NY-26]</fullName>
+        <district>26</district>
+        <bioguideId>H001038</bioguideId>
+        <identifiers>
+          <bioguideId>H001038</bioguideId>
+          <gpoId>8088</gpoId>
+          <lisID>1794</lisID>
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>VELAZQUEZ</lastName>
+        <firstName>NYDIA</firstName>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <district>7</district>
+        <bioguideId>V000081</bioguideId>
+        <identifiers>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <state>NY</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>McKinley</lastName>
+        <firstName>David</firstName>
+        <fullName>Rep. McKinley, David B. [R-WV-1]</fullName>
+        <district>1</district>
+        <bioguideId>M001180</bioguideId>
+        <identifiers>
+          <lisID>2074</lisID>
+          <gpoId>8222</gpoId>
+          <bioguideId>M001180</bioguideId>
+        </identifiers>
+        <state>WV</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>B.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jayapal</lastName>
+        <firstName>Pramila</firstName>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <district>7</district>
+        <bioguideId>J000298</bioguideId>
+        <identifiers>
+          <lisID>2354</lisID>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+        </identifiers>
+        <state>WA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Tipton</lastName>
+        <firstName>Scott</firstName>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <district>3</district>
+        <bioguideId>T000470</bioguideId>
+        <identifiers>
+          <lisID>1997</lisID>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+        </identifiers>
+        <state>CO</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <lastName>Lujan Grisham</lastName>
+        <firstName>Michelle</firstName>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <district>1</district>
+        <bioguideId>L000580</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000580</bioguideId>
+          <lisID>2146</lisID>
+        </identifiers>
+        <state>NM</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+      </item>
+    </cosponsors>
+    <calendarNumbers />
+    <recordedVotes />
+    <committeeReports />
+    <updateDate>2017-07-12T07:16:13Z</updateDate>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <actionDate>2017-03-02</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+    </latestAction>
+    <amendments />
+    <billNumber>1160</billNumber>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

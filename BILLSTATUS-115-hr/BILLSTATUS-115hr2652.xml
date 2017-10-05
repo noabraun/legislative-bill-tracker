@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-05-25</actionDate>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-25T13:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-05-25T17:20:34Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsvr03</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <name>Veterans' Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>788</number>
+        <type>S</type>
+        <latestTitle>Veteran Overmedication Prevention Act of 2017</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2017-03-30</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+      <item>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>992</number>
+        <type>S</type>
+        <latestTitle>Veteran Overmedication Prevention Act of 2017</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+          <actionDate>2017-05-01</actionDate>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <laws />
+    <title>Veteran Overmedication Prevention Act of 2017</title>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COFFMAN:H.R. 2652.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the Constitution.[Page H4607]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2652</billNumber>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Veteran Overmedication Prevention Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Veteran Overmedication Prevention Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To direct the Secretary of Veterans Affairs to conduct an independent review of the deaths of certain veterans by suicide, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Veteran Overmedication Prevention Act of 2017</title>
+      </item>
+    </titles>
+    <cboCostEstimates />
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <bioguideId>M001196</bioguideId>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Moulton</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2246</lisID>
+          <bioguideId>M001196</bioguideId>
+        </identifiers>
+        <firstName>Seth</firstName>
+        <state>MA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>O000170</bioguideId>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. O'Rourke, Beto [D-TX-16]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>O'Rourke</lastName>
+        <identifiers>
+          <lisID>2162</lisID>
+          <gpoId />
+          <bioguideId>O000170</bioguideId>
+        </identifiers>
+        <firstName>Beto</firstName>
+        <state>TX</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>P000598</bioguideId>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Polis</lastName>
+        <identifiers>
+          <gpoId>7860</gpoId>
+          <bioguideId>P000598</bioguideId>
+          <lisID>1910</lisID>
+        </identifiers>
+        <firstName>Jared</firstName>
+        <state>CO</state>
+        <middleName />
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001301</bioguideId>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bergman</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2333</lisID>
+          <bioguideId>B001301</bioguideId>
+        </identifiers>
+        <firstName>Jack</firstName>
+        <state>MI</state>
+        <middleName />
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>B001295</bioguideId>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <sponsorshipDate>2017-05-25</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Bost</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2243</lisID>
+          <bioguideId>B001295</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <state>IL</state>
+        <middleName />
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>L000564</bioguideId>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Lamborn</lastName>
+        <identifiers>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+          <lisID>1834</lisID>
+        </identifiers>
+        <firstName>Doug</firstName>
+        <state>CO</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>B001285</bioguideId>
+        <district>26</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Brownley</lastName>
+        <identifiers>
+          <lisID>2106</lisID>
+          <gpoId />
+          <bioguideId>B001285</bioguideId>
+        </identifiers>
+        <firstName>Julia</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>F000448</bioguideId>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Franks</lastName>
+        <identifiers>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+        </identifiers>
+        <firstName>Trent</firstName>
+        <state>AZ</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>K000382</bioguideId>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Kuster</lastName>
+        <identifiers>
+          <lisID>2145</lisID>
+          <bioguideId>K000382</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Ann</firstName>
+        <state>NH</state>
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>T000472</bioguideId>
+        <district>41</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Takano</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2110</lisID>
+          <bioguideId>T000472</bioguideId>
+        </identifiers>
+        <firstName>Mark</firstName>
+        <state>CA</state>
+        <middleName />
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>P000611</bioguideId>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <sponsorshipDate>2017-06-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Poliquin</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000611</bioguideId>
+          <lisID>2247</lisID>
+        </identifiers>
+        <firstName>Bruce</firstName>
+        <state>ME</state>
+        <middleName />
+      </item>
+      <item>
+        <party>R</party>
+        <bioguideId>C001053</bioguideId>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cole</lastName>
+        <identifiers>
+          <lisID>1742</lisID>
+          <bioguideId>C001053</bioguideId>
+          <gpoId>8112</gpoId>
+        </identifiers>
+        <firstName>Tom</firstName>
+        <state>OK</state>
+        <middleName />
+      </item>
+      <item>
+        <party>D</party>
+        <bioguideId>D000191</bioguideId>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>DEFAZIO</lastName>
+        <identifiers>
+          <gpoId>8117</gpoId>
+          <bioguideId>D000191</bioguideId>
+          <lisID>279</lisID>
+        </identifiers>
+        <firstName>PETER</firstName>
+        <state>OR</state>
+        <middleName>A.</middleName>
+      </item>
+    </cosponsors>
+    <createDate>2017-05-26T03:11:40Z</createDate>
+    <congress>115</congress>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <actionDate>2017-05-25</actionDate>
+      <text>Referred to the Subcommittee on Health.</text>
+      <links />
+    </latestAction>
+    <billType>HR</billType>
+    <updateDate>2017-09-19T07:15:50Z</updateDate>
+    <introducedDate>2017-05-25</introducedDate>
+    <amendments />
+    <sponsors>
+      <item>
+        <bioguideId>C001077</bioguideId>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>1912</lisID>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <lastName>Coffman</lastName>
+        <state>CO</state>
+        <district>6</district>
+        <middleName />
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <committeeReports />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <notes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

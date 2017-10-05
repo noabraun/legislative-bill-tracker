@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-06-06T16:01:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-09T19:54:41Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsif14</systemCode>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Energy and Commerce Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-09</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-06</actionDate>
+        <text>Referred to the House Committee on Energy and Commerce.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-06</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-06</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <party>R</party>
+        <firstName>David</firstName>
+        <identifiers>
+          <lisID>2105</lisID>
+          <bioguideId>V000129</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <lastName>Valadao</lastName>
+        <district>21</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>V000129</bioguideId>
+        <middleName>G.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <party>R</party>
+        <firstName>Paul</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2103</lisID>
+          <bioguideId>C001094</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <lastName>Cook</lastName>
+        <district>8</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001094</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. Royce, Edward R. [R-CA-39]</fullName>
+        <party>R</party>
+        <firstName>ED</firstName>
+        <identifiers>
+          <lisID>998</lisID>
+          <bioguideId>R000487</bioguideId>
+          <gpoId>7845</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-18</sponsorshipDate>
+        <lastName>ROYCE</lastName>
+        <district>39</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000487</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <party>R</party>
+        <firstName>Doug</firstName>
+        <identifiers>
+          <lisID>2100</lisID>
+          <bioguideId>L000578</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-07-20</sponsorshipDate>
+        <lastName>LaMalfa</lastName>
+        <district>1</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000578</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <party>R</party>
+        <firstName>Stephen</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2228</lisID>
+          <bioguideId>K000387</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <lastName>Knight</lastName>
+        <district>25</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000387</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>IL</state>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <party>R</party>
+        <firstName>Rodney</firstName>
+        <identifiers>
+          <lisID>2126</lisID>
+          <gpoId />
+          <bioguideId>D000619</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <lastName>Davis</lastName>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000619</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <party>R</party>
+        <firstName>Devin</firstName>
+        <identifiers>
+          <lisID>1710</lisID>
+          <bioguideId>N000181</bioguideId>
+          <gpoId>7826</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <lastName>Nunes</lastName>
+        <district>22</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>N000181</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>Jeff</firstName>
+        <party>R</party>
+        <district>10</district>
+        <bioguideId>D000612</bioguideId>
+        <middleName />
+        <state>CA</state>
+        <lastName>Denham</lastName>
+        <fullName>Rep. Denham, Jeff [R-CA-10]</fullName>
+        <identifiers>
+          <lisID>1995</lisID>
+          <bioguideId>D000612</bioguideId>
+          <gpoId>7824</gpoId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DENHAM:H.R. 2779.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, United States Constitution.[Page H4647]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <introducedDate>2017-06-06</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><strong>Assessing Critical Care Efforts to Strengthen Services (ACCESS) Act of 2017</strong></p> <p>This bill amends title XI (General Provisions) of the Social Security Act to establish a Medicaid payment model demonstration project for recruiting and retaining physicians to serve low-income individuals residing in counties in which at least 35% of residents are enrolled in Medicaid. In evaluating such a test model, the Center for Medicare and Medicaid Innovation must assess: (1) the model's&nbsp;applicability to informing national strategies; and (2) the degree to which Medicaid payment strategies reduce emergency-department utilization and improve access, outcomes, and patient satisfaction.</p>]]></text>
+          <actionDate>2017-06-06</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-06-06T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-09-19T11:28:21Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-06-09</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <notes />
+    <billNumber>2779</billNumber>
+    <committeeReports />
+    <recordedVotes />
+    <updateDate>2017-09-19T11:30:12Z</updateDate>
+    <laws />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Assessing Critical Care Efforts to Strengthen Services (ACCESS) Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Assessing Critical Care Efforts to Strengthen Services (ACCESS) Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend title XI of the Social Security Act to provide through the Center for Medicare and Medicaid Innovation (CMMI) for a Medicaid payment model demonstration project on Medicaid reimbursement for physicians' services in counties with a disproportionately high proportion of Medicaid enrollees.</title>
+      </item>
+      <item>
+        <chamberName />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+        <title>Assessing Critical Care Efforts to Strengthen Services (ACCESS) Act of 2017</title>
+      </item>
+    </titles>
+    <createDate>2017-06-07T03:11:40Z</createDate>
+    <relatedBills />
+    <title>Assessing Critical Care Efforts to Strengthen Services (ACCESS) Act of 2017</title>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

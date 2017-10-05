@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-08T03:11:42Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-06-07</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-07</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-06-07</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>REACH Act</title>
+    <cboCostEstimates />
+    <notes />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-07T14:01:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <bioguideId>L000557</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>B.</middleName>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <state>CT</state>
+        <lastName>LARSON</lastName>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+          <lisID>1583</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001195</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <district>8</district>
+        <party>R</party>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <state>MO</state>
+        <lastName>Smith</lastName>
+        <firstName>Jason</firstName>
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+          <gpoId />
+          <lisID>2191</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B000574</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <state>OR</state>
+        <lastName>BLUMENAUER</lastName>
+        <firstName>EARL</firstName>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>P000594</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <district>3</district>
+        <party>R</party>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <state>MN</state>
+        <lastName>Paulsen</lastName>
+        <firstName>Erik</firstName>
+        <identifiers>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000376</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <district>3</district>
+        <party>R</party>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <state>PA</state>
+        <lastName>Kelly</lastName>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>K000188</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <district>3</district>
+        <party>D</party>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <state>WI</state>
+        <lastName>KIND</lastName>
+        <firstName>RON</firstName>
+        <identifiers>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+          <lisID>1498</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001278</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Bonamici, Suzanne [D-OR-1]</fullName>
+        <district>1</district>
+        <party>D</party>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <state>OR</state>
+        <lastName>Bonamici</lastName>
+        <firstName>Suzanne</firstName>
+        <identifiers>
+          <bioguideId>B001278</bioguideId>
+          <lisID>2092</lisID>
+          <gpoId>8367</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S000250</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <district>32</district>
+        <party>R</party>
+        <sponsorshipDate>2017-08-15</sponsorshipDate>
+        <state>TX</state>
+        <lastName>SESSIONS</lastName>
+        <firstName>PETE</firstName>
+        <identifiers>
+          <gpoId>8188</gpoId>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>B001293</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <district>8</district>
+        <party>R</party>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <state>MI</state>
+        <lastName>Bishop</lastName>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <lisID>2249</lisID>
+          <gpoId />
+          <bioguideId>B001293</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>S001156</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName>T.</middleName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <district>38</district>
+        <party>D</party>
+        <sponsorshipDate>2017-09-07</sponsorshipDate>
+        <state>CA</state>
+        <lastName>SANCHEZ</lastName>
+        <firstName>LINDA</firstName>
+        <identifiers>
+          <lisID>1757</lisID>
+          <gpoId>7844</gpoId>
+          <bioguideId>S001156</bioguideId>
+        </identifiers>
+      </item>
+      <item>
+        <bioguideId>J000290</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <middleName />
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <district>2</district>
+        <party>R</party>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <state>KS</state>
+        <lastName>Jenkins</lastName>
+        <firstName>Lynn</firstName>
+        <identifiers>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. TIBERI:H.R. 2821.Congress has the power to enact this legislation pursuantto the following:Article I Section 8[Page H4702]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-09-26T07:16:54Z</updateDate>
+    <relatedBills />
+    <latestAction>
+      <links />
+      <actionDate>2017-06-07</actionDate>
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </latestAction>
+    <introducedDate>2017-06-07</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>T000462</bioguideId>
+        <district>12</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <identifiers>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+        </identifiers>
+        <lastName>TIBERI</lastName>
+        <party>R</party>
+        <byRequestType />
+        <state>OH</state>
+        <firstName>PATRICK</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Research and Experimentation Advances Competitiveness at Home Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>REACH Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Research and Experimentation Advances Competitiveness at Home Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Internal Revenue Code of 1986 to reform the credit for increasing research activities, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>REACH Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <calendarNumbers />
+    <billNumber>2821</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

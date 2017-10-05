@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <state>FL</state>
+        <firstName>Stephanie</firstName>
+        <middleName>N.</middleName>
+        <party>D</party>
+        <district>7</district>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+          <lisID>2318</lisID>
+        </identifiers>
+        <bioguideId>M001202</bioguideId>
+        <lastName>Murphy</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <createDate>2017-07-29T03:11:39Z</createDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Education</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. MURPHY of Florida:H.R. 3609.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, which provides Congress with thepower to regulate commerce among the several states, thepower to promote the progress of science and the useful arts,and the power to make all laws necessary and proper forcarrying out the foregoing powers[Page H6579]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <lastName>Soto</lastName>
+        <state>FL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+          <lisID>2319</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <party>D</party>
+        <bioguideId>S001200</bioguideId>
+        <middleName />
+        <district>9</district>
+        <firstName>Darren</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Curbelo</lastName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <lisID>2235</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <party>R</party>
+        <bioguideId>C001107</bioguideId>
+        <middleName />
+        <district>26</district>
+        <firstName>Carlos</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Crist</lastName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2321</lisID>
+          <bioguideId>C001111</bioguideId>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <party>D</party>
+        <bioguideId>C001111</bioguideId>
+        <middleName />
+        <district>13</district>
+        <firstName>Charlie</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Wasserman Schultz</lastName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000797</bioguideId>
+          <lisID>1777</lisID>
+          <gpoId>7892</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <fullName>Rep. Wasserman Schultz, Debbie [D-FL-23]</fullName>
+        <party>D</party>
+        <bioguideId>W000797</bioguideId>
+        <middleName />
+        <district>23</district>
+        <firstName>Debbie</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>HASTINGS</lastName>
+        <state>FL</state>
+        <identifiers>
+          <lisID>511</lisID>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <party>D</party>
+        <bioguideId>H000324</bioguideId>
+        <middleName>L.</middleName>
+        <district>20</district>
+        <firstName>ALCEE</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <lastName>Wilson</lastName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <party>D</party>
+        <bioguideId>W000808</bioguideId>
+        <middleName>S.</middleName>
+        <district>24</district>
+        <firstName>Frederica</firstName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>ELEVATE Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Ensuring Linguistic Excellence and Vocational Aptitude by Teaching English Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Elementary and Secondary Education Act of 1965 to provide that children that have relocated from Puerto Rico to the States are fully considered for purposes of State allotments under the English language acquisition grants.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>ELEVATE Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>ELEVATE Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Ensuring Linguistic Excellence and Vocational Aptitude by Teaching English Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2017-09-11T02:56:28Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Education</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>3609</billNumber>
+    <committeeReports />
+    <amendments />
+    <title>ELEVATE Act</title>
+    <introducedDate>2017-07-28</introducedDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-28T13:02:25Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

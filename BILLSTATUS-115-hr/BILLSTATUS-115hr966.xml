@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-02-08T04:46:00Z</createDate>
+    <policyArea>
+      <name>Transportation and Public Works</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <text>Referred to House Budget</text>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <name>Budget Committee</name>
+          <systemCode>hsbu00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to House Appropriations</text>
+        <actionDate>2017-02-07</actionDate>
+        <committee>
+          <name>Appropriations Committee</name>
+          <systemCode>hsap00</systemCode>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <text>Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-02-07</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-07</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-07</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <state>WA</state>
+        <district>1</district>
+        <bioguideId>D000617</bioguideId>
+        <lastName>DelBene</lastName>
+        <firstName>Suzan</firstName>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <state>WA</state>
+        <district>6</district>
+        <bioguideId>K000381</bioguideId>
+        <lastName>Kilmer</lastName>
+        <firstName>Derek</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <state>OH</state>
+        <district>13</district>
+        <bioguideId>R000577</bioguideId>
+        <lastName>RYAN</lastName>
+        <firstName>TIM</firstName>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Brownley, Julia [D-CA-26]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-07</sponsorshipDate>
+        <state>CA</state>
+        <district>26</district>
+        <bioguideId>B001285</bioguideId>
+        <lastName>Brownley</lastName>
+        <firstName>Julia</firstName>
+        <identifiers>
+          <bioguideId>B001285</bioguideId>
+          <lisID>2106</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Visclosky, Peter J. [D-IN-1]</fullName>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <state>IN</state>
+        <district>1</district>
+        <bioguideId>V000108</bioguideId>
+        <lastName>VISCLOSKY</lastName>
+        <firstName>PETER</firstName>
+        <identifiers>
+          <bioguideId>V000108</bioguideId>
+          <lisID>1188</lisID>
+          <gpoId>7940</gpoId>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <state>GA</state>
+        <district>13</district>
+        <bioguideId>S001157</bioguideId>
+        <lastName>Scott</lastName>
+        <firstName>David</firstName>
+        <identifiers>
+          <gpoId>7910</gpoId>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <state>PA</state>
+        <district>17</district>
+        <bioguideId>C001090</bioguideId>
+        <lastName>Cartwright</lastName>
+        <firstName>Matt</firstName>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-23</sponsorshipDate>
+        <state>WA</state>
+        <district>7</district>
+        <bioguideId>J000298</bioguideId>
+        <lastName>Jayapal</lastName>
+        <firstName>Pramila</firstName>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-02-07</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>L000560</bioguideId>
+        <lastName>LARSEN</lastName>
+        <firstName>RICK</firstName>
+        <fullName>Rep. Larsen, Rick [D-WA-2]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000560</bioguideId>
+          <lisID>1675</lisID>
+          <gpoId>8206</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>WA</state>
+        <district>2</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>TIGER CUBS Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Transportation Investment Generating Economic Recovery for Cities Underfunded Because of Size Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>TIGER CUBS Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Transportation Investment Generating Economic Recovery for Cities Underfunded Because of Size Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>Making supplemental appropriations for fiscal year 2017 for the TIGER discretionary grant program, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>TIGER CUBS Act</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>966</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Budget Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-07T15:13:40Z</date>
+            </item>
+          </activities>
+          <systemCode>hsbu00</systemCode>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Appropriations Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-07T15:13:35Z</date>
+            </item>
+          </activities>
+          <systemCode>hsap00</systemCode>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LARSEN of Washington:H.R. 966.Congress has the power to enact this legislation pursuantto the following:As described in Article 1, Section 1 ``all legislativepowers herein granted shall be vested in a Congress.''[Page H1086]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Budget deficits and national debt</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Transportation</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Public transit</name>
+          </item>
+          <item>
+            <name>Roads and highways</name>
+          </item>
+          <item>
+            <name>Transportation programs funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Transportation and Public Works</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Transportation Investment Generating Economic Recovery for Cities Underfunded Because of Size Act of 2017 or the TIGER CUBS Act </b></p> <p>This bill provides $500 million in supplemental FY2017 appropriations to the Department of Transportation for national infrastructure investments under a competitive grant program commonly known as the Transportation Investment Generating Economic Recovery (TIGER) program. At least $100 million of the funds must be used for projects located in cities with populations between 10,000 and 50,000. </p> <p>The funding provided by this bill is designated as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985. The emergency funding is exempt from discretionary spending limits and is only available if the President subsequently designates the amounts as an emergency and submits the designation to Congress. </p>]]></text>
+          <lastSummaryUpdateDate>2017-03-01T22:33:47Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+          <actionDate>2017-02-07</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-02-07T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>TIGER CUBS Act</title>
+    <updateDate>2017-06-19T21:00:33Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to House Budget</text>
+      <actionDate>2017-02-07</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

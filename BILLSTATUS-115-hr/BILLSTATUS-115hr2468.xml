@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-09-13T18:54:40Z</date>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <systemCode>hshm00</systemCode>
+          <subcommittees>
+            <item>
+              <systemCode>hshm05</systemCode>
+              <name>Counterterrorism and Intelligence Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Markup by</name>
+                  <date>2017-05-18T14:11:41Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-17T14:11:07Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-16T16:05:30Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2017-09-13</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <links />
+        <type>Floor</type>
+        <actionDate>2017-09-12</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:52:14</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <name>H7241</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7241</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2017-09-12</actionDate>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H7241)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:52:13</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <links />
+        <type>Floor</type>
+        <actionDate>2017-09-12</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>12:52:13</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <name>H.R. 2468</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2468</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2017-09-12</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2468.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:46:01</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <name>H7241-7242</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7241-7242</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2017-09-12</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H7241-7242)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:45:59</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <links />
+        <type>Floor</type>
+        <actionDate>2017-09-12</actionDate>
+        <text>Mr. Perry moved to suspend the rules and pass the bill, as amended.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>12:45:48</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Counterterrorism and Intelligence Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-17</actionDate>
+        <committee>
+          <systemCode>hshm05</systemCode>
+          <name>Counterterrorism and Intelligence Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Counterterrorism and Intelligence.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-16</actionDate>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-16</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-05-16</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <designationOfSpeakerProTempore>1</designationOfSpeakerProTempore>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>2</placeholderTextForH>
+        <referredToCommittee>1</referredToCommittee>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <generalDebate>1</generalDebate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors />
+    <sponsors>
+      <item>
+        <firstName>Scott</firstName>
+        <party>R</party>
+        <district>4</district>
+        <bioguideId>P000605</bioguideId>
+        <middleName />
+        <state>PA</state>
+        <lastName>Perry</lastName>
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <identifiers>
+          <lisID>2157</lisID>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PERRY:H.R. 2468.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18--To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H4224]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <introducedDate>2017-05-16</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-12T18:14:08Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Unifying DHS Intelligence Enterprise Act</strong></p> <p>This bill amends the Homeland Security Act of 2002 to direct the Department of Homeland Security's (DHS's) Chief Intelligence Officer (CIO) to develop and disseminate written DHS-wide guidance for the processing, analysis, production, and dissemination of homeland security information and terrorism information.</p> <p> The guidance shall include:</p> <ul> <li>a description of guiding principles and purposes of DHS's intelligence enterprise;</li> <li>a summary of the roles and responsibilities of each DHS intelligence component and component program in the processing, analysis, production, or dissemination of such information;</li> <li>rules and regulations for the processing, analysis, production, and dissemination of such information; and</li> <li>an assessment of how the dissemination of such information assists intelligence community and federal law enforcement entities in carrying out their missions.</li> </ul> <p> DHS shall: (1) for each of the next five fiscal years, review and revise such guidance; and (2) provide a staff having appropriate expertise and experience to assist the CIO.</p>]]></text>
+          <updateDate>2017-05-16T04:00:00Z</updateDate>
+          <actionDate>2017-05-16</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-09-13</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <notes />
+    <billNumber>2468</billNumber>
+    <committeeReports />
+    <recordedVotes />
+    <updateDate>2017-09-21T04:29:58Z</updateDate>
+    <laws />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Unifying DHS Intelligence Enterprise Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Unifying DHS Intelligence Enterprise Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To amend the Homeland Security Act of 2002 to establish a homeland intelligence doctrine for the Department of Homeland Security, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>Unifying DHS Intelligence Enterprise Act</title>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <title>Unifying DHS Intelligence Enterprise Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>Unifying DHS Intelligence Enterprise Act</title>
+      </item>
+    </titles>
+    <createDate>2017-05-17T03:11:42Z</createDate>
+    <relatedBills />
+    <title>Unifying DHS Intelligence Enterprise Act</title>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

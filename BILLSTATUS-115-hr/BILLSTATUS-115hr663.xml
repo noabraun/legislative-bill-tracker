@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-25T04:45:55Z</createDate>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR H1188)</text>
+        <actionCode>B00100</actionCode>
+        <actionDate>2017-02-15</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H1188</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1188</url>
+          </link>
+        </links>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-24</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Doyle, Michael F. [D-PA-14]</fullName>
+        <identifiers>
+          <bioguideId>D000482</bioguideId>
+          <lisID>316</lisID>
+          <gpoId>8132</gpoId>
+        </identifiers>
+        <lastName>DOYLE</lastName>
+        <firstName>MIKE</firstName>
+        <state>PA</state>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>14</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>D000482</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <lastName>Welch</lastName>
+        <firstName>Peter</firstName>
+        <state>VT</state>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>W000800</bioguideId>
+      </item>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <gpoId>8107</gpoId>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+        </identifiers>
+        <lastName>RYAN</lastName>
+        <firstName>TIM</firstName>
+        <state>OH</state>
+        <sponsorshipDate>2017-01-24</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>D</party>
+        <middleName />
+        <bioguideId>R000577</bioguideId>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-24</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>J000297</bioguideId>
+        <lastName>Jenkins</lastName>
+        <firstName>Evan</firstName>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <middleName>H.</middleName>
+        <identifiers>
+          <bioguideId>J000297</bioguideId>
+          <lisID>2278</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <state>WV</state>
+        <district>3</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Assisting America’s Dislocated Miners Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Assisting America's Dislocated Miners Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish a grant program to assist dislocated miners in receiving additional training and education to enable them to find and secure new jobs.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Assisting America's Dislocated Miners Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>663</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsed00</systemCode>
+          <type>Standing</type>
+          <name>Education and the Workforce Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-24T15:03:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JENKINS of West Virginia:H.R. 663.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8--Commerce Clause[Page H688]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Employment and training programs</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Unemployment</name>
+          </item>
+          <item>
+            <name>Vocational and technical education</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-01T20:41:46Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-24</actionDate>
+          <updateDate>2017-01-24T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Assisting America's Dislocated Miners Act of 2017</strong></p> <p>This bill establishes within the Department of Labor's Employment and Training Administration a Dislocated Miners Assistance Program. The program shall contract with comprehensive career centers to:</p> <ul> <li> identify miners who have been dislocated from their employment in mining jobs across the United States; </li> <li> assess the skills, training, and education such miners need to find and hold new jobs; </li> <li> identify job training programs that would provide such training and education; and </li> <li> provide grants to eligible job training providers to recruit and train such miners and assist them in finding new employment. </li> </ul> <p>A comprehensive career center or job training provider eligible to receive a grant under this bill shall be a nonprofit organization with demonstrated success in coordinating or providing necessary training and education to enable dislocated miners to acquire marketable skills to find and hold jobs in areas where they live.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Assisting America's Dislocated Miners Act of 2017</title>
+    <updateDate>2017-06-19T20:45:17Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Sponsor introductory remarks on measure. (CR H1188)</text>
+      <actionDate>2017-02-15</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

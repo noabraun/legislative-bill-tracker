@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <senate>2</senate>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-18</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <actionDate>2017-05-17</actionDate>
+        <actionTime>15:21:31</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4266)</text>
+        <links>
+          <link>
+            <name>H4266</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4266</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <actionDate>2017-05-17</actionDate>
+        <actionTime>15:21:29</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <links />
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <committee />
+        <actionDate>2017-05-17</actionDate>
+        <actionTime>15:21:29</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 194.</text>
+        <links>
+          <link>
+            <name>H.R. 194</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/194</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2017-05-17</actionDate>
+        <actionTime>15:17:06</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H4266-4267)</text>
+        <links>
+          <link>
+            <name>H4266-4267</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4266-4267</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionDate>2017-05-17</actionDate>
+        <actionTime>15:17:04</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Russell moved to suspend the rules and pass the bill.</text>
+        <links />
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <actionDate>2017-05-17</actionDate>
+        <actionTime>15:16:50</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 37.</text>
+        <links />
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <committee />
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 115-66.</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-66</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/66</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 115-66.</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-66</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/66</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-03-29</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-02</actionDate>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-01-03</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-01-03</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-01-03</actionDate>
+      </item>
+      <actionTypeCounts>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <actionStageOverride>1</actionStageOverride>
+        <orderedReported>1</orderedReported>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <generalDebate>1</generalDebate>
+        <referredToCommittee>1</referredToCommittee>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <district>11</district>
+        <bioguideId>C001078</bioguideId>
+        <lastName>Connolly</lastName>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <middleName>E.</middleName>
+        <state>VA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Gerald</firstName>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Federal Agency Mail Management Act of</strong> <b>2017</b></p> <p>This bill amends the Presidential and Federal Records Act Amendments of 2014 to require the General Services Administration (GSA) to provide guidance and assistance to federal agencies for effective mail processing.</p> <p>The GSA: (1) must promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for federal mail processing facilities; and (2) may inspect the mail processing practices and programs of federal agencies for purposes of recommending improvements. </p> <p>The bill also provides authority for the GSA to set goals for the establishment and maintenance of federal records management systems or techniques.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <actionDate>2017-01-03</actionDate>
+          <lastSummaryUpdateDate>2017-01-24T23:02:51Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <updateDate>2017-03-29T13:25:57Z</updateDate>
+          <versionCode>79</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><strong>Federal Agency Mail Management Act of</strong> <b>2017</b></p> <p>(Sec. 2) This bill amends the Presidential and Federal Records Act Amendments of 2014 to require the General Services Administration (GSA) to provide guidance and assistance to federal agencies for effective mail processing.</p> <p>The GSA: (1) must promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for federal mail processing facilities; and (2) may inspect the mail processing practices and programs of federal agencies for purposes of recommending improvements. </p> <p>The bill also provides authority for the GSA to set goals for the establishment and maintenance of federal records management systems or techniques.</p>]]></text>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <name>Reported to House without amendment</name>
+          <actionDate>2017-03-29</actionDate>
+          <lastSummaryUpdateDate>2017-04-10T15:10:49Z</lastSummaryUpdateDate>
+        </item>
+        <item>
+          <updateDate>2017-05-17T13:29:26Z</updateDate>
+          <versionCode>81</versionCode>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.) </p><p><strong>Federal Agency Mail Management Act of</strong> <b>2017</b></p> <p>(Sec. 2) This bill amends the Presidential and Federal Records Act Amendments of 2014 to require the General Services Administration (GSA) to provide guidance and assistance to federal agencies for effective mail processing.</p> <p>The GSA: (1) must promote economy and efficiency in the selection and utilization of space, staff, equipment, and supplies for federal mail processing facilities; and (2) may inspect the mail processing practices and programs of federal agencies for purposes of recommending improvements. </p> <p>The bill also provides authority for the GSA to set goals for the establishment and maintenance of federal records management systems or techniques.</p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+          <actionDate>2017-05-17</actionDate>
+          <lastSummaryUpdateDate>2017-05-25T20:31:18Z</lastSummaryUpdateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-01-03</introducedDate>
+    <updateDate>2017-08-10T13:23:14Z</updateDate>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Steve</firstName>
+        <lastName>Russell</lastName>
+        <byRequestType />
+        <middleName />
+        <state>OK</state>
+        <identifiers>
+          <lisID>2265</lisID>
+          <bioguideId>R000604</bioguideId>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <district>5</district>
+        <bioguideId>R000604</bioguideId>
+        <fullName>Rep. Russell, Steve [R-OK-5]</fullName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <title>Federal Agency Mail Management Act of 2017</title>
+    <createDate>2017-01-04T07:01:13Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <date>2017-07-26T14:00:40Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-05-18T16:46:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees />
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-03-29T18:30:47Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-02-02T14:36:25Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-01-03T17:18:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52417</url>
+        <title>H.R. 194, Federal Agency Mail Management Act of 2017</title>
+        <pubDate>2017-02-10T16:07:39Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUSSELL:H.R. 194.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18[Page H52]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>194</billNumber>
+    <recordedVotes />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <calendar>U00037</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Federal Agency Mail Management Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Federal Agency Mail Management Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Federal Agency Mail Management Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Federal Agency Mail Management Act of 2017</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Reported to House</titleType>
+        <title>Federal Agency Mail Management Act of 2017</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Federal Agency Mail Management Act of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To ensure the effective processing of mail by Federal agencies, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Federal Agency Mail Management Act of 2017</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-66</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <actionDate>2017-07-26</actionDate>
+      <links />
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -3,7 +3,7 @@
 <div class="well spaced" style="width:97%">
     <h2>{{ bill.bill_id }}: {{ bill.title }}</h2>
 
-    <p>Date proposed: {{ bill.date }}</p>
+    <p>Date proposed: {{ bill.date.strftime('%m-%d-%Y') }}</p>
     <p>Description: {{ bill.description |safe }}</p>
 
     <p>Actions taken:</p>
@@ -11,7 +11,8 @@
         {% for item in action %}
 
             <li>
-                {{ item.date }}: {{ item.action_text}}
+                {{ item.date.strftime('%m-%d-%Y') }}: {{ item.action_text}}
+
             </li>
 
         {% endfor %}

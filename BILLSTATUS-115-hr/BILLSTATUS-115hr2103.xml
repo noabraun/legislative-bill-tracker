@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-17T15:00:11Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-17T17:40:36Z</date>
+                </item>
+              </activities>
+              <name>Economic Opportunity Subcommittee</name>
+              <systemCode>hsvr10</systemCode>
+            </item>
+          </subcommittees>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Julian Woods Yellow Ribbon Program Expansion Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Julian Woods Yellow Ribbon Program Expansion Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend title 38, United States Code, to include the Frye Scholarship in the Yellow Ribbon G.I. Education Enhancement Program.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Julian Woods Yellow Ribbon Program Expansion Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <billNumber>2103</billNumber>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>R000609</bioguideId>
+        <middleName>H.</middleName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>R000609</bioguideId>
+          <gpoId />
+          <lisID>2316</lisID>
+        </identifiers>
+        <district>4</district>
+        <byRequestType />
+        <firstName>John</firstName>
+        <fullName>Rep. Rutherford, John H. [R-FL-4]</fullName>
+        <lastName>Rutherford</lastName>
+      </item>
+    </sponsors>
+    <title>Julian Woods Yellow Ribbon Program Expansion Act</title>
+    <laws />
+    <actions>
+      <item>
+        <actionDate>2017-04-17</actionDate>
+        <committee>
+          <systemCode>hsvr10</systemCode>
+          <name>Economic Opportunity Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Opportunity.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-04-17</actionDate>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-04-17</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-04-17</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-04-17</introducedDate>
+    <relatedBills>
+      <item>
+        <number>798</number>
+        <type>S</type>
+        <latestTitle>Yellow Ribbon Improvement Act of 2017</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <latestAction>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+          <actionDate>2017-06-15</actionDate>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <fullName>Rep. Peters, Scott H. [D-CA-52]</fullName>
+        <state>CA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2113</lisID>
+          <bioguideId>P000608</bioguideId>
+        </identifiers>
+        <bioguideId>P000608</bioguideId>
+        <lastName>Peters</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <district>52</district>
+        <firstName>Scott</firstName>
+        <middleName>H.</middleName>
+        <sponsorshipDate>2017-04-17</sponsorshipDate>
+      </item>
+      <item>
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>L000586</bioguideId>
+          <lisID>2317</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>L000586</bioguideId>
+        <lastName>Lawson</lastName>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <district>5</district>
+        <firstName>Al</firstName>
+        <middleName />
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <recordedVotes />
+    <updateDate>2017-09-11T03:02:59Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+      <links />
+      <actionDate>2017-04-17</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-17T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-08-22T18:20:08Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Julian Woods Yellow Ribbon Program Expansion Act</b></p> <p>This bill includes under the Yellow Ribbon G.I. Education Enhancement Program (public-private contributions for educational assistance in addition to post-9/11 educational assistance) the child or spouse of an individual who, on or after September 11, 2001, dies in the line of duty while serving on active duty (Marine Gunnery Sergeant John David Fry scholarship recipients). </p>]]></text>
+          <actionDate>2017-04-17</actionDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-04-18T03:11:47Z</createDate>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RUTHERFORD:H.R. 2103.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution.____________________[Page H2808]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-02-04T05:07:04Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-24</actionDate>
+        <committee>
+          <systemCode>hsag15</systemCode>
+          <name>Conservation and Forestry Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-16</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-03</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <text>Referred to House Natural Resources</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-03</actionDate>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <text>Referred to House Agriculture</text>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-03</actionDate>
+        <committee />
+        <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. McCLINTOCK:H.R. 865.Congress has the power to enact this legislation pursuantto the following:Pursuant to clause 7 of Rule XII of the Rules of the Houseof Representatives, the following statement is submittedregarding the specific powers granted to Congress in theConstitution to enact the accompanying bill or jointresolution.Congress has the power to enact this legislation pursuantto the following: Article IV, Section 3, Clause 2 (theProperty Clause), which confers on Congress the power to makeall needful Rules and Regulations respecting the propertybelonging to the United States.[Page H978]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <title>Emergency Forest Restoration Act</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <district>4</district>
+        <state>CA</state>
+        <identifiers>
+          <gpoId>7809</gpoId>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+        </identifiers>
+        <bioguideId>M001177</bioguideId>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <firstName>Tom</firstName>
+        <party>R</party>
+        <lastName>McClintock</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Conservation and Forestry.</text>
+      <actionDate>2017-02-24</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsag00</systemCode>
+          <type>Standing</type>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsag15</systemCode>
+              <name>Conservation and Forestry Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-24T16:35:09Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-03T14:01:30Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hsii10</systemCode>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-16T21:45:09Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-03T14:01:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-02-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-22T19:56:58Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Emergency Forest Restoration Act</b></p> <p>This bill allows the Department of Agriculture (USDA), regarding National Forest System lands, or the Department of the Interior, regarding public lands, to develop and carry out a forest management activity on lands of the department concerned in a state when the activity's primary purpose is to address an insect or disease infestation that has been declared an emergency by the state governor.</p> <p>With specified exceptions, a categorical exclusion shall be available to USDA or Interior for these purposes. </p> <p>A &quot;categorical exclusion&quot; is an exception to the requirements of the National Environmental Policy Act of 1969 for a project or activity relating to the management of National Forest System lands or public lands that would otherwise be considered a major federal action. </p> <p>Beginning in FY2019, USDA shall identify the amount of funds, if any, appropriated in the previous fiscal year pursuant to the authorization of appropriations specified in this bill. </p> <p>Within five years of the end of the fiscal year in which an identification is made, USDA shall sell an amount of timber the sale of which is sufficient to recoup the identified amount and any associated costs.</p> <p>The bill prescribes requirements for the deposit of sales proceeds. </p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-02-03</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>865</billNumber>
+    <calendarNumbers />
+    <amendments />
+    <introducedDate>2017-02-03</introducedDate>
+    <updateDate>2017-06-19T21:00:28Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Animal and plant health</name>
+          </item>
+          <item>
+            <name>Appropriations</name>
+          </item>
+          <item>
+            <name>Environmental assessment, monitoring, research</name>
+          </item>
+          <item>
+            <name>Forests, forestry, trees</name>
+          </item>
+          <item>
+            <name>Insects</name>
+          </item>
+          <item>
+            <name>Pest management</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <firstName>Paul</firstName>
+        <state>CA</state>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <lisID>2103</lisID>
+          <gpoId />
+          <bioguideId>C001094</bioguideId>
+        </identifiers>
+        <bioguideId>C001094</bioguideId>
+        <lastName>Cook</lastName>
+      </item>
+      <item>
+        <firstName>Paul</firstName>
+        <state>AZ</state>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <bioguideId>G000565</bioguideId>
+        <lastName>Gosar</lastName>
+      </item>
+      <item>
+        <firstName>Chris</firstName>
+        <state>UT</state>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <lisID>2168</lisID>
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <bioguideId>S001192</bioguideId>
+        <lastName>Stewart</lastName>
+      </item>
+      <item>
+        <firstName>David</firstName>
+        <state>CA</state>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>G.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>21</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>V000129</bioguideId>
+          <lisID>2105</lisID>
+        </identifiers>
+        <bioguideId>V000129</bioguideId>
+        <lastName>Valadao</lastName>
+      </item>
+      <item>
+        <firstName>Dan</firstName>
+        <state>WA</state>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>N000189</bioguideId>
+          <lisID>2275</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>N000189</bioguideId>
+        <lastName>Newhouse</lastName>
+      </item>
+      <item>
+        <firstName>Kevin</firstName>
+        <state>CA</state>
+        <fullName>Rep. McCarthy, Kevin [R-CA-23]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>23</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>M001165</bioguideId>
+          <lisID>1833</lisID>
+          <gpoId>7827</gpoId>
+        </identifiers>
+        <bioguideId>M001165</bioguideId>
+        <lastName>McCarthy</lastName>
+      </item>
+      <item>
+        <firstName>Doug</firstName>
+        <state>CA</state>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+        </identifiers>
+        <bioguideId>L000578</bioguideId>
+        <lastName>LaMalfa</lastName>
+      </item>
+      <item>
+        <firstName>Bruce</firstName>
+        <state>AR</state>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>W000821</bioguideId>
+          <lisID>2224</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>W000821</bioguideId>
+        <lastName>Westerman</lastName>
+      </item>
+      <item>
+        <firstName>Raul</firstName>
+        <state>ID</state>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>7919</gpoId>
+          <bioguideId>L000573</bioguideId>
+          <lisID>2011</lisID>
+        </identifiers>
+        <bioguideId>L000573</bioguideId>
+        <lastName>Labrador</lastName>
+      </item>
+      <item>
+        <firstName>Devin</firstName>
+        <state>CA</state>
+        <fullName>Rep. Nunes, Devin [R-CA-22]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>22</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>7826</gpoId>
+          <bioguideId>N000181</bioguideId>
+          <lisID>1710</lisID>
+        </identifiers>
+        <bioguideId>N000181</bioguideId>
+        <lastName>Nunes</lastName>
+      </item>
+      <item>
+        <firstName>Jeff</firstName>
+        <state>CA</state>
+        <fullName>Rep. Denham, Jeff [R-CA-10]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <gpoId>7824</gpoId>
+          <bioguideId>D000612</bioguideId>
+          <lisID>1995</lisID>
+        </identifiers>
+        <bioguideId>D000612</bioguideId>
+        <lastName>Denham</lastName>
+      </item>
+      <item>
+        <firstName>Stephen</firstName>
+        <state>CA</state>
+        <fullName>Rep. Knight, Stephen [R-CA-25]</fullName>
+        <party>R</party>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>25</district>
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <identifiers>
+          <bioguideId>K000387</bioguideId>
+          <lisID>2228</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>K000387</bioguideId>
+        <lastName>Knight</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberName />
+        <title>Emergency Forest Restoration Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Emergency Forest Restoration Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>To make a categorical exclusion available to the Secretary of Agriculture and the Secretary of the Interior to develop and carry out a forest management activity on National Forest system lands derived from the public domain or public lands to address insect or disease infestation declared as an emergency in a State by the Governor of such State, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>Emergency Forest Restoration Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

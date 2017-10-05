@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-29T03:11:36Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>4</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-09-07</actionDate>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Subcommittee on Cybersecurity and Infrastructure Protection Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-08-29</actionDate>
+        <committee>
+          <systemCode>hshm08</systemCode>
+          <name>Cybersecurity, Infrastructure Protection, and Security Technologies Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>hspw07</systemCode>
+          <name>Coast Guard and Maritime Transportation Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <links />
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <title>Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2017</title>
+    <cboCostEstimates />
+    <notes />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2017-09-07T20:15:47Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-28T14:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hshm00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Cybersecurity, Infrastructure Protection, and Security Technologies Subcommittee</name>
+              <systemCode>hshm08</systemCode>
+              <activities>
+                <item>
+                  <date>2017-09-07T20:01:04Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2017-08-29T15:35:24Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+        <item>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-28T14:01:40Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Coast Guard and Maritime Transportation Subcommittee</name>
+              <systemCode>hspw07</systemCode>
+              <activities>
+                <item>
+                  <date>2017-06-29T17:58:06Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <district>46</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001110</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2312</lisID>
+          <gpoId />
+          <bioguideId>C001110</bioguideId>
+        </identifiers>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <party>D</party>
+        <lastName>Correa</lastName>
+        <firstName>J.</firstName>
+        <middleName>Luis</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>W000808</bioguideId>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <party>D</party>
+        <lastName>Wilson</lastName>
+        <firstName>Frederica</firstName>
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>E000296</bioguideId>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+        </identifiers>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <party>D</party>
+        <lastName>Evans</lastName>
+        <firstName>Dwight</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000381</bioguideId>
+        <state>WA</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2169</lisID>
+          <bioguideId>K000381</bioguideId>
+        </identifiers>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <party>D</party>
+        <lastName>Kilmer</lastName>
+        <firstName>Derek</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <district>44</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001300</bioguideId>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>B001300</bioguideId>
+          <gpoId />
+          <lisID>2311</lisID>
+        </identifiers>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <party>D</party>
+        <lastName>Barragan</lastName>
+        <firstName>Nanette</firstName>
+        <middleName>Diaz</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000592</bioguideId>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8158</gpoId>
+          <lisID>1802</lisID>
+          <bioguideId>P000592</bioguideId>
+        </identifiers>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <party>R</party>
+        <lastName>Poe</lastName>
+        <firstName>Ted</firstName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. TORRES:H.R. 3101.Congress has the power to enact this legislation pursuantto the following:According to Article 1: Section 8: Clause 18: of the UnitedStates Constitution, seen below, this bill falls within theConstitutional Authority of the United States Congress.Article 1: Section 8: Clause 18: To make all Laws whichshall be necessary and proper for carrying into Execution theforegoing Powers, and all other Powers vested by thisConstitution in the Government of the United States, or inany Department or Officer thereof.[Page H5296]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-09-29T07:16:20Z</updateDate>
+    <relatedBills />
+    <latestAction>
+      <links />
+      <actionDate>2017-09-07</actionDate>
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </latestAction>
+    <introducedDate>2017-06-28</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>T000474</bioguideId>
+        <district>35</district>
+        <middleName>J.</middleName>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2231</lisID>
+          <bioguideId>T000474</bioguideId>
+        </identifiers>
+        <lastName>Torres</lastName>
+        <party>D</party>
+        <byRequestType />
+        <state>CA</state>
+        <firstName>Norma</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To enhance cybersecurity information sharing and coordination at ports in the United States, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Strengthening Cybersecurity Information Sharing and Coordination in Our Ports Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <calendarNumbers />
+    <billNumber>3101</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

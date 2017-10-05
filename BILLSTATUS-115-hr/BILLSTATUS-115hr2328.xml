@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-05-04</actionDate>
+        <committee>
+          <systemCode>hspw02</systemCode>
+          <name>Water Resources and Environment Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <links />
+        <committee>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+        </committee>
+        <actionDate>2017-05-03</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-05-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+        <actionDate>2017-05-03</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors>
+      <item>
+        <middleName>F.</middleName>
+        <lastName>NAPOLITANO</lastName>
+        <firstName>GRACE</firstName>
+        <bioguideId>N000179</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <district>32</district>
+        <state>CA</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>RYAN</lastName>
+        <firstName>TIM</firstName>
+        <bioguideId>R000577</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <district>13</district>
+        <state>OH</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>T.</middleName>
+        <lastName>Kildee</lastName>
+        <firstName>Daniel</firstName>
+        <bioguideId>K000380</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <identifiers>
+          <bioguideId>K000380</bioguideId>
+          <gpoId />
+          <lisID>2134</lisID>
+        </identifiers>
+        <district>5</district>
+        <state>MI</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>CONYERS</lastName>
+        <firstName>JOHN</firstName>
+        <bioguideId>C000714</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <identifiers>
+          <lisID>229</lisID>
+          <bioguideId>C000714</bioguideId>
+          <gpoId>7999</gpoId>
+        </identifiers>
+        <district>13</district>
+        <state>MI</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>KAPTUR</lastName>
+        <firstName>MARCY</firstName>
+        <bioguideId>K000009</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <identifiers>
+          <lisID>616</lisID>
+          <gpoId>8099</gpoId>
+          <bioguideId>K000009</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <state>OH</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>THOMPSON</lastName>
+        <firstName>BENNIE</firstName>
+        <bioguideId>T000193</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <identifiers>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <state>MS</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Beatty</lastName>
+        <firstName>Joyce</firstName>
+        <bioguideId>B001281</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <state>OH</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <lastName>MCGOVERN</lastName>
+        <firstName>JAMES</firstName>
+        <bioguideId>M000312</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <gpoId>7968</gpoId>
+          <lisID>1504</lisID>
+        </identifiers>
+        <district>2</district>
+        <state>MA</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>HOLMES</middleName>
+        <lastName>NORTON</lastName>
+        <firstName>ELEANOR</firstName>
+        <bioguideId>N000147</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <bioguideId>N000147</bioguideId>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <district>0</district>
+        <state>DC</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <lastName>RUSH</lastName>
+        <firstName>BOBBY</firstName>
+        <bioguideId>R000515</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <identifiers>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+          <bioguideId>R000515</bioguideId>
+        </identifiers>
+        <district>1</district>
+        <state>IL</state>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Cartwright</lastName>
+        <firstName>Matt</firstName>
+        <bioguideId>C001090</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <lisID>2159</lisID>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <state>PA</state>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Green</lastName>
+        <firstName>Al</firstName>
+        <bioguideId>G000553</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <district>9</district>
+        <state>TX</state>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <lastName>BISHOP</lastName>
+        <firstName>SANFORD</firstName>
+        <bioguideId>B000490</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <district>2</district>
+        <state>GA</state>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Moore</lastName>
+        <firstName>Gwen</firstName>
+        <bioguideId>M001160</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <district>4</district>
+        <state>WI</state>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Evans</lastName>
+        <firstName>Dwight</firstName>
+        <bioguideId>E000296</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <identifiers>
+          <lisID>2298</lisID>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <state>PA</state>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Khanna</lastName>
+        <firstName>Ro</firstName>
+        <bioguideId>K000389</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <district>17</district>
+        <state>CA</state>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <lastName>LEVIN</lastName>
+        <firstName>SANDER</firstName>
+        <bioguideId>L000263</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <identifiers>
+          <bioguideId>L000263</bioguideId>
+          <lisID>683</lisID>
+          <gpoId>7997</gpoId>
+        </identifiers>
+        <district>9</district>
+        <state>MI</state>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Raskin</lastName>
+        <firstName>Jamie</firstName>
+        <bioguideId>R000606</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+          <lisID>2332</lisID>
+        </identifiers>
+        <district>8</district>
+        <state>MD</state>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>Dingell</lastName>
+        <firstName>Debbie</firstName>
+        <bioguideId>D000624</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <identifiers>
+          <bioguideId>D000624</bioguideId>
+          <gpoId />
+          <lisID>2251</lisID>
+        </identifiers>
+        <district>12</district>
+        <state>MI</state>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <lastName>McNerney</lastName>
+        <firstName>Jerry</firstName>
+        <bioguideId>M001166</bioguideId>
+        <party>D</party>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <district>9</district>
+        <state>CA</state>
+        <sponsorshipDate>2017-06-27</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Poverty and welfare assistance</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>Water quality</name>
+          </item>
+          <item>
+            <name>Water use and supply</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Low Income Sewer and Water Assistance Program Act of 2017</b></p> <p>This bill amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to require the Environmental Protection Agency to establish a pilot program that awards grants to at least 10 eligible entities for assisting low-income households maintain access to sanitation (water and sewer) services. In order to be eligible for grants, entities must be municipalities, or public entities that own or operate public water systems, that are affected by consent decrees related to compliance with standards under that Act.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-08-09T21:19:32Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-03</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-03T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-05-03</introducedDate>
+    <updateDate>2017-08-09T21:30:19Z</updateDate>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>Marcia</firstName>
+        <lastName>Fudge</lastName>
+        <byRequestType />
+        <middleName>L.</middleName>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>F000455</bioguideId>
+          <gpoId>8101</gpoId>
+          <lisID>1895</lisID>
+        </identifiers>
+        <party>D</party>
+        <district>11</district>
+        <bioguideId>F000455</bioguideId>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <title>Low-Income Sewer and Water Assistance Program Act of 2017</title>
+    <createDate>2017-05-04T03:11:53Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <name>Water Resources and Environment Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-05-04T15:29:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T14:03:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. FUDGE:H.R. 2328.Congress has the power to enact this legislation pursuantto the following:Article I, section 8, clause 3, the Commerce Clause.[Page H3324]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2328</billNumber>
+    <recordedVotes />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <title>Low-Income Sewer and Water Assistance Program Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>Low-Income Sewer and Water Assistance Program Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To amend the Federal Water Pollution Control Act to establish a low-income sewer and water assistance pilot program.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Low-Income Sewer and Water Assistance Program Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <committeeReports />
+    <latestAction>
+      <actionDate>2017-05-04</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

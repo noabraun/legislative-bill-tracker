@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll337.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-06-28T21:20:08Z</date>
+        <congress>115</congress>
+        <rollNumber>337</rollNumber>
+        <fullActionName>Passage of a Measure</fullActionName>
+        <chamber>House</chamber>
+      </recordedVote>
+      <recordedVote>
+        <url>http://clerk.house.gov/evs/2017/roll336.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-06-28T21:13:10Z</date>
+        <congress>115</congress>
+        <rollNumber>336</rollNumber>
+        <fullActionName>Motion to Commit/Recommit With Instructions Results</fullActionName>
+        <chamber>House</chamber>
+      </recordedVote>
+    </recordedVotes>
+    <actions>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <passageOfAMeasure>1</passageOfAMeasure>
+        <designationOfChairmanCommitteeOfTheWhole>1</designationOfChairmanCommitteeOfTheWhole>
+        <motionToCommitRecommitWithInstructionsResults>1</motionToCommitRecommitWithInstructionsResults>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForHA>1</placeholderTextForHA>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <referredToCommittee>1</referredToCommittee>
+        <ruleForConsiderationOfBillReportedToHouse>1</ruleForConsiderationOfBillReportedToHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForHL>1</placeholderTextForHL>
+        <placeholderTextForH>4</placeholderTextForH>
+        <generalDebate>11</generalDebate>
+        <resolvingIntoCommitteeOfTheWholePursuantToRule>1</resolvingIntoCommitteeOfTheWholePursuantToRule>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <considerationByHouse>1</considerationByHouse>
+        <motionToCommitRecommitWithInstructionsOffered>1</motionToCommitRecommitWithInstructionsOffered>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <motionForPreviousQuestion>1</motionForPreviousQuestion>
+        <committeeDischarged>1</committeeDischarged>
+        <committeeOfTheWholeRisesToReportOnLegislation>1</committeeOfTheWholeRisesToReportOnLegislation>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>39</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>ssju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>17:20:10</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>Roll no. 337</name>
+            <url>http://clerk.house.gov/evs/2017/roll337.xml</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>On passage Passed by recorded vote: 218 - 210 (Roll no. 337).</text>
+        <actionTime>17:20:08</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>Roll no. 337</name>
+            <url>http://clerk.house.gov/evs/2017/roll337.xml</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>Passed/agreed to in House: On passage Passed by recorded vote: 218 - 210 (Roll no. 337).</text>
+        <actionTime>17:20:08</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>Roll no. 336</name>
+            <url>http://clerk.house.gov/evs/2017/roll336.xml</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H36110</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>On motion to recommit with instructions Failed by recorded vote: 191 - 235 (Roll no. 336).</text>
+        <actionTime>17:13:10</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H8A000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+        <actionTime>17:05:51</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>Floor summary: DEBATE - The House proceeded with 10 minutes of debate on the Kuster motion to recommit with instructions. The instructions contained in the motion seek to report the same back to the House forthwith with an amendment to add an exemption to the underlying bill for any claim or action that pertains to the negligent prescription of opioids.</text>
+        <actionTime>16:57:59</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H5275</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5275</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H36100</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>Ms. Kuster (NH) moved to recommit with instructions to the Committee on the Judiciary. (text: CR H5275)</text>
+        <actionTime>16:57:00</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H34400</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.</text>
+        <actionTime>16:55:50</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>The previous question was ordered pursuant to the rule.</text>
+        <actionTime>16:55:33</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1215</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1215</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H32600</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1215.</text>
+        <actionTime>16:55:04</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question on adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text>
+        <actionTime>16:25:18</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Barr amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the noes had prevailed. Mr. Barr demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text>
+        <actionTime>16:24:49</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H. Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Barr amendment No. 5.</text>
+        <actionTime>16:13:18</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Hudson amendment, the Chair put the question on adoption of the amendment and by voice vote announced that the ayes had prevailed. Mr. Cohen demanded a recorded vote, and the Chair postponed further proceedings on the question of adoption of the amendment until later in the legislative day.</text>
+        <actionTime>16:12:42</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H. Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment No. 4.</text>
+        <actionTime>16:00:51</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H. Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Roe (TN) amendment No. 3.</text>
+        <actionTime>15:48:23</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H. Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment No. 2.</text>
+        <actionTime>15:35:57</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H.Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>DEBATE - Pursuant to the provisions of H.Res. 382, the Committee of the Whole proceeded with 10 minutes of debate on the Sessions amendment No. 1.</text>
+        <actionTime>15:24:19</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1215</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1215</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 1215.</text>
+        <actionTime>14:07:42</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <actionCode>H32400</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>The Speaker designated the Honorable Garret Graves to act as Chairman of the Committee.</text>
+        <actionTime>14:07:05</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H32020</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 382 and Rule XVIII.</text>
+        <actionTime>14:07:05</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1215</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1215</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>Rule provides for consideration of H.R. 1215 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-10. The resolution makes in order only those amendments printed in the report.</text>
+        <actionTime>14:06:52</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+          <link>
+            <name>H5263-5287</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5263-5287</url>
+          </link>
+          <link>
+            <name>H5273-5275</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5273-5275</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <actionDate>2017-06-28</actionDate>
+        <text>Considered under the provisions of rule H. Res. 382. (consideration: CR H5263-5287; text of amendment in the nature of a substitute: CR H5273-5275)</text>
+        <actionTime>14:06:47</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H1L220</actionCode>
+        <actionDate>2017-06-27</actionDate>
+        <text>Rule H. Res. 382 passed House.</text>
+        <actionTime>13:49:50</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee />
+        <links>
+          <link>
+            <name>H. Res. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-resolution/382</url>
+          </link>
+          <link>
+            <name>H.R. 1215</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1215</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H1L210</actionCode>
+        <actionDate>2017-06-13</actionDate>
+        <text>Rules Committee Resolution H. Res. 382 Reported to House. Rule provides for consideration of H.R. 1215 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. A specified amendment is in order. The resolution makes in order as original text for purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 115-10. The resolution makes in order only those amendments printed in the report.</text>
+        <actionTime>17:48:31</actionTime>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <actionDate>2017-03-22</actionDate>
+        <text>Placed on the Union Calendar, Calendar No. 31.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>Discharge</type>
+        <actionCode>H12300</actionCode>
+        <actionDate>2017-03-22</actionDate>
+        <text>Committee on Energy and Commerce discharged.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>Committee</type>
+        <actionCode>5500</actionCode>
+        <actionDate>2017-03-22</actionDate>
+        <text>Committee on Energy and Commerce discharged.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-55</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/55</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <actionDate>2017-03-22</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 115-55, Part I.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-55</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/55</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-03-22</actionDate>
+        <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 115-55, Part I.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-03-03</actionDate>
+        <committee>
+          <systemCode>hsif14</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 17.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-02-24</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsif00</systemCode>
+          <name>Energy and Commerce Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-02-24</actionDate>
+        <text>Referred to House Energy and Commerce</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-02-24</actionDate>
+        <text>Referred to House Judiciary</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2017-02-24</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-02-24</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-02-24</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <latestTitle>ACCESS Act of 2017</latestTitle>
+        <type>HR</type>
+        <number>1704</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-04-06</actionDate>
+          <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        </latestAction>
+      </item>
+      <item>
+        <latestTitle>Providing for consideration of the bill (H.R. 1215) to improve patient access to health care services and provide improved medical care by reducing the excessive burden the liability system places on the health care delivery system.</latestTitle>
+        <type>HRES</type>
+        <number>382</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>House</identifiedBy>
+            <type>Procedurally-related</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-06-27</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>13:49:51</actionTime>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <congress>115</congress>
+    <notes />
+    <title>Protecting Access to Care Act of 2017</title>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Health</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Drug safety, medical device, and laboratory regulation</name>
+          </item>
+          <item>
+            <name>Evidence and witnesses</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health facilities and institutions</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Health technology, devices, supplies</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Prescription drugs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <laws />
+    <createDate>2017-02-25T04:49:55Z</createDate>
+    <policyArea>
+      <name>Health</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>IA</state>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <byRequestType />
+        <party>R</party>
+        <district>4</district>
+        <middleName />
+        <lastName>King</lastName>
+        <bioguideId>K000362</bioguideId>
+        <firstName>Steve</firstName>
+        <identifiers>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+      </item>
+    </sponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-55</citation>
+      </committeeReport>
+    </committeeReports>
+    <introducedDate>2017-02-24</introducedDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <systemCode>ssju00</systemCode>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-06-29T18:25:17Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsif00</systemCode>
+          <type>Standing</type>
+          <name>Energy and Commerce Committee</name>
+          <subcommittees>
+            <item>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+              <activities>
+                <item>
+                  <date>2017-03-03T18:49:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-03-22T20:29:37Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-02-24T14:30:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <name>Judiciary Committee</name>
+          <subcommittees>
+            <item>
+              <name>Constitution and Civil Justice Subcommittee</name>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <date>2017-02-24T16:25:50Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-03-22T20:28:57Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-02-28T22:43:40Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-02-24T14:30:14Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2017-06-29</actionDate>
+      <links />
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Protecting Access to Care Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <title>Protecting Access to Care Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Protecting Access to Care Act of 2017</title>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>To improve patient access to health care services and provide improved medical care by reducing the excessive burden the liability system places on the health care delivery system.</title>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Protecting Access to Care Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Protecting Access to Care Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <parentTitleType />
+        <title>Protecting Access to Care Act of 2017</title>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <title>Protecting Access to Care Act of 2017</title>
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00031</calendar>
+      </item>
+    </calendarNumbers>
+    <cosponsors>
+      <item>
+        <state>VA</state>
+        <fullName>Rep. Goodlatte, Bob [R-VA-6]</fullName>
+        <party>R</party>
+        <firstName>ROBERT</firstName>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <identifiers>
+          <bioguideId>G000289</bioguideId>
+          <lisID>446</lisID>
+          <gpoId>8197</gpoId>
+        </identifiers>
+        <middleName>W.</middleName>
+        <lastName>GOODLATTE</lastName>
+        <bioguideId>G000289</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>TX</state>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <party>R</party>
+        <firstName>LAMAR</firstName>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+        <identifiers>
+          <gpoId>8177</gpoId>
+          <lisID>1075</lisID>
+          <bioguideId>S000583</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>SMITH</lastName>
+        <bioguideId>S000583</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>TX</state>
+        <fullName>Rep. Flores, Bill [R-TX-17]</fullName>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <identifiers>
+          <lisID>2065</lisID>
+          <gpoId>8173</gpoId>
+          <bioguideId>F000461</bioguideId>
+        </identifiers>
+        <middleName />
+        <lastName>Flores</lastName>
+        <bioguideId>F000461</bioguideId>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-03-23T16:50:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/52518</url>
+        <title>H.R. 1215, Protecting Access to Care Act of 2017</title>
+      </item>
+    </cboCostEstimates>
+    <version>1.0.0</version>
+    <updateDate>2017-08-30T04:28:19Z</updateDate>
+    <billNumber>1215</billNumber>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-13T18:55:41Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Protecting Access to Care Act of 2017</b></p> <p>This bill establishes provisions governing health care lawsuits where coverage for the care was provided or subsidized by the federal government, including through a subsidy or tax benefit. The bill does not preempt certain state laws and federal vaccine injury laws and rules.</p> <p>The statute of limitations is three years after the injury or one year after the claimant discovers the injury, whichever occurs first. For a minor, the statute of limitations is three years after the injury, except for a minor under six years old, for whom it is three years after the injury, one year after discovery of the injury, or the minor's eighth birthday, whichever occurs later. These limitations are tolled under certain circumstances.</p> <p>Noneconomic damages are limited to $250,000. Juries may not be informed of this limitation. Parties are liable for the amount of damages directly proportional to their responsibility. These provisions do not preempt state laws that specify a particular monetary amount of damages.</p> <p>Courts must supervise the payment of damages and may restrict attorney contingency fees. The bill sets limits on contingency fees.</p> <p>Certain evidence regarding collateral source benefits (e.g., insurance payments) may be introduced in lawsuits involving injury or wrongful death. Providers of collateral source benefits may not recover any amount from the claimant in such a lawsuit. These provisions do not apply if Medicare is a secondary payer or there is third party liability for Medicaid services.</p> <p>The bill provides for periodic payment of future damage awards.</p> A health care provider who prescribes, or dispenses pursuant to a prescription, a medical product approved by the Food and Drug Administration may not be a party to a product liability lawsuit or a class action lawsuit regarding the medical product.]]></text>
+          <updateDate>2017-02-24T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-02-24</actionDate>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-08-26T17:15:38Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Protecting Access to Care Act of 2017</b></p> <p>This bill establishes provisions governing health care lawsuits where coverage for the care was provided or subsidized by the federal government, including through a subsidy or tax benefit.</p> <p>(Sec. 2) The statute of limitations is three years after the injury or one year after the claimant discovers the injury, whichever occurs first. For a minor, the statute of limitations is three years after the injury, except for a minor under six years old, for whom it is three years after the injury, one year after discovery of the injury, or the minor's eighth birthday, whichever occurs later. These limitations are tolled under certain circumstances. These provisions do not preempt certain state laws.</p> <p>(Sec. 3) Noneconomic damages are limited to $250,000, before accounting for reductions in damages required by law. Juries may not be informed of this limitation. Parties are liable for the amount of damages directly proportional to their responsibility. These provisions do not preempt state laws that specify a particular monetary amount of damages.</p> <p>(Sec. 4) Courts must supervise the payment of damages and may restrict attorney contingent fees. The bill sets limits on contingent fees. The bill does not preempt state laws that specify a lesser percentage or value of damages that may be claimed by an attorney representing a claimant.</p> <p>(Sec. 5) The bill provides for periodic payment of future damage awards. The bill does not preempt state laws that mandate periodic payments.</p> <p>(Sec. 6) A health care provider who prescribes, or dispenses pursuant to a prescription, a medical product approved by the Food and Drug Administration may not be a party to a product liability lawsuit or a class action lawsuit regarding the medical product.</p> <p>(Sec. 8) The bill does not preempt federal vaccine injury laws.</p> <p>(Sec. 9) The bill preempts federal tort laws that provide for greater amounts of damages or contingent fees, a longer statute of limitations, or reduced applicability or scope of periodic payment of future damages.</p> <p>(Sec. 10) The bill applies to health care lawsuits initiated after enactment. Lawsuits are governed by the statue of limitations applicable at the time of injury.</p>]]></text>
+          <updateDate>2017-03-22T13:29:37Z</updateDate>
+          <actionDesc>Reported to House amended, Part I</actionDesc>
+          <actionDate>2017-03-22</actionDate>
+          <name>Reported to House amended, Part I</name>
+          <versionCode>18</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. KING of Iowa:H.R. 1215.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause I of the Constitution (theSpending Clause); Article I, Section 8, Clause 3, of theConstitution, which grants Congress the power to provide foruniform laws that remove barriers to trade and facilitatecommerce nationwide; and Article I, Section 8, Clause 9;Article III, Section 1, Clause 1; and Article III, Section 2,Clause 2 of the Constitution, which grant Congress authorityover federal courts.[Page H1321]</pre>]]></constitutionalAuthorityStatementText>
+    <amendments>
+      <amendment>
+        <number>153</number>
+        <latestAction>
+          <text>On agreeing to the Barr amendment (A005) Failed by recorded vote: 116 - 310 (Roll no. 335).</text>
+          <actionDate>2017-06-28</actionDate>
+          <actionTime>16:54:49</actionTime>
+        </latestAction>
+        <type>HAMDT</type>
+        <description>Amendment sought to give affirmative defense to defendants in health care liability cases if they can show they complied with clinical practice guidelines.</description>
+        <purpose>An amendment numbered 5 printed in House Report 115-179 to give affirmative defense to defendants in health care liability cases if they can show they complied with clinical practice guidelines.</purpose>
+        <congress>115</congress>
+        <sponsors>
+          <item>
+            <state>KY</state>
+            <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+            <party>R</party>
+            <district>6</district>
+            <middleName />
+            <lastName>Barr</lastName>
+            <bioguideId>B001282</bioguideId>
+            <firstName>Andy</firstName>
+            <identifiers>
+              <bioguideId>B001282</bioguideId>
+              <lisID>2131</lisID>
+              <gpoId />
+            </identifiers>
+          </item>
+        </sponsors>
+        <congress>115</congress>
+        <proposedDate />
+        <amendedAmendment />
+        <notes />
+        <titles />
+        <actions>
+          <count>8</count>
+          <actionTypeCounts>
+            <amendmentFailedInCommitteeOfTheWhole>1</amendmentFailedInCommitteeOfTheWhole>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentNotAgreedTo>1</houseAmendmentNotAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+          <actions>
+            <item>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/153</url>
+                  <name>H.Amdt.153</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll335.xml</url>
+                  <name>Roll no. 335</name>
+                </link>
+              </links>
+              <committee />
+              <text>On agreeing to the Barr amendment (A005) Failed by recorded vote: 116 - 310 (Roll no. 335).</text>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <actionTime>16:54:49</actionTime>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/153</url>
+                  <name>H.Amdt.153</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5281-5282</url>
+                  <name>H5281-5282</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5281-5283</url>
+                  <name>H5281-5283</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5284</url>
+                  <name>H5284</name>
+                </link>
+              </links>
+              <committee />
+              <text>Amendment (A005) offered by Mr. Barr. (consideration: CR H5281-5283, H5284; text: CR H5281-5282)</text>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <actionTime>16:13:15</actionTime>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionCode>77000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/153</url>
+                  <name>H.Amdt.153</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll335.xml</url>
+                  <name>Roll no. 335</name>
+                </link>
+              </links>
+              <committee />
+              <text>Amendment failed in Committee of the Whole</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionTime>16:54:49</actionTime>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/153</url>
+                  <name>H.Amdt.153</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5281-5282</url>
+                  <name>H5281-5282</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5281-5283</url>
+                  <name>H5281-5283</name>
+                </link>
+                <link>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5284</url>
+                  <name>H5284</name>
+                </link>
+              </links>
+              <committee />
+              <text>House amendment offered/reported by : Amendment (A005) offered by Mr. Barr.</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionTime>16:13:15</actionTime>
+              <type>NotUsed</type>
+            </item>
+            <item>
+              <actionCode>73000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/153</url>
+                  <name>H.Amdt.153</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll335.xml</url>
+                  <name>Roll no. 335</name>
+                </link>
+              </links>
+              <committee />
+              <text>House amendment not agreed to: On agreeing to the Barr amendment (A005) Failed by recorded vote: 116 - 310 (Roll no. 335).</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionTime>16:54:49</actionTime>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionCode>75000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <links>
+                <link>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/153</url>
+                  <name>H.Amdt.153</name>
+                </link>
+                <link>
+                  <url>http://clerk.house.gov/evs/2017/roll335.xml</url>
+                  <name>Roll no. 335</name>
+                </link>
+              </links>
+              <committee />
+              <text>Roll call votes on amendments in House</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <actionTime>16:54:49</actionTime>
+              <type>Floor</type>
+            </item>
+            <item>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <text>House amendment offered</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links />
+              <type>Floor</type>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+        </actions>
+        <purpose>An amendment numbered 5 printed in House Report 115-179 to give affirmative defense to defendants in health care liability cases if they can show they complied with clinical practice guidelines.</purpose>
+        <createDate>2017-06-29T07:16:13Z</createDate>
+        <chamber>House of Representatives</chamber>
+        <number>153</number>
+        <cosponsors>
+          <currentCount>0</currentCount>
+          <totalCount>0</totalCount>
+        </cosponsors>
+        <version>1.0.0</version>
+        <amendedBill>
+          <originChamberCode>H</originChamberCode>
+          <type>HR</type>
+          <originChamber>House</originChamber>
+          <congress>115</congress>
+          <number>1215</number>
+          <title>Protecting Access to Care Act of 2017</title>
+        </amendedBill>
+        <updateDate>2017-08-30T04:28:19Z</updateDate>
+        <type>HAMDT</type>
+        <submittedDate>2017-06-28T04:00:00Z</submittedDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <links />
+        <description>Amendment sought to give affirmative defense to defendants in health care liability cases if they can show they complied with clinical practice guidelines.</description>
+      </amendment>
+      <amendment>
+        <number>152</number>
+        <latestAction>
+          <text>On agreeing to the Hudson amendment (A004) Agreed to by recorded vote: 222 - 197 (Roll no. 334).</text>
+          <actionDate>2017-06-28</actionDate>
+          <actionTime>16:47:34</actionTime>
+        </latestAction>
+        <type>HAMDT</type>
+        <description>Amendment allows a physician to apologize to a patient for an unintended outcome without having the apology count against them in the court of law. The amendment requires a plaintiff to provide a notice of intent to the physician 90 days before the lawsuit is filed. Finally, the amendment defers to sundry state laws regarding lawsuits and outlines requirements witnesses must meet for testimony during trial.</description>
+        <purpose>An amendment numbered 4 printed in House Report 115-179 to allow a physician to apologize to a patient for an unintended outcome without having the apology count against them in the court of law. Requires a plaintiff to provide a notice of intent to the physician 90 days before the lawsuit is filed. The amendment also defers to sundry state laws regarding lawsuits and outlines requirements witnesses must meet for testimony during trial.</purpose>
+        <congress>115</congress>
+        <number>152</number>
+        <type>HAMDT</type>
+        <chamber>House of Representatives</chamber>
+        <purpose>An amendment numbered 4 printed in House Report 115-179 to allow a physician to apologize to a patient for an unintended outcome without having the apology count against them in the court of law. Requires a plaintiff to provide a notice of intent to the physician 90 days before the lawsuit is filed. The amendment also defers to sundry state laws regarding lawsuits and outlines requirements witnesses must meet for testimony during trial.</purpose>
+        <links />
+        <updateDate>2017-08-30T04:28:19Z</updateDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <amendedBill>
+          <number>1215</number>
+          <congress>115</congress>
+          <type>HR</type>
+          <title>Protecting Access to Care Act of 2017</title>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+        </amendedBill>
+        <createDate>2017-06-29T07:16:12Z</createDate>
+        <version>1.0.0</version>
+        <notes />
+        <amendedAmendment />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <actions>
+          <count>8</count>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <rollCallVotesOnAmendmentsInHouse>1</rollCallVotesOnAmendmentsInHouse>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>7</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.152</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/152</url>
+                </link>
+                <link>
+                  <name>Roll no. 334</name>
+                  <url>http://clerk.house.gov/evs/2017/roll334.xml</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>On agreeing to the Hudson amendment (A004) Agreed to by recorded vote: 222 - 197 (Roll no. 334).</text>
+              <actionTime>16:47:34</actionTime>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.152</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/152</url>
+                </link>
+                <link>
+                  <name>H5279-5280</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5279-5280</url>
+                </link>
+                <link>
+                  <name>H5279-5281</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5279-5281</url>
+                </link>
+                <link>
+                  <name>H5283-5284</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5283-5284</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>Amendment (A004) offered by Mr. Hudson. (consideration: CR H5279-5281, H5283-5284; text: CR H5279-5280)</text>
+              <actionTime>16:00:47</actionTime>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.152</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/152</url>
+                </link>
+                <link>
+                  <name>H5279-5280</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5279-5280</url>
+                </link>
+                <link>
+                  <name>H5279-5281</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5279-5281</url>
+                </link>
+                <link>
+                  <name>H5283-5284</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5283-5284</url>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>House amendment offered/reported by : Amendment (A004) offered by Mr. Hudson.</text>
+              <actionTime>16:00:47</actionTime>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.152</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/152</url>
+                </link>
+                <link>
+                  <name>Roll no. 334</name>
+                  <url>http://clerk.house.gov/evs/2017/roll334.xml</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>House amendment agreed to: On agreeing to the Hudson amendment (A004) Agreed to by recorded vote: 222 - 197 (Roll no. 334).</text>
+              <actionTime>16:47:34</actionTime>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.152</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/152</url>
+                </link>
+                <link>
+                  <name>Roll no. 334</name>
+                  <url>http://clerk.house.gov/evs/2017/roll334.xml</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>75000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>Roll call votes on amendments in House</text>
+              <actionTime>16:47:34</actionTime>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.152</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/152</url>
+                </link>
+                <link>
+                  <name>Roll no. 334</name>
+                  <url>http://clerk.house.gov/evs/2017/roll334.xml</url>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <actionTime>16:47:34</actionTime>
+            </item>
+            <item>
+              <committee />
+              <links />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>House amendment offered</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <congress>115</congress>
+        <sponsors>
+          <item>
+            <party>R</party>
+            <lastName>Hudson</lastName>
+            <bioguideId>H001067</bioguideId>
+            <firstName>Richard</firstName>
+            <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+            <district>8</district>
+            <state>NC</state>
+            <identifiers>
+              <bioguideId>H001067</bioguideId>
+              <lisID>2140</lisID>
+              <gpoId />
+            </identifiers>
+            <middleName />
+          </item>
+        </sponsors>
+        <proposedDate />
+        <submittedDate>2017-06-28T04:00:00Z</submittedDate>
+        <titles />
+        <description>Amendment allows a physician to apologize to a patient for an unintended outcome without having the apology count against them in the court of law. The amendment requires a plaintiff to provide a notice of intent to the physician 90 days before the lawsuit is filed. Finally, the amendment defers to sundry state laws regarding lawsuits and outlines requirements witnesses must meet for testimony during trial.</description>
+      </amendment>
+      <amendment>
+        <number>151</number>
+        <latestAction>
+          <text>On agreeing to the Roe (TN) amendment (A003) Agreed to by voice vote.</text>
+          <actionDate>2017-06-28</actionDate>
+          <actionTime>16:00:16</actionTime>
+        </latestAction>
+        <type>HAMDT</type>
+        <description>Add, at the end of the bill, the following (and amend the table of contents accordingly):    SEC. 11. LIMITATION ON EXPERT WITNESS TESTIMONY. ***.</description>
+        <purpose />
+        <congress>115</congress>
+        <description>Add, at the end of the bill, the following (and amend the table of contents accordingly):    SEC. 11. LIMITATION ON EXPERT WITNESS TESTIMONY. ***.</description>
+        <type>HAMDT</type>
+        <titles />
+        <notes />
+        <purpose />
+        <amendedAmendment />
+        <version>1.0.0</version>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <congress>115</congress>
+        <chamber>House of Representatives</chamber>
+        <updateDate>2017-08-30T04:28:19Z</updateDate>
+        <createDate>2017-06-29T07:16:12Z</createDate>
+        <submittedDate>2017-06-28T04:00:00Z</submittedDate>
+        <number>151</number>
+        <amendedBill>
+          <type>HR</type>
+          <congress>115</congress>
+          <originChamber>House</originChamber>
+          <number>1215</number>
+          <originChamberCode>H</originChamberCode>
+          <title>Protecting Access to Care Act of 2017</title>
+        </amendedBill>
+        <actions>
+          <actionTypeCounts>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <type>Floor</type>
+              <actionTime>16:00:16</actionTime>
+              <text>On agreeing to the Roe (TN) amendment (A003) Agreed to by voice vote.</text>
+              <actionCode>H32111</actionCode>
+              <committee />
+              <actionDate>2017-06-28</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.151</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/151</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <type>Floor</type>
+              <actionTime>15:48:21</actionTime>
+              <text>Amendment (A003) offered by Mr. Roe (TN). (consideration: CR H5277-5279 text: CR H5278)</text>
+              <actionCode>H3A100</actionCode>
+              <committee />
+              <actionDate>2017-06-28</actionDate>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.151</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/151</url>
+                </link>
+                <link>
+                  <name>H5277-5279</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5277-5279</url>
+                </link>
+                <link>
+                  <name>H5278</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5278</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <type>Floor</type>
+              <actionTime>16:00:16</actionTime>
+              <text>House amendment agreed to: On agreeing to the Roe (TN) amendment (A003) Agreed to by voice vote.</text>
+              <actionCode>72000</actionCode>
+              <committee />
+              <actionDate>2017-06-28</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.151</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/151</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <type>NotUsed</type>
+              <actionTime>15:48:21</actionTime>
+              <text>House amendment offered/reported by : Amendment (A003) offered by Mr. Roe (TN).</text>
+              <actionCode>71500</actionCode>
+              <committee />
+              <actionDate>2017-06-28</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.151</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/151</url>
+                </link>
+                <link>
+                  <name>H5277-5279</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5277-5279</url>
+                </link>
+                <link>
+                  <name>H5278</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5278</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <type>NotUsed</type>
+              <actionTime>16:00:16</actionTime>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <actionCode>76000</actionCode>
+              <committee />
+              <actionDate>2017-06-28</actionDate>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.151</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/151</url>
+                </link>
+              </links>
+            </item>
+            <item>
+              <type>Floor</type>
+              <text>House amendment offered</text>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <actionCode>71000</actionCode>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <links />
+            </item>
+          </actions>
+          <count>7</count>
+        </actions>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <sponsors>
+          <item>
+            <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+            <district>1</district>
+            <lastName>Roe</lastName>
+            <bioguideId>R000582</bioguideId>
+            <party>R</party>
+            <state>TN</state>
+            <middleName>P.</middleName>
+            <firstName>David</firstName>
+            <identifiers>
+              <lisID>1954</lisID>
+              <gpoId>8148</gpoId>
+              <bioguideId>R000582</bioguideId>
+            </identifiers>
+          </item>
+        </sponsors>
+        <proposedDate />
+        <links />
+      </amendment>
+      <amendment>
+        <number>150</number>
+        <latestAction>
+          <text>On agreeing to the Sessions amendment (A002) Agreed to by voice vote.</text>
+          <actionDate>2017-06-28</actionDate>
+          <actionTime>15:48:00</actionTime>
+        </latestAction>
+        <type>HAMDT</type>
+        <description>Page 12, line 13, insert after "goods or services" the following: "(including safety, professional, or administrative services directly related to health care)".</description>
+        <purpose />
+        <congress>115</congress>
+        <proposedDate />
+        <amendedAmendment />
+        <chamber>House of Representatives</chamber>
+        <number>150</number>
+        <purpose />
+        <titles />
+        <links />
+        <sponsors>
+          <item>
+            <lastName>SESSIONS</lastName>
+            <bioguideId>S000250</bioguideId>
+            <party>R</party>
+            <middleName />
+            <firstName>PETE</firstName>
+            <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+            <state>TX</state>
+            <district>32</district>
+            <identifiers>
+              <bioguideId>S000250</bioguideId>
+              <gpoId>8188</gpoId>
+              <lisID>1525</lisID>
+            </identifiers>
+          </item>
+        </sponsors>
+        <notes />
+        <updateDate>2017-08-30T04:28:19Z</updateDate>
+        <type>HAMDT</type>
+        <amendedBill>
+          <type>HR</type>
+          <congress>115</congress>
+          <number>1215</number>
+          <originChamberCode>H</originChamberCode>
+          <title>Protecting Access to Care Act of 2017</title>
+          <originChamber>House</originChamber>
+        </amendedBill>
+        <version>1.0.0</version>
+        <congress>115</congress>
+        <submittedDate>2017-06-28T04:00:00Z</submittedDate>
+        <amendments>
+          <count>0</count>
+        </amendments>
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <createDate>2017-06-29T07:16:12Z</createDate>
+        <description>Page 12, line 13, insert after "goods or services" the following: "(including safety, professional, or administrative services directly related to health care)".</description>
+        <actions>
+          <count>7</count>
+          <actions>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <actionTime>15:48:00</actionTime>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.150</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/150</url>
+                </link>
+              </links>
+              <text>On agreeing to the Sessions amendment (A002) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <actionTime>15:35:56</actionTime>
+              <sourceSystem>
+                <name>House floor actions</name>
+                <code>2</code>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.150</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/150</url>
+                </link>
+                <link>
+                  <name>H5276</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5276</url>
+                </link>
+                <link>
+                  <name>H5276-5277</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5276-5277</url>
+                </link>
+              </links>
+              <text>Amendment (A002) offered by Mr. Sessions. (consideration: CR H5276-5277; text: CR H5276)</text>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <actionTime>15:48:00</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.150</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/150</url>
+                </link>
+              </links>
+              <text>House amendment agreed to: On agreeing to the Sessions amendment (A002) Agreed to by voice vote.</text>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <actionTime>15:48:00</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.150</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/150</url>
+                </link>
+              </links>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <actionTime>15:35:56</actionTime>
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <links>
+                <link>
+                  <name>H.Amdt.150</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/150</url>
+                </link>
+                <link>
+                  <name>H5276</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5276</url>
+                </link>
+                <link>
+                  <name>H5276-5277</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5276-5277</url>
+                </link>
+              </links>
+              <text>House amendment offered/reported by : Amendment (A002) offered by Mr. Sessions.</text>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <sourceSystem>
+                <name>Library of Congress</name>
+                <code>9</code>
+              </sourceSystem>
+              <links />
+              <text>House amendment offered</text>
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+            </item>
+          </actions>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actionTypeCounts>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <amendmentOffered>1</amendmentOffered>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+          </actionTypeCounts>
+        </actions>
+      </amendment>
+      <amendment>
+        <number>149</number>
+        <latestAction>
+          <text>On agreeing to the Sessions amendment (A001) Agreed to by voice vote.</text>
+          <actionDate>2017-06-28</actionDate>
+          <actionTime>15:35:37</actionTime>
+        </latestAction>
+        <type>HAMDT</type>
+        <description>Page 1, strike line 7 and all that follows through page 2, line 18 and insert the following:    (a) Statute of Limitations.-- ***.</description>
+        <purpose />
+        <congress>115</congress>
+        <actions>
+          <count>7</count>
+          <actionTypeCounts>
+            <agreementToAnAmendmentResultsCommitteeOfTheWhole>1</agreementToAnAmendmentResultsCommitteeOfTheWhole>
+            <houseAmendmentAgreedTo>1</houseAmendmentAgreedTo>
+            <amendmentOffered>1</amendmentOffered>
+            <houseAmendmentOfferedReportedBy>1</houseAmendmentOfferedReportedBy>
+            <houseAmendmentOffered>1</houseAmendmentOffered>
+            <amendmentAgreedToCommitteeOfTheWhole>1</amendmentAgreedToCommitteeOfTheWhole>
+          </actionTypeCounts>
+          <actionByCounts>
+            <houseOfRepresentatives>6</houseOfRepresentatives>
+          </actionByCounts>
+          <actions>
+            <item>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.149</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/149</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>H32111</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>On agreeing to the Sessions amendment (A001) Agreed to by voice vote.</text>
+              <actionTime>15:35:37</actionTime>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>2</code>
+                <name>House floor actions</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.149</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/149</url>
+                </link>
+                <link>
+                  <name>H5275</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5275</url>
+                </link>
+                <link>
+                  <name>H5275-5276</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5275-5276</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>H3A100</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>Amendment (A001) offered by Mr. Sessions. (consideration: CR H5275-5276; text: CR H5275)</text>
+              <actionTime>15:24:16</actionTime>
+            </item>
+            <item>
+              <actionDate>2017-06-28</actionDate>
+              <committee />
+              <links />
+              <text />
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.149</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/149</url>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionCode>76000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>Amendment agreed to Committee of the Whole</text>
+              <actionTime>15:35:37</actionTime>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.149</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/149</url>
+                </link>
+              </links>
+              <type>Floor</type>
+              <actionCode>72000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>House amendment agreed to: On agreeing to the Sessions amendment (A001) Agreed to by voice vote.</text>
+              <actionTime>15:35:37</actionTime>
+            </item>
+            <item>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+              <committee />
+              <links>
+                <link>
+                  <name>H.Amdt.149</name>
+                  <url>https://www.congress.gov/amendment/115th-congress/house-amendment/149</url>
+                </link>
+                <link>
+                  <name>H5275</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5275</url>
+                </link>
+                <link>
+                  <name>H5275-5276</name>
+                  <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5275-5276</url>
+                </link>
+              </links>
+              <type>NotUsed</type>
+              <actionCode>71500</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>House amendment offered/reported by : Amendment (A001) offered by Mr. Sessions.</text>
+              <actionTime>15:24:16</actionTime>
+            </item>
+            <item>
+              <committee />
+              <links />
+              <type>Floor</type>
+              <actionCode>71000</actionCode>
+              <actionDate>2017-06-28</actionDate>
+              <text>House amendment offered</text>
+              <sourceSystem>
+                <code>9</code>
+                <name>Library of Congress</name>
+              </sourceSystem>
+            </item>
+          </actions>
+        </actions>
+        <purpose />
+        <links />
+        <description>Page 1, strike line 7 and all that follows through page 2, line 18 and insert the following:    (a) Statute of Limitations.-- ***.</description>
+        <congress>115</congress>
+        <type>HAMDT</type>
+        <amendedAmendment />
+        <cosponsors>
+          <totalCount>0</totalCount>
+          <currentCount>0</currentCount>
+        </cosponsors>
+        <version>1.0.0</version>
+        <updateDate>2017-08-30T04:28:19Z</updateDate>
+        <submittedDate>2017-06-28T04:00:00Z</submittedDate>
+        <createDate>2017-06-29T07:16:11Z</createDate>
+        <titles />
+        <proposedDate />
+        <amendedBill>
+          <type>HR</type>
+          <title>Protecting Access to Care Act of 2017</title>
+          <originChamber>House</originChamber>
+          <originChamberCode>H</originChamberCode>
+          <congress>115</congress>
+          <number>1215</number>
+        </amendedBill>
+        <number>149</number>
+        <sponsors>
+          <item>
+            <firstName>PETE</firstName>
+            <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+            <lastName>SESSIONS</lastName>
+            <party>R</party>
+            <bioguideId>S000250</bioguideId>
+            <middleName />
+            <identifiers>
+              <bioguideId>S000250</bioguideId>
+              <gpoId>8188</gpoId>
+              <lisID>1525</lisID>
+            </identifiers>
+            <district>32</district>
+            <state>TX</state>
+          </item>
+        </sponsors>
+        <chamber>House of Representatives</chamber>
+        <notes />
+        <amendments>
+          <count>0</count>
+        </amendments>
+      </amendment>
+    </amendments>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -31,7 +31,7 @@ def index():
 def bill_list():
     """Show list of bills."""
 
-    bills = Bill.query.order_by().all()
+    bills = Bill.query.order_by(Bill.date).all()
     return render_template("bill_list.html", bills=bills)
 
 @app.route("/bills/<bill_id>")
@@ -41,7 +41,7 @@ def bill_detail(bill_id):
     bill = Bill.query.filter_by(bill_id=bill_id).first()
 
     sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
-    action = Action.query.filter_by(bill_id=bill_id).all()
+    action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date).all()
 
     return render_template("bill.html", bill=bill, 
                           sponsorship=sponsorship, action=action)
@@ -61,8 +61,14 @@ def senator_detail(name):
     # image_wiki = senator_wiki_page.images
     senator_wiki = wikipedia.summary(name +" (politician)", sentences=5)
     senator = Senator.query.filter_by(name=name).first()
+    bills_sponsored =[]
+    for item in senator.sponsorships:
+        bill_id = item.bill_id
+        bill_spons = Bill.query.filter_by(bill_id=bill_id).all()
+        bills_sponsored.append(bill_spons)
+
     return render_template("senator.html", senator=senator, 
-                          senator_wiki=senator_wiki, url_wiki=url_wiki)
+                          senator_wiki=senator_wiki, url_wiki=url_wiki, bills_sponsored=bills_sponsored)
 
 @app.route("/search")
 def process_search_results():
@@ -73,37 +79,36 @@ def process_search_results():
     search_input = request.args.get('nav_search')
     #returns what the user entered to search 
 
-    search_results = []
+    search_results = {}
 
     senator_name = Senator.query.filter(Senator.name.like("%"+search_input+"%")).all()
-    search_results.append(senator_name)
+    search_results['senator_name'] = senator_name
 
     senator_state = Senator.query.filter(Senator.state.like("%"+search_input+"%")).all()
-    search_results.append(senator_state)
+    search_results['senator_state'] = senator_state
 
     tag = Tag.query.filter(Tag.tag_text.like("%"+search_input+"%")).all()
-    search_results.append(tag)
+    search_results['tag'] = tag
 
     committee = Committee.query.filter(Committee.name.like("%"+search_input+"%")).all()
-    search_results.append(committee)
+    search_results['committee'] = committee
 
     action_text = Action.query.filter(Action.action_text.like("%"+search_input+"%")).all()
-    search_results.append(action_text)
+    search_results['action_text'] = action_text
 
     bill_title = Bill.query.filter(Bill.title.like("%"+search_input+"%")).all()
-    search_results.append(bill_title)
+    search_results['bill_title'] = bill_title
 
     bill_summary = Bill.query.filter(Bill.description.like("%"+search_input+"%")).all()
-    search_results.append(bill_summary)
+    search_results['bill_summary'] = bill_summary
 
     bill_type = Bill.query.filter(Bill.bill_type.like("%"+search_input+"%")).all()
-    search_results.append(bill_type)
+    search_results['bill_type'] = bill_type
+
+        # action_date = Action.query.filter(Action.date.like("%"+search_input+"%")).all()
+        # search_results.append(action_date)
 
 
-
-
-    # action_date = Action.query.filter(Action.date.like("%"+search_input+"%")).all()
-    # search_results.append(action_date)
 
     return render_template('search_results.html', search_results=search_results)
 

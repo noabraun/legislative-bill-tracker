@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-06T07:16:00Z</updateDate>
+    <congress>115</congress>
+    <actions>
+      <item>
+        <actionDate>2017-04-11</actionDate>
+        <committee>
+          <name>Energy and Mineral Resources Subcommittee</name>
+          <systemCode>hsii06</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-03-30</actionDate>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-30</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-30</actionDate>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <actionDate>2017-04-11</actionDate>
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <district>3</district>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <state>AZ</state>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <lastName>Grijalva</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>G000551</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1708</lisID>
+          <bioguideId>G000551</bioguideId>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>12</district>
+        <middleName />
+        <firstName>Debbie</firstName>
+        <state>MI</state>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <lastName>Dingell</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>D000624</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2251</lisID>
+          <bioguideId>D000624</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>29</district>
+        <middleName />
+        <firstName>Tony</firstName>
+        <state>CA</state>
+        <fullName>Rep. Cardenas, Tony [D-CA-29]</fullName>
+        <lastName>Cardenas</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001097</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2107</lisID>
+          <bioguideId>C001097</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>5</district>
+        <middleName>M.</middleName>
+        <firstName>Katherine</firstName>
+        <state>MA</state>
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <lastName>Clark</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001101</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+          <lisID>2196</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>11</district>
+        <middleName>E.</middleName>
+        <firstName>Gerald</firstName>
+        <state>VA</state>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <lastName>Connolly</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001078</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <bioguideId>C001078</bioguideId>
+          <lisID>1959</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>1</district>
+        <middleName>K.</middleName>
+        <firstName>Suzan</firstName>
+        <state>WA</state>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <lastName>DelBene</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>D000617</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8374</gpoId>
+          <lisID>2096</lisID>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName />
+        <firstName>Jared</firstName>
+        <state>CA</state>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <lastName>Huffman</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>H001068</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+          <lisID>2101</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>5</district>
+        <middleName />
+        <firstName>Keith</firstName>
+        <state>MN</state>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>E000288</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <gpoId>8005</gpoId>
+          <lisID>1857</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>3</district>
+        <middleName />
+        <firstName>EARL</firstName>
+        <state>OR</state>
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <lastName>BLUMENAUER</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>B000574</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8116</gpoId>
+          <lisID>99</lisID>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>8</district>
+        <middleName>S.</middleName>
+        <firstName>Donald</firstName>
+        <state>VA</state>
+        <fullName>Rep. Beyer, Donald S., Jr. [D-VA-8]</fullName>
+        <lastName>Beyer</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>B001292</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001292</bioguideId>
+          <lisID>2272</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName>R.</middleName>
+        <firstName>JAMES</firstName>
+        <state>RI</state>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+        <lastName>LANGEVIN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000559</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000559</bioguideId>
+          <lisID>1668</lisID>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>14</district>
+        <middleName>L.</middleName>
+        <firstName>Brenda</firstName>
+        <state>MI</state>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <lastName>Lawrence</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000581</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000581</bioguideId>
+          <gpoId />
+          <lisID>2252</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>13</district>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000551</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>33</district>
+        <middleName />
+        <firstName>Ted</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <lastName>Lieu</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000582</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <gpoId />
+          <lisID>2230</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>6</district>
+        <middleName>O.</middleName>
+        <firstName>Doris</firstName>
+        <state>CA</state>
+        <fullName>Rep. Matsui, Doris O. [D-CA-6]</fullName>
+        <lastName>Matsui</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M001163</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001163</bioguideId>
+          <gpoId>7810</gpoId>
+          <lisID>1814</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>4</district>
+        <middleName />
+        <firstName>BETTY</firstName>
+        <state>MN</state>
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <lastName>MCCOLLUM</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M001143</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <bioguideId>M001143</bioguideId>
+          <lisID>1653</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName>P.</middleName>
+        <firstName>JAMES</firstName>
+        <state>MA</state>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <lastName>MCGOVERN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M000312</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>32</district>
+        <middleName>F.</middleName>
+        <firstName>GRACE</firstName>
+        <state>CA</state>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <lastName>NAPOLITANO</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>N000179</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>868</lisID>
+          <gpoId>7871</gpoId>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName />
+        <firstName>Mark</firstName>
+        <state>WI</state>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <lastName>Pocan</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>P000607</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2171</lisID>
+          <bioguideId>P000607</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName />
+        <firstName>Jared</firstName>
+        <state>CO</state>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <lastName>Polis</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>P000598</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7860</gpoId>
+          <lisID>1910</lisID>
+          <bioguideId>P000598</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>5</district>
+        <middleName />
+        <firstName>Mike</firstName>
+        <state>IL</state>
+        <fullName>Rep. Quigley, Mike [D-IL-5]</fullName>
+        <lastName>Quigley</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>Q000023</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Q000023</bioguideId>
+          <lisID>1967</lisID>
+          <gpoId>7925</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>25</district>
+        <middleName>M.</middleName>
+        <firstName>LOUISE</firstName>
+        <state>NY</state>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <lastName>SLAUGHTER</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>S000480</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000480</bioguideId>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>20</district>
+        <middleName />
+        <firstName>Paul</firstName>
+        <state>NY</state>
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <lastName>Tonko</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>T000469</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>3</district>
+        <middleName />
+        <firstName>Niki</firstName>
+        <state>MA</state>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <lastName>Tsongas</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>T000465</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>T000465</bioguideId>
+          <lisID>1884</lisID>
+          <gpoId>7970</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>12</district>
+        <middleName />
+        <firstName>Bonnie</firstName>
+        <state>NJ</state>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <lastName>Watson Coleman</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>W000822</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <gpoId />
+          <lisID>2259</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>47</district>
+        <middleName>S.</middleName>
+        <firstName>Alan</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lowenthal, Alan S. [D-CA-47]</fullName>
+        <lastName>Lowenthal</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000579</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2111</lisID>
+          <gpoId />
+          <bioguideId>L000579</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+      </item>
+      <item>
+        <district>7</district>
+        <middleName />
+        <firstName>Pramila</firstName>
+        <state>WA</state>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <lastName>Jayapal</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>J000298</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+      </item>
+      <item>
+        <district>19</district>
+        <middleName />
+        <firstName>ZOE</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <lastName>LOFGREN</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000397</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000397</bioguideId>
+          <gpoId>7821</gpoId>
+          <lisID>701</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName />
+        <firstName>Dwight</firstName>
+        <state>PA</state>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <lastName>Evans</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>E000296</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <gpoId />
+          <lisID>2298</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-03-30</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Coal Cleanup Taxpayer Protection Act</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Coal Cleanup Taxpayer Protection Act</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To protect taxpayers from liability associated with the reclamation of surface coal mining operations, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>Coal Cleanup Taxpayer Protection Act</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <relatedBills>
+      <item>
+        <latestTitle>Coal Cleanup Taxpayer Protection Act</latestTitle>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-30</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+        <number>800</number>
+        <type>S</type>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <createDate>2017-03-31T05:07:09Z</createDate>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CARTWRIGHT:H.R. 1819.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3 (relating to the power ofCongress to regulate Commerce with foreign Nations, and amongthe several States, and with Indian Tribes.) [Page H3967][Page H2600]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Coal</name>
+          </item>
+          <item>
+            <name>Corporate finance and management</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Mining</name>
+          </item>
+          <item>
+            <name>Pollution liability</name>
+          </item>
+          <item>
+            <name>Solid waste and recycling</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-30T13:02:40Z</date>
+            </item>
+          </activities>
+          <systemCode>hsii00</systemCode>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <subcommittees>
+            <item>
+              <name>Energy and Mineral Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-11T18:11:08Z</date>
+                </item>
+              </activities>
+              <systemCode>hsii06</systemCode>
+            </item>
+          </subcommittees>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-01T19:54:39Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-30T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Coal Cleanup Taxpayer Protection Act</b></p> <p>This bill amends the Surface Mining Control and Reclamation Act to prohibit the Office of Surface Mining and Reclamation Enforcement (OSMRE)and state regulatory authoritiesfrom accepting new self-bonds for coal reclamation.Additionally, any existing self-bonds or corporate bondsutilized for coal reclamationmust be converted to surety or collateral bonds.</p> <p>The OSMRE may approve state or federal alternative coal miningbond programs thatresult in no greater risk of financial liability to the federalgovernment than a surety or collateral bond program.</p> <p>The bill also requires the OSMRE to issue rules establishing limitations on surety bondsto minimize the financial liability to the federal or stategovernment.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-30</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001090</bioguideId>
+          <gpoId />
+          <lisID>2159</lisID>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Cartwright, Matt [D-PA-17]</fullName>
+        <state>PA</state>
+        <bioguideId>C001090</bioguideId>
+        <firstName>Matt</firstName>
+        <district>17</district>
+        <middleName />
+        <lastName>Cartwright</lastName>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <billNumber>1819</billNumber>
+    <title>Coal Cleanup Taxpayer Protection Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

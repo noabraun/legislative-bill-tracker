@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <calendarNumbers />
+    <introducedDate>2017-05-23</introducedDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <createDate>2017-05-24T03:11:40Z</createDate>
+    <relatedBills />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <laws />
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-23T14:01:35Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-26T14:57:37Z</date>
+                </item>
+              </activities>
+              <systemCode>hsju08</systemCode>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates />
+    <updateDate>2017-09-15T07:16:50Z</updateDate>
+    <actions>
+      <item>
+        <actionDate>2017-06-26</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-05-23</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-23</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <links />
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-05-23</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <state>GA</state>
+        <byRequestType />
+        <party>D</party>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <lastName>LEWIS</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <bioguideId>L000287</bioguideId>
+        <firstName>JOHN</firstName>
+        <district>5</district>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <billNumber>2612</billNumber>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LEWIS of Georgia:H.R. 2612.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article I of the United States Constitutionand its subsequent amendments, and further clarified andinterpreted by the Supreme Court of the United States.[Page H4504]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>Community Reentry Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Community Reentry Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To amend title 18, United States Code, to encourage the placement of released Federal prisoners in residential reentry centers near their homes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>Community Reentry Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <latestAction>
+      <actionDate>2017-06-26</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <committeeReports />
+    <cosponsors>
+      <item>
+        <middleName />
+        <state>CA</state>
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Takano</lastName>
+        <firstName>Mark</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>41</district>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>S.</middleName>
+        <state>FL</state>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wilson</lastName>
+        <firstName>Frederica</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>24</district>
+        <identifiers>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+          <bioguideId>W000808</bioguideId>
+        </identifiers>
+        <bioguideId>W000808</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>JAMES</middleName>
+        <state>WI</state>
+        <fullName>Rep. Sensenbrenner, F. James, Jr. [R-WI-5]</fullName>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>SENSENBRENNER</lastName>
+        <firstName>F.</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <identifiers>
+          <lisID>1041</lisID>
+          <bioguideId>S000244</bioguideId>
+          <gpoId>8218</gpoId>
+        </identifiers>
+        <bioguideId>S000244</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>V.</middleName>
+        <state>IL</state>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GUTIERREZ</lastName>
+        <firstName>LUIS</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+        </identifiers>
+        <bioguideId>G000535</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <state>MI</state>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>CONYERS</lastName>
+        <firstName>JOHN</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+        </identifiers>
+        <bioguideId>C000714</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Raskin</lastName>
+        <firstName>Jamie</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <state>WA</state>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Jayapal</lastName>
+        <firstName>Pramila</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+        </identifiers>
+        <bioguideId>J000298</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Cohen</lastName>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <bioguideId>C001068</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>JACKSON LEE</lastName>
+        <firstName>SHEILA</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>18</district>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <bioguideId>J000032</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <state>PA</state>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Evans</lastName>
+        <firstName>Dwight</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+        </identifiers>
+        <bioguideId>E000296</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <state>TX</state>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Green</lastName>
+        <firstName>Al</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>9</district>
+        <identifiers>
+          <gpoId>8165</gpoId>
+          <lisID>1803</lisID>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <bioguideId>G000553</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>C. "Hank"</middleName>
+        <state>GA</state>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Johnson</lastName>
+        <firstName>Henry</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <bioguideId>J000288</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>C. "Bobby"</middleName>
+        <state>VA</state>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Scott</lastName>
+        <firstName>Robert</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <identifiers>
+          <lisID>1037</lisID>
+          <gpoId>8194</gpoId>
+          <bioguideId>S000185</bioguideId>
+        </identifiers>
+        <bioguideId>S000185</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <state>LA</state>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Richmond</lastName>
+        <firstName>Cedric</firstName>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <identifiers>
+          <gpoId>7960</gpoId>
+          <bioguideId>R000588</bioguideId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <bioguideId>R000588</bioguideId>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <title>Community Reentry Act of 2017</title>
+    <amendments />
+    <version>1.0.0</version>
+    <recordedVotes />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billNumber>40</billNumber>
+    <title>Commission to Study and Develop Reparation Proposals for African-Americans Act</title>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-01-03T17:23:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-01-12T15:57:22Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsju10</systemCode>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <updateDate>2017-09-15T07:16:14Z</updateDate>
+    <originChamber>House</originChamber>
+    <createDate>2017-01-04T07:01:09Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>C000714</bioguideId>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <party>D</party>
+        <lastName>CONYERS</lastName>
+        <identifiers>
+          <lisID>229</lisID>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>JOHN</firstName>
+        <district>13</district>
+        <state>MI</state>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <links />
+        <committee />
+        <actionDate>2017-01-03</actionDate>
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <introducedDate>2017-01-03</introducedDate>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId>8077</gpoId>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>NY</state>
+        <bioguideId>S000248</bioguideId>
+        <firstName>JOSE</firstName>
+        <party>D</party>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <lastName>SERRANO</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8165</gpoId>
+          <lisID>1803</lisID>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>G000553</bioguideId>
+        <firstName>Al</firstName>
+        <party>D</party>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <lastName>Green</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>HOLMES</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>DC</state>
+        <bioguideId>N000147</bioguideId>
+        <firstName>ELEANOR</firstName>
+        <party>D</party>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7895</gpoId>
+          <bioguideId>H000324</bioguideId>
+          <lisID>511</lisID>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>FL</state>
+        <bioguideId>H000324</bioguideId>
+        <firstName>ALCEE</firstName>
+        <party>D</party>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <lastName>HASTINGS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>E000288</bioguideId>
+          <lisID>1857</lisID>
+          <gpoId>8005</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>MN</state>
+        <bioguideId>E000288</bioguideId>
+        <firstName>Keith</firstName>
+        <party>D</party>
+        <fullName>Rep. Ellison, Keith [D-MN-5]</fullName>
+        <lastName>Ellison</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B001281</bioguideId>
+          <lisID>2153</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>OH</state>
+        <bioguideId>B001281</bioguideId>
+        <firstName>Joyce</firstName>
+        <party>D</party>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+        <lastName>Beatty</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000287</bioguideId>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>GA</state>
+        <bioguideId>L000287</bioguideId>
+        <firstName>JOHN</firstName>
+        <party>D</party>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <lastName>LEWIS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>NY</state>
+        <bioguideId>N000002</bioguideId>
+        <firstName>JERROLD</firstName>
+        <party>D</party>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <lastName>NADLER</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+          <bioguideId>D000096</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>D000096</bioguideId>
+        <firstName>DANNY</firstName>
+        <party>D</party>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <lastName>DAVIS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+          <gpoId>8009</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>LACY</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>MO</state>
+        <bioguideId>C001049</bioguideId>
+        <firstName>WM.</firstName>
+        <party>D</party>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <lastName>CLAY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+          <gpoId>7924</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>V.</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>G000535</bioguideId>
+        <firstName>LUIS</firstName>
+        <party>D</party>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <lastName>GUTIERREZ</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+          <bioguideId>C001068</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <firstName>Steve</firstName>
+        <party>D</party>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <lastName>Cohen</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>MD</state>
+        <bioguideId>C000984</bioguideId>
+        <firstName>ELIJAH</firstName>
+        <party>D</party>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <lastName>CUMMINGS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>NY</state>
+        <bioguideId>M001137</bioguideId>
+        <firstName>GREGORY</firstName>
+        <party>D</party>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <lastName>MEEKS</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7929</gpoId>
+          <lisID>1588</lisID>
+          <bioguideId>S001145</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>S001145</bioguideId>
+        <firstName>JANICE</firstName>
+        <party>D</party>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <lastName>SCHAKOWSKY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>18</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>J000032</bioguideId>
+        <firstName>SHEILA</firstName>
+        <party>D</party>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <lastName>JACKSON LEE</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000551</bioguideId>
+          <lisID>1501</lisID>
+          <gpoId>7814</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>13</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>L000551</bioguideId>
+        <firstName>BARBARA</firstName>
+        <party>D</party>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+          <bioguideId>B001227</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <state>PA</state>
+        <bioguideId>B001227</bioguideId>
+        <firstName>ROBERT</firstName>
+        <party>D</party>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <lastName>BRADY</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <state>IL</state>
+        <bioguideId>R000515</bioguideId>
+        <firstName>BOBBY</firstName>
+        <party>D</party>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <lastName>RUSH</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>J000126</bioguideId>
+          <lisID>599</lisID>
+          <gpoId>8186</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>30</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>BERNICE</middleName>
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <state>TX</state>
+        <bioguideId>J000126</bioguideId>
+        <firstName>EDDIE</firstName>
+        <party>D</party>
+        <fullName>Rep. Johnson, Eddie Bernice [D-TX-30]</fullName>
+        <lastName>JOHNSON</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8024</gpoId>
+          <bioguideId>B001251</bioguideId>
+          <lisID>1761</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-02-03</sponsorshipDate>
+        <state>NC</state>
+        <bioguideId>B001251</bioguideId>
+        <firstName>G. K.</firstName>
+        <party>D</party>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <lastName>Butterfield</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <state>GA</state>
+        <bioguideId>B000490</bioguideId>
+        <firstName>SANFORD</firstName>
+        <party>D</party>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <lastName>BISHOP</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7960</gpoId>
+          <bioguideId>R000588</bioguideId>
+          <lisID>2023</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-02-16</sponsorshipDate>
+        <state>LA</state>
+        <bioguideId>R000588</bioguideId>
+        <firstName>Cedric</firstName>
+        <party>D</party>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <lastName>Richmond</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1151</lisID>
+          <gpoId>8020</gpoId>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <state>MS</state>
+        <bioguideId>T000193</bioguideId>
+        <firstName>BENNIE</firstName>
+        <party>D</party>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+        <lastName>THOMPSON</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8217</gpoId>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <state>WI</state>
+        <bioguideId>M001160</bioguideId>
+        <firstName>Gwen</firstName>
+        <party>D</party>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <lastName>Moore</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <state>AL</state>
+        <bioguideId>S001185</bioguideId>
+        <firstName>Terri</firstName>
+        <party>D</party>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <lastName>Sewell</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>24</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <state>FL</state>
+        <bioguideId>W000808</bioguideId>
+        <firstName>Frederica</firstName>
+        <party>D</party>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <lastName>Wilson</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000581</bioguideId>
+          <lisID>2252</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>14</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>L.</middleName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <state>MI</state>
+        <bioguideId>L000581</bioguideId>
+        <firstName>Brenda</firstName>
+        <party>D</party>
+        <fullName>Rep. Lawrence, Brenda L. [D-MI-14]</fullName>
+        <lastName>Lawrence</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+          <bioguideId>C001067</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <middleName>D.</middleName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <state>NY</state>
+        <bioguideId>C001067</bioguideId>
+        <firstName>Yvette</firstName>
+        <party>D</party>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <lastName>Clarke</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000298</bioguideId>
+          <lisID>2354</lisID>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <state>WA</state>
+        <bioguideId>J000298</bioguideId>
+        <firstName>Pramila</firstName>
+        <party>D</party>
+        <fullName>Rep. Jayapal, Pramila [D-WA-7]</fullName>
+        <lastName>Jayapal</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1996</lisID>
+          <gpoId>7838</gpoId>
+          <bioguideId>B001270</bioguideId>
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>37</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>B001270</bioguideId>
+        <firstName>Karen</firstName>
+        <party>D</party>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <lastName>Bass</lastName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>K000389</bioguideId>
+          <lisID>2308</lisID>
+          <gpoId />
+        </identifiers>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <state>CA</state>
+        <bioguideId>K000389</bioguideId>
+        <firstName>Ro</firstName>
+        <party>D</party>
+        <fullName>Rep. Khanna, Ro [D-CA-17]</fullName>
+        <lastName>Khanna</lastName>
+      </item>
+    </cosponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-01-24T22:26:09Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Commission to Study and Develop Reparation Proposals for African-Americans Act</strong> </p> <p>This bill establishes the Commission to Study and Develop Reparation Proposals for African-Americans to examine slavery and discrimination in the colonies and the United States from 1619 to the present and recommend appropriate remedies. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <actionDate>2017-01-03</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Commission to Study and Develop Reparation Proposals for African-Americans Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Commission to Study and Develop Reparation Proposals for African-Americans Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To address the fundamental injustice, cruelty, brutality, and inhumanity of slavery in the United States and the 13 American colonies between 1619 and 1865 and to establish a commission to study and consider a national apology and proposal for reparations for the institution of slavery, its subsequent de jure and de facto racial and economic discrimination against African-Americans, and the impact of these forces on living African-Americans, to make recommendations to the Congress on appropriate remedies, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Commission to Study and Develop Reparation Proposals for African-Americans Act</title>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <relatedBills />
+    <amendments />
+    <notes />
+    <recordedVotes />
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CONYERS:H.R. 40.Congress has the power to enact this legislation pursuantto the following:Pursuant to Section 5 of the Fourteenth Amendment to theUnited States Constitution, Congress shall have the power toenact appropriate laws protecting the civil rights of allAmericans.[Page H47]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Constitution and constitutional amendments</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Racial and ethnic relations</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>U.S. history</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-01-12</actionDate>
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

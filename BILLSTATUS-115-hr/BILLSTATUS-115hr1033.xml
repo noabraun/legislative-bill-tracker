@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <actionDate>2017-02-28</actionDate>
+        <committee />
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <links />
+        <type>Floor</type>
+        <actionDate>2017-02-27</actionDate>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:31:06</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <name>H1334</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1334</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2017-02-27</actionDate>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1334)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:31:04</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <name>H1334</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1334</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2017-02-27</actionDate>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H1334)</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>17:31:04</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <name>H.R. 1033</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1033</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2017-02-27</actionDate>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1033.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:12:45</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <name>H1334-1336</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H1334-1336</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionDate>2017-02-27</actionDate>
+        <text>Considered under suspension of the rules. (consideration: CR H1334-1336)</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:12:32</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <links />
+        <type>Floor</type>
+        <actionDate>2017-02-27</actionDate>
+        <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>17:12:20</actionTime>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-14</actionDate>
+        <committee>
+          <systemCode>hsju10</systemCode>
+          <name>Constitution and Civil Justice Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-14</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-14</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <type>IntroReferral</type>
+        <actionDate>2017-02-14</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <billReferrals>1</billReferrals>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>1</considerationByHouse>
+        <generalDebate>1</generalDebate>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <introducedInSenate>1</introducedInSenate>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Open Book on Equal Access to Justice Act</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Open Book on Equal Access to Justice Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Open Book on Equal Access to Justice Act</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Open Book on Equal Access to Justice Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend titles 5 and 28, United States Code, to require the maintenance of databases on, awards of fees and other expenses to prevailing parties in certain administrative proceedings and court cases to which the United States is a party, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Open Book on Equal Access to Justice Act</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billType>HR</billType>
+    <notes />
+    <laws />
+    <cosponsors>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cheney</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Liz</firstName>
+        <state>WY</state>
+        <bioguideId>C001109</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001109</bioguideId>
+          <lisID>2356</lisID>
+        </identifiers>
+        <fullName>Rep. Cheney, Liz [R-WY-At Large]</fullName>
+        <district>0</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cohen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <bioguideId>C001068</bioguideId>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <gpoId>8156</gpoId>
+          <lisID>1878</lisID>
+        </identifiers>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <district>9</district>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Chaffetz</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Jason</firstName>
+        <state>UT</state>
+        <bioguideId>C001076</bioguideId>
+        <identifiers>
+          <lisID>1956</lisID>
+          <gpoId>8191</gpoId>
+          <bioguideId>C001076</bioguideId>
+        </identifiers>
+        <fullName>Rep. Chaffetz, Jason [R-UT-3]</fullName>
+        <district>3</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Schrader</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Kurt</firstName>
+        <state>OR</state>
+        <bioguideId>S001180</bioguideId>
+        <identifiers>
+          <gpoId>8118</gpoId>
+          <bioguideId>S001180</bioguideId>
+          <lisID>1950</lisID>
+        </identifiers>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <district>5</district>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Gosar</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>A.</middleName>
+        <firstName>Paul</firstName>
+        <state>AZ</state>
+        <bioguideId>G000565</bioguideId>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+        </identifiers>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <district>4</district>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Thompson</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName />
+        <firstName>Glenn</firstName>
+        <state>PA</state>
+        <bioguideId>T000467</bioguideId>
+        <identifiers>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <district>5</district>
+      </item>
+      <item>
+        <party>R</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>Labrador</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>R.</middleName>
+        <firstName>Raul</firstName>
+        <state>ID</state>
+        <bioguideId>L000573</bioguideId>
+        <identifiers>
+          <gpoId>7919</gpoId>
+          <lisID>2011</lisID>
+          <bioguideId>L000573</bioguideId>
+        </identifiers>
+        <fullName>Rep. Labrador, Raul R. [R-ID-1]</fullName>
+        <district>1</district>
+      </item>
+      <item>
+        <party>D</party>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <lastName>PETERSON</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <middleName>C.</middleName>
+        <firstName>COLLIN</firstName>
+        <state>MN</state>
+        <bioguideId>P000258</bioguideId>
+        <identifiers>
+          <gpoId>8007</gpoId>
+          <lisID>910</lisID>
+          <bioguideId>P000258</bioguideId>
+        </identifiers>
+        <fullName>Rep. Peterson, Collin C. [D-MN-7]</fullName>
+        <district>7</district>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <party>R</party>
+        <fullName>Rep. Collins, Doug [R-GA-9]</fullName>
+        <lastName>Collins</lastName>
+        <bioguideId>C001093</bioguideId>
+        <identifiers>
+          <lisID>2121</lisID>
+          <bioguideId>C001093</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>GA</state>
+        <district>9</district>
+        <byRequestType />
+        <firstName>Doug</firstName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Received in the Senate.</text>
+      <actionDate>2017-02-28</actionDate>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. COLLINS of Georgia:H.R. 1033.Congress has the power to enact this legislation pursuantto the following:Article I, Section 9, Clause 7 of the United StatesConstitution, which states that ``No money shall be drawnfrom the Treasury but in consequence of Appropriations madeby law; and a regular, statement and account of the receiptsand expenditures of all public money shall be published fromtime to time.''[Page H1185]</pre>]]></constitutionalAuthorityStatementText>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-09-18</actionDate>
+          <text>Placed on the Union Calendar, Calendar No. 224.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>3668</number>
+        <type>HR</type>
+        <latestTitle>SHARE Act</latestTitle>
+      </item>
+      <item>
+        <latestAction>
+          <actionDate>2017-02-14</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <congress>115</congress>
+        <number>378</number>
+        <type>S</type>
+        <latestTitle>Open Book on Equal Access to Justice Act</latestTitle>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <cboCostEstimates />
+    <introducedDate>2017-02-14</introducedDate>
+    <originChamber>House</originChamber>
+    <recordedVotes />
+    <createDate>2017-02-15T05:12:51Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-02-14T15:02:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsju10</systemCode>
+              <activities>
+                <item>
+                  <date>2017-03-02T18:53:51Z</date>
+                  <name>Referred to</name>
+                </item>
+                <item>
+                  <date>2017-02-14T16:21:33Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Constitution and Civil Justice Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsju00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <congress>115</congress>
+    <billNumber>1033</billNumber>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government liability</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <updateDate>2017-09-22T19:45:10Z</updateDate>
+    <calendarNumbers />
+    <title>Open Book on Equal Access to Justice Act</title>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-27T18:04:01Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-14</actionDate>
+          <text><![CDATA[<p><b>Open Book on Equal Access to Justice Act</b></p> <p>This bill amends the Equal Access to Justice Act and the federal judicial code to require the Administrative Conference of the United States to create and maintain online searchable databases with information about the attorney's fees and other expenses awarded to prevailing parties other than the United States in certain: (1) agency-conducted adversary adjudication proceedings, and (2) civil action court cases (excluding tort cases) or settlement agreements to which the United States is a party. </p> <p>With respect to each award, the information must include: (1) the name of the agency involved, (2) the name of each party to whom the award was made, (3) a description of the claims, (4) the amount of the award, and (5) the basis for finding that the position of the agency concerned was not substantially justified. Under current law, the awards are made unless the position of the agency was substantially justified or special circumstances make an award unjust. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-02-14T05:00:00Z</updateDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-03-27T18:05:11Z</lastSummaryUpdateDate>
+          <actionDate>2017-02-27</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Open Book on Equal Access to Justice Act</b></p> <p>(Sec. 2) This bill amends the Equal Access to Justice Act and the federal judicial code to require the Administrative Conference of the United States to create and maintain online searchable databases with information about the attorney's fees and other expenses awarded to prevailing parties other than the United States in certain: (1) agency-conducted adversary adjudication proceedings, and (2) civil action court cases (excluding tort cases) or settlement agreements to which the United States is a party. </p> <p>With respect to each award, the information must include: (1) the name of the agency involved, (2) the name of each party to whom the award was made, (3) a description of the claims, (4) the amount of the award, and (5) the basis for finding that the position of the agency concerned was not substantially justified. Under current law, the awards are made unless the position of the agency was substantially justified or special circumstances make an award unjust. </p>]]></text>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <updateDate>2017-02-27T14:13:11Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <amendments />
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

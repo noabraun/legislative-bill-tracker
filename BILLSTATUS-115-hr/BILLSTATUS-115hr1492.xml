@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <committeeDischarged>1</committeeDischarged>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <considerationByHouse>2</considerationByHouse>
+        <placeholderTextForH>5</placeholderTextForH>
+        <referredToCommittee>1</referredToCommittee>
+        <billReferrals>2</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <reportedToHouse>1</reportedToHouse>
+        <generalDebate>1</generalDebate>
+        <houseCommitteeDischarged>1</houseCommitteeDischarged>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>23</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-13</actionDate>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>15:06:57</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2017-07-12</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <actionTime>15:06:56</actionTime>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 349). (text: CR 07/11/2017 H5396)</text>
+        <actionDate>2017-07-12</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>CR 07/11/2017 H5396</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5396</url>
+          </link>
+          <link>
+            <name>Roll no. 349</name>
+            <url>http://clerk.house.gov/evs/2017/roll349.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <actionTime>15:06:56</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 2 (Roll no. 349).</text>
+        <actionDate>2017-07-12</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>Roll no. 349</name>
+            <url>http://clerk.house.gov/evs/2017/roll349.xml</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <actionTime>14:55:21</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H5485)</text>
+        <actionDate>2017-07-12</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H5485</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5485</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <actionTime>16:12:09</actionTime>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionDate>2017-07-11</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionCode>H37220</actionCode>
+      </item>
+      <item>
+        <actionTime>16:02:18</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1492.</text>
+        <actionDate>2017-07-11</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H.R. 1492</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1492</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <actionTime>16:02:17</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H5396-5398)</text>
+        <actionDate>2017-07-11</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H5396-5398</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5396-5398</url>
+          </link>
+        </links>
+        <committee />
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <actionTime>16:02:05</actionTime>
+        <text>Mr. Burgess moved to suspend the rules and pass the bill.</text>
+        <actionDate>2017-07-11</actionDate>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <text>Placed on the Union Calendar, Calendar No. 131.</text>
+        <actionDate>2017-06-23</actionDate>
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>H12300</actionCode>
+        <text>Committee on the Judiciary discharged.</text>
+        <actionDate>2017-06-23</actionDate>
+        <type>Discharge</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>5500</actionCode>
+        <text>Committee on the Judiciary discharged.</text>
+        <actionDate>2017-06-23</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 115-192, Part I.</text>
+        <actionDate>2017-06-23</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-192</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/192</url>
+          </link>
+        </links>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <text>Reported by the Committee on Energy and Commerce. H. Rept. 115-192, Part I.</text>
+        <actionDate>2017-06-23</actionDate>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-192</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/192</url>
+          </link>
+        </links>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Health Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-17</actionDate>
+        <committee>
+          <name>Health Subcommittee</name>
+          <systemCode>hsif14</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Judiciary</text>
+        <actionDate>2017-03-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <text>Referred to House Energy and Commerce</text>
+        <actionDate>2017-03-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <committee>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+        </committee>
+      </item>
+      <item>
+        <actionCode>H11100-A</actionCode>
+        <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionDate>2017-03-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-03-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <actionDate>2017-03-10</actionDate>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <committee />
+      </item>
+    </actions>
+    <relatedBills />
+    <sponsors>
+      <item>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <state>TX</state>
+        <firstName>PETE</firstName>
+        <middleName />
+        <party>R</party>
+        <district>32</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+        <bioguideId>S000250</bioguideId>
+        <lastName>SESSIONS</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Medical Controlled Substances Transportation Act of 2017</b></p> <p>This bill amends the Controlled Substances Act to direct the Drug Enforcement Administration to register practitioners (other than pharmacies) to transport controlled substances to and administer controlled substances in other states, subject to specified conditions.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-10</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-08-26T17:25:13Z</lastSummaryUpdateDate>
+          <updateDate>2017-03-10T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <createDate>2017-03-11T04:51:01Z</createDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SESSIONS:H.R. 1492.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3:To regulate Commerce with foreign Nations, and among theseveral states, and with the Indian Tribes[Page H2052]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors />
+    <titles>
+      <item>
+        <title>Medical Controlled Substances Transportation Act of 2017</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Medical Controlled Substances Transportation Act of 2017</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Medical Controlled Substances Transportation Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>To amend the Controlled Substances Act to direct the Attorney General to register practitioners to transport controlled substances to States in which the practitioner is not registered under the Act for the purpose of administering the substances (under applicable State law) at locations other than principal places of business or professional practice.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Medical Controlled Substances Transportation Act of 2017</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <title>Medical Controlled Substances Transportation Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Medical Controlled Substances Transportation Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <title>Medical Controlled Substances Transportation Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-09-11T02:39:06Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Drug trafficking and controlled substances</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Licensing and registrations</name>
+          </item>
+          <item>
+            <name>Transportation safety and security</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes>
+      <recordedVote>
+        <sessionNumber>1</sessionNumber>
+        <rollNumber>349</rollNumber>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <date>2017-07-12T19:06:56Z</date>
+        <url>http://clerk.house.gov/evs/2017/roll349.xml</url>
+        <congress>115</congress>
+      </recordedVote>
+    </recordedVotes>
+    <billNumber>1492</billNumber>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-192</citation>
+      </committeeReport>
+    </committeeReports>
+    <amendments />
+    <title>Medical Controlled Substances Transportation Act of 2017</title>
+    <introducedDate>2017-03-10</introducedDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>ssju00</systemCode>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-07-13T17:26:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-03-21T13:50:23Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-06-23T16:16:05Z</date>
+              <name>Discharged from</name>
+            </item>
+            <item>
+              <date>2017-03-10T14:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <name>Energy and Commerce Committee</name>
+          <systemCode>hsif00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-06-07T21:17:08Z</date>
+                  <name>Discharged from</name>
+                </item>
+                <item>
+                  <date>2017-03-17T17:47:14Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+              <systemCode>hsif14</systemCode>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-06-23T16:15:40Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-06-07T13:32:04Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-10T14:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers>
+      <item>
+        <calendar>U00131</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <congress>115</congress>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+      <actionDate>2017-07-13</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

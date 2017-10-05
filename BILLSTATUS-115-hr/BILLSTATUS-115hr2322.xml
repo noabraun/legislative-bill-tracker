@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-03</actionDate>
+        <committee>
+          <name>Veterans' Affairs Committee</name>
+          <systemCode>hsvr00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <actionDate>2017-05-03</actionDate>
+        <committee />
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <createDate>2017-05-04T03:11:53Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-03T14:05:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>2322</billNumber>
+    <sponsors>
+      <item>
+        <district>7</district>
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <identifiers>
+          <bioguideId>W000798</bioguideId>
+          <lisID>1855</lisID>
+          <gpoId>7992</gpoId>
+        </identifiers>
+        <lastName>Walberg</lastName>
+        <bioguideId>W000798</bioguideId>
+        <party>R</party>
+        <state>MI</state>
+        <firstName>Tim</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-05-03</introducedDate>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <title>Injured and Amputee Veterans Bill of Rights</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2017-10-03T22:15:14Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-05-03</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-20T15:24:23Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Injured and Amputee Veterans Bill of Rights</b></p> <p> This bill requires the Department of Veterans Affairs (VA) to ensure that an Injured and Amputee Veterans Bill of Rights is printed on signage in accessible formats and displayed prominently and conspicuously in each VA prosthetics and orthotics clinic. VA employees who work at such clinics, as well as patient advocates of veterans who receive care there, must receive training on such Bill of Rights. The VA shall conduct outreach to inform veterans of such Bill of Rights.</p> <p>Such Bill of Rights shall include the right to: (1) access the highest quality prosthetic and orthotic care; (2) select the practitioner that best meets their prosthetic and orthotic needs; (3) receive timely and efficient prosthetic and orthotic care; and (4) transition and readjust to civilian life in an honorable manner, including by having ample access to vocational rehabilitation, employment programs, and housing assistance.</p> <p>The bill directs: (1) the VA to collect information relating to the alleged mistreatment of injured and amputee veterans, (2) the veteran liaison at each VA medical center to submit quarterly to the VA's Chief Consultant of Prosthetics and Sensory Aids a report on such information, and (3) the Chief Consultant to investigate and address such information.</p>]]></text>
+          <updateDate>2017-05-03T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+      <actionDate>2017-05-03</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <firstName>Raul</firstName>
+        <fullName>Rep. Ruiz, Raul [D-CA-36]</fullName>
+        <bioguideId>R000599</bioguideId>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000599</bioguideId>
+          <lisID>2109</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Ruiz</lastName>
+        <state>CA</state>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <district>36</district>
+      </item>
+      <item>
+        <firstName>Richard</firstName>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <bioguideId>H001067</bioguideId>
+        <identifiers>
+          <bioguideId>H001067</bioguideId>
+          <lisID>2140</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Hudson</lastName>
+        <state>NC</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+      </item>
+      <item>
+        <firstName>Robert</firstName>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <bioguideId>P000606</bioguideId>
+        <identifiers>
+          <bioguideId>P000606</bioguideId>
+          <lisID>2141</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Pittenger</lastName>
+        <state>NC</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName />
+        <district>9</district>
+      </item>
+      <item>
+        <firstName>WALTER</firstName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <bioguideId>J000255</bioguideId>
+        <identifiers>
+          <lisID>612</lisID>
+          <bioguideId>J000255</bioguideId>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>JONES</lastName>
+        <state>NC</state>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipDate>2017-05-03</sponsorshipDate>
+        <middleName>B.</middleName>
+        <district>3</district>
+      </item>
+      <item>
+        <firstName>Doug</firstName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <bioguideId>L000578</bioguideId>
+        <identifiers>
+          <lisID>2100</lisID>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>LaMalfa</lastName>
+        <state>CA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName />
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Brian</firstName>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <bioguideId>M001199</bioguideId>
+        <identifiers>
+          <lisID>2322</lisID>
+          <bioguideId>M001199</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Mast</lastName>
+        <state>FL</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName>J.</middleName>
+        <district>18</district>
+      </item>
+      <item>
+        <firstName>Glenn</firstName>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <bioguideId>T000467</bioguideId>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <lisID>1952</lisID>
+          <gpoId>8123</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Thompson</lastName>
+        <state>PA</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-06-28</sponsorshipDate>
+        <middleName />
+        <district>5</district>
+      </item>
+      <item>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <bioguideId>H001058</bioguideId>
+        <identifiers>
+          <lisID>2028</lisID>
+          <bioguideId>H001058</bioguideId>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Huizenga</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName />
+        <district>2</district>
+      </item>
+      <item>
+        <firstName>ROBERT</firstName>
+        <fullName>Rep. Brady, Robert A. [D-PA-1]</fullName>
+        <bioguideId>B001227</bioguideId>
+        <identifiers>
+          <bioguideId>B001227</bioguideId>
+          <lisID>1469</lisID>
+          <gpoId>8119</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>BRADY</lastName>
+        <state>PA</state>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <middleName>A.</middleName>
+        <district>1</district>
+      </item>
+      <item>
+        <firstName>Mike</firstName>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <bioguideId>B001293</bioguideId>
+        <identifiers>
+          <lisID>2249</lisID>
+          <gpoId />
+          <bioguideId>B001293</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <lastName>Bishop</lastName>
+        <state>MI</state>
+        <party>R</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipDate>2017-07-14</sponsorshipDate>
+        <middleName />
+        <district>8</district>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Disability and paralysis</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Health care coverage and access</name>
+          </item>
+          <item>
+            <name>Health care quality</name>
+          </item>
+          <item>
+            <name>Health information and medical records</name>
+          </item>
+          <item>
+            <name>Health personnel</name>
+          </item>
+          <item>
+            <name>Veterans' education, employment, rehabilitation</name>
+          </item>
+          <item>
+            <name>Veterans' loans, housing, homeless programs</name>
+          </item>
+          <item>
+            <name>Veterans' medical care</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <title>Injured and Amputee Veterans Bill of Rights</title>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Injured and Amputee Veterans Bill of Rights</title>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To direct the Secretary of Veterans Affairs to educate certain staff of the Department of Veterans Affairs and to inform veterans about the Injured and Amputee Veterans Bill of Rights, and for other purposes.</title>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Injured and Amputee Veterans Bill of Rights</title>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WALBERG:H.R. 2322.Congress has the power to enact this legislation pursuantto the following:Clause 12 of Section 8 of Article 1 of the United StatesConstitution.[Page H3324]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

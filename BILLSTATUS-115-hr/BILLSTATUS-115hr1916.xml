@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-24</actionDate>
+        <committee>
+          <systemCode>hsas29</systemCode>
+          <name>Strategic Forces Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Strategic Forces.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <text>Referred to the House Committee on Armed Services.</text>
+        <committee>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-04-05</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <type>HR</type>
+        <congress>115</congress>
+        <number>2810</number>
+        <latestTitle>National Defense Authorization Act for Fiscal Year 2018</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-07</actionDate>
+          <text>Cloture motion on the motion to proceed to the measure presented in Senate. (consideration: CR S5038)</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Rep. Shuster, Bill [R-PA-9]</fullName>
+        <state>PA</state>
+        <firstName>Bill</firstName>
+        <middleName />
+        <party>R</party>
+        <district>9</district>
+        <byRequestType />
+        <identifiers>
+          <bioguideId>S001154</bioguideId>
+          <gpoId>8127</gpoId>
+          <lisID>1681</lisID>
+        </identifiers>
+        <bioguideId>S001154</bioguideId>
+        <lastName>Shuster</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-04-05</actionDate>
+          <lastSummaryUpdateDate>2017-09-05T15:39:53Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>Patriot Inventory Protection Act</strong></p> <p>This bill requires the Army to evaluate its ability to meet war fighter requirements and operational needs, if GEM-T interceptors are removed from its operational inventory, by either: (1) recertifying GEM-T interceptors; or (2) developing, testing, and fielding a new low-cost interceptor that can be placed on the Army's operational inventory prior to the retirement of GEM-T interceptors. GEM-T interceptors are surface-to-air Patriot Guided Enhanced Missiles.</p> <p>The bill prohibits funds made available for the Army for FY2018 or thereafter from being obligated or expended to demilitarize any GEM-T interceptor or to remove any such interceptor from its operational inventory until the Army submits such evaluation to the congressional defense committees. Such limitation shall not apply to activities that the Army determines are critical to the safety of GEM-T interceptors.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <createDate>2017-04-06T03:11:54Z</createDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SHUSTER:H.R. 1916.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 of the United States Constitution[Page H2754]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <lastName>Rogers</lastName>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <bioguideId>R000575</bioguideId>
+        <district>3</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>R000575</bioguideId>
+          <lisID>1704</lisID>
+          <gpoId>7788</gpoId>
+        </identifiers>
+        <state>AL</state>
+      </item>
+      <item>
+        <lastName>Scott</lastName>
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Austin</firstName>
+        <bioguideId>S001189</bioguideId>
+        <district>8</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001189</bioguideId>
+          <lisID>2009</lisID>
+          <gpoId>7905</gpoId>
+        </identifiers>
+        <state>GA</state>
+      </item>
+      <item>
+        <lastName>Franks</lastName>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Trent</firstName>
+        <bioguideId>F000448</bioguideId>
+        <district>8</district>
+        <middleName />
+        <identifiers>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <state>AZ</state>
+      </item>
+      <item>
+        <lastName>Hunter</lastName>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Duncan</firstName>
+        <bioguideId>H001048</bioguideId>
+        <district>50</district>
+        <middleName>D.</middleName>
+        <identifiers>
+          <gpoId>7857</gpoId>
+          <lisID>1909</lisID>
+          <bioguideId>H001048</bioguideId>
+        </identifiers>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>Turner</lastName>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Michael</firstName>
+        <bioguideId>T000463</bioguideId>
+        <district>10</district>
+        <middleName>R.</middleName>
+        <identifiers>
+          <bioguideId>T000463</bioguideId>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+        </identifiers>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Moulton</lastName>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>D</party>
+        <firstName>Seth</firstName>
+        <bioguideId>M001196</bioguideId>
+        <district>6</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+        </identifiers>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>Tsongas</lastName>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>D</party>
+        <firstName>Niki</firstName>
+        <bioguideId>T000465</bioguideId>
+        <district>3</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>T000465</bioguideId>
+          <gpoId>7970</gpoId>
+          <lisID>1884</lisID>
+        </identifiers>
+        <state>MA</state>
+      </item>
+      <item>
+        <lastName>Bridenstine</lastName>
+        <fullName>Rep. Bridenstine, Jim [R-OK-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <party>R</party>
+        <firstName>Jim</firstName>
+        <bioguideId>B001283</bioguideId>
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001283</bioguideId>
+          <lisID>2155</lisID>
+          <gpoId />
+        </identifiers>
+        <state>OK</state>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <title>Patriot Inventory Protection Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Patriot Inventory Protection Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>To ensure the ballistic missile defense capacity of the Army.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <title>Patriot Inventory Protection Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <updateDate>2017-09-11T03:02:58Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Defense spending</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military procurement, research, weapons development</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>1916</billNumber>
+    <committeeReports />
+    <amendments />
+    <title>Patriot Inventory Protection Act</title>
+    <introducedDate>2017-04-05</introducedDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsas29</systemCode>
+              <name>Strategic Forces Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-04-24T14:42:47Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hsas00</systemCode>
+          <name>Armed Services Committee</name>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-04-05T14:02:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <text>Referred to the Subcommittee on Strategic Forces.</text>
+      <actionDate>2017-04-24</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

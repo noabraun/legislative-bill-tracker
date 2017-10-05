@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-09-11T18:10:49Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-07-26T17:12:25Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-23T14:03:15Z</date>
+            </item>
+          </activities>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-07T13:44:26Z</date>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-11</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 216.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2017-09-11</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>Calendars</type>
+        <text>Placed on the Union Calendar, Calendar No. 216.</text>
+        <actionCode>H12410</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-11</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-302</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/302</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-302.</text>
+        <actionCode>H12200</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-09-11</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links>
+          <link>
+            <name>H. Rept. 115-302</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/302</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-302.</text>
+        <actionCode>5000</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-07</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <actionDate>2017-05-23</actionDate>
+        <committee />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <actionStageOverride>1</actionStageOverride>
+        <introducedInHouse>1</introducedInHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <reportedToHouse>1</reportedToHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Gulf Islands National Seashore Land Exchange Act of 2017</b></p> <p> This bill authorizes the National Park Service (NPS) to convey to the Veterans of Foreign Wars Post 5699 approximately 1.542 acres of real property located within the Gulf Islands National Seashore in Jackson County, Mississippi, in exchange for a parcel of 2.161 acres. </p> <p>The NPS shall require the Post to pay the costs incurred by the NPS to carry out such exchange.</p> <p>Land and interests acquired by the United States under this bill shall be administered as part of the Gulf Islands National Seashore. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-08-16T19:47:37Z</lastSummaryUpdateDate>
+          <updateDate>2017-05-23T04:00:00Z</updateDate>
+          <actionDate>2017-05-23</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 2615, Gulf Islands National Seashore Land Exchange Act of 2017</title>
+        <pubDate>2017-09-08T20:04:00Z</pubDate>
+        <url>https://www.cbo.gov/publication/53081</url>
+      </item>
+    </cboCostEstimates>
+    <congress>115</congress>
+    <calendarNumbers>
+      <item>
+        <calendar>U00216</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. PALAZZO:H.R. 2615.Congress has the power to enact this legislation pursuantto the following:Article IV, Sec. 3, Clause 2 (relating to the power ofCongress to dispose of and make all needful rules andregulations respecting the territory or other propertybelonging to the United States.)[Page H4504]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <updateDate>2017-09-13T22:15:19Z</updateDate>
+    <sponsors>
+      <item>
+        <state>MS</state>
+        <district>4</district>
+        <middleName>M.</middleName>
+        <identifiers>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <lastName>Palazzo</lastName>
+        <bioguideId>P000601</bioguideId>
+        <firstName>Steven</firstName>
+        <party>R</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <title>Gulf Islands National Seashore Land Exchange Act of 2017</title>
+    <recordedVotes />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-302</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HR</billType>
+    <cosponsors />
+    <amendments />
+    <laws />
+    <titles>
+      <item>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <title>Gulf Islands National Seashore Land Exchange Act of 2017</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Gulf Islands National Seashore Land Exchange Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To authorize the exchange of certain land located in Gulf Islands National Seashore, Jackson County, Mississippi, between the National Park Service and the Veterans of Foreign Wars, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Gulf Islands National Seashore Land Exchange Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberName>House</chamberName>
+        <title>Gulf Islands National Seashore Land Exchange Act of 2017</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Gulf Islands National Seashore Land Exchange Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <createDate>2017-05-24T03:11:40Z</createDate>
+    <introducedDate>2017-05-23</introducedDate>
+    <billNumber>2615</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

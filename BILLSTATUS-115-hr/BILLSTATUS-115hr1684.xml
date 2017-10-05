@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Cooperative and condominium housing</name>
+          </item>
+          <item>
+            <name>Disaster relief and insurance</name>
+          </item>
+          <item>
+            <name>Housing and community development funding</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Emergency Management</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-27T18:55:18Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <systemCode>hspw13</systemCode>
+              <activities>
+                <item>
+                  <date>2017-03-23T19:01:10Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <date>2017-06-26T21:05:46Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-05-24T15:34:39Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-22T14:04:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hspw00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-27</actionDate>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <actions>
+      <item>
+        <actionDate>2017-06-27</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionTime>17:21:26</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <actionCode>H38310</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-06-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>17:21:24</actionTime>
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5144)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5144</url>
+            <name>H5144</name>
+          </link>
+        </links>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-06-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>17:21:24</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+        <links />
+        <actionCode>8000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-06-26</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>17:11:26</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1684.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1684</url>
+            <name>H.R. 1684</name>
+          </link>
+        </links>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-06-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>17:11:25</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H5144-5146)</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H5144-5146</url>
+            <name>H5144-5146</name>
+          </link>
+        </links>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-06-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionTime>17:11:12</actionTime>
+        <text>Mr. Graves (MO) moved to suspend the rules and pass the bill, as amended.</text>
+        <links />
+        <actionCode>H30300</actionCode>
+        <committee />
+        <type>Floor</type>
+        <actionDate>2017-06-26</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 132.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H12410</actionCode>
+        <committee />
+        <type>Calendars</type>
+        <actionDate>2017-06-26</actionDate>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-193.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/193</url>
+            <name>H. Rept. 115-193</name>
+          </link>
+        </links>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-06-26</actionDate>
+      </item>
+      <item>
+        <text>Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 115-193.</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/193</url>
+            <name>H. Rept. 115-193</name>
+          </link>
+        </links>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>Committee</type>
+        <actionDate>2017-06-26</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-05-24</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-23</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionDate>2017-03-22</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-03-22</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <actionCode>1000</actionCode>
+        <committee />
+        <type>IntroReferral</type>
+        <actionDate>2017-03-22</actionDate>
+      </item>
+      <actionTypeCounts>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <actionStageOverride>1</actionStageOverride>
+        <considerationByHouse>1</considerationByHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <generalDebate>1</generalDebate>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>14</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+    </actions>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-07-24T19:02:14Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Disaster Assistance Support for Communities and Homeowners Act of 2017</strong></p> <p>This bill directs the Federal Emergency Management Agency (FEMA) to provide technical assistance to a common interest community that provides essential services of a governmental nature on actions such community may take to be eligible to receive reimbursement from a grantee that receives FEMA funds for certain activities performed following a disaster declaration.</p> <p>FEMA shall provide recommendations to Congress on how common areas of condominiums and housing cooperatives may be eligible for assistance.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-22</actionDate>
+          <updateDate>2017-03-22T04:00:00Z</updateDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-09-11T21:05:06Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Disaster Assistance Support for Communities and Homeowners Act of 2017</strong></p> <p>(Sec. 2) This bill directs the Federal Emergency Management Agency (FEMA) to provide technical assistance to a common interest community that provides essential services of a governmental nature on actions such community may take to be eligible to receive reimbursement from a grantee that receives FEMA funds for certain activities performed following a disaster declaration.</p> <p>FEMA shall provide to specified congressional committees a legislative proposal on how to provide eligibility for disaster assistance with respect to common areas of condominiums and housing cooperatives.</p>]]></text>
+          <actionDesc>Passed House amended</actionDesc>
+          <name>Passed House amended</name>
+          <versionCode>36</versionCode>
+          <actionDate>2017-06-26</actionDate>
+          <updateDate>2017-06-26T15:17:44Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <originChamber>House</originChamber>
+    <cboCostEstimates>
+      <item>
+        <title>H.R. 1684, Disaster Assistance Support for Communities and Homeowners Act of 2017</title>
+        <pubDate>2017-06-28T15:00:07Z</pubDate>
+        <url>https://www.cbo.gov/publication/52856</url>
+      </item>
+    </cboCostEstimates>
+    <congress>115</congress>
+    <calendarNumbers>
+      <item>
+        <calendar>U00132</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <version>1.0.0</version>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. NADLER:H.R. 1684.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution.[Page H2350]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Emergency Management</name>
+    </policyArea>
+    <updateDate>2017-09-14T04:49:24Z</updateDate>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <district>10</district>
+        <middleName />
+        <identifiers>
+          <lisID>850</lisID>
+          <bioguideId>N000002</bioguideId>
+          <gpoId>8069</gpoId>
+        </identifiers>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <lastName>NADLER</lastName>
+        <bioguideId>N000002</bioguideId>
+        <firstName>JERROLD</firstName>
+        <party>D</party>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <relatedBills />
+    <notes />
+    <title>Disaster Assistance Support for Communities and Homeowners Act of 2017</title>
+    <recordedVotes />
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-193</citation>
+      </committeeReport>
+    </committeeReports>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>ENGEL</lastName>
+        <middleName>L.</middleName>
+        <bioguideId>E000179</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>NY</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000179</bioguideId>
+          <lisID>344</lisID>
+          <gpoId>8078</gpoId>
+        </identifiers>
+        <fullName>Rep. Engel, Eliot L. [D-NY-16]</fullName>
+        <district>16</district>
+        <sponsorshipDate>2017-03-22</sponsorshipDate>
+        <party>D</party>
+        <firstName>ELIOT</firstName>
+      </item>
+      <item>
+        <lastName>Sanford</lastName>
+        <middleName />
+        <bioguideId>S000051</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <state>SC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S000051</bioguideId>
+          <lisID>1012</lisID>
+        </identifiers>
+        <fullName>Rep. Sanford, Mark [R-SC-1]</fullName>
+        <district>1</district>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <party>R</party>
+        <firstName>Mark</firstName>
+      </item>
+    </cosponsors>
+    <amendments />
+    <laws />
+    <titles>
+      <item>
+        <title>Disaster Assistance Support for Communities and Homeowners Act of 2017</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <title>Disaster Assistance Support for Communities and Homeowners Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <title>To direct the Administrator of the Federal Emergency Management Agency to provide technical assistance to common interest communities regarding eligibility for disaster assistance, and for other purposes.</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <title>Disaster Assistance Support for Communities and Homeowners Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+      </item>
+      <item>
+        <title>Disaster Assistance Support for Communities and Homeowners Act of 2017</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+      </item>
+      <item>
+        <title>Disaster Assistance Support for Communities and Homeowners Act of 2017</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+      </item>
+      <item>
+        <title>Disaster Assistance Support for Communities and Homeowners Act of 2017</title>
+        <parentTitleType />
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+    </titles>
+    <createDate>2017-03-23T05:20:05Z</createDate>
+    <introducedDate>2017-03-22</introducedDate>
+    <billNumber>1684</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

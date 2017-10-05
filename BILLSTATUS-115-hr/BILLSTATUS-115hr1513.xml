@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-03-13T16:01:15Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm01</systemCode>
+              <name>Social Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-03-21T13:38:27Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Social Security Must Avert Identity Loss (MAIL) Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+        <title>Social Security Must Avert Identity Loss (MAIL) Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <title>To restrict the inclusion of social security account numbers on documents sent by mail by the Social Security Administration, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <title>Social Security Must Avert Identity Loss (MAIL) Act of 2017</title>
+      </item>
+    </titles>
+    <billNumber>1513</billNumber>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>J000174</bioguideId>
+        <middleName />
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8159</gpoId>
+          <lisID>603</lisID>
+          <bioguideId>J000174</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <byRequestType />
+        <firstName>SAM</firstName>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <lastName>JOHNSON</lastName>
+      </item>
+    </sponsors>
+    <title>Social Security Must Avert Identity Loss (MAIL) Act of 2017</title>
+    <laws />
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <name>Social Security Subcommittee</name>
+          <systemCode>hswm01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Social Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-03-13</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-03-13</actionDate>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-03-13</actionDate>
+      </item>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+    </actions>
+    <introducedDate>2017-03-13</introducedDate>
+    <relatedBills>
+      <item>
+        <number>624</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Social Security Number Fraud Prevention Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-09-08</actionDate>
+          <text>Presented to President.</text>
+        </latestAction>
+        <type>HR</type>
+      </item>
+      <item>
+        <number>218</number>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Social Security Fraud Prevention Act of 2017</latestTitle>
+        <latestAction>
+          <actionDate>2017-05-15</actionDate>
+          <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 79.</text>
+        </latestAction>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <lastName>LARSON</lastName>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <party>D</party>
+        <firstName>JOHN</firstName>
+        <bioguideId>L000557</bioguideId>
+        <district>1</district>
+        <middleName>B.</middleName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <lisID>1583</lisID>
+          <bioguideId>L000557</bioguideId>
+        </identifiers>
+        <state>CT</state>
+      </item>
+      <item>
+        <lastName>Renacci</lastName>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <party>R</party>
+        <firstName>James</firstName>
+        <bioguideId>R000586</bioguideId>
+        <district>16</district>
+        <middleName>B.</middleName>
+        <identifiers>
+          <lisID>2048</lisID>
+          <bioguideId>R000586</bioguideId>
+          <gpoId>8106</gpoId>
+        </identifiers>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Black</lastName>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Diane</firstName>
+        <bioguideId>B001273</bioguideId>
+        <district>6</district>
+        <middleName />
+        <identifiers>
+          <gpoId>8153</gpoId>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+        </identifiers>
+        <state>TN</state>
+      </item>
+      <item>
+        <lastName>Curbelo</lastName>
+        <fullName>Rep. Curbelo, Carlos [R-FL-26]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Carlos</firstName>
+        <bioguideId>C001107</bioguideId>
+        <district>26</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>C001107</bioguideId>
+          <gpoId />
+          <lisID>2235</lisID>
+        </identifiers>
+        <state>FL</state>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Mike</firstName>
+        <bioguideId>K000376</bioguideId>
+        <district>3</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <lisID>2051</lisID>
+          <gpoId>8708</gpoId>
+        </identifiers>
+        <state>PA</state>
+      </item>
+      <item>
+        <lastName>Meehan</lastName>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Patrick</firstName>
+        <bioguideId>M001181</bioguideId>
+        <district>7</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <state>PA</state>
+      </item>
+      <item>
+        <lastName>Pittenger</lastName>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Robert</firstName>
+        <bioguideId>P000606</bioguideId>
+        <district>9</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>P000606</bioguideId>
+          <gpoId />
+          <lisID>2141</lisID>
+        </identifiers>
+        <state>NC</state>
+      </item>
+      <item>
+        <lastName>LaMalfa</lastName>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Doug</firstName>
+        <bioguideId>L000578</bioguideId>
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+        </identifiers>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>Sinema</lastName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>D</party>
+        <firstName>Kyrsten</firstName>
+        <bioguideId>S001191</bioguideId>
+        <district>9</district>
+        <middleName />
+        <identifiers>
+          <gpoId />
+          <lisID>2099</lisID>
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <state>AZ</state>
+      </item>
+      <item>
+        <lastName>Joyce</lastName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>David</firstName>
+        <bioguideId>J000295</bioguideId>
+        <district>14</district>
+        <middleName>P.</middleName>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+          <gpoId />
+        </identifiers>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Sewell</lastName>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>D</party>
+        <firstName>Terri</firstName>
+        <bioguideId>S001185</bioguideId>
+        <district>7</district>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+        </identifiers>
+        <state>AL</state>
+      </item>
+      <item>
+        <lastName>Posey</lastName>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Bill</firstName>
+        <bioguideId>P000599</bioguideId>
+        <district>8</district>
+        <middleName />
+        <identifiers>
+          <lisID>1915</lisID>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+        </identifiers>
+        <state>FL</state>
+      </item>
+      <item>
+        <lastName>Costello</lastName>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Ryan</firstName>
+        <bioguideId>C001106</bioguideId>
+        <district>6</district>
+        <middleName>A.</middleName>
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+          <lisID>2266</lisID>
+        </identifiers>
+        <state>PA</state>
+      </item>
+      <item>
+        <lastName>Latta</lastName>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Robert</firstName>
+        <bioguideId>L000566</bioguideId>
+        <district>5</district>
+        <middleName>E.</middleName>
+        <identifiers>
+          <bioguideId>L000566</bioguideId>
+          <gpoId>8095</gpoId>
+          <lisID>1885</lisID>
+        </identifiers>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Jenkins</lastName>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Lynn</firstName>
+        <bioguideId>J000290</bioguideId>
+        <district>2</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>J000290</bioguideId>
+          <gpoId>7950</gpoId>
+          <lisID>1921</lisID>
+        </identifiers>
+        <state>KS</state>
+      </item>
+      <item>
+        <lastName>SANCHEZ</lastName>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>D</party>
+        <firstName>LINDA</firstName>
+        <bioguideId>S001156</bioguideId>
+        <district>38</district>
+        <middleName>T.</middleName>
+        <identifiers>
+          <gpoId>7844</gpoId>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+        </identifiers>
+        <state>CA</state>
+      </item>
+      <item>
+        <lastName>TIBERI</lastName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>PATRICK</firstName>
+        <bioguideId>T000462</bioguideId>
+        <district>12</district>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Smith</lastName>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Jason</firstName>
+        <bioguideId>S001195</bioguideId>
+        <district>8</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+          <lisID>2191</lisID>
+          <gpoId />
+        </identifiers>
+        <state>MO</state>
+      </item>
+      <item>
+        <lastName>Marchant</lastName>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Kenny</firstName>
+        <bioguideId>M001158</bioguideId>
+        <district>24</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>M001158</bioguideId>
+          <gpoId>8766</gpoId>
+          <lisID>1806</lisID>
+        </identifiers>
+        <state>TX</state>
+      </item>
+      <item>
+        <lastName>CHABOT</lastName>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>STEVE</firstName>
+        <bioguideId>C000266</bioguideId>
+        <district>1</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+        </identifiers>
+        <state>OH</state>
+      </item>
+      <item>
+        <lastName>Grothman</lastName>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-16</sponsorshipDate>
+        <party>R</party>
+        <firstName>Glenn</firstName>
+        <bioguideId>G000576</bioguideId>
+        <district>6</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WI</state>
+      </item>
+      <item>
+        <lastName>PASCRELL</lastName>
+        <fullName>Rep. Pascrell, Bill, Jr. [D-NJ-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-03-24</sponsorshipDate>
+        <party>D</party>
+        <firstName>WILLIAM</firstName>
+        <bioguideId>P000096</bioguideId>
+        <district>9</district>
+        <middleName>J.</middleName>
+        <identifiers>
+          <bioguideId>P000096</bioguideId>
+          <lisID>1510</lisID>
+          <gpoId>8050</gpoId>
+        </identifiers>
+        <state>NJ</state>
+      </item>
+      <item>
+        <lastName>Brooks</lastName>
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>R</party>
+        <firstName>Susan</firstName>
+        <bioguideId>B001284</bioguideId>
+        <district>5</district>
+        <middleName>W.</middleName>
+        <identifiers>
+          <bioguideId>B001284</bioguideId>
+          <lisID>2129</lisID>
+          <gpoId />
+        </identifiers>
+        <state>IN</state>
+      </item>
+      <item>
+        <lastName>Kilmer</lastName>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <party>D</party>
+        <firstName>Derek</firstName>
+        <bioguideId>K000381</bioguideId>
+        <district>6</district>
+        <middleName />
+        <identifiers>
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WA</state>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <recordedVotes />
+    <updateDate>2017-09-11T03:02:56Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Social Security.</text>
+      <links />
+      <actionDate>2017-03-21</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-03-13</actionDate>
+          <lastSummaryUpdateDate>2017-07-19T16:56:31Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <updateDate>2017-03-13T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Social Security Must Avert Identity Loss (MAIL) Act of 2017</b></p> <p>This bill amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to direct the Social Security Administration to ensure that no document it sends by mail includes a complete Social Security account number unless necessary.</p>]]></text>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-03-15T16:30:54Z</createDate>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SAM JOHNSON of Texas:H.R. 1513.Congress has the power to enact this legislation pursuantto the following:Clause 1 of section 8 of article I of the Constitution to``provide for the common defense and general welfare of theUnited States.''[Page H2059]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Social Welfare</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Postal service</name>
+          </item>
+          <item>
+            <name>Social security and elderly assistance</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Social Welfare</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

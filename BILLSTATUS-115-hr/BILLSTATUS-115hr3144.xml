@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <recordedVotes />
+    <cboCostEstimates />
+    <laws />
+    <calendarNumbers />
+    <congress>115</congress>
+    <createDate>2017-06-30T03:11:38Z</createDate>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To provide for operations of the Federal Columbia River Power System pursuant to a certain operation plan for a specified period of time, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberName />
+        <title>To provide for operations of the Federal Columbia River Power System pursuant to a certain operation plan for a specified period of time, and for other purposes.</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+        <parentTitleType />
+      </item>
+    </titles>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-20</actionDate>
+        <committee>
+          <name>Water, Power and Oceans Subcommittee</name>
+          <systemCode>hsii13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-30</actionDate>
+        <committee>
+          <name>Water Resources and Environment Subcommittee</name>
+          <systemCode>hspw02</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-29</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <links />
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-29</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-29</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-29</actionDate>
+      </item>
+    </actions>
+    <relatedBills />
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsii13</systemCode>
+              <name>Water, Power and Oceans Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-07-20T19:05:32Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T14:05:00Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hspw02</systemCode>
+              <name>Water Resources and Environment Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-06-30T19:41:21Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hspw00</systemCode>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-06-29T14:05:05Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <updateDate>2017-08-01T07:12:23Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Water Resources Development</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Water Resources Development</name>
+    </policyArea>
+    <notes />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports />
+    <latestAction>
+      <links />
+      <actionDate>2017-07-20</actionDate>
+      <text>Referred to the Subcommittee on Water, Power and Oceans.</text>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <middleName />
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jaime</firstName>
+        <bioguideId>H001056</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <state>WA</state>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Herrera Beutler</lastName>
+        <identifiers>
+          <gpoId>8207</gpoId>
+          <bioguideId>H001056</bioguideId>
+          <lisID>2071</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Dan</firstName>
+        <bioguideId>N000189</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <state>WA</state>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Newhouse</lastName>
+        <identifiers>
+          <lisID>2275</lisID>
+          <bioguideId>N000189</bioguideId>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kurt</firstName>
+        <bioguideId>S001180</bioguideId>
+        <party>D</party>
+        <fullName>Rep. Schrader, Kurt [D-OR-5]</fullName>
+        <state>OR</state>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>Schrader</lastName>
+        <identifiers>
+          <gpoId>8118</gpoId>
+          <bioguideId>S001180</bioguideId>
+          <lisID>1950</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <middleName />
+        <district>2</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <firstName>GREG</firstName>
+        <bioguideId>W000791</bioguideId>
+        <party>R</party>
+        <fullName>Rep. Walden, Greg [R-OR-2]</fullName>
+        <state>OR</state>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <lastName>WALDEN</lastName>
+        <identifiers>
+          <bioguideId>W000791</bioguideId>
+          <gpoId>8115</gpoId>
+          <lisID>1596</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <identifiers>
+          <gpoId>8209</gpoId>
+          <lisID>1809</lisID>
+          <bioguideId>M001159</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <middleName />
+        <lastName>McMorris Rodgers</lastName>
+        <state>WA</state>
+        <district>5</district>
+        <fullName>Rep. McMorris Rodgers, Cathy [R-WA-5]</fullName>
+        <byRequestType />
+        <bioguideId>M001159</bioguideId>
+        <firstName>Cathy</firstName>
+      </item>
+    </sponsors>
+    <introducedDate>2017-06-29</introducedDate>
+    <billNumber>3144</billNumber>
+    <title>To provide for operations of the Federal Columbia River Power System pursuant to a certain operation plan for a specified period of time, and for other purposes.</title>
+    <version>1.0.0</version>
+    <amendments />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. McMORRIS RODGERS:H.R. 3144.Congress has the power to enact this legislation pursuantto the following:The Constitutional authority in which this bill rests isthe power of the Congress to regulate Commerce as enumeratedby Article I, Section 8, Clause 3 as applied to waterways forthe development of hydroelectric power and flood control.[Page H5378]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

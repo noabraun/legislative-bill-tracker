@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Judiciary Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-06T17:00:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <systemCode>hsju00</systemCode>
+          <subcommittees>
+            <item>
+              <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+              <systemCode>hsju08</systemCode>
+              <activities>
+                <item>
+                  <date>2017-02-06T22:24:39Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-26T07:15:35Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Crime and Law Enforcement</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Criminal procedure and sentencing</name>
+          </item>
+          <item>
+            <name>Firearms and explosives</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Motor vehicles</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <item>
+        <actionDate>2017-02-06</actionDate>
+        <committee>
+          <name>Crime, Terrorism, Homeland Security, and Investigations Subcommittee</name>
+          <systemCode>hsju08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-06</actionDate>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-06</actionDate>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-06</actionDate>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. GRIFFITH:H.R. 358.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8 of the United States Constitution aswell as Amendment II[Page H195]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-01-07T04:48:26Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>G000568</bioguideId>
+        <lastName>Griffith</lastName>
+        <middleName>Morgan</middleName>
+        <firstName>H.</firstName>
+        <fullName>Rep. Griffith, H. Morgan [R-VA-9]</fullName>
+        <district>9</district>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>2070</lisID>
+          <gpoId>8200</gpoId>
+          <bioguideId>G000568</bioguideId>
+        </identifiers>
+        <state>VA</state>
+      </item>
+    </sponsors>
+    <billNumber>358</billNumber>
+    <congress>115</congress>
+    <notes />
+    <cosponsors>
+      <item>
+        <lastName>Palazzo</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName>M.</middleName>
+        <bioguideId>P000601</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MS</state>
+        <identifiers>
+          <lisID>2035</lisID>
+          <bioguideId>P000601</bioguideId>
+          <gpoId>8022</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Palazzo, Steven M. [R-MS-4]</fullName>
+        <firstName>Steven</firstName>
+      </item>
+      <item>
+        <lastName>Babin</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001291</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2270</lisID>
+          <gpoId />
+          <bioguideId>B001291</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>36</district>
+        <party>R</party>
+        <fullName>Rep. Babin, Brian [R-TX-36]</fullName>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <lastName>Duncan</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000615</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>SC</state>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <firstName>Jeff</firstName>
+      </item>
+      <item>
+        <lastName>Brooks</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001274</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AL</state>
+        <identifiers>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <firstName>Mo</firstName>
+      </item>
+      <item>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000292</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+          <bioguideId>J000292</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <lastName>Stewart</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001192</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>UT</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2168</lisID>
+          <bioguideId>S001192</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <lastName>Messer</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001189</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>M001189</bioguideId>
+          <gpoId />
+          <lisID>2130</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <firstName>Luke</firstName>
+      </item>
+      <item>
+        <lastName>Abraham</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName>Lee</middleName>
+        <bioguideId>A000374</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>LA</state>
+        <identifiers>
+          <bioguideId>A000374</bioguideId>
+          <gpoId />
+          <lisID>2244</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Abraham, Ralph Lee [R-LA-5]</fullName>
+        <firstName>Ralph</firstName>
+      </item>
+      <item>
+        <lastName>Tipton</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName>R.</middleName>
+        <bioguideId>T000470</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <lastName>Franks</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000448</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <firstName>Trent</firstName>
+      </item>
+      <item>
+        <lastName>Lamborn</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000564</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1834</lisID>
+          <gpoId>7863</gpoId>
+          <bioguideId>L000564</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Lamborn, Doug [R-CO-5]</fullName>
+        <firstName>Doug</firstName>
+      </item>
+      <item>
+        <lastName>Farenthold</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000460</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+          <lisID>2067</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <party>R</party>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <firstName>Blake</firstName>
+      </item>
+      <item>
+        <lastName>Zeldin</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName>M.</middleName>
+        <bioguideId>Z000017</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+          <lisID>2261</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <firstName>Lee</firstName>
+      </item>
+      <item>
+        <lastName>Gibbs</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000563</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+          <bioguideId>G000563</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <firstName>Bob</firstName>
+      </item>
+      <item>
+        <lastName>Duffy</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName>P.</middleName>
+        <bioguideId>D000614</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>WI</state>
+        <identifiers>
+          <lisID>2072</lisID>
+          <bioguideId>D000614</bioguideId>
+          <gpoId>8220</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <firstName>Sean</firstName>
+      </item>
+      <item>
+        <lastName>Kelly</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000376</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>K000376</bioguideId>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>Long</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000576</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MO</state>
+        <identifiers>
+          <lisID>2033</lisID>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <firstName>Billy</firstName>
+      </item>
+      <item>
+        <lastName>Olson</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>O000168</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <gpoId>8178</gpoId>
+          <bioguideId>O000168</bioguideId>
+          <lisID>1955</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>22</district>
+        <party>R</party>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <firstName>Pete</firstName>
+      </item>
+      <item>
+        <lastName>Jenkins</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000290</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>KS</state>
+        <identifiers>
+          <lisID>1921</lisID>
+          <gpoId>7950</gpoId>
+          <bioguideId>J000290</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <firstName>Lynn</firstName>
+      </item>
+      <item>
+        <lastName>Hensarling</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001036</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1749</lisID>
+          <gpoId>8161</gpoId>
+          <bioguideId>H001036</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <firstName>Jeb</firstName>
+      </item>
+      <item>
+        <lastName>JOHNSON</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000174</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <lisID>603</lisID>
+          <gpoId>8159</gpoId>
+          <bioguideId>J000174</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Johnson, Sam [R-TX-3]</fullName>
+        <firstName>SAM</firstName>
+      </item>
+      <item>
+        <lastName>YOUNG</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>Y000033</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AK</state>
+        <identifiers>
+          <lisID>1256</lisID>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>R</party>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <firstName>DON</firstName>
+      </item>
+      <item>
+        <lastName>Hice</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName>B.</middleName>
+        <bioguideId>H001071</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <party>R</party>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <firstName>Jody</firstName>
+      </item>
+      <item>
+        <lastName>Roe</lastName>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <middleName>P.</middleName>
+        <bioguideId>R000582</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <gpoId>8148</gpoId>
+          <lisID>1954</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>Posey</lastName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000599</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <firstName>Bill</firstName>
+      </item>
+      <item>
+        <lastName>Pearce</lastName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <middleName />
+        <bioguideId>P000588</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NM</state>
+        <identifiers>
+          <gpoId>8057</gpoId>
+          <lisID>1738</lisID>
+          <bioguideId>P000588</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Pearce, Stevan [R-NM-2]</fullName>
+        <firstName>Stevan</firstName>
+      </item>
+      <item>
+        <lastName>Hudson</lastName>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001067</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <identifiers>
+          <lisID>2140</lisID>
+          <gpoId />
+          <bioguideId>H001067</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Hudson, Richard [R-NC-8]</fullName>
+        <firstName>Richard</firstName>
+      </item>
+      <item>
+        <lastName>Latta</lastName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>L000566</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <lisID>1885</lisID>
+          <bioguideId>L000566</bioguideId>
+          <gpoId>8095</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Latta, Robert E. [R-OH-5]</fullName>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <lastName>McClintock</lastName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001177</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>M001177</bioguideId>
+          <lisID>1908</lisID>
+          <gpoId>7809</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. McClintock, Tom [R-CA-4]</fullName>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <lastName>CHABOT</lastName>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <middleName />
+        <bioguideId>C000266</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>C000266</bioguideId>
+          <gpoId>8091</gpoId>
+          <lisID>186</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Chabot, Steve [R-OH-1]</fullName>
+        <firstName>STEVE</firstName>
+      </item>
+      <item>
+        <lastName>Jenkins</lastName>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName>H.</middleName>
+        <bioguideId>J000297</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <identifiers>
+          <bioguideId>J000297</bioguideId>
+          <gpoId />
+          <lisID>2278</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Jenkins, Evan H. [R-WV-3]</fullName>
+        <firstName>Evan</firstName>
+      </item>
+      <item>
+        <lastName>Burgess</lastName>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <middleName>C.</middleName>
+        <bioguideId>B001248</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1751</lisID>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>26</district>
+        <party>R</party>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <lastName>Wittman</lastName>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>W000804</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <identifiers>
+          <gpoId>8192</gpoId>
+          <lisID>1886</lisID>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <firstName>Robert</firstName>
+      </item>
+      <item>
+        <lastName>Collins</lastName>
+        <sponsorshipDate>2017-01-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001092</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>C001092</bioguideId>
+          <gpoId />
+          <lisID>2151</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>27</district>
+        <party>R</party>
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <firstName>Chris</firstName>
+      </item>
+      <item>
+        <lastName>Banks</lastName>
+        <sponsorshipDate>2017-01-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001299</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2326</lisID>
+          <bioguideId>B001299</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Banks, Jim [R-IN-3]</fullName>
+        <firstName>Jim</firstName>
+      </item>
+      <item>
+        <lastName>Davidson</lastName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000626</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>D000626</bioguideId>
+          <gpoId />
+          <lisID>2296</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Davidson, Warren [R-OH-8]</fullName>
+        <firstName>Warren</firstName>
+      </item>
+      <item>
+        <lastName>Cook</lastName>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001094</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>C001094</bioguideId>
+          <gpoId />
+          <lisID>2103</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Cook, Paul [R-CA-8]</fullName>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <lastName>LaMalfa</lastName>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000578</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2100</lisID>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <firstName>Doug</firstName>
+      </item>
+      <item>
+        <lastName>Byrne</lastName>
+        <sponsorshipDate>2017-04-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001289</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+          <lisID>2197</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <firstName>Bradley</firstName>
+      </item>
+      <item>
+        <lastName>Webster</lastName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000806</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <identifiers>
+          <lisID>2002</lisID>
+          <gpoId>7880</gpoId>
+          <bioguideId>W000806</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <party>R</party>
+        <fullName>Rep. Webster, Daniel [R-FL-11]</fullName>
+        <firstName>Daniel</firstName>
+      </item>
+      <item>
+        <lastName>Noem</lastName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <middleName>L.</middleName>
+        <bioguideId>N000184</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SD</state>
+        <identifiers>
+          <bioguideId>N000184</bioguideId>
+          <gpoId>8147</gpoId>
+          <lisID>2060</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>0</district>
+        <party>R</party>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <firstName>Kristi</firstName>
+      </item>
+      <item>
+        <lastName>Massie</lastName>
+        <sponsorshipDate>2017-05-18</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001184</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>M001184</bioguideId>
+          <gpoId>8371</gpoId>
+          <lisID>2094</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Massie, Thomas [R-KY-4]</fullName>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <lastName>Brat</lastName>
+        <sponsorshipDate>2017-05-22</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001290</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2203</lisID>
+          <bioguideId>B001290</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <fullName>Rep. Brat, Dave [R-VA-7]</fullName>
+        <firstName>Dave</firstName>
+      </item>
+      <item>
+        <lastName>Gosar</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>G000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <lastName>SESSIONS</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000250</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+          <lisID>1525</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>32</district>
+        <party>R</party>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <firstName>PETE</firstName>
+      </item>
+      <item>
+        <lastName>Walker</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000819</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <identifiers>
+          <bioguideId>W000819</bioguideId>
+          <gpoId />
+          <lisID>2255</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Walker, Mark [R-NC-6]</fullName>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <lastName>Schweikert</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001183</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1994</lisID>
+          <gpoId>7802</gpoId>
+          <bioguideId>S001183</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>McCaul</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName>T.</middleName>
+        <bioguideId>M001157</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1804</lisID>
+          <gpoId>8166</gpoId>
+          <bioguideId>M001157</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <party>R</party>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <firstName>Michael</firstName>
+      </item>
+      <item>
+        <lastName>Newhouse</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>N000189</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <identifiers>
+          <bioguideId>N000189</bioguideId>
+          <gpoId />
+          <lisID>2275</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Newhouse, Dan [R-WA-4]</fullName>
+        <firstName>Dan</firstName>
+      </item>
+      <item>
+        <lastName>Jordan</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>J000289</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>J000289</bioguideId>
+          <lisID>1868</lisID>
+          <gpoId>8094</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Jordan, Jim [R-OH-4]</fullName>
+        <firstName>Jim</firstName>
+      </item>
+      <item>
+        <lastName>King</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000362</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IA</state>
+        <identifiers>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+          <bioguideId>K000362</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <lastName>Cole</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001053</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OK</state>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <lastName>Palmer</lastName>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>P000609</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <identifiers>
+          <lisID>2221</lisID>
+          <gpoId />
+          <bioguideId>P000609</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Palmer, Gary J. [R-AL-6]</fullName>
+        <firstName>Gary</firstName>
+      </item>
+      <item>
+        <lastName>DeSantis</lastName>
+        <sponsorshipDate>2017-06-02</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000621</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000621</bioguideId>
+          <gpoId />
+          <lisID>2116</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. DeSantis, Ron [R-FL-6]</fullName>
+        <firstName>Ron</firstName>
+      </item>
+      <item>
+        <lastName>Davis</lastName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000619</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2126</lisID>
+          <bioguideId>D000619</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>13</district>
+        <party>R</party>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <firstName>Rodney</firstName>
+      </item>
+      <item>
+        <lastName>Thompson</lastName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>T000467</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+          <bioguideId>T000467</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <firstName>Glenn</firstName>
+      </item>
+      <item>
+        <lastName>Rogers</lastName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000575</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <identifiers>
+          <lisID>1704</lisID>
+          <gpoId>7788</gpoId>
+          <bioguideId>R000575</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Rogers, Mike D. [R-AL-3]</fullName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>DesJarlais</lastName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>D000616</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <identifiers>
+          <gpoId>8151</gpoId>
+          <lisID>2062</lisID>
+          <bioguideId>D000616</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. DesJarlais, Scott [R-TN-4]</fullName>
+        <firstName>Scott</firstName>
+      </item>
+      <item>
+        <lastName>Walorski</lastName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>W000813</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2128</lisID>
+          <gpoId />
+          <bioguideId>W000813</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+        <firstName>Jackie</firstName>
+      </item>
+      <item>
+        <lastName>Meadows</lastName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001187</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NC</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2142</lisID>
+          <bioguideId>M001187</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <party>R</party>
+        <fullName>Rep. Meadows, Mark [R-NC-11]</fullName>
+        <firstName>Mark</firstName>
+      </item>
+      <item>
+        <lastName>Grothman</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000576</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+          <lisID>2276</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <firstName>Glenn</firstName>
+      </item>
+      <item>
+        <lastName>Dunn</lastName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <middleName>P.</middleName>
+        <bioguideId>D000628</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>D000628</bioguideId>
+          <gpoId />
+          <lisID>2315</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Dunn, Neal P. [R-FL-2]</fullName>
+        <firstName>Neal</firstName>
+      </item>
+      <item>
+        <lastName>Bishop</lastName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001293</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001293</bioguideId>
+          <lisID>2249</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>Mooney</lastName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <middleName>X.</middleName>
+        <bioguideId>M001195</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <firstName>Alexander</firstName>
+      </item>
+      <item>
+        <lastName>Valadao</lastName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <middleName>G.</middleName>
+        <bioguideId>V000129</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <identifiers>
+          <lisID>2105</lisID>
+          <gpoId />
+          <bioguideId>V000129</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <party>R</party>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>Rokita</lastName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000592</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <identifiers>
+          <bioguideId>R000592</bioguideId>
+          <gpoId>7943</gpoId>
+          <lisID>2017</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <firstName>Todd</firstName>
+      </item>
+      <item>
+        <lastName>SMITH</lastName>
+        <sponsorshipDate>2017-06-15</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000583</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <identifiers>
+          <lisID>1075</lisID>
+          <gpoId>8177</gpoId>
+          <bioguideId>S000583</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>21</district>
+        <party>R</party>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <firstName>LAMAR</firstName>
+      </item>
+      <item>
+        <lastName>Harper</lastName>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001045</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MS</state>
+        <identifiers>
+          <bioguideId>H001045</bioguideId>
+          <gpoId>8021</gpoId>
+          <lisID>1933</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Harper, Gregg [R-MS-3]</fullName>
+        <firstName>Gregg</firstName>
+      </item>
+      <item>
+        <lastName>Luetkemeyer</lastName>
+        <sponsorshipDate>2017-06-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>L000569</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+          <lisID>1931</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>3</district>
+        <party>R</party>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <firstName>Blaine</firstName>
+      </item>
+      <item>
+        <lastName>Emmer</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>E000294</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2253</lisID>
+          <bioguideId>E000294</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <firstName>Tom</firstName>
+      </item>
+      <item>
+        <lastName>Allen</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <middleName>W.</middleName>
+        <bioguideId>A000372</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>GA</state>
+        <identifiers>
+          <lisID>2239</lisID>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <party>R</party>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <firstName>Rick</firstName>
+      </item>
+      <item>
+        <lastName>Coffman</lastName>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001077</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1912</lisID>
+          <bioguideId>C001077</bioguideId>
+          <gpoId>7864</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <firstName>Mike</firstName>
+      </item>
+    </cosponsors>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p>This bill amends the federal criminal code to revise provisions related to the interstate transportation of firearms and ammunition. <p>An individual may transport a firearm between two places (e.g., states) where it is legal to possess, carry, or transport the firearm. During transport, the firearm must be unloaded and secured or securely stored. <p>Additionally, an individual may transport ammunition, or a detachable magazine or feeding device, between two places where it is legal to possess, carry, or transport the ammunition, magazine, or feeding device. During transport, the ammunition, magazine, or feeding device must not be loaded into a firearm and must be securely stored. <p>This bill prohibits the arrest or detention of an individual for a state or local firearm or ammunition violation unless there is probable cause to believe the individual failed to comply with the provisions of this bill.]]></text>
+          <actionDate>2017-01-06</actionDate>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-06T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-04-27T17:44:03Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Crime and Law Enforcement</name>
+    </policyArea>
+    <title>To amend chapter 44 of title 18, United States Code, to more comprehensively address the interstate transportation of firearms or ammunition.</title>
+    <introducedDate>2017-01-06</introducedDate>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <text>Read twice and referred to the Committee on the Judiciary.</text>
+          <actionDate>2017-03-14</actionDate>
+        </latestAction>
+        <latestTitle>Lawful Interstate Transportation of Firearms Act</latestTitle>
+        <number>618</number>
+        <type>S</type>
+        <congress>115</congress>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <amendments />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-02-06</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <title>To amend chapter 44 of title 18, United States Code, to more comprehensively address the interstate transportation of firearms or ammunition.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend chapter 44 of title 18, United States Code, to more comprehensively address the interstate transportation of firearms or ammunition.</title>
+        <chamberCode />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

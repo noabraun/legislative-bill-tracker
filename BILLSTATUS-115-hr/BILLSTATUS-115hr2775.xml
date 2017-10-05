@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-07T03:11:40Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <reportedToHouse>1</reportedToHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <actionStageOverride>1</actionStageOverride>
+        <placeholderTextForH>2</placeholderTextForH>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <committeeReportOfABill>1</committeeReportOfABill>
+      </actionTypeCounts>
+      <item>
+        <type>Calendars</type>
+        <actionCode>H12410</actionCode>
+        <actionDate>2017-09-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Placed on the Union Calendar, Calendar No. 235.</text>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <actionDate>2017-09-25</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-325.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/325</url>
+            <name>H. Rept. 115-325</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <actionDate>2017-09-25</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 115-325.</text>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/325</url>
+            <name>H. Rept. 115-325</name>
+          </link>
+        </links>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 16.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-29</actionDate>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-14</actionDate>
+        <committee>
+          <systemCode>hsed02</systemCode>
+          <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Hearings Held by the Subcommittee on Health, Employment, Labor, and Pensions Prior to Referral.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <links />
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>Employee Privacy Protection Act</title>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-07-24T21:00:31Z</pubDate>
+        <url>https://www.cbo.gov/publication/52967</url>
+        <title>H.R. 2775, Employee Privacy Protection Act</title>
+      </item>
+    </cboCostEstimates>
+    <notes />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hsed02</systemCode>
+              <activities>
+                <item>
+                  <date>2017-06-14T18:27:03Z</date>
+                  <name>Hearings by</name>
+                </item>
+              </activities>
+              <name>Health, Employment, Labor, and Pensions Subcommittee</name>
+            </item>
+          </subcommittees>
+          <activities>
+            <item>
+              <date>2017-09-25T18:49:06Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-06-29T13:08:29Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-06T16:01:10Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <state>NC</state>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Foxx, Virginia [R-NC-5]</fullName>
+        <identifiers>
+          <bioguideId>F000450</bioguideId>
+          <lisID>1791</lisID>
+          <gpoId>8028</gpoId>
+        </identifiers>
+        <lastName>Foxx</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Virginia</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <bioguideId>F000450</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <district>7</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Walberg, Tim [R-MI-7]</fullName>
+        <identifiers>
+          <gpoId>7992</gpoId>
+          <bioguideId>W000798</bioguideId>
+          <lisID>1855</lisID>
+        </identifiers>
+        <lastName>Walberg</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Tim</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <bioguideId>W000798</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>TN</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <identifiers>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+          <bioguideId>R000582</bioguideId>
+        </identifiers>
+        <lastName>Roe</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <bioguideId>R000582</bioguideId>
+        <middleName>P.</middleName>
+        <party>R</party>
+      </item>
+      <item>
+        <state>AL</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <identifiers>
+          <lisID>2197</lisID>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <lastName>Byrne</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Bradley</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <bioguideId>B001289</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <identifiers>
+          <lisID>2276</lisID>
+          <bioguideId>G000576</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Grothman</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Glenn</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <bioguideId>G000576</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>GA</state>
+        <district>12</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <identifiers>
+          <lisID>2239</lisID>
+          <gpoId />
+          <bioguideId>A000372</bioguideId>
+        </identifiers>
+        <lastName>Allen</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Rick</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <bioguideId>A000372</bioguideId>
+        <middleName>W.</middleName>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MI</state>
+        <district>10</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <identifiers>
+          <lisID>2334</lisID>
+          <gpoId />
+          <bioguideId>M001201</bioguideId>
+        </identifiers>
+        <lastName>Mitchell</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <bioguideId>M001201</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>GA</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ferguson, A. Drew, IV [R-GA-3]</fullName>
+        <identifiers>
+          <lisID>2324</lisID>
+          <gpoId />
+          <bioguideId>F000465</bioguideId>
+        </identifiers>
+        <lastName>Ferguson</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>A.</firstName>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+        <bioguideId>F000465</bioguideId>
+        <middleName>Drew</middleName>
+        <party>R</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <district>19</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Rooney, Francis [R-FL-19]</fullName>
+        <identifiers>
+          <lisID>2323</lisID>
+          <gpoId />
+          <bioguideId>R000607</bioguideId>
+        </identifiers>
+        <lastName>Rooney</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Francis</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <bioguideId>R000607</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>SC</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Duncan, Jeff [R-SC-3]</fullName>
+        <identifiers>
+          <bioguideId>D000615</bioguideId>
+          <gpoId>8143</gpoId>
+          <lisID>2057</lisID>
+        </identifiers>
+        <lastName>Duncan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <bioguideId>D000615</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>IN</state>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <identifiers>
+          <gpoId />
+          <lisID>2130</lisID>
+          <bioguideId>M001189</bioguideId>
+        </identifiers>
+        <lastName>Messer</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Luke</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <bioguideId>M001189</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>PA</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Perry, Scott [R-PA-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>P000605</bioguideId>
+          <lisID>2157</lisID>
+        </identifiers>
+        <lastName>Perry</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Scott</firstName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <bioguideId>P000605</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>IA</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <gpoId>7918</gpoId>
+          <lisID>1724</lisID>
+        </identifiers>
+        <lastName>King</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Steve</firstName>
+        <sponsorshipDate>2017-07-13</sponsorshipDate>
+        <bioguideId>K000362</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>GA</state>
+        <district>11</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Loudermilk, Barry [R-GA-11]</fullName>
+        <identifiers>
+          <lisID>2238</lisID>
+          <gpoId />
+          <bioguideId>L000583</bioguideId>
+        </identifiers>
+        <lastName>Loudermilk</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Barry</firstName>
+        <sponsorshipDate>2017-07-17</sponsorshipDate>
+        <bioguideId>L000583</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>IN</state>
+        <district>5</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Brooks, Susan W. [R-IN-5]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001284</bioguideId>
+          <lisID>2129</lisID>
+        </identifiers>
+        <lastName>Brooks</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Susan</firstName>
+        <sponsorshipDate>2017-09-25</sponsorshipDate>
+        <bioguideId>B001284</bioguideId>
+        <middleName>W.</middleName>
+        <party>R</party>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-325</citation>
+      </committeeReport>
+    </committeeReports>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. WILSON of South Carolina:H.R. 2775.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the United StatesConstitution.[Page H4647]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-09-28T10:56:10Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>1350</number>
+        <latestAction>
+          <actionDate>2017-06-14</actionDate>
+          <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <latestTitle>Workforce Democracy and Fairness Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <links />
+      <actionDate>2017-09-25</actionDate>
+      <text>Placed on the Union Calendar, Calendar No. 235.</text>
+    </latestAction>
+    <introducedDate>2017-06-06</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>W000795</bioguideId>
+        <district>2</district>
+        <middleName />
+        <fullName>Rep. Wilson, Joe [R-SC-2]</fullName>
+        <identifiers>
+          <lisID>1688</lisID>
+          <gpoId>8142</gpoId>
+          <bioguideId>W000795</bioguideId>
+        </identifiers>
+        <lastName>Wilson</lastName>
+        <party>R</party>
+        <byRequestType />
+        <state>SC</state>
+        <firstName>Joe</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Labor and Employment</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <title>Employee Privacy Protection Act</title>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Employee Privacy Protection Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Employee Privacy Protection Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the National Labor Relations Act to require that lists of employees eligible to vote in organizing elections be provided to the National Labor Relations Board.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Employee Privacy Protection Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Labor and Employment</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <calendarNumbers>
+      <item>
+        <calendar>U00235</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <billNumber>2775</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

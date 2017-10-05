@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-05-18T03:11:40Z</createDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <links />
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-05-17</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-17</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <links />
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-05-17</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <middleName>K.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>DANNY</firstName>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IL</state>
+        <party>D</party>
+        <district>7</district>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <lastName>DAVIS</lastName>
+        <bioguideId>D000096</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Trent</firstName>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>AZ</state>
+        <party>R</party>
+        <district>8</district>
+        <identifiers>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <lastName>Franks</lastName>
+        <bioguideId>F000448</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Karen</firstName>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>CA</state>
+        <party>D</party>
+        <district>37</district>
+        <identifiers>
+          <gpoId>7838</gpoId>
+          <bioguideId>B001270</bioguideId>
+          <lisID>1996</lisID>
+        </identifiers>
+        <lastName>Bass</lastName>
+        <bioguideId>B001270</bioguideId>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Debbie</firstName>
+        <fullName>Rep. Dingell, Debbie [D-MI-12]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <party>D</party>
+        <district>12</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>D000624</bioguideId>
+          <lisID>2251</lisID>
+        </identifiers>
+        <lastName>Dingell</lastName>
+        <bioguideId>D000624</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>L.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kristi</firstName>
+        <fullName>Rep. Noem, Kristi L. [R-SD-At Large]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>SD</state>
+        <party>R</party>
+        <district>0</district>
+        <identifiers>
+          <lisID>2060</lisID>
+          <gpoId>8147</gpoId>
+          <bioguideId>N000184</bioguideId>
+        </identifiers>
+        <lastName>Noem</lastName>
+        <bioguideId>N000184</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TN</state>
+        <party>R</party>
+        <district>1</district>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <lastName>Roe</lastName>
+        <bioguideId>R000582</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Kyrsten</firstName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <party>D</party>
+        <district>9</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+        </identifiers>
+        <lastName>Sinema</lastName>
+        <bioguideId>S001191</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>TIM</firstName>
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <party>D</party>
+        <district>13</district>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <lastName>RYAN</lastName>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>Robert</firstName>
+        <fullName>Rep. Wittman, Robert J. [R-VA-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <party>R</party>
+        <district>1</district>
+        <identifiers>
+          <lisID>1886</lisID>
+          <gpoId>8192</gpoId>
+          <bioguideId>W000804</bioguideId>
+        </identifiers>
+        <lastName>Wittman</lastName>
+        <bioguideId>W000804</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Jaime</firstName>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WA</state>
+        <party>R</party>
+        <district>3</district>
+        <identifiers>
+          <bioguideId>H001056</bioguideId>
+          <lisID>2071</lisID>
+          <gpoId>8207</gpoId>
+        </identifiers>
+        <lastName>Herrera Beutler</lastName>
+        <bioguideId>H001056</bioguideId>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+      </item>
+      <item>
+        <middleName>Dutch</middleName>
+        <sponsorshipWithdrawnDate />
+        <firstName>C. A.</firstName>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <party>D</party>
+        <district>2</district>
+        <identifiers>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+          <lisID>1728</lisID>
+        </identifiers>
+        <lastName>Ruppersberger</lastName>
+        <bioguideId>R000576</bioguideId>
+        <sponsorshipDate>2017-06-12</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Seth</firstName>
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <party>D</party>
+        <district>6</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001196</bioguideId>
+          <lisID>2246</lisID>
+        </identifiers>
+        <lastName>Moulton</lastName>
+        <bioguideId>M001196</bioguideId>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+      </item>
+      <item>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <firstName>Vicky</firstName>
+        <fullName>Rep. Hartzler, Vicky [R-MO-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <party>R</party>
+        <district>4</district>
+        <identifiers>
+          <lisID>2032</lisID>
+          <gpoId>8012</gpoId>
+          <bioguideId>H001053</bioguideId>
+        </identifiers>
+        <lastName>Hartzler</lastName>
+        <bioguideId>H001053</bioguideId>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-05-17</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>B001273</bioguideId>
+        <lastName>Black</lastName>
+        <firstName>Diane</firstName>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <lisID>2063</lisID>
+          <gpoId>8153</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>TN</state>
+        <district>6</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Adoption Tax Credit Refundability Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Adoption Tax Credit Refundability Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to provide for a refundable adoption tax credit.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Adoption Tax Credit Refundability Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>2476</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-17T14:00:46Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mrs. BLACK:H.R. 2476.Congress has the power to enact this legislation pursuantto the following:Article I of the Constitution and its subsequent amendmentsand further clarified and interpreted by the Supreme Court ofthe United States.[Page H4311]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Adoption and foster care</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-05-24T13:52:23Z</lastSummaryUpdateDate>
+          <actionDate>2017-05-17</actionDate>
+          <versionCode>00</versionCode>
+          <updateDate>2017-05-17T04:00:00Z</updateDate>
+          <text><![CDATA[<p><strong>Adoption Tax Credit Refundability Act of 201</strong><b>7</b></p> <p>This bill amends the Internal Revenue Code to make the tax credit for adoption expenses refundable. </p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Adoption Tax Credit Refundability Act of 2017</title>
+    <updateDate>2017-06-22T07:16:24Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-05-17</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

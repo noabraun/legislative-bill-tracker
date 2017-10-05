@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <billType>HR</billType>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-04-26</actionDate>
+        <committee>
+          <name>Environment and Public Works Committee</name>
+          <systemCode>ssev00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <links />
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <committee />
+        <actionDate>2017-04-25</actionDate>
+        <actionTime>16:58:20</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2822)</text>
+        <links>
+          <link>
+            <name>H2822</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2822</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <committee />
+        <actionDate>2017-04-25</actionDate>
+        <actionTime>16:58:19</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+        <links />
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <committee />
+        <actionDate>2017-04-25</actionDate>
+        <actionTime>16:58:19</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 455.</text>
+        <links>
+          <link>
+            <name>H.R. 455</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/455</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <committee />
+        <actionDate>2017-04-25</actionDate>
+        <actionTime>16:47:56</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Considered under suspension of the rules. (consideration: CR H2822-2823)</text>
+        <links>
+          <link>
+            <name>H2822-2823</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2822-2823</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <committee />
+        <actionDate>2017-04-25</actionDate>
+        <actionTime>16:47:54</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Mr. Ferguson moved to suspend the rules and pass the bill.</text>
+        <links />
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <committee />
+        <actionDate>2017-04-25</actionDate>
+        <actionTime>16:47:44</actionTime>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Placed on the House Calendar, Calendar No. 36.</text>
+        <links />
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <committee />
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-84.</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-84</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/84</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionCode>H12200</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 115-84.</text>
+        <links>
+          <link>
+            <name>H. Rept. 115-84</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/84</url>
+          </link>
+        </links>
+        <type>Committee</type>
+        <actionCode>5000</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-04-06</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-29</actionDate>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-01-12</actionDate>
+        <committee>
+          <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+          <systemCode>hspw13</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <name>Transportation and Infrastructure Committee</name>
+          <systemCode>hspw00</systemCode>
+        </committee>
+        <actionDate>2017-01-11</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+      </item>
+      <item>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+      </item>
+      <actionTypeCounts>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <actionStageOverride>1</actionStageOverride>
+        <houseCalendarAssignment>1</houseCalendarAssignment>
+        <reportedToHouse>1</reportedToHouse>
+        <placeholderTextForH>3</placeholderTextForH>
+        <generalDebate>1</generalDebate>
+        <referredToCommittee>1</referredToCommittee>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <billReferrals>1</billReferrals>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+    </actions>
+    <cosponsors />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Government buildings, facilities, and property</name>
+          </item>
+          <item>
+            <name>Mississippi</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-02-01T23:02:55Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-11T05:00:00Z</updateDate>
+          <text><![CDATA[<p>This bill designates the U.S. courthouse located at 501 East Court Street in Jackson, Mississippi, as the &quot;R. Jess Brown United States Courthouse.&quot;</p>]]></text>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-11</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-04-12T18:05:39Z</lastSummaryUpdateDate>
+          <versionCode>79</versionCode>
+          <updateDate>2017-04-06T14:53:36Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p>(Sec. 1) This bill designates the U.S. courthouse located at 501 East Court Street in Jackson, Mississippi, as the &quot;R. Jess Brown United States Courthouse.&quot;</p>]]></text>
+          <name>Reported to House without amendment</name>
+          <actionDesc>Reported to House without amendment</actionDesc>
+          <actionDate>2017-04-06</actionDate>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-05-01T18:45:04Z</lastSummaryUpdateDate>
+          <versionCode>81</versionCode>
+          <updateDate>2017-04-25T13:09:12Z</updateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The expanded summary of the House reported version is repeated here.)</p> <p>(Sec. 1) This bill designates the U.S. courthouse located at 501 East Court Street in Jackson, Mississippi, as the &quot;R. Jess Brown United States Courthouse.&quot;</p>]]></text>
+          <name>Passed House without amendment</name>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2017-04-25</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <introducedDate>2017-01-11</introducedDate>
+    <updateDate>2017-08-10T13:23:17Z</updateDate>
+    <notes />
+    <sponsors>
+      <item>
+        <firstName>BENNIE</firstName>
+        <lastName>THOMPSON</lastName>
+        <byRequestType />
+        <middleName />
+        <state>MS</state>
+        <identifiers>
+          <gpoId>8020</gpoId>
+          <lisID>1151</lisID>
+          <bioguideId>T000193</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <district>2</district>
+        <bioguideId>T000193</bioguideId>
+        <fullName>Rep. Thompson, Bennie G. [D-MS-2]</fullName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <title>To designate the United States courthouse located at 501 East Court Street in Jackson, Mississippi, as the "R. Jess Brown United States Courthouse".</title>
+    <createDate>2017-01-12T04:45:50Z</createDate>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssev00</systemCode>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <subcommittees />
+          <name>Environment and Public Works Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-26T15:49:00Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hspw00</systemCode>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hspw13</systemCode>
+              <name>Economic Development, Public Buildings and Emergency Management Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Discharged from</name>
+                  <date>2017-03-29T14:05:49Z</date>
+                </item>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-12T22:37:59Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <name>Transportation and Infrastructure Committee</name>
+          <activities>
+            <item>
+              <name>Reported by</name>
+              <date>2017-04-06T15:11:58Z</date>
+            </item>
+            <item>
+              <name>Markup by</name>
+              <date>2017-03-29T14:35:48Z</date>
+            </item>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-11T15:02:45Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <cboCostEstimates>
+      <item>
+        <url>https://www.cbo.gov/publication/52569</url>
+        <title>H.R. 455, a bill to designate the United States Courthouse located at 501 East Court Street in Jackson, Mississippi, as the “R. Jess Brown United States Courthouse”</title>
+        <pubDate>2017-04-04T17:56:00Z</pubDate>
+      </item>
+    </cboCostEstimates>
+    <laws />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. THOMPSON of Mississippi:H.R. 455.Congress has the power to enact this legislation pursuantto the following:Clause 2 of Section 3 of Article IV of the Constitution:The Congress shall have Power to dispose of and make allneedful Rules and Regulations respecting the Territory orother Property belonging to the United States; and nothing inthis Constitution shall be so construed as to Prejudice anyClaims of the United States, or of any particular State.[Page H392]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>455</billNumber>
+    <recordedVotes />
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <calendarNumbers>
+      <item>
+        <calendar>H00036</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To designate the United States courthouse located at 501 East Court Street in Jackson, Mississippi, as the "R. Jess Brown United States Courthouse".</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To designate the United States courthouse located at 501 East Court Street in Jackson, Mississippi, as the "R. Jess Brown United States Courthouse".</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-84</citation>
+      </committeeReport>
+    </committeeReports>
+    <latestAction>
+      <actionDate>2017-04-26</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

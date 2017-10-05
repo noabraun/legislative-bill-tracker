@@ -2,7 +2,84 @@
 {% block content %}
     <title>Search Results</title>
 
-    {{search_results}}
+<ul>
+    {% if search_results.get('senator_name') != []%}
+
+        {% for senator in search_results.get('senator_name') %}
+            <li>
+                <a href="/senators/{{ senator.name}}"> Senator: {{senator.name}}</a><br>
+            </li>
+        {% endfor %}
+
+    {% endif %}
+
+    {% if search_results.get('tag') != []%}
+
+        {% for tag in search_results.get('tag') %}
+            {% for bill in tag.bills %}
+                <li>
+                    <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
+                </li>
+            {% endfor %}
+        {% endfor %}
+
+    {% endif %}
+
+    {% if search_results.get('committee') != []%}
+
+        {% for committee in search_results.get('committee') %}
+            {% for bill in comittee.bills %}
+                <li>
+                    <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
+                </li>
+            {% endfor %}
+        {% endfor %}
+
+    {% endif %}
+
+    {% if search_results.get('senator_state') != []%}
     
+        {% for senator in search_results.get('senator_state') %}
+            <li>
+                <a href="/senators/{{ senator.name}}"> Senator: {{senator.name}}</a><br>
+            </li>
+        {% endfor %}
+
+    {% endif %}
+
+    {% if search_results.get('bill_title') != []%}
+
+        {% for bill in search_results.get('bill_title') %}
+            <li>
+                <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
+            </li>
+        {% endfor %}
+
+    {% endif %}
+
+    {% if search_results.get('bill_summary') != []%}
+
+        {% for bill in search_results.get('bill_summary') %}
+            <li>
+                <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
+            </li>
+        {% endfor %}
+
+    {% endif %}
+
+    {% if search_results.get('bill_type') != []%}
+
+        {% for bill in search_results.get('bill_type') %}
+            <li>
+                <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
+            </li>
+        {% endfor %}
+
+    {% endif %}
+</ul>
+
+
+
+     
 
 {% endblock %}

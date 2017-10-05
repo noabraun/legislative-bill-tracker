@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-04T07:01:10Z</createDate>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2017-01-05</actionDate>
+        <committee>
+          <systemCode>ssga00</systemCode>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionTime>13:00:14</actionTime>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H65)</text>
+        <actionCode>H37300</actionCode>
+        <actionTime>13:00:11</actionTime>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H65</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H65</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H65)</text>
+        <actionCode>8000</actionCode>
+        <actionTime>13:00:11</actionTime>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H65</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H65</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 73.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>12:48:12</actionTime>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 73</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/73</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H65-67)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>12:48:10</actionTime>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H65-67</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H65-67</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Mr. Chaffetz moved to suspend the rules and pass the bill.</text>
+        <actionCode>H30300</actionCode>
+        <actionTime>12:48:00</actionTime>
+        <actionDate>2017-01-04</actionDate>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <lastName>CUMMINGS</lastName>
+        <firstName>ELIJAH</firstName>
+        <state>MD</state>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>D</party>
+        <middleName>E.</middleName>
+        <bioguideId>C000984</bioguideId>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-03</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>D000533</bioguideId>
+        <lastName>DUNCAN</lastName>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Duncan, John J., Jr. [R-TN-2]</fullName>
+        <middleName>J.</middleName>
+        <identifiers>
+          <gpoId>8149</gpoId>
+          <lisID>322</lisID>
+          <bioguideId>D000533</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>TN</state>
+        <district>2</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Presidential Library Donation Reform Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Presidential Library Donation Reform Act of 2017</title>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Presidential Library Donation Reform Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend title 44, United States Code, to require information on contributors to Presidential library fundraising organizations, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Presidential Library Donation Reform Act of 2017</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>73</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-05T18:23:52Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <chamber>Senate</chamber>
+          <systemCode>ssga00</systemCode>
+        </item>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-03T17:11:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <systemCode>hsgo00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DUNCAN of Tennessee:H.R. 73.Congress has the power to enact this legislation pursuantto the following:Article IV, Section 3, Clause 2. The Congress shall havePower to dispose of and make all, needful Rules andRegulations respecting the Territory or other Propertybelonging to the United States; and nothing in thisConstitution shall be so construed as to Prejudice any Claimsof the United States, or of any particular State.[Page H48]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Libraries and archives</name>
+          </item>
+          <item>
+            <name>Presidential administrations</name>
+          </item>
+          <item>
+            <name>Presidents and presidential powers, Vice Presidents</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-04T16:32:15Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-03</actionDate>
+          <text><![CDATA[<p><b>Presidential Library Donation Reform Act of 2017</b></p> <p> This bill requires each presidential library fundraising organization to submit quarterly reports to the National Archives and Records Administration (NARA) on every contributor who gave the organization a contribution or contributions (whether monetary or in-kind) totaling $200 or more for the quarterly period. </p> <p>NARA shall publish such information on its website within 30 days after each quarterly filing. </p> <p>It shall be unlawful for contributors or fundraising organizations to knowingly and willfully submit false information or omit material information. </p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <updateDate>2017-01-04T14:39:07Z</updateDate>
+          <lastSummaryUpdateDate>2017-01-06T22:36:33Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-04</actionDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Presidential Library Donation Reform Act of 2017</b></p> <p> (Sec. 2) This bill requires each presidential library fundraising organization to submit quarterly reports to the National Archives and Records Administration (National Archives) on every contributor who gave the organization a contribution or contributions (whether monetary or in-kind) totaling $200 or more for the quarterly period. </p> <p> The Archivist of the United States shall publish such information on the website of the National Archives within 30 days after each quarterly filing. </p> <p> It shall be unlawful for contributors or fundraising organizations knowingly and willfully to submit false information or omit material information. Prescribes criminal penalties for violation of this prohibition.</p> <p>(Sec. 3) No additional funds are authorized to carry out this Act's requirements. Such requirements shall be carried out using amounts otherwise authorized.</p>]]></text>
+          <versionCode>81</versionCode>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Presidential Library Donation Reform Act of 2017</title>
+    <updateDate>2017-06-19T20:15:14Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-01-05</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

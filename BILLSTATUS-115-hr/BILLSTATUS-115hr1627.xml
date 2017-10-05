@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-20T16:01:50Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-06T21:19:04Z</date>
+                </item>
+              </activities>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <notes />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Small Business Assistance Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Small Business Assistance Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Immigration and Nationality Act to reinstate the returning worker exemption for H-2B visas, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Small Business Assistance Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <billNumber>1627</billNumber>
+    <version>1.0.0</version>
+    <calendarNumbers />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <bioguideId>B001301</bioguideId>
+        <middleName />
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>B001301</bioguideId>
+          <gpoId />
+          <lisID>2333</lisID>
+        </identifiers>
+        <district>1</district>
+        <byRequestType />
+        <firstName>Jack</firstName>
+        <fullName>Rep. Bergman, Jack [R-MI-1]</fullName>
+        <lastName>Bergman</lastName>
+      </item>
+    </sponsors>
+    <title>Small Business Assistance Act of 2017</title>
+    <laws />
+    <actions>
+      <actionTypeCounts>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-06</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-03-20</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-20</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <links />
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-03-20</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <links />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <introducedDate>2017-03-20</introducedDate>
+    <relatedBills />
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <bioguideId>K000375</bioguideId>
+        <lastName>Keating</lastName>
+        <sponsorshipDate>2017-03-20</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <district>9</district>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+          <lisID>2025</lisID>
+        </identifiers>
+        <firstName>William</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <bioguideId>M001181</bioguideId>
+        <lastName>Meehan</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <district>7</district>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <gpoId>8125</gpoId>
+          <lisID>2052</lisID>
+        </identifiers>
+        <firstName>Patrick</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>C001105</bioguideId>
+        <lastName>Comstock</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <district>10</district>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Barbara</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <lastName>Weber</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <district>14</district>
+        <state>TX</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+          <lisID>2161</lisID>
+        </identifiers>
+        <firstName>Randy</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <bioguideId>S001192</bioguideId>
+        <lastName>Stewart</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Stewart, Chris [R-UT-2]</fullName>
+        <district>2</district>
+        <state>UT</state>
+        <identifiers>
+          <bioguideId>S001192</bioguideId>
+          <lisID>2168</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>P000597</bioguideId>
+        <lastName>Pingree</lastName>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <district>1</district>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+        </identifiers>
+        <firstName>Chellie</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001189</bioguideId>
+        <lastName>Messer</lastName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <district>6</district>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2130</lisID>
+          <bioguideId>M001189</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Luke</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>S001196</bioguideId>
+        <lastName>Stefanik</lastName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Stefanik, Elise M. [R-NY-21]</fullName>
+        <district>21</district>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>S001196</bioguideId>
+          <lisID>2263</lisID>
+        </identifiers>
+        <firstName>Elise</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+      </item>
+      <item>
+        <bioguideId>G000563</bioguideId>
+        <lastName>Gibbs</lastName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Gibbs, Bob [R-OH-7]</fullName>
+        <district>7</district>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>G000563</bioguideId>
+          <lisID>2049</lisID>
+          <gpoId>8108</gpoId>
+        </identifiers>
+        <firstName>Bob</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001194</bioguideId>
+        <lastName>Moolenaar</lastName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Moolenaar, John R. [R-MI-4]</fullName>
+        <district>4</district>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>M001194</bioguideId>
+          <gpoId />
+          <lisID>2248</lisID>
+        </identifiers>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <bioguideId>J000292</bioguideId>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Johnson, Bill [R-OH-6]</fullName>
+        <district>6</district>
+        <state>OH</state>
+        <identifiers>
+          <bioguideId>J000292</bioguideId>
+          <lisID>2046</lisID>
+          <gpoId>8096</gpoId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>W000812</bioguideId>
+        <lastName>Wagner</lastName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <district>2</district>
+        <state>MO</state>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Ann</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>W000821</bioguideId>
+        <lastName>Westerman</lastName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Westerman, Bruce [R-AR-4]</fullName>
+        <district>4</district>
+        <state>AR</state>
+        <identifiers>
+          <lisID>2224</lisID>
+          <bioguideId>W000821</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Bruce</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>P000611</bioguideId>
+        <lastName>Poliquin</lastName>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Poliquin, Bruce [R-ME-2]</fullName>
+        <district>2</district>
+        <state>ME</state>
+        <identifiers>
+          <bioguideId>P000611</bioguideId>
+          <lisID>2247</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Bruce</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>F000466</bioguideId>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <district>8</district>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+          <lisID>2345</lisID>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>K.</middleName>
+      </item>
+      <item>
+        <bioguideId>N000127</bioguideId>
+        <lastName>NOLAN</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Nolan, Richard M. [D-MN-8]</fullName>
+        <district>8</district>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>N000127</bioguideId>
+          <lisID>867</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>J000290</bioguideId>
+        <lastName>Jenkins</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Jenkins, Lynn [R-KS-2]</fullName>
+        <district>2</district>
+        <state>KS</state>
+        <identifiers>
+          <bioguideId>J000290</bioguideId>
+          <gpoId>7950</gpoId>
+          <lisID>1921</lisID>
+        </identifiers>
+        <firstName>Lynn</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>C001096</bioguideId>
+        <lastName>Cramer</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <district>0</district>
+        <state>ND</state>
+        <identifiers>
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Kevin</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>V000132</bioguideId>
+        <lastName>Vela</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Vela, Filemon [D-TX-34]</fullName>
+        <district>34</district>
+        <state>TX</state>
+        <identifiers>
+          <bioguideId>V000132</bioguideId>
+          <lisID>2167</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Filemon</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>T000467</bioguideId>
+        <lastName>Thompson</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Thompson, Glenn [R-PA-5]</fullName>
+        <district>5</district>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>T000467</bioguideId>
+          <gpoId>8123</gpoId>
+          <lisID>1952</lisID>
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>H001058</bioguideId>
+        <lastName>Huizenga</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Huizenga, Bill [R-MI-2]</fullName>
+        <district>2</district>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>H001058</bioguideId>
+          <lisID>2028</lisID>
+          <gpoId>7987</gpoId>
+        </identifiers>
+        <firstName>Bill</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>C001077</bioguideId>
+        <lastName>Coffman</lastName>
+        <sponsorshipDate>2017-04-03</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Coffman, Mike [R-CO-6]</fullName>
+        <district>6</district>
+        <state>CO</state>
+        <identifiers>
+          <gpoId>7864</gpoId>
+          <bioguideId>C001077</bioguideId>
+          <lisID>1912</lisID>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>F000464</bioguideId>
+        <lastName>Faso</lastName>
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Faso, John J. [R-NY-19]</fullName>
+        <district>19</district>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>F000464</bioguideId>
+          <lisID>2343</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+      </item>
+      <item>
+        <bioguideId>P000598</bioguideId>
+        <lastName>Polis</lastName>
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Polis, Jared [D-CO-2]</fullName>
+        <district>2</district>
+        <state>CO</state>
+        <identifiers>
+          <lisID>1910</lisID>
+          <bioguideId>P000598</bioguideId>
+          <gpoId>7860</gpoId>
+        </identifiers>
+        <firstName>Jared</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001190</bioguideId>
+        <lastName>Mullin</lastName>
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Mullin, Markwayne [R-OK-2]</fullName>
+        <district>2</district>
+        <state>OK</state>
+        <identifiers>
+          <bioguideId>M001190</bioguideId>
+          <lisID>2156</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Markwayne</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>B001293</bioguideId>
+        <lastName>Bishop</lastName>
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <district>8</district>
+        <state>MI</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2249</lisID>
+          <bioguideId>B001293</bioguideId>
+        </identifiers>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>Y000065</bioguideId>
+        <lastName>Yoho</lastName>
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <district>3</district>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <gpoId />
+          <lisID>2115</lisID>
+        </identifiers>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>S.</middleName>
+      </item>
+      <item>
+        <bioguideId>Y000033</bioguideId>
+        <lastName>YOUNG</lastName>
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <district>0</district>
+        <state>AK</state>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+        </identifiers>
+        <firstName>DON</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>E.</middleName>
+      </item>
+      <item>
+        <bioguideId>M001201</bioguideId>
+        <lastName>Mitchell</lastName>
+        <sponsorshipDate>2017-04-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Mitchell, Paul [R-MI-10]</fullName>
+        <district>10</district>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2334</lisID>
+          <bioguideId>M001201</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>S001170</bioguideId>
+        <lastName>Shea-Porter</lastName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>D</party>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <district>1</district>
+        <state>NH</state>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+        </identifiers>
+        <firstName>Carol</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>P000594</bioguideId>
+        <lastName>Paulsen</lastName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Paulsen, Erik [R-MN-3]</fullName>
+        <district>3</district>
+        <state>MN</state>
+        <identifiers>
+          <bioguideId>P000594</bioguideId>
+          <gpoId>8003</gpoId>
+          <lisID>1930</lisID>
+        </identifiers>
+        <firstName>Erik</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>T000475</bioguideId>
+        <lastName>Trott</lastName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <district>11</district>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>T000475</bioguideId>
+          <lisID>2250</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>A.</middleName>
+      </item>
+      <item>
+        <bioguideId>U000031</bioguideId>
+        <lastName>UPTON</lastName>
+        <sponsorshipDate>2017-04-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Upton, Fred [R-MI-6]</fullName>
+        <district>6</district>
+        <state>MI</state>
+        <identifiers>
+          <gpoId>7991</gpoId>
+          <bioguideId>U000031</bioguideId>
+          <lisID>1177</lisID>
+        </identifiers>
+        <firstName>FRED</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+      </item>
+      <item>
+        <bioguideId>M001199</bioguideId>
+        <lastName>Mast</lastName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <party>R</party>
+        <fullName>Rep. Mast, Brian J. [R-FL-18]</fullName>
+        <district>18</district>
+        <state>FL</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001199</bioguideId>
+          <lisID>2322</lisID>
+        </identifiers>
+        <firstName>Brian</firstName>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <recordedVotes />
+    <updateDate>2017-09-11T02:39:08Z</updateDate>
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <links />
+      <actionDate>2017-04-06</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-07-17T19:14:54Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDate>2017-03-20</actionDate>
+          <text><![CDATA[<p><strong>Small Business Assistance Act of 2017</strong></p> <p>This bill amends the Immigration and Nationality Act to exempt returning workers from the nonimmigrant H-2B visa (temporary nonagricultural services) annual numerical limitations through FY2017. </p> <p>Such amendment shall take effect as if enacted on October 1, 2016.</p>]]></text>
+          <updateDate>2017-03-20T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <createDate>2017-03-21T04:52:02Z</createDate>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BERGMAN:H.R. 1627.Congress has the power to enact this legislation pursuantto the following:Article 1 section 8.[Page H2240]</pre>]]></constitutionalAuthorityStatementText>
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Foreign labor</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Temporary and part-time employment</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

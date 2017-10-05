@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <amendments />
+    <createDate>2017-01-10T05:15:44Z</createDate>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <actionDate>2017-03-21</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees />
+          <systemCode>ssaf00</systemCode>
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-21T15:29:07Z</date>
+            </item>
+          </activities>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </item>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-02-13T19:52:28Z</date>
+                </item>
+              </activities>
+              <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+              <systemCode>hsag14</systemCode>
+            </item>
+          </subcommittees>
+          <systemCode>hsag00</systemCode>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-09T17:01:05Z</date>
+            </item>
+          </activities>
+          <name>Agriculture Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <committeeReports />
+    <notes />
+    <actions>
+      <item>
+        <actionDate>2017-03-21</actionDate>
+        <committee>
+          <systemCode>ssaf00</systemCode>
+          <name>Agriculture, Nutrition, and Forestry Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+        <actionTime>15:52:36</actionTime>
+        <actionDate>2017-03-20</actionDate>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text of measure as passed: CR H2208)</text>
+        <actionCode>H37300</actionCode>
+        <actionTime>15:52:34</actionTime>
+        <actionDate>2017-03-20</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H2208</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2208</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text of measure as passed: CR H2208)</text>
+        <actionCode>8000</actionCode>
+        <actionTime>15:52:34</actionTime>
+        <actionDate>2017-03-20</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H2208</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2208</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 382.</text>
+        <actionCode>H8D000</actionCode>
+        <actionTime>15:42:35</actionTime>
+        <actionDate>2017-03-20</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 382</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/382</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H2208-2210)</text>
+        <actionCode>H30000</actionCode>
+        <actionTime>15:42:33</actionTime>
+        <actionDate>2017-03-20</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H2208-2210</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H2208-2210</url>
+          </link>
+        </links>
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Mr. Davis, Rodney moved to suspend the rules and pass the bill.</text>
+        <actionCode>H30300</actionCode>
+        <actionTime>15:42:23</actionTime>
+        <actionDate>2017-03-20</actionDate>
+        <committee />
+        <links />
+        <type>Floor</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2017-02-13</actionDate>
+        <committee>
+          <systemCode>hsag14</systemCode>
+          <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Agriculture.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-09</actionDate>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-09</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-09</actionDate>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>10</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <placeholderTextForH>1</placeholderTextForH>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+    </actions>
+    <title>100 Years of Women in Congress Act</title>
+    <calendarNumbers />
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <updateDate>2017-01-09T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-02-01T22:52:11Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><b>100 Years of Women in Congress Act</b></p> <p>This bill amends the Food, Agriculture, Conservation, and Trade Act of 1990 to designate as Jeannette Rankin Women and Minorities in STEM Fields Program Grants the current research and extension grants to increase participation by women and underrepresented minorities from rural areas in the fields of science, technology, engineering, and mathematics (STEM). </p>]]></text>
+          <actionDate>2017-01-09</actionDate>
+        </item>
+        <item>
+          <versionCode>81</versionCode>
+          <updateDate>2017-03-20T12:56:27Z</updateDate>
+          <lastSummaryUpdateDate>2017-04-10T15:39:49Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>100 Years of Women in Congress Act</b></p> <p>(Sec. 3) This bill amends the Food, Agriculture, Conservation, and Trade Act of 1990 to designate as Jeannette Rankin Women and Minorities in STEM Fields Program Grants the current research and extension grants to increase participation by women and underrepresented minorities from rural areas in the fields of science, technology, engineering, and mathematics (STEM). </p>]]></text>
+          <actionDate>2017-03-20</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <congress>115</congress>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>100 Years of Women in Congress Act</title>
+        <chamberCode>H</chamberCode>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>100 Years of Women in Congress Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>100 Years of Women in Congress Act</title>
+        <chamberCode>H</chamberCode>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>100 Years of Women in Congress Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Department of Agriculture program for research and extension grants to increase participation by women and underrepresented minorities in the fields of science, technology, engineering, and mathematics to redesignate the program as the "Jeannette Rankin Women and Minorities in STEM Fields Program".</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>100 Years of Women in Congress Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <updateDate>2017-06-19T21:30:24Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural education</name>
+          </item>
+          <item>
+            <name>Agricultural research</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+          <item>
+            <name>Minority employment</name>
+          </item>
+          <item>
+            <name>Research administration and funding</name>
+          </item>
+          <item>
+            <name>Rural conditions and development</name>
+          </item>
+          <item>
+            <name>Science and engineering education</name>
+          </item>
+          <item>
+            <name>Women's education</name>
+          </item>
+          <item>
+            <name>Women's employment</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <version>1.0.0</version>
+    <billNumber>382</billNumber>
+    <laws />
+    <introducedDate>2017-01-09</introducedDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <sponsors>
+      <item>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <middleName />
+        <byRequestType />
+        <party>D</party>
+        <firstName>Grace</firstName>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <district>6</district>
+        <lastName>Meng</lastName>
+        <bioguideId>M001188</bioguideId>
+      </item>
+    </sponsors>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. MENG:H.R. 382.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the U.S. Constitution.[Page H235]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-01-09</sponsorshipDate>
+        <fullName>Rep. Zinke, Ryan K. [R-MT-At Large]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>Z000018</bioguideId>
+          <lisID>2254</lisID>
+        </identifiers>
+        <middleName>K.</middleName>
+        <firstName>Ryan</firstName>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>Z000018</bioguideId>
+        <state>MT</state>
+        <lastName>Zinke</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <firstName>LOUISE</firstName>
+        <district>25</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S000480</bioguideId>
+        <state>NY</state>
+        <lastName>SLAUGHTER</lastName>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

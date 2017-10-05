@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-04-25</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-04-25</actionDate>
+        <committee />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-04-25</actionDate>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>935</number>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Endangered Species Management Self-Determination Act</latestTitle>
+        <latestAction>
+          <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+          <actionDate>2017-04-25</actionDate>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+      </item>
+    </relatedBills>
+    <sponsors>
+      <item>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+        <state>MO</state>
+        <firstName>Blaine</firstName>
+        <middleName />
+        <party>R</party>
+        <district>3</district>
+        <byRequestType />
+        <identifiers>
+          <lisID>1931</lisID>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <bioguideId>L000569</bioguideId>
+        <lastName>Luetkemeyer</lastName>
+      </item>
+    </sponsors>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-04-25T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <lastSummaryUpdateDate>2017-08-23T18:17:36Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Endangered Species Management Self-Determination Act</b></p> <p>This bill amends the Endangered Species Act of 1973 (ESA) to require the Department of the Interior and the Department of Commerce to obtain the consent of each state for adding species to the list of threatened or endangered plants and animals when the species is present in the state.</p> <p>Interior must submit to Congress a list of all endangered or threatened species. Congress must give its approval by a joint resolution before the list may take effect.</p> <p> Species are automatically taken off the list after five years, but Interior may petition for the species to be relisted. Interested persons may no longer petition for the addition or removal of a species from the list. </p> <p>A state may regulate intrastate endangered or threatened species that are present within its boundaries. If a state elects to regulate those species, it is given exclusive authority to manage species and their habitats. State action with respect to intrastate species is not subject to judicial review.</p> <p>The Bonneville, Southeastern, Southwestern, and Western Area Power Administrations must include in customer monthly billing statements information on the share of costs to the customer incurred as a result of compliance with the ESA, unless the costs are for intrastate species regulated by states.</p> <p>Owners or lessees of property may apply to Interior for a determination of whether a proposed property use will violate the ESA. The use is deemed compliant if Interior fails to respond within 90 days. The owners and lessees may seek monetary compensation for unfavorable determinations.</p> <p>The bill eliminates awards of attorney fees in citizen suits under the ESA.</p>]]></text>
+          <actionDate>2017-04-25</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <notes />
+    <laws />
+    <createDate>2017-04-26T03:12:03Z</createDate>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Environmental Protection</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LUETKEMEYER:H.R. 2134.Congress has the power to enact this legislation pursuantto the following:This bill is enacted pursuant to the power granted toCongress under Article 1, Section 8, Clause 18: The Congressshall have Power to make all Laws which shall be necessaryand proper for carrying into Execution the foregoing Powers,and all other Powers vested by this Constitution in theGovernment of the United. States, or in any Department orOfficer thereof.[Page H2847]</pre>]]></constitutionalAuthorityStatementText>
+    <cosponsors>
+      <item>
+        <district>32</district>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <firstName>PETE</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>SESSIONS</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>TX</state>
+        <fullName>Rep. Sessions, Pete [R-TX-32]</fullName>
+        <bioguideId>S000250</bioguideId>
+        <identifiers>
+          <lisID>1525</lisID>
+          <bioguideId>S000250</bioguideId>
+          <gpoId>8188</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>8</district>
+        <sponsorshipDate>2017-05-11</sponsorshipDate>
+        <firstName>Jason</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Smith</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MO</state>
+        <fullName>Rep. Smith, Jason [R-MO-8]</fullName>
+        <bioguideId>S001195</bioguideId>
+        <identifiers>
+          <bioguideId>S001195</bioguideId>
+          <lisID>2191</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>6</district>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <firstName>SAM</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>GRAVES</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MO</state>
+        <fullName>Rep. Graves, Sam [R-MO-6]</fullName>
+        <bioguideId>G000546</bioguideId>
+        <identifiers>
+          <bioguideId>G000546</bioguideId>
+          <lisID>1656</lisID>
+          <gpoId>8014</gpoId>
+        </identifiers>
+      </item>
+      <item>
+        <district>7</district>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <firstName>Billy</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Long</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MO</state>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+        <bioguideId>L000576</bioguideId>
+        <identifiers>
+          <gpoId>8015</gpoId>
+          <bioguideId>L000576</bioguideId>
+          <lisID>2033</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <district>2</district>
+        <sponsorshipDate>2017-06-20</sponsorshipDate>
+        <firstName>Ann</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Wagner</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>MO</state>
+        <fullName>Rep. Wagner, Ann [R-MO-2]</fullName>
+        <bioguideId>W000812</bioguideId>
+        <identifiers>
+          <bioguideId>W000812</bioguideId>
+          <lisID>2137</lisID>
+          <gpoId />
+        </identifiers>
+      </item>
+      <item>
+        <district>4</district>
+        <sponsorshipDate>2017-08-08</sponsorshipDate>
+        <firstName>Todd</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Rokita</lastName>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <state>IN</state>
+        <fullName>Rep. Rokita, Todd [R-IN-4]</fullName>
+        <bioguideId>R000592</bioguideId>
+        <identifiers>
+          <lisID>2017</lisID>
+          <bioguideId>R000592</bioguideId>
+          <gpoId>7943</gpoId>
+        </identifiers>
+      </item>
+    </cosponsors>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Endangered Species Management Self-Determination Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Endangered Species Management Self-Determination Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Endangered Species Act of 1973 to permit Governors of States to regulate intrastate endangered species and intrastate threatened species, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Endangered Species Management Self-Determination Act</title>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-09-11T02:39:15Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Administrative law and regulatory procedures</name>
+          </item>
+          <item>
+            <name>Administrative remedies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Department of Commerce</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Electric power generation and transmission</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Environmental regulatory procedures</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Land use and conservation</name>
+          </item>
+          <item>
+            <name>Legal fees and court costs</name>
+          </item>
+          <item>
+            <name>Legislative rules and procedure</name>
+          </item>
+          <item>
+            <name>Property rights</name>
+          </item>
+          <item>
+            <name>Public utilities and utility rates</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Environmental Protection</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <billNumber>2134</billNumber>
+    <committeeReports />
+    <amendments />
+    <title>Endangered Species Management Self-Determination Act</title>
+    <introducedDate>2017-04-25</introducedDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <chamber>House</chamber>
+          <name>Natural Resources Committee</name>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-25T16:01:25Z</date>
+            </item>
+          </activities>
+          <type>Standing</type>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <congress>115</congress>
+    <latestAction>
+      <text>Referred to the House Committee on Natural Resources.</text>
+      <actionDate>2017-04-25</actionDate>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

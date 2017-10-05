@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-01-31</introducedDate>
+    <actions>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <actionDate>2017-01-31</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-01-31</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <committee />
+        <actionDate>2017-01-31</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <titles>
+      <item>
+        <parentTitleType />
+        <title>American Innovation $1 Coin Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>American Innovation $1 Coin Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>To require the Secretary of the Treasury to mint coins in recognition of American innovation and significant innovation and pioneering efforts of individuals or groups from each of the 50 States, the District of Columbia, and the United States territories, to promote the importance of innovation in the United States, the District of Columbia, and the United States territories, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <title>American Innovation $1 Coin Act</title>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <amendments />
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIMES:H.R. 770.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 5: ``To coin Money, regulatethe Value thereof, and of foreign Coin, and fix the Standardof Weights and Measures;''[Page H820]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-02-01T04:48:47Z</createDate>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Posey</lastName>
+        <identifiers>
+          <bioguideId>P000599</bioguideId>
+          <gpoId>7887</gpoId>
+          <lisID>1915</lisID>
+        </identifiers>
+        <district>8</district>
+        <party>R</party>
+        <bioguideId>P000599</bioguideId>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>T.</middleName>
+        <lastName>KING</lastName>
+        <identifiers>
+          <lisID>635</lisID>
+          <bioguideId>K000210</bioguideId>
+          <gpoId>8064</gpoId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>K000210</bioguideId>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>PETER</firstName>
+        <fullName>Rep. King, Peter T. [R-NY-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>H.</middleName>
+        <lastName>COOPER</lastName>
+        <identifiers>
+          <lisID>231</lisID>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <bioguideId>C000754</bioguideId>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <lastName>Joyce</lastName>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+          <gpoId />
+        </identifiers>
+        <district>14</district>
+        <party>R</party>
+        <bioguideId>J000295</bioguideId>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>OH</state>
+        <firstName>David</firstName>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>J. "Chuck"</middleName>
+        <lastName>Fleischmann</lastName>
+        <identifiers>
+          <bioguideId>F000459</bioguideId>
+          <gpoId>8150</gpoId>
+          <lisID>2061</lisID>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>F000459</bioguideId>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <firstName>Charles</firstName>
+        <fullName>Rep. Fleischmann, Charles J. "Chuck" [R-TN-3]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>P.</middleName>
+        <lastName>Roe</lastName>
+        <identifiers>
+          <bioguideId>R000582</bioguideId>
+          <lisID>1954</lisID>
+          <gpoId>8148</gpoId>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>R000582</bioguideId>
+        <sponsorshipDate>2017-01-31</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>TN</state>
+        <firstName>David</firstName>
+        <fullName>Rep. Roe, David P. [R-TN-1]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Raskin</lastName>
+        <identifiers>
+          <gpoId />
+          <lisID>2332</lisID>
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <district>8</district>
+        <party>D</party>
+        <bioguideId>R000606</bioguideId>
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <firstName>Jamie</firstName>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Long</lastName>
+        <identifiers>
+          <lisID>2033</lisID>
+          <bioguideId>L000576</bioguideId>
+          <gpoId>8015</gpoId>
+        </identifiers>
+        <district>7</district>
+        <party>R</party>
+        <bioguideId>L000576</bioguideId>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <firstName>Billy</firstName>
+        <fullName>Rep. Long, Billy [R-MO-7]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Katko</lastName>
+        <identifiers>
+          <lisID>2264</lisID>
+          <bioguideId>K000386</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>24</district>
+        <party>R</party>
+        <bioguideId>K000386</bioguideId>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>John</firstName>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Walorski</lastName>
+        <identifiers>
+          <lisID>2128</lisID>
+          <bioguideId>W000813</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>W000813</bioguideId>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <firstName>Jackie</firstName>
+        <fullName>Rep. Walorski, Jackie [R-IN-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <lastName>Zeldin</lastName>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+          <lisID>2261</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>R</party>
+        <bioguideId>Z000017</bioguideId>
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>Lee</firstName>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Foster</lastName>
+        <identifiers>
+          <lisID>1888</lisID>
+          <gpoId>7355</gpoId>
+          <bioguideId>F000454</bioguideId>
+        </identifiers>
+        <district>11</district>
+        <party>D</party>
+        <bioguideId>F000454</bioguideId>
+        <sponsorshipDate>2017-02-15</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <firstName>Bill</firstName>
+        <fullName>Rep. Foster, Bill [D-IL-11]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>DELAURO</lastName>
+        <identifiers>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+          <gpoId>7868</gpoId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>D000216</bioguideId>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CT</state>
+        <firstName>ROSA</firstName>
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Luetkemeyer</lastName>
+        <identifiers>
+          <lisID>1931</lisID>
+          <bioguideId>L000569</bioguideId>
+          <gpoId>8017</gpoId>
+        </identifiers>
+        <district>3</district>
+        <party>R</party>
+        <bioguideId>L000569</bioguideId>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MO</state>
+        <firstName>Blaine</firstName>
+        <fullName>Rep. Luetkemeyer, Blaine [R-MO-3]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Sinema</lastName>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <lisID>2099</lisID>
+          <gpoId />
+        </identifiers>
+        <district>9</district>
+        <party>D</party>
+        <bioguideId>S001191</bioguideId>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <firstName>Kyrsten</firstName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>M.</middleName>
+        <lastName>Kuster</lastName>
+        <identifiers>
+          <bioguideId>K000382</bioguideId>
+          <lisID>2145</lisID>
+          <gpoId />
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>K000382</bioguideId>
+        <sponsorshipDate>2017-03-21</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <firstName>Ann</firstName>
+        <fullName>Rep. Kuster, Ann M. [D-NH-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <lastName>MEEKS</lastName>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <bioguideId>M001137</bioguideId>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <firstName>GREGORY</firstName>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Beatty</lastName>
+        <identifiers>
+          <lisID>2153</lisID>
+          <gpoId />
+          <bioguideId>B001281</bioguideId>
+        </identifiers>
+        <district>3</district>
+        <party>D</party>
+        <bioguideId>B001281</bioguideId>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <firstName>Joyce</firstName>
+        <fullName>Rep. Beatty, Joyce [D-OH-3]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Vargas</lastName>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <gpoId />
+          <lisID>2112</lisID>
+        </identifiers>
+        <district>51</district>
+        <party>D</party>
+        <bioguideId>V000130</bioguideId>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <firstName>Juan</firstName>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>Scott</middleName>
+        <lastName>Schneider</lastName>
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+          <gpoId />
+          <lisID>2124</lisID>
+        </identifiers>
+        <district>10</district>
+        <party>D</party>
+        <bioguideId>S001190</bioguideId>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <firstName>Bradley</firstName>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Lewis</lastName>
+        <identifiers>
+          <lisID>2335</lisID>
+          <gpoId />
+          <bioguideId>L000587</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>L000587</bioguideId>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MN</state>
+        <firstName>Jason</firstName>
+        <fullName>Rep. Lewis, Jason [R-MN-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <lastName>Roskam</lastName>
+        <identifiers>
+          <bioguideId>R000580</bioguideId>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <bioguideId>R000580</bioguideId>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <firstName>Peter</firstName>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Gottheimer</lastName>
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+          <gpoId />
+          <lisID>2338</lisID>
+        </identifiers>
+        <district>5</district>
+        <party>D</party>
+        <bioguideId>G000583</bioguideId>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NJ</state>
+        <firstName>Josh</firstName>
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Moore</lastName>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <district>4</district>
+        <party>D</party>
+        <bioguideId>M001160</bioguideId>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <firstName>Gwen</firstName>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>J.</middleName>
+        <lastName>TIBERI</lastName>
+        <identifiers>
+          <lisID>1664</lisID>
+          <bioguideId>T000462</bioguideId>
+          <gpoId>8102</gpoId>
+        </identifiers>
+        <district>12</district>
+        <party>R</party>
+        <bioguideId>T000462</bioguideId>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OH</state>
+        <firstName>PATRICK</firstName>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>R.</middleName>
+        <lastName>LANGEVIN</lastName>
+        <identifiers>
+          <lisID>1668</lisID>
+          <bioguideId>L000559</bioguideId>
+          <gpoId>8140</gpoId>
+        </identifiers>
+        <district>2</district>
+        <party>D</party>
+        <bioguideId>L000559</bioguideId>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>RI</state>
+        <firstName>JAMES</firstName>
+        <fullName>Rep. Langevin, James R. [D-RI-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>W.</middleName>
+        <lastName>Dent</lastName>
+        <identifiers>
+          <lisID>1799</lisID>
+          <bioguideId>D000604</bioguideId>
+          <gpoId>8133</gpoId>
+        </identifiers>
+        <district>15</district>
+        <party>R</party>
+        <bioguideId>D000604</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <firstName>Charles</firstName>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Shea-Porter</lastName>
+        <identifiers>
+          <bioguideId>S001170</bioguideId>
+          <gpoId>7528</gpoId>
+          <lisID>1861</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>S001170</bioguideId>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NH</state>
+        <firstName>Carol</firstName>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Davis</lastName>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <district>13</district>
+        <party>R</party>
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <firstName>Rodney</firstName>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>B.</middleName>
+        <lastName>LARSON</lastName>
+        <identifiers>
+          <gpoId>7866</gpoId>
+          <bioguideId>L000557</bioguideId>
+          <lisID>1583</lisID>
+        </identifiers>
+        <district>1</district>
+        <party>D</party>
+        <bioguideId>L000557</bioguideId>
+        <sponsorshipDate>2017-08-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CT</state>
+        <firstName>JOHN</firstName>
+        <fullName>Rep. Larson, John B. [D-CT-1]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Grothman</lastName>
+        <identifiers>
+          <bioguideId>G000576</bioguideId>
+          <lisID>2276</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <bioguideId>G000576</bioguideId>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <firstName>Glenn</firstName>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+      </item>
+    </cosponsors>
+    <updateDate>2017-09-07T07:15:51Z</updateDate>
+    <notes />
+    <billNumber>770</billNumber>
+    <billType>HR</billType>
+    <cboCostEstimates />
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-06-08</actionDate>
+          <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>American Innovation $1 Coin Act</latestTitle>
+        <type>S</type>
+        <congress>115</congress>
+        <number>1326</number>
+      </item>
+    </relatedBills>
+    <title>American Innovation $1 Coin Act</title>
+    <sponsors>
+      <item>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <middleName>A.</middleName>
+        <firstName>James</firstName>
+        <party>D</party>
+        <bioguideId>H001047</bioguideId>
+        <lastName>Himes</lastName>
+        <district>4</district>
+        <identifiers>
+          <bioguideId>H001047</bioguideId>
+          <lisID>1913</lisID>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>CT</state>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Currency</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><strong>American Innovation $1 Coin Act</strong></p> <p>This bill directs the Department of the Treasury to mint and issue "American Innovation" $1 coins commemorating an innovation, an individual innovator or pioneer, or a group of innovators or pioneers from each state, each U.S. territory, and the District of Columbia. Treasury shall issue four coins per year, in alphabetical order by jurisdiction, until a coin has been issued for each jurisdiction. </p>]]></text>
+          <lastSummaryUpdateDate>2017-06-09T21:56:41Z</lastSummaryUpdateDate>
+          <actionDate>2017-01-31</actionDate>
+          <updateDate>2017-01-31T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <committeeReports />
+    <originChamber>House</originChamber>
+    <laws />
+    <calendarNumbers />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-31T15:04:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <latestAction>
+      <actionDate>2017-01-31</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+      <links />
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

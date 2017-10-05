@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-12T04:45:49Z</createDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-01-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Ways and Means.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-01-11</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <state>GA</state>
+        <firstName>JOHN</firstName>
+        <identifiers>
+          <lisID>688</lisID>
+          <gpoId>7902</gpoId>
+          <bioguideId>L000287</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>LEWIS</lastName>
+        <bioguideId>L000287</bioguideId>
+        <fullName>Rep. Lewis, John [D-GA-5]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Mike</firstName>
+        <identifiers>
+          <gpoId>8708</gpoId>
+          <lisID>2051</lisID>
+          <bioguideId>K000376</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Kelly</lastName>
+        <bioguideId>K000376</bioguideId>
+        <fullName>Rep. Kelly, Mike [R-PA-3]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>3</district>
+      </item>
+      <item>
+        <state>WA</state>
+        <firstName>Derek</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000381</bioguideId>
+          <lisID>2169</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Kilmer</lastName>
+        <bioguideId>K000381</bioguideId>
+        <fullName>Rep. Kilmer, Derek [D-WA-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <state>IN</state>
+        <firstName>Larry</firstName>
+        <identifiers>
+          <gpoId>7947</gpoId>
+          <bioguideId>B001275</bioguideId>
+          <lisID>2018</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Bucshon</lastName>
+        <bioguideId>B001275</bioguideId>
+        <fullName>Rep. Bucshon, Larry [R-IN-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Lou</firstName>
+        <identifiers>
+          <gpoId>8129</gpoId>
+          <lisID>2054</lisID>
+          <bioguideId>B001269</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Barletta</lastName>
+        <bioguideId>B001269</bioguideId>
+        <fullName>Rep. Barletta, Lou [R-PA-11]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>11</district>
+      </item>
+      <item>
+        <state>FL</state>
+        <firstName>Mario</firstName>
+        <identifiers>
+          <gpoId>7893</gpoId>
+          <bioguideId>D000600</bioguideId>
+          <lisID>1717</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Diaz-Balart</lastName>
+        <bioguideId>D000600</bioguideId>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>25</district>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Patrick</firstName>
+        <identifiers>
+          <bioguideId>M001181</bioguideId>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Meehan</lastName>
+        <bioguideId>M001181</bioguideId>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+      </item>
+      <item>
+        <state>PA</state>
+        <firstName>Ryan</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2266</lisID>
+          <bioguideId>C001106</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Costello</lastName>
+        <bioguideId>C001106</bioguideId>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <state>OH</state>
+        <firstName>PATRICK</firstName>
+        <identifiers>
+          <gpoId>8102</gpoId>
+          <bioguideId>T000462</bioguideId>
+          <lisID>1664</lisID>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>TIBERI</lastName>
+        <bioguideId>T000462</bioguideId>
+        <fullName>Rep. Tiberi, Patrick J. [R-OH-12]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>12</district>
+      </item>
+      <item>
+        <state>IL</state>
+        <firstName>Peter</firstName>
+        <identifiers>
+          <bioguideId>R000580</bioguideId>
+          <lisID>1848</lisID>
+          <gpoId>7926</gpoId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName>J.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Roskam</lastName>
+        <bioguideId>R000580</bioguideId>
+        <fullName>Rep. Roskam, Peter J. [R-IL-6]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <state>VA</state>
+        <firstName>Barbara</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2273</lisID>
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Comstock</lastName>
+        <bioguideId>C001105</bioguideId>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+      </item>
+      <item>
+        <state>OH</state>
+        <firstName>David</firstName>
+        <identifiers>
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+          <gpoId />
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Joyce</lastName>
+        <bioguideId>J000295</bioguideId>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>14</district>
+      </item>
+      <item>
+        <state>WA</state>
+        <firstName>David</firstName>
+        <identifiers>
+          <gpoId>8212</gpoId>
+          <lisID>1810</lisID>
+          <bioguideId>R000578</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName>G.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Reichert</lastName>
+        <bioguideId>R000578</bioguideId>
+        <fullName>Rep. Reichert, David G. [R-WA-8]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>Kathleen</firstName>
+        <identifiers>
+          <bioguideId>R000602</bioguideId>
+          <lisID>2262</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-13</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Rice</lastName>
+        <bioguideId>R000602</bioguideId>
+        <fullName>Rep. Rice, Kathleen M. [D-NY-4]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>Sean</firstName>
+        <identifiers>
+          <bioguideId>M001185</bioguideId>
+          <lisID>2150</lisID>
+          <gpoId />
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-01-27</sponsorshipDate>
+        <middleName>Patrick</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Maloney</lastName>
+        <bioguideId>M001185</bioguideId>
+        <fullName>Rep. Maloney, Sean Patrick [D-NY-18]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>18</district>
+      </item>
+      <item>
+        <state>CA</state>
+        <firstName>Pete</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000371</bioguideId>
+          <lisID>2229</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-02-06</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Aguilar</lastName>
+        <bioguideId>A000371</bioguideId>
+        <fullName>Rep. Aguilar, Pete [D-CA-31]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>31</district>
+      </item>
+      <item>
+        <state>NH</state>
+        <firstName>Carol</firstName>
+        <identifiers>
+          <lisID>1861</lisID>
+          <gpoId>7528</gpoId>
+          <bioguideId>S001170</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-02-09</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Shea-Porter</lastName>
+        <bioguideId>S001170</bioguideId>
+        <fullName>Rep. Shea-Porter, Carol [D-NH-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-11</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>R000586</bioguideId>
+        <lastName>Renacci</lastName>
+        <firstName>James</firstName>
+        <fullName>Rep. Renacci, James B. [R-OH-16]</fullName>
+        <middleName>B.</middleName>
+        <identifiers>
+          <gpoId>8106</gpoId>
+          <bioguideId>R000586</bioguideId>
+          <lisID>2048</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>OH</state>
+        <district>16</district>
+        <party>R</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Stolen Identity Refund Fraud Prevention Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Stolen Identity Refund Fraud Prevention Act of 2017</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the Internal Revenue Code of 1986 to prevent tax-related identity theft and tax fraud, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Stolen Identity Refund Fraud Prevention Act of 2017</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>439</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-01-11T15:02:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. RENACCI:H.R. 439.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 1:The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defence and general Welfare of the United States;but all Duties, Imposts and Excises shall be uniformthroughout the United States.Article 1, Section 8, Clause 18:To make all Laws which shall be necessary and proper forcarrying into Execution the foregoing Powers, and all otherPowers vested by this Constitution in the Government of theUnited States, or in any Department or Officer thereof.[Page H391]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Criminal investigation, prosecution, interrogation</name>
+          </item>
+          <item>
+            <name>Department of the Treasury</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Fraud offenses and financial crimes</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Internal Revenue Service (IRS)</name>
+          </item>
+          <item>
+            <name>Tax administration and collection, taxpayers</name>
+          </item>
+          <item>
+            <name>Wages and earnings</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-11T05:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-04-11T16:15:17Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p><b>Stolen Identity Refund Fraud Prevention Act of 201</b>7</p> <p>This bill amends the Internal Revenue Code to require the Department of the Treasury and the Internal Revenue Service (IRS) to take several actions to prevent and respond to tax-related identity theft and tax fraud. </p> Treasury or the IRS must: <ul> <li>establish a centralized point of contact for identify theft victims; </li> <li>provide notifications, instructions, and forms to suspected victims of identity theft;</li> <li>provide various reports to Congress regarding identity theft, tax refund fraud, and related prevention programs; </li> <li>use information available from the Do Not Pay Initiative established by the Improper Payments Elimination and Recovery Improvement Act of 2012 to help prevent identity theft tax refund fraud; </li> <li>establish an information sharing and analysis center to centralize, standardize, and enhance data compilation and analysis to facilitate sharing actionable data and information with respect to identity theft; </li> <li> establish within the IRS Criminal Investigation Division the position of Local Law Enforcement Liaison to interact with state and local law enforcement authorities with respect to tax-related identity theft; and</li> <li>provide specified identity theft prevention information to taxpayers who are on hold during a taxpayer service telephone call.</li> </ul> <p>The Inspector General for Tax Administration must report to Congress regarding identity theft phone scams under which individuals attempt to obtain personal information over the phone from taxpayers by falsely claiming to be calling from or on behalf of the IRS. </p> <p>No additional funds are authorized to carry out this bill. </p> <p>]]></text>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <actionDate>2017-01-11</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Stolen Identity Refund Fraud Prevention Act of 2017</title>
+    <updateDate>2017-06-19T20:30:11Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-01-11</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

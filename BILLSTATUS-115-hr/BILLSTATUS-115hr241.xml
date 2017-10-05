@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-01-04T15:00:25Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-01-31T14:29:32Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Immigration and Border Security Subcommittee</name>
+              <systemCode>hsju01</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+        </item>
+        <item>
+          <activities>
+            <item>
+              <date>2017-01-04T15:00:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <updateDate>2017-09-27T16:00:14Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Criminal justice information and records</name>
+          </item>
+          <item>
+            <name>Immigration status and procedures</name>
+          </item>
+          <item>
+            <name>Sanctions</name>
+          </item>
+          <item>
+            <name>Visas and passports</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <billReferrals>2</billReferrals>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>6</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-01-31</actionDate>
+        <committee>
+          <systemCode>hsju01</systemCode>
+          <name>Immigration and Border Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to House Foreign Affairs</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-04</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to House Judiciary</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-04</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+        <actionDate>2017-01-04</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-04</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-04</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. POE of Texas:H.R. 241.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 4[Page H96]</pre>]]></constitutionalAuthorityStatementText>
+    <createDate>2017-01-05T04:47:32Z</createDate>
+    <sponsors>
+      <item>
+        <bioguideId>P000592</bioguideId>
+        <lastName>Poe</lastName>
+        <middleName />
+        <firstName>Ted</firstName>
+        <fullName>Rep. Poe, Ted [R-TX-2]</fullName>
+        <district>2</district>
+        <party>R</party>
+        <byRequestType />
+        <identifiers>
+          <lisID>1802</lisID>
+          <gpoId>8158</gpoId>
+          <bioguideId>P000592</bioguideId>
+        </identifiers>
+        <state>TX</state>
+      </item>
+    </sponsors>
+    <billNumber>241</billNumber>
+    <congress>115</congress>
+    <notes />
+    <cosponsors>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>26</district>
+        <fullName>Rep. Burgess, Michael C. [R-TX-26]</fullName>
+        <lastName>Burgess</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001248</bioguideId>
+          <gpoId>8182</gpoId>
+          <lisID>1751</lisID>
+        </identifiers>
+        <firstName>Michael</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <middleName>C.</middleName>
+        <bioguideId>B001248</bioguideId>
+      </item>
+      <item>
+        <state>GA</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>10</district>
+        <fullName>Rep. Hice, Jody B. [R-GA-10]</fullName>
+        <lastName>Hice</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>H001071</bioguideId>
+          <lisID>2237</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Jody</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <middleName>B.</middleName>
+        <bioguideId>H001071</bioguideId>
+      </item>
+      <item>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>7798</gpoId>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>G000565</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>14</district>
+        <fullName>Rep. Weber, Randy K., Sr. [R-TX-14]</fullName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2161</lisID>
+          <gpoId />
+          <bioguideId>W000814</bioguideId>
+        </identifiers>
+        <firstName>Randy</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <middleName>K.</middleName>
+        <bioguideId>W000814</bioguideId>
+      </item>
+      <item>
+        <state>AL</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Brooks, Mo [R-AL-5]</fullName>
+        <lastName>Brooks</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1987</lisID>
+          <gpoId>7790</gpoId>
+          <bioguideId>B001274</bioguideId>
+        </identifiers>
+        <firstName>Mo</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001274</bioguideId>
+      </item>
+      <item>
+        <state>AZ</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <lastName>Franks</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1707</lisID>
+          <bioguideId>F000448</bioguideId>
+          <gpoId>7799</gpoId>
+        </identifiers>
+        <firstName>Trent</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000448</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>27</district>
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <lastName>Farenthold</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2067</lisID>
+          <bioguideId>F000460</bioguideId>
+          <gpoId>8183</gpoId>
+        </identifiers>
+        <firstName>Blake</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>F000460</bioguideId>
+      </item>
+      <item>
+        <state>TN</state>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Black, Diane [R-TN-6]</fullName>
+        <lastName>Black</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>B001273</bioguideId>
+          <gpoId>8153</gpoId>
+          <lisID>2063</lisID>
+        </identifiers>
+        <firstName>Diane</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-04</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001273</bioguideId>
+      </item>
+      <item>
+        <state>NC</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>3</district>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <lastName>JONES</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <firstName>WALTER</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-11</sponsorshipDate>
+        <middleName>B.</middleName>
+        <bioguideId>J000255</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>24</district>
+        <fullName>Rep. Marchant, Kenny [R-TX-24]</fullName>
+        <lastName>Marchant</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>M001158</bioguideId>
+          <gpoId>8766</gpoId>
+          <lisID>1806</lisID>
+        </identifiers>
+        <firstName>Kenny</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001158</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Gohmert, Louie [R-TX-1]</fullName>
+        <lastName>Gohmert</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8157</gpoId>
+          <bioguideId>G000552</bioguideId>
+          <lisID>1801</lisID>
+        </identifiers>
+        <firstName>Louie</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000552</bioguideId>
+      </item>
+      <item>
+        <state>WI</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Grothman, Glenn [R-WI-6]</fullName>
+        <lastName>Grothman</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2276</lisID>
+          <gpoId />
+          <bioguideId>G000576</bioguideId>
+        </identifiers>
+        <firstName>Glenn</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-12</sponsorshipDate>
+        <middleName />
+        <bioguideId>G000576</bioguideId>
+      </item>
+      <item>
+        <state>AL</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. Byrne, Bradley [R-AL-1]</fullName>
+        <lastName>Byrne</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2197</lisID>
+          <gpoId />
+          <bioguideId>B001289</bioguideId>
+        </identifiers>
+        <firstName>Bradley</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001289</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>21</district>
+        <fullName>Rep. Smith, Lamar [R-TX-21]</fullName>
+        <lastName>SMITH</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>S000583</bioguideId>
+          <gpoId>8177</gpoId>
+          <lisID>1075</lisID>
+        </identifiers>
+        <firstName>LAMAR</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-01</sponsorshipDate>
+        <middleName />
+        <bioguideId>S000583</bioguideId>
+      </item>
+      <item>
+        <state>IA</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. King, Steve [R-IA-4]</fullName>
+        <lastName>King</lastName>
+        <party>R</party>
+        <identifiers>
+          <bioguideId>K000362</bioguideId>
+          <lisID>1724</lisID>
+          <gpoId>7918</gpoId>
+        </identifiers>
+        <firstName>Steve</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000362</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Hensarling, Jeb [R-TX-5]</fullName>
+        <lastName>Hensarling</lastName>
+        <party>R</party>
+        <identifiers>
+          <gpoId>8161</gpoId>
+          <lisID>1749</lisID>
+          <bioguideId>H001036</bioguideId>
+        </identifiers>
+        <firstName>Jeb</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-02-14</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001036</bioguideId>
+      </item>
+      <item>
+        <state>TX</state>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>22</district>
+        <fullName>Rep. Olson, Pete [R-TX-22]</fullName>
+        <lastName>Olson</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>1955</lisID>
+          <bioguideId>O000168</bioguideId>
+          <gpoId>8178</gpoId>
+        </identifiers>
+        <firstName>Pete</firstName>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>O000168</bioguideId>
+      </item>
+    </cosponsors>
+    <laws />
+    <committeeReports />
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-01-04T05:00:00Z</updateDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-01-30T21:24:58Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p> <strong>Timely Repatriation Act </strong></p> <p>This bill directs the Department of Homeland Security (DHS) to publish a report every six months listing: (1) countries that have refused or unreasonably delayed repatriation of an alien who is a national of that country (the report must include the total number of such aliens) and countries that have an excessive repatriation failure rate, and (2) each country that was included in both the report preceding the current report and the current report (DHS may exclude a country if the total number of nonrepatriations outstanding is less than 10 for the preceding three-year period).</p> <p>The Department of State, with respect to a listed country: (1) may not issue visas to attendants, servants, and personal employees of such country's officials and employees who receive nonimmigrant status; and (2) shall reduce the number of visas available for such country's diplomats and officials/employees by 10% for each six months that a country is listed.</p>]]></text>
+          <actionDate>2017-01-04</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <recordedVotes />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <title>Timely Repatriation Act</title>
+    <introducedDate>2017-01-04</introducedDate>
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-05-24</actionDate>
+          <text>Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 13.</text>
+        </latestAction>
+        <congress>115</congress>
+        <number>2431</number>
+        <latestTitle>Michael Davis, Jr. and Danny Oliver in Honor of State and Local Law Enforcement Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+      </item>
+    </relatedBills>
+    <amendments />
+    <calendarNumbers />
+    <latestAction>
+      <actionDate>2017-01-31</actionDate>
+      <links />
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </latestAction>
+    <originChamber>House</originChamber>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Timely Repatriation Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Timely Repatriation Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To provide for sanctions on countries that have refused or unreasonably delayed repatriation of an alien who is a national of that country, or that have an excessive repatriation failure rate, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Timely Repatriation Act</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

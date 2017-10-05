@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <updateDate>2017-09-21T07:12:31Z</updateDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-19</actionDate>
+        <committee>
+          <systemCode>hshm07</systemCode>
+          <name>Transportation Security Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Transportation and Protective Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <actionDate>2017-09-11</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-09-11</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <notes />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <party>R</party>
+        <bioguideId>J000295</bioguideId>
+        <lastName>Joyce</lastName>
+        <state>OH</state>
+        <middleName>P.</middleName>
+        <firstName>David</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000295</bioguideId>
+          <lisID>2154</lisID>
+        </identifiers>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <district>14</district>
+      </item>
+    </sponsors>
+    <title>No Knives on Planes Act of 2017</title>
+    <laws />
+    <introducedDate>2017-09-11</introducedDate>
+    <cboCostEstimates />
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <originChamber>House</originChamber>
+    <policyArea />
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-09-11T16:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hshm07</systemCode>
+              <activities>
+                <item>
+                  <date>2017-09-19T13:11:31Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Transportation Security Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hshm00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <calendarNumbers />
+    <cosponsors>
+      <item>
+        <lastName>Lipinski</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1781</lisID>
+          <bioguideId>L000563</bioguideId>
+          <gpoId>7923</gpoId>
+        </identifiers>
+        <middleName>William</middleName>
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lipinski, Daniel [D-IL-3]</fullName>
+        <firstName>Daniel</firstName>
+        <party>D</party>
+        <bioguideId>L000563</bioguideId>
+        <district>3</district>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Bost</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2243</lisID>
+          <bioguideId>B001295</bioguideId>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <state>IL</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bost, Mike [R-IL-12]</fullName>
+        <firstName>Mike</firstName>
+        <party>R</party>
+        <bioguideId>B001295</bioguideId>
+        <district>12</district>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Speier</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S001175</bioguideId>
+          <gpoId>7817</gpoId>
+          <lisID>1890</lisID>
+        </identifiers>
+        <middleName />
+        <state>CA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Speier, Jackie [D-CA-14]</fullName>
+        <firstName>Jackie</firstName>
+        <party>D</party>
+        <bioguideId>S001175</bioguideId>
+        <district>14</district>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Gabbard</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId />
+          <lisID>2122</lisID>
+          <bioguideId>G000571</bioguideId>
+        </identifiers>
+        <middleName />
+        <state>HI</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gabbard, Tulsi [D-HI-2]</fullName>
+        <firstName>Tulsi</firstName>
+        <party>D</party>
+        <bioguideId>G000571</bioguideId>
+        <district>2</district>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000466</bioguideId>
+          <gpoId />
+          <lisID>2345</lisID>
+        </identifiers>
+        <middleName>K.</middleName>
+        <state>PA</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <firstName>Brian</firstName>
+        <party>R</party>
+        <bioguideId>F000466</bioguideId>
+        <district>8</district>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+      </item>
+      <item>
+        <lastName>Donovan</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2293</lisID>
+          <gpoId />
+          <bioguideId>D000625</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <state>NY</state>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <firstName>Daniel</firstName>
+        <party>R</party>
+        <bioguideId>D000625</bioguideId>
+        <district>11</district>
+        <sponsorshipDate>2017-09-11</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <committeeReports />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <billType>HR</billType>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <createDate>2017-09-12T03:11:20Z</createDate>
+    <latestAction>
+      <actionDate>2017-09-19</actionDate>
+      <text>Referred to the Subcommittee on Transportation and Protective Security.</text>
+      <links />
+    </latestAction>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOYCE of Ohio:H.R. 3735.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8, Clause 3[Page H7223]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>3735</billNumber>
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>No Knives on Planes Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <title>To prohibit the implementation of a policy change to permit small, non-locking knives on aircraft, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <title>No Knives on Planes Act of 2017</title>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <title>No Knives on Planes Act of 2017</title>
+      </item>
+    </titles>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

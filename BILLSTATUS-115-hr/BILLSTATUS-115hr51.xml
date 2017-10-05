@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-04T07:01:09Z</createDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills />
+    <actions>
+      <item>
+        <actionDate>2017-01-13</actionDate>
+        <committee>
+          <systemCode>hsag14</systemCode>
+          <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee>
+          <systemCode>hsag00</systemCode>
+          <name>Agriculture Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Agriculture.</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-01-03</actionDate>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>C001096</bioguideId>
+          <lisID>2144</lisID>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Cramer, Kevin [R-ND-At Large]</fullName>
+        <bioguideId>C001096</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <lastName>Cramer</lastName>
+        <district>0</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Kevin</firstName>
+        <state>ND</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>8101</gpoId>
+          <bioguideId>F000455</bioguideId>
+          <lisID>1895</lisID>
+        </identifiers>
+        <middleName>L.</middleName>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <bioguideId>F000455</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <lastName>Fudge</lastName>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Marcia</firstName>
+        <state>OH</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>L000584</bioguideId>
+          <lisID>2271</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>B.</middleName>
+        <fullName>Rep. Love, Mia B. [R-UT-4]</fullName>
+        <bioguideId>L000584</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <lastName>Love</lastName>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Mia</firstName>
+        <state>UT</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>A000370</bioguideId>
+          <lisID>2201</lisID>
+        </identifiers>
+        <middleName>S.</middleName>
+        <fullName>Rep. Adams, Alma S. [D-NC-12]</fullName>
+        <bioguideId>A000370</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <lastName>Adams</lastName>
+        <district>12</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Alma</firstName>
+        <state>NC</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001061</bioguideId>
+          <lisID>1790</lisID>
+          <gpoId>8013</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <bioguideId>C001061</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <lastName>Cleaver</lastName>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Emanuel</firstName>
+        <state>MO</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S000185</bioguideId>
+          <lisID>1037</lisID>
+          <gpoId>8194</gpoId>
+        </identifiers>
+        <middleName>C. "Bobby"</middleName>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <bioguideId>S000185</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <lastName>Scott</lastName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <firstName>Robert</firstName>
+        <state>VA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>T000472</bioguideId>
+          <lisID>2110</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Takano, Mark [D-CA-41]</fullName>
+        <bioguideId>T000472</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>Takano</lastName>
+        <district>41</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Mark</firstName>
+        <state>CA</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <bioguideId>R000577</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>RYAN</lastName>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>TIM</firstName>
+        <state>OH</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2274</lisID>
+          <bioguideId>P000610</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <fullName>Rep. Plaskett, Stacey E. [D-VI-At Large]</fullName>
+        <bioguideId>P000610</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-06</sponsorshipDate>
+        <lastName>Plaskett</lastName>
+        <district>0</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Stacey</firstName>
+        <state>VI</state>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <lisID>2317</lisID>
+          <bioguideId>L000586</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Lawson, Al, Jr. [D-FL-5]</fullName>
+        <bioguideId>L000586</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <lastName>Lawson</lastName>
+        <district>5</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <state>FL</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>C001111</bioguideId>
+          <lisID>2321</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+        <bioguideId>C001111</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-01-10</sponsorshipDate>
+        <lastName>Crist</lastName>
+        <district>13</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Charlie</firstName>
+        <state>FL</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001185</bioguideId>
+          <lisID>1988</lisID>
+          <gpoId>7792</gpoId>
+        </identifiers>
+        <middleName>A.</middleName>
+        <fullName>Rep. Sewell, Terri A. [D-AL-7]</fullName>
+        <bioguideId>S001185</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-03-30</sponsorshipDate>
+        <lastName>Sewell</lastName>
+        <district>7</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Terri</firstName>
+        <state>AL</state>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <lisID>2004</lisID>
+          <gpoId>7889</gpoId>
+        </identifiers>
+        <middleName>S.</middleName>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <bioguideId>W000808</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-04-04</sponsorshipDate>
+        <lastName>Wilson</lastName>
+        <district>24</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Frederica</firstName>
+        <state>FL</state>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+          <bioguideId>G000553</bioguideId>
+        </identifiers>
+        <middleName />
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <bioguideId>G000553</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <sponsorshipDate>2017-04-25</sponsorshipDate>
+        <lastName>Green</lastName>
+        <district>9</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Al</firstName>
+        <state>TX</state>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-01-03</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>S001157</bioguideId>
+        <lastName>Scott</lastName>
+        <firstName>David</firstName>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <middleName />
+        <identifiers>
+          <bioguideId>S001157</bioguideId>
+          <lisID>1722</lisID>
+          <gpoId>7910</gpoId>
+        </identifiers>
+        <byRequestType />
+        <state>GA</state>
+        <district>13</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Funding for Student Scholarships for the 1890s Land-Grant African-American Colleges and Universities Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Funding for Student Scholarships for the 1890s Land-Grant African-American Colleges and Universities Act</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>To amend the National Agricultural Research, Extension, and Teaching Policy Act of 1977 to direct the Secretary of Agriculture to establish a grant program under which the Secretary will award $19,000,000 of grant funding to the 19 1890-institutions ($1,000,000 to each institution), such as Tuskegee University in Alabama, Prairie View A&amp;M University of Texas, Fort Valley State University of Georgia, North Carolina A&amp;T State University, and Florida A&amp;M University, and allocate the $1,000,000 to each such institution for purposes of awarding scholarships to students attending such institutions, and for other purposes.</title>
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <parentTitleType />
+        <title>Funding for Student Scholarships for the 1890s Land-Grant African-American Colleges and Universities Act</title>
+        <chamberCode />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>51</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Agriculture Committee</name>
+          <subcommittees>
+            <item>
+              <name>Biotechnology, Horticulture, and Research Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-13T14:20:32Z</date>
+                </item>
+              </activities>
+              <systemCode>hsag14</systemCode>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <systemCode>hsag00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:08:20Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DAVID SCOTT of Georgia:H.R. 51.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H48]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural education</name>
+          </item>
+          <item>
+            <name>Alabama</name>
+          </item>
+          <item>
+            <name>Education programs funding</name>
+          </item>
+          <item>
+            <name>Higher education</name>
+          </item>
+          <item>
+            <name>Minority education</name>
+          </item>
+          <item>
+            <name>Student aid and college costs</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-01-03</actionDate>
+          <text><![CDATA[<p><b>Funding for Student Scholarships for the 1890s Land-Grant African-American Colleges and Universities Act </b></p> <p>This bill amends the National Agricultural Research, Extension, and Teaching Policy Act of 1977 to establish and provide funding for a grant program within the Department of Agriculture (USDA) for scholarships for students at 1890 land-grant colleges and universities (historically black colleges and universities established under the Second Morrill Act of 1890). USDA may award the scholarships to students who: (1) are seeking to attend such a college or university, and (2) intend to pursue a career in the food and agricultural sciences.</p>]]></text>
+          <lastSummaryUpdateDate>2017-01-11T19:45:40Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Funding for Student Scholarships for the 1890s Land-Grant African-American Colleges and Universities Act</title>
+    <updateDate>2017-06-19T20:30:32Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Biotechnology, Horticulture, and Research.</text>
+      <actionDate>2017-01-13</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-02-28T05:17:28Z</createDate>
+    <policyArea>
+      <name>International Affairs</name>
+    </policyArea>
+    <notes />
+    <version>1.0.0</version>
+    <relatedBills>
+      <item>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Related bill</type>
+          </item>
+        </relationshipDetails>
+        <latestAction>
+          <actionDate>2017-02-27</actionDate>
+          <text>Read twice and referred to the Committee on Foreign Relations.</text>
+        </latestAction>
+        <type>S</type>
+        <congress>115</congress>
+        <number>447</number>
+        <latestTitle>Justice for Uncompensated Survivors Today (JUST) Act of 2017</latestTitle>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <text>Referred to the House Committee on Foreign Affairs.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsfa00</systemCode>
+          <name>Foreign Affairs Committee</name>
+        </committee>
+      </item>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <actionDate>2017-02-27</actionDate>
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <state>NJ</state>
+        <firstName>CHRISTOPHER</firstName>
+        <identifiers>
+          <gpoId>8046</gpoId>
+          <lisID>1071</lisID>
+          <bioguideId>S000522</bioguideId>
+        </identifiers>
+        <party>R</party>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <middleName>H.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>SMITH</lastName>
+        <bioguideId>S000522</bioguideId>
+        <fullName>Rep. Smith, Christopher H. [R-NJ-4]</fullName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+      </item>
+      <item>
+        <state>FL</state>
+        <firstName>Theodore</firstName>
+        <identifiers>
+          <bioguideId>D000610</bioguideId>
+          <lisID>1976</lisID>
+          <gpoId>7891</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName>E.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Deutch</lastName>
+        <bioguideId>D000610</bioguideId>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>22</district>
+      </item>
+      <item>
+        <state>MA</state>
+        <firstName>JAMES</firstName>
+        <identifiers>
+          <bioguideId>M000312</bioguideId>
+          <lisID>1504</lisID>
+          <gpoId>7968</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName>P.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>MCGOVERN</lastName>
+        <bioguideId>M000312</bioguideId>
+        <fullName>Rep. McGovern, James P. [D-MA-2]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>2</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>Grace</firstName>
+        <identifiers>
+          <gpoId />
+          <lisID>2148</lisID>
+          <bioguideId>M001188</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>Meng</lastName>
+        <bioguideId>M001188</bioguideId>
+        <fullName>Rep. Meng, Grace [D-NY-6]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>6</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>JERROLD</firstName>
+        <identifiers>
+          <gpoId>8069</gpoId>
+          <bioguideId>N000002</bioguideId>
+          <lisID>850</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+        <lastName>NADLER</lastName>
+        <bioguideId>N000002</bioguideId>
+        <fullName>Rep. Nadler, Jerrold [D-NY-10]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>10</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>Hakeem</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>J000294</bioguideId>
+          <lisID>2149</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName>S.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Jeffries</lastName>
+        <bioguideId>J000294</bioguideId>
+        <fullName>Rep. Jeffries, Hakeem S. [D-NY-8]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>8</district>
+      </item>
+      <item>
+        <state>RI</state>
+        <firstName>David</firstName>
+        <identifiers>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+          <bioguideId>C001084</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-04</sponsorshipDate>
+        <middleName>N.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>Cicilline</lastName>
+        <bioguideId>C001084</bioguideId>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>1</district>
+      </item>
+      <item>
+        <state>MI</state>
+        <firstName>SANDER</firstName>
+        <identifiers>
+          <gpoId>7997</gpoId>
+          <bioguideId>L000263</bioguideId>
+          <lisID>683</lisID>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LEVIN</lastName>
+        <bioguideId>L000263</bioguideId>
+        <fullName>Rep. Levin, Sander M. [D-MI-9]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>9</district>
+      </item>
+      <item>
+        <state>NY</state>
+        <firstName>NITA</firstName>
+        <identifiers>
+          <bioguideId>L000480</bioguideId>
+          <lisID>709</lisID>
+          <gpoId>8079</gpoId>
+        </identifiers>
+        <party>D</party>
+        <sponsorshipDate>2017-05-23</sponsorshipDate>
+        <middleName>M.</middleName>
+        <sponsorshipWithdrawnDate />
+        <lastName>LOWEY</lastName>
+        <bioguideId>L000480</bioguideId>
+        <fullName>Rep. Lowey, Nita M. [D-NY-17]</fullName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <district>17</district>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-02-27</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>C001038</bioguideId>
+        <lastName>CROWLEY</lastName>
+        <firstName>JOSEPH</firstName>
+        <fullName>Rep. Crowley, Joseph [D-NY-14]</fullName>
+        <middleName />
+        <identifiers>
+          <lisID>1604</lisID>
+          <gpoId>8068</gpoId>
+          <bioguideId>C001038</bioguideId>
+        </identifiers>
+        <byRequestType />
+        <state>NY</state>
+        <district>14</district>
+        <party>D</party>
+      </item>
+    </sponsors>
+    <cboCostEstimates />
+    <titles>
+      <item>
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Justice for Uncompensated Survivors Today (JUST) Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Justice for Uncompensated Survivors Today (JUST) Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To require reporting on acts of certain foreign countries on Holocaust era assets and related issues, and for other purposes.</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>Justice for Uncompensated Survivors Today (JUST) Act of 2017</title>
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <congress>115</congress>
+    <billNumber>1226</billNumber>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsfa00</systemCode>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-02-27T17:01:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Foreign Affairs Committee</name>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CROWLEY:H.R. 1226.Congress has the power to enact this legislation pursuantto the following:Article I Section 8 Clause 3[Page H1355]</pre>]]></constitutionalAuthorityStatementText>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Art, artists, authorship</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Crimes against property</name>
+          </item>
+          <item>
+            <name>Europe</name>
+          </item>
+          <item>
+            <name>Germany</name>
+          </item>
+          <item>
+            <name>Historical and cultural resources</name>
+          </item>
+          <item>
+            <name>Human rights</name>
+          </item>
+          <item>
+            <name>Religion</name>
+          </item>
+          <item>
+            <name>War crimes, genocide, crimes against humanity</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>International Affairs</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <committeeReports />
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-03-04T16:40:55Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-02-27</actionDate>
+          <updateDate>2017-02-27T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Justice for Uncompensated Survivors Today (JUST) Act of 2017</strong></p> <p>This bill directs the Department of State, with respect to covered countries, to annually include within either the relevant Annual Country Report on Human Rights Practices, the International Religious Freedom Report, or other appropriate report an assessment of the nature and extent of national laws or enforceable policies regarding the identification, return, or restitution of wrongfully seized or transferred Holocaust era assets and compliance with the goals of the Terezin Declaration on Holocaust Era Assets and Related Issues, including: </p> <ul> <li>the return to the rightful owner of wrongfully seized or transferred property, including religious or communal property, or the provision of comparable substitute property or the payment of equitable compensation to the rightful owner; </li> <li>the use of the Washington Conference Principles on Nazi-Confiscated Art and the Terezin Declaration in settling claims involving publicly and privately held movable property;</li> <li>the restitution of heirless property to assist needy Holocaust survivors; and </li> <li> progress on the resolution of claims for U.S. citizen Holocaust survivors and family members.</li> </ul> <p>&quot;Covered countries&quot; means signatories to the Terezin Declaration that are determined by the Special Envoy for Holocaust Issues to be countries of particular concern with respect to such restitution.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <title>Justice for Uncompensated Survivors Today (JUST) Act of 2017</title>
+    <updateDate>2017-06-19T21:15:27Z</updateDate>
+    <laws />
+    <billType>HR</billType>
+    <recordedVotes />
+    <calendarNumbers />
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+      <actionDate>2017-02-27</actionDate>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

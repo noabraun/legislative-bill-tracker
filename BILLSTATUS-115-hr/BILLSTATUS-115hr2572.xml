@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-05-20T03:11:40Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>7</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <placeholderTextForH>2</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-06-23</actionDate>
+        <committee>
+          <name>Immigration and Border Security Subcommittee</name>
+          <systemCode>hsju01</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-06-05</actionDate>
+        <committee>
+          <name>Border and Maritime Security Subcommittee</name>
+          <systemCode>hshm11</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionDate>2017-05-19</actionDate>
+        <text>Referred to House Homeland Security</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <name>Judiciary Committee</name>
+          <systemCode>hsju00</systemCode>
+        </committee>
+        <actionDate>2017-05-19</actionDate>
+        <text>Referred to House Judiciary</text>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-19</actionDate>
+        <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-19</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionDate>2017-05-19</actionDate>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROYBAL-ALLARD:H.R. 2572.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the United States Constitution[Page H4390]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Immigration</name>
+    </policyArea>
+    <title>Protect Family Values at the Border Act</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName />
+        <district>40</district>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+          <lisID>997</lisID>
+          <gpoId>7839</gpoId>
+        </identifiers>
+        <bioguideId>R000486</bioguideId>
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <firstName>LUCILLE</firstName>
+        <party>D</party>
+        <lastName>ROYBAL-ALLARD</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+      <actionDate>2017-06-23</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hsju01</systemCode>
+              <name>Immigration and Border Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-23T15:04:58Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-19T13:04:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+        </item>
+        <item>
+          <subcommittees>
+            <item>
+              <systemCode>hshm11</systemCode>
+              <name>Border and Maritime Security Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-05T21:31:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-05-19T13:04:35Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hshm00</systemCode>
+          <name>Homeland Security Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-06-10T14:05:42Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-05-19</actionDate>
+          <updateDate>2017-05-19T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Protect Family Values at the Border Act </strong></p> <p> The Department of Homeland Security (DHS) shall: (1) consider safety and family concerns in any action related to the repatriation or prosecution of individuals apprehended for immigration violations, and (2) provide related training for U.S. Customs and Border Protection (CBP) and cooperating entity personnel. </p> <p> DHS, with certain exceptions, shall certify every 180 days that it has deported or otherwise removed an apprehended individual from the United States through an entry or exit point on the southern border only during daylight hours. </p> <p> DHS shall promulgate regulations establishing short-term custody standards providing for basic minimums of care at all CBP facilities holding individuals in CBP custody.</p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>2572</billNumber>
+    <calendarNumbers />
+    <amendments />
+    <introducedDate>2017-05-19</introducedDate>
+    <updateDate>2017-06-24T07:12:59Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Immigration</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Gutierrez, Luis V. [D-IL-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>7924</gpoId>
+          <bioguideId>G000535</bioguideId>
+          <lisID>478</lisID>
+        </identifiers>
+        <middleName>V.</middleName>
+        <firstName>LUIS</firstName>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000535</bioguideId>
+        <state>IL</state>
+        <lastName>GUTIERREZ</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>G000574</bioguideId>
+          <lisID>2226</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Ruben</firstName>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000574</bioguideId>
+        <state>AZ</state>
+        <lastName>Gallego</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>M001160</bioguideId>
+          <lisID>1811</lisID>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Gwen</firstName>
+        <district>4</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001160</bioguideId>
+        <state>WI</state>
+        <lastName>Moore</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId />
+          <bioguideId>B001300</bioguideId>
+          <lisID>2311</lisID>
+        </identifiers>
+        <middleName>Diaz</middleName>
+        <firstName>Nanette</firstName>
+        <district>44</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>B001300</bioguideId>
+        <state>CA</state>
+        <lastName>Barragan</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Vargas, Juan [D-CA-51]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>V000130</bioguideId>
+          <lisID>2112</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Juan</firstName>
+        <district>51</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>V000130</bioguideId>
+        <state>CA</state>
+        <lastName>Vargas</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001112</bioguideId>
+          <lisID>2310</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>O.</middleName>
+        <firstName>Salud</firstName>
+        <district>24</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001112</bioguideId>
+        <state>CA</state>
+        <lastName>Carbajal</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Napolitano, Grace F. [D-CA-32]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>N000179</bioguideId>
+          <lisID>1602</lisID>
+          <gpoId>7843</gpoId>
+        </identifiers>
+        <middleName>F.</middleName>
+        <firstName>GRACE</firstName>
+        <district>32</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>N000179</bioguideId>
+        <state>CA</state>
+        <lastName>NAPOLITANO</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Castro, Joaquin [D-TX-20]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001091</bioguideId>
+          <lisID>2163</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Joaquin</firstName>
+        <district>20</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001091</bioguideId>
+        <state>TX</state>
+        <lastName>Castro</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Lofgren, Zoe [D-CA-19]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>701</lisID>
+          <gpoId>7821</gpoId>
+          <bioguideId>L000397</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>ZOE</firstName>
+        <district>19</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000397</bioguideId>
+        <state>CA</state>
+        <lastName>LOFGREN</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Torres, Norma J. [D-CA-35]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>T000474</bioguideId>
+          <lisID>2231</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>J.</middleName>
+        <firstName>Norma</firstName>
+        <district>35</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>T000474</bioguideId>
+        <state>CA</state>
+        <lastName>Torres</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Velazquez, Nydia M. [D-NY-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>1184</lisID>
+          <gpoId>8073</gpoId>
+          <bioguideId>V000081</bioguideId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <firstName>NYDIA</firstName>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>V000081</bioguideId>
+        <state>NY</state>
+        <lastName>VELAZQUEZ</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Sires, Albio [D-NJ-8]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8055</gpoId>
+          <bioguideId>S001165</bioguideId>
+          <lisID>1818</lisID>
+        </identifiers>
+        <middleName />
+        <firstName>Albio</firstName>
+        <district>8</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001165</bioguideId>
+        <state>NJ</state>
+        <lastName>Sires</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Grijalva, Raul M. [D-AZ-3]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>G000551</bioguideId>
+          <lisID>1708</lisID>
+          <gpoId>7804</gpoId>
+        </identifiers>
+        <middleName>M.</middleName>
+        <firstName>Raul</firstName>
+        <district>3</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>G000551</bioguideId>
+        <state>AZ</state>
+        <lastName>Grijalva</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Serrano, Jose E. [D-NY-15]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S000248</bioguideId>
+          <lisID>1042</lisID>
+          <gpoId>8077</gpoId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <firstName>JOSE</firstName>
+        <district>15</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S000248</bioguideId>
+        <state>NY</state>
+        <lastName>SERRANO</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Lujan Grisham, Michelle [D-NM-1]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>L000580</bioguideId>
+          <lisID>2146</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName />
+        <firstName>Michelle</firstName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000580</bioguideId>
+        <state>NM</state>
+        <lastName>Lujan Grisham</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+          <gpoId>7837</gpoId>
+        </identifiers>
+        <middleName />
+        <firstName>Judy</firstName>
+        <district>27</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001080</bioguideId>
+        <state>CA</state>
+        <lastName>Chu</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <middleName />
+        <firstName>Darren</firstName>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001200</bioguideId>
+        <state>FL</state>
+        <lastName>Soto</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Schakowsky, Janice D. [D-IL-9]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001145</bioguideId>
+          <lisID>1588</lisID>
+          <gpoId>7929</gpoId>
+        </identifiers>
+        <middleName>D.</middleName>
+        <firstName>JANICE</firstName>
+        <district>9</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001145</bioguideId>
+        <state>IL</state>
+        <lastName>SCHAKOWSKY</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Correa, J. Luis [D-CA-46]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C001110</bioguideId>
+          <lisID>2312</lisID>
+          <gpoId />
+        </identifiers>
+        <middleName>Luis</middleName>
+        <firstName>J.</firstName>
+        <district>46</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001110</bioguideId>
+        <state>CA</state>
+        <lastName>Correa</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-19</sponsorshipDate>
+        <fullName>Rep. Sanchez, Linda T. [D-CA-38]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>S001156</bioguideId>
+          <lisID>1757</lisID>
+          <gpoId>7844</gpoId>
+        </identifiers>
+        <middleName>T.</middleName>
+        <firstName>LINDA</firstName>
+        <district>38</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>S001156</bioguideId>
+        <state>CA</state>
+        <lastName>SANCHEZ</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Protect Family Values at the Border Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Protect Family Values at the Border Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish humane practices for the repatriation of aliens at the border, establish effective standards for the treatment of certain aliens in the custody of the Department of Homeland Security, and for other purposes.</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Protect Family Values at the Border Act</title>
+        <chamberCode />
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

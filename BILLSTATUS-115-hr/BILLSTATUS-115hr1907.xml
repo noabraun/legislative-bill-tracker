@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-04-05</introducedDate>
+    <laws />
+    <createDate>2017-04-06T03:11:54Z</createDate>
+    <actions>
+      <actionTypeCounts>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>3</billReferrals>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-04-25</actionDate>
+        <committee>
+          <name>Research and Technology Subcommittee</name>
+          <systemCode>hssy15</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Research and Technology.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-04-17</actionDate>
+        <committee>
+          <name>Cybersecurity, Infrastructure Protection, and Security Technologies Subcommittee</name>
+          <systemCode>hshm08</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Homeland Security</text>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionDate>2017-04-05</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Science, Space, and Technology</text>
+        <committee>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </committee>
+        <actionDate>2017-04-05</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to House Administration</text>
+        <committee>
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </committee>
+        <actionDate>2017-04-05</actionDate>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Referred to the Committee on House Administration, and in addition to the Committees on Science, Space, and Technology, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <committee />
+        <actionDate>2017-04-05</actionDate>
+        <actionCode>H11100-A</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-04-05</actionDate>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <links />
+        <text>Introduced in House</text>
+        <committee />
+        <actionDate>2017-04-05</actionDate>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>8</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>J000288</bioguideId>
+        <firstName>Henry</firstName>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <lastName>Johnson</lastName>
+        <district>4</district>
+        <identifiers>
+          <lisID>1843</lisID>
+          <bioguideId>J000288</bioguideId>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <state>GA</state>
+        <middleName>C. "Hank"</middleName>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. JOHNSON of Georgia:H.R. 1907.Congress has the power to enact this legislation pursuantto the following:Clause 18 of section 8 of article I of the Constitution,which grants Congress the Power to make all Laws which shallbe necessary and proper for carrying into Execution theforegoing Powers.[Page H2754]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Election Infrastructure and Security Promotion Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Election Infrastructure and Security Promotion Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To direct the Secretary of Homeland Security to conduct research and development to mitigate the consequences of threats to voting systems, to amend the Help America Vote Act of 2002 to require the voting systems used in elections for Federal office to comply with national standards developed by the National Institute of Standards and Technology for operational security and ballot verification, to establish programs to promote research in innovative voting system technologies, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Election Infrastructure and Security Promotion Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:01:10Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hssy15</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-25T14:36:30Z</date>
+                </item>
+              </activities>
+              <name>Research and Technology Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Science, Space, and Technology Committee</name>
+          <systemCode>hssy00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:01:15Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees>
+            <item>
+              <systemCode>hshm08</systemCode>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-04-17T18:46:05Z</date>
+                </item>
+              </activities>
+              <name>Cybersecurity, Infrastructure Protection, and Security Technologies Subcommittee</name>
+            </item>
+          </subcommittees>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </item>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-04-05T14:01:05Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>House Administration Committee</name>
+          <systemCode>hsha00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Election Infrastructure and Security Promotion Act of 2017</title>
+    <billNumber>1907</billNumber>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <district>13</district>
+        <middleName />
+        <firstName>JOHN</firstName>
+        <state>MI</state>
+        <fullName>Rep. Conyers, John, Jr. [D-MI-13]</fullName>
+        <lastName>CONYERS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C000714</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7999</gpoId>
+          <bioguideId>C000714</bioguideId>
+          <lisID>229</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName />
+        <firstName>Mark</firstName>
+        <state>WI</state>
+        <fullName>Rep. Pocan, Mark [D-WI-2]</fullName>
+        <lastName>Pocan</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>P000607</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000607</bioguideId>
+          <gpoId />
+          <lisID>2171</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>5</district>
+        <middleName>W.</middleName>
+        <firstName>GREGORY</firstName>
+        <state>NY</state>
+        <fullName>Rep. Meeks, Gregory W. [D-NY-5]</fullName>
+        <lastName>MEEKS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M001137</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>M001137</bioguideId>
+          <lisID>1506</lisID>
+          <gpoId>8067</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>1</district>
+        <middleName>N.</middleName>
+        <firstName>David</firstName>
+        <state>RI</state>
+        <fullName>Rep. Cicilline, David N. [D-RI-1]</fullName>
+        <lastName>Cicilline</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001084</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001084</bioguideId>
+          <gpoId>8139</gpoId>
+          <lisID>2055</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>8</district>
+        <middleName />
+        <firstName>Jamie</firstName>
+        <state>MD</state>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <lastName>Raskin</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>R000606</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <lisID>2332</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>9</district>
+        <middleName />
+        <firstName>Steve</firstName>
+        <state>TN</state>
+        <fullName>Rep. Cohen, Steve [D-TN-9]</fullName>
+        <lastName>Cohen</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001068</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>C001068</bioguideId>
+          <lisID>1878</lisID>
+          <gpoId>8156</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>1</district>
+        <middleName>L.</middleName>
+        <firstName>BOBBY</firstName>
+        <state>IL</state>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <lastName>RUSH</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>R000515</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000515</bioguideId>
+          <lisID>1003</lisID>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName>D.</middleName>
+        <firstName>SANFORD</firstName>
+        <state>GA</state>
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <lastName>BISHOP</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>B000490</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <lisID>91</lisID>
+          <gpoId>7899</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>9</district>
+        <middleName>D.</middleName>
+        <firstName>Yvette</firstName>
+        <state>NY</state>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <lastName>Clarke</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001067</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1864</lisID>
+          <bioguideId>C001067</bioguideId>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <firstName>ELEANOR</firstName>
+        <state>DC</state>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <lastName>NORTON</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>N000147</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+          <gpoId>7871</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>13</district>
+        <middleName />
+        <firstName>BARBARA</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lee, Barbara [D-CA-13]</fullName>
+        <lastName>LEE</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000551</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7814</gpoId>
+          <lisID>1501</lisID>
+          <bioguideId>L000551</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>20</district>
+        <middleName>L.</middleName>
+        <firstName>ALCEE</firstName>
+        <state>FL</state>
+        <fullName>Rep. Hastings, Alcee L. [D-FL-20]</fullName>
+        <lastName>HASTINGS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>H000324</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>H000324</bioguideId>
+          <gpoId>7895</gpoId>
+          <lisID>511</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>18</district>
+        <middleName />
+        <firstName>SHEILA</firstName>
+        <state>TX</state>
+        <fullName>Rep. Jackson Lee, Sheila [D-TX-18]</fullName>
+        <lastName>JACKSON LEE</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>J000032</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000032</bioguideId>
+          <lisID>588</lisID>
+          <gpoId>8174</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>12</district>
+        <middleName />
+        <firstName>Bonnie</firstName>
+        <state>NJ</state>
+        <fullName>Rep. Watson Coleman, Bonnie [D-NJ-12]</fullName>
+        <lastName>Watson Coleman</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>W000822</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000822</bioguideId>
+          <lisID>2259</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>25</district>
+        <middleName>M.</middleName>
+        <firstName>LOUISE</firstName>
+        <state>NY</state>
+        <fullName>Rep. Slaughter, Louise McIntosh [D-NY-25]</fullName>
+        <lastName>SLAUGHTER</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>S000480</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>1069</lisID>
+          <gpoId>8089</gpoId>
+          <bioguideId>S000480</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>24</district>
+        <middleName>S.</middleName>
+        <firstName>Frederica</firstName>
+        <state>FL</state>
+        <fullName>Rep. Wilson, Frederica S. [D-FL-24]</fullName>
+        <lastName>Wilson</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>W000808</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>W000808</bioguideId>
+          <gpoId>7889</gpoId>
+          <lisID>2004</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>33</district>
+        <middleName />
+        <firstName>Ted</firstName>
+        <state>CA</state>
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <lastName>Lieu</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>L000582</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>3</district>
+        <middleName>C. "Bobby"</middleName>
+        <firstName>Robert</firstName>
+        <state>VA</state>
+        <fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]</fullName>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>S000185</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8194</gpoId>
+          <bioguideId>S000185</bioguideId>
+          <lisID>1037</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>13</district>
+        <middleName />
+        <firstName>David</firstName>
+        <state>GA</state>
+        <fullName>Rep. Scott, David [D-GA-13]</fullName>
+        <lastName>Scott</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>S001157</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7910</gpoId>
+          <lisID>1722</lisID>
+          <bioguideId>S001157</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName />
+        <firstName>Jared</firstName>
+        <state>CA</state>
+        <fullName>Rep. Huffman, Jared [D-CA-2]</fullName>
+        <lastName>Huffman</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>H001068</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2101</lisID>
+          <bioguideId>H001068</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>7</district>
+        <middleName>K.</middleName>
+        <firstName>DANNY</firstName>
+        <state>IL</state>
+        <fullName>Rep. Davis, Danny K. [D-IL-7]</fullName>
+        <lastName>DAVIS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>D000096</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000096</bioguideId>
+          <lisID>1477</lisID>
+          <gpoId>7927</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>2</district>
+        <middleName>L.</middleName>
+        <firstName>Cedric</firstName>
+        <state>LA</state>
+        <fullName>Rep. Richmond, Cedric L. [D-LA-2]</fullName>
+        <lastName>Richmond</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>R000588</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000588</bioguideId>
+          <lisID>2023</lisID>
+          <gpoId>7960</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>11</district>
+        <middleName>L.</middleName>
+        <firstName>Marcia</firstName>
+        <state>OH</state>
+        <fullName>Rep. Fudge, Marcia L. [D-OH-11]</fullName>
+        <lastName>Fudge</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>F000455</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>F000455</bioguideId>
+          <lisID>1895</lisID>
+          <gpoId>8101</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>37</district>
+        <middleName />
+        <firstName>Karen</firstName>
+        <state>CA</state>
+        <fullName>Rep. Bass, Karen [D-CA-37]</fullName>
+        <lastName>Bass</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>B001270</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>B001270</bioguideId>
+          <gpoId>7838</gpoId>
+          <lisID>1996</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>1</district>
+        <middleName />
+        <firstName>G. K.</firstName>
+        <state>NC</state>
+        <fullName>Rep. Butterfield, G. K. [D-NC-1]</fullName>
+        <lastName>Butterfield</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>B001251</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8024</gpoId>
+          <lisID>1761</lisID>
+          <bioguideId>B001251</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>7</district>
+        <middleName>E.</middleName>
+        <firstName>ELIJAH</firstName>
+        <state>MD</state>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <lastName>CUMMINGS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C000984</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>256</lisID>
+          <bioguideId>C000984</bioguideId>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>9</district>
+        <middleName />
+        <firstName>Al</firstName>
+        <state>TX</state>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <lastName>Green</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>G000553</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000553</bioguideId>
+          <lisID>1803</lisID>
+          <gpoId>8165</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>43</district>
+        <middleName />
+        <firstName>MAXINE</firstName>
+        <state>CA</state>
+        <fullName>Rep. Waters, Maxine [D-CA-43]</fullName>
+        <lastName>WATERS</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>W000187</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7840</gpoId>
+          <bioguideId>W000187</bioguideId>
+          <lisID>1205</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>1</district>
+        <middleName />
+        <firstName>Donald</firstName>
+        <state>NJ</state>
+        <fullName>Rep. Norcross, Donald [D-NJ-1]</fullName>
+        <lastName>Norcross</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>N000188</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>N000188</bioguideId>
+          <lisID>2202</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>9</district>
+        <middleName />
+        <firstName>Jerry</firstName>
+        <state>CA</state>
+        <fullName>Rep. McNerney, Jerry [D-CA-9]</fullName>
+        <lastName>McNerney</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>M001166</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7816</gpoId>
+          <lisID>1832</lisID>
+          <bioguideId>M001166</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>10</district>
+        <middleName>M.</middleName>
+        <firstName>Donald</firstName>
+        <state>NJ</state>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <lastName>Payne</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>P000604</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2097</lisID>
+          <bioguideId>P000604</bioguideId>
+          <gpoId>8373</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>27</district>
+        <middleName />
+        <firstName>Judy</firstName>
+        <state>CA</state>
+        <fullName>Rep. Chu, Judy [D-CA-27]</fullName>
+        <lastName>Chu</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001080</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>7837</gpoId>
+          <bioguideId>C001080</bioguideId>
+          <lisID>1970</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>18</district>
+        <middleName>G.</middleName>
+        <firstName>ANNA</firstName>
+        <state>CA</state>
+        <fullName>Rep. Eshoo, Anna G. [D-CA-18]</fullName>
+        <lastName>ESHOO</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>E000215</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>E000215</bioguideId>
+          <lisID>355</lisID>
+          <gpoId>7819</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+      <item>
+        <district>9</district>
+        <middleName />
+        <firstName>ADAM</firstName>
+        <state>WA</state>
+        <fullName>Rep. Smith, Adam [D-WA-9]</fullName>
+        <lastName>SMITH</lastName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>S000510</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>S000510</bioguideId>
+          <lisID>1528</lisID>
+          <gpoId>8213</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+      </item>
+    </cosponsors>
+    <updateDate>2017-09-05T15:00:24Z</updateDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+      <actionDate>2017-04-25</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-08-09T15:39:26Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-04-05T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Election Infrastructure and Security Promotion Act of 2017</b></p> <p>This bill directs the Department of Homeland Security to: (1) designate voting systems used in the United States as critical infrastructure; (2) include threats of compromise, disruption, or destruction of voting systems in national planning scenarios; and (3) conduct a campaign to proactively educate local election officials about the designation of voting systems as critical infrastructure and election officials at all levels of government of voting system threats.</p> <p>The National Institute of Standards and Technology (NIST) shall develop standards for ensuring the operational security of the voting systems used in elections for federal office.</p> <p>This bill amends the Help America Vote Act of 2002 to require a state, in operating the voting system, to comply with applicable standards developed by NIST for ensuring the operational security of voting systems.</p> <p>The testing and certification of voting systems hardware and software shall test whether voting systems are in compliance with applicable NIST standards for ensuring the operational security of voting systems.</p> <p>NIST shall develop standards for ensuring that the process by which ballots are counted in elections for federal office is transparent and permits voters to verify that votes in such elections are counted correctly.</p> <p>States shall comply with applicable NIST standards, in operating the voting system, for ensuring that the process by which ballots are counted in elections for federal office is transparent and permits voters to verify that votes in such elections are counted correctly.</p> <p>The National Science Foundation shall establish an election technology innovation research and development program. </p>]]></text>
+          <actionDate>2017-04-05</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <relatedBills />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advanced technology and technological innovations</name>
+          </item>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Emergency planning and evacuation</name>
+          </item>
+          <item>
+            <name>Infrastructure development</name>
+          </item>
+          <item>
+            <name>Research and development</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Technology assessment</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <committeeReports />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

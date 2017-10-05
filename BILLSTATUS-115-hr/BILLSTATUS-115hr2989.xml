@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-06-22T08:44:32Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <actionTypeCounts>
+        <actionStageOverride>1</actionStageOverride>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <placeholderTextForB>1</placeholderTextForB>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-19</actionDate>
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Oversight and Government Reform.</text>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-21</actionDate>
+        <links />
+        <committee>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+        </committee>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Sponsor introductory remarks on measure. (CR E864-865)</text>
+        <actionCode>B00100</actionCode>
+        <actionDate>2017-06-21</actionDate>
+        <links>
+          <link>
+            <name>E864-865</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/extensions-of-remarks-section/page/E864-865</url>
+          </link>
+        </links>
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-21</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-21</actionDate>
+        <links />
+        <committee />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <title>Frederick Douglass Bicentennial Commission Act</title>
+    <cboCostEstimates>
+      <item>
+        <pubDate>2017-07-26T20:37:40Z</pubDate>
+        <url>https://www.cbo.gov/publication/52973</url>
+        <title>H.R. 2989, Frederick Douglass Bicentennial Commission Act</title>
+      </item>
+    </cboCostEstimates>
+    <notes />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsgo00</systemCode>
+          <name>Oversight and Government Reform Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <activities>
+            <item>
+              <date>2017-07-19T17:06:05Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-21T14:01:30Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>Harris</lastName>
+        <sponsorshipDate>2017-06-21</sponsorshipDate>
+        <middleName />
+        <bioguideId>H001052</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MD</state>
+        <identifiers>
+          <lisID>2026</lisID>
+          <gpoId>7976</gpoId>
+          <bioguideId>H001052</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>R</party>
+        <fullName>Rep. Harris, Andy [R-MD-1]</fullName>
+        <firstName>Andy</firstName>
+      </item>
+      <item>
+        <lastName>Ruppersberger</lastName>
+        <sponsorshipDate>2017-06-29</sponsorshipDate>
+        <middleName>Dutch</middleName>
+        <bioguideId>R000576</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <identifiers>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>D</party>
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <firstName>C. A.</firstName>
+      </item>
+      <item>
+        <lastName>Costello</lastName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>C001106</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <gpoId />
+          <lisID>2266</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>6</district>
+        <party>R</party>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <firstName>Ryan</firstName>
+      </item>
+      <item>
+        <lastName>Gosar</lastName>
+        <sponsorshipDate>2017-07-12</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>G000565</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>1992</lisID>
+          <bioguideId>G000565</bioguideId>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>R</party>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <firstName>Paul</firstName>
+      </item>
+      <item>
+        <lastName>MALONEY</lastName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName>B.</middleName>
+        <bioguideId>M000087</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>M000087</bioguideId>
+          <gpoId>8075</gpoId>
+          <lisID>729</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>12</district>
+        <party>D</party>
+        <fullName>Rep. Maloney, Carolyn B. [D-NY-12]</fullName>
+        <firstName>CAROLYN</firstName>
+      </item>
+      <item>
+        <lastName>Raskin</lastName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000606</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MD</state>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <firstName>Jamie</firstName>
+      </item>
+      <item>
+        <lastName>Krishnamoorthi</lastName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>K000391</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>K000391</bioguideId>
+          <gpoId />
+          <lisID>2325</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <fullName>Rep. Krishnamoorthi, Raja [D-IL-8]</fullName>
+        <firstName>Raja</firstName>
+      </item>
+      <item>
+        <lastName>Russell</lastName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000604</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>OK</state>
+        <identifiers>
+          <lisID>2265</lisID>
+          <gpoId />
+          <bioguideId>R000604</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>5</district>
+        <party>R</party>
+        <fullName>Rep. Russell, Steve [R-OK-5]</fullName>
+        <firstName>Steve</firstName>
+      </item>
+      <item>
+        <lastName>Lynch</lastName>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <middleName>F.</middleName>
+        <bioguideId>L000562</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MA</state>
+        <identifiers>
+          <bioguideId>L000562</bioguideId>
+          <gpoId>7974</gpoId>
+          <lisID>1686</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>D</party>
+        <fullName>Rep. Lynch, Stephen F. [D-MA-8]</fullName>
+        <firstName>Stephen</firstName>
+      </item>
+      <item>
+        <lastName>Smucker</lastName>
+        <sponsorshipDate>2017-07-24</sponsorshipDate>
+        <middleName />
+        <bioguideId>S001199</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2346</lisID>
+          <gpoId />
+          <bioguideId>S001199</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>16</district>
+        <party>R</party>
+        <fullName>Rep. Smucker, Lloyd [R-PA-16]</fullName>
+        <firstName>Lloyd</firstName>
+      </item>
+      <item>
+        <lastName>Bishop</lastName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>B001293</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>MI</state>
+        <identifiers>
+          <bioguideId>B001293</bioguideId>
+          <lisID>2249</lisID>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Bishop, Mike [R-MI-8]</fullName>
+        <firstName>Mike</firstName>
+      </item>
+      <item>
+        <lastName>Fitzpatrick</lastName>
+        <sponsorshipDate>2017-07-26</sponsorshipDate>
+        <middleName>K.</middleName>
+        <bioguideId>F000466</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2345</lisID>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>8</district>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <firstName>Brian</firstName>
+      </item>
+      <item>
+        <lastName>RUSH</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <middleName>L.</middleName>
+        <bioguideId>R000515</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IL</state>
+        <identifiers>
+          <lisID>1003</lisID>
+          <bioguideId>R000515</bioguideId>
+          <gpoId>7921</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>1</district>
+        <party>D</party>
+        <fullName>Rep. Rush, Bobby L. [D-IL-1]</fullName>
+        <firstName>BOBBY</firstName>
+      </item>
+      <item>
+        <lastName>Dent</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <middleName>W.</middleName>
+        <bioguideId>D000604</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>D000604</bioguideId>
+          <gpoId>8133</gpoId>
+          <lisID>1799</lisID>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>15</district>
+        <party>R</party>
+        <fullName>Rep. Dent, Charles W. [R-PA-15]</fullName>
+        <firstName>Charles</firstName>
+      </item>
+      <item>
+        <lastName>Comstock</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>C001105</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>VA</state>
+        <identifiers>
+          <lisID>2273</lisID>
+          <gpoId />
+          <bioguideId>C001105</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>10</district>
+        <party>R</party>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <firstName>Barbara</firstName>
+      </item>
+      <item>
+        <lastName>Moore</lastName>
+        <sponsorshipDate>2017-07-27</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001160</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WI</state>
+        <identifiers>
+          <lisID>1811</lisID>
+          <bioguideId>M001160</bioguideId>
+          <gpoId>8217</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. Moore, Gwen [D-WI-4]</fullName>
+        <firstName>Gwen</firstName>
+      </item>
+      <item>
+        <lastName>Mooney</lastName>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <middleName>X.</middleName>
+        <bioguideId>M001195</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>WV</state>
+        <identifiers>
+          <lisID>2277</lisID>
+          <gpoId />
+          <bioguideId>M001195</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Mooney, Alexander X. [R-WV-2]</fullName>
+        <firstName>Alexander</firstName>
+      </item>
+      <item>
+        <lastName>Meehan</lastName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>M001181</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>PA</state>
+        <identifiers>
+          <lisID>2052</lisID>
+          <gpoId>8125</gpoId>
+          <bioguideId>M001181</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>7</district>
+        <party>R</party>
+        <fullName>Rep. Meehan, Patrick [R-PA-7]</fullName>
+        <firstName>Patrick</firstName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. NORTON:H.R. 2989.Congress has the power to enact this legislation pursuantto the following:clause 18 of section 8 of article I of the Constitution.[Page H5049]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-09-27T07:16:20Z</updateDate>
+    <relatedBills>
+      <item>
+        <number>1582</number>
+        <latestAction>
+          <actionDate>2017-07-19</actionDate>
+          <text>Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S4083)</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <latestTitle>Frederick Douglass Bicentennial Commission Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <latestAction>
+      <links />
+      <actionDate>2017-07-19</actionDate>
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </latestAction>
+    <introducedDate>2017-06-21</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>N000147</bioguideId>
+        <district>0</district>
+        <middleName>HOLMES</middleName>
+        <fullName>Rep. Norton, Eleanor Holmes [D-DC-At Large]</fullName>
+        <identifiers>
+          <gpoId>7871</gpoId>
+          <lisID>868</lisID>
+          <bioguideId>N000147</bioguideId>
+        </identifiers>
+        <lastName>NORTON</lastName>
+        <party>D</party>
+        <byRequestType />
+        <state>DC</state>
+        <firstName>ELEANOR</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Civil Rights and Liberties, Minority Issues</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Frederick Douglass Bicentennial Commission Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To establish the Frederick Douglass Bicentennial Commission.</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Frederick Douglass Bicentennial Commission Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Frederick Douglass Bicentennial Commission Act</title>
+        <parentTitleType />
+        <chamberName />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Civil Rights and Liberties, Minority Issues</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <calendarNumbers />
+    <billNumber>2989</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

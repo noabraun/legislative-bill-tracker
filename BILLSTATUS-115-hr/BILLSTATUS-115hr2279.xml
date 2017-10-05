@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>5</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <text>Referred to House Administration</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <text>Referred to House Financial Services</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-05-01</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <createDate>2017-05-02T03:11:49Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>hsha00</systemCode>
+          <name>House Administration Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-01T16:01:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+          <type>Standing</type>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-05-01T16:00:54Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>2279</billNumber>
+    <sponsors>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Tsongas, Niki [D-MA-3]</fullName>
+        <identifiers>
+          <gpoId>7970</gpoId>
+          <lisID>1884</lisID>
+          <bioguideId>T000465</bioguideId>
+        </identifiers>
+        <lastName>Tsongas</lastName>
+        <bioguideId>T000465</bioguideId>
+        <party>D</party>
+        <state>MA</state>
+        <firstName>Niki</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-05-01</introducedDate>
+    <relatedBills />
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <title>U.S. Air Forces Escape and Evasion Society Recognition Act of 2017</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <updateDate>2017-10-02T22:15:15Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-05-01</actionDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-05-20T14:51:52Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p> <strong>U.S. Air Forces Escape and Evasion Society Recognition Act of 2017</strong></p> <p>This bill directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a gold medal to the U.S. Air Forces Escape and Evasion Society in recognition of the ceaseless efforts of American aircrew members to escape captivity and evade capture and the resistance organizations and nationals who assisted them.</p>]]></text>
+          <updateDate>2017-05-01T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to House Administration</text>
+      <actionDate>2017-05-01</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Scott, Austin [R-GA-8]</fullName>
+        <identifiers>
+          <gpoId>7905</gpoId>
+          <lisID>2009</lisID>
+          <bioguideId>S001189</bioguideId>
+        </identifiers>
+        <firstName>Austin</firstName>
+        <state>GA</state>
+        <district>8</district>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Scott</lastName>
+        <middleName />
+        <bioguideId>S001189</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Moulton, Seth [D-MA-6]</fullName>
+        <identifiers>
+          <bioguideId>M001196</bioguideId>
+          <gpoId />
+          <lisID>2246</lisID>
+        </identifiers>
+        <firstName>Seth</firstName>
+        <state>MA</state>
+        <district>6</district>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Moulton</lastName>
+        <middleName />
+        <bioguideId>M001196</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Farenthold, Blake [R-TX-27]</fullName>
+        <identifiers>
+          <lisID>2067</lisID>
+          <gpoId>8183</gpoId>
+          <bioguideId>F000460</bioguideId>
+        </identifiers>
+        <firstName>Blake</firstName>
+        <state>TX</state>
+        <district>27</district>
+        <sponsorshipDate>2017-05-01</sponsorshipDate>
+        <lastName>Farenthold</lastName>
+        <middleName />
+        <bioguideId>F000460</bioguideId>
+        <party>R</party>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bishop, Sanford D., Jr. [D-GA-2]</fullName>
+        <identifiers>
+          <bioguideId>B000490</bioguideId>
+          <gpoId>7899</gpoId>
+          <lisID>91</lisID>
+        </identifiers>
+        <firstName>SANFORD</firstName>
+        <state>GA</state>
+        <district>2</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>BISHOP</lastName>
+        <middleName>D.</middleName>
+        <bioguideId>B000490</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Neal, Richard E. [D-MA-1]</fullName>
+        <identifiers>
+          <bioguideId>N000015</bioguideId>
+          <lisID>854</lisID>
+          <gpoId>7967</gpoId>
+        </identifiers>
+        <firstName>RICHARD</firstName>
+        <state>MA</state>
+        <district>1</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>NEAL</lastName>
+        <middleName>E.</middleName>
+        <bioguideId>N000015</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Clark, Katherine M. [D-MA-5]</fullName>
+        <identifiers>
+          <lisID>2196</lisID>
+          <bioguideId>C001101</bioguideId>
+          <gpoId />
+        </identifiers>
+        <firstName>Katherine</firstName>
+        <state>MA</state>
+        <district>5</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Clark</lastName>
+        <middleName>M.</middleName>
+        <bioguideId>C001101</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeLauro, Rosa L. [D-CT-3]</fullName>
+        <identifiers>
+          <gpoId>7868</gpoId>
+          <bioguideId>D000216</bioguideId>
+          <lisID>281</lisID>
+        </identifiers>
+        <firstName>ROSA</firstName>
+        <state>CT</state>
+        <district>3</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>DELAURO</lastName>
+        <middleName />
+        <bioguideId>D000216</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <identifiers>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+          <gpoId>7911</gpoId>
+        </identifiers>
+        <firstName>Madeleine</firstName>
+        <state>GU</state>
+        <district>0</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Bordallo</lastName>
+        <middleName>Z.</middleName>
+        <bioguideId>B001245</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Walz, Timothy J. [D-MN-1]</fullName>
+        <identifiers>
+          <gpoId>8001</gpoId>
+          <lisID>1856</lisID>
+          <bioguideId>W000799</bioguideId>
+        </identifiers>
+        <firstName>Timothy</firstName>
+        <state>MN</state>
+        <district>1</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Walz</lastName>
+        <middleName>J.</middleName>
+        <bioguideId>W000799</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <identifiers>
+          <lisID>1756</lisID>
+          <bioguideId>R000577</bioguideId>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <firstName>TIM</firstName>
+        <state>OH</state>
+        <district>13</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>RYAN</lastName>
+        <middleName />
+        <bioguideId>R000577</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <lisID>1973</lisID>
+          <gpoId>7815</gpoId>
+        </identifiers>
+        <firstName>John</firstName>
+        <state>CA</state>
+        <district>3</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Garamendi</lastName>
+        <middleName />
+        <bioguideId>G000559</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <identifiers>
+          <lisID>1927</lisID>
+          <gpoId>7984</gpoId>
+          <bioguideId>P000597</bioguideId>
+        </identifiers>
+        <firstName>Chellie</firstName>
+        <state>ME</state>
+        <district>1</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Pingree</lastName>
+        <middleName />
+        <bioguideId>P000597</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <identifiers>
+          <lisID>1942</lisID>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+        </identifiers>
+        <firstName>Paul</firstName>
+        <state>NY</state>
+        <district>20</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Tonko</lastName>
+        <middleName />
+        <bioguideId>T000469</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kennedy, Joseph P., III [D-MA-4]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000379</bioguideId>
+          <lisID>2172</lisID>
+        </identifiers>
+        <firstName>Joseph</firstName>
+        <state>MA</state>
+        <district>4</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Kennedy</lastName>
+        <middleName>P.</middleName>
+        <bioguideId>K000379</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Keating, William R. [D-MA-9]</fullName>
+        <identifiers>
+          <lisID>2025</lisID>
+          <bioguideId>K000375</bioguideId>
+          <gpoId>7975</gpoId>
+        </identifiers>
+        <firstName>William</firstName>
+        <state>MA</state>
+        <district>9</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Keating</lastName>
+        <middleName>R.</middleName>
+        <bioguideId>K000375</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Pallone, Frank, Jr. [D-NJ-6]</fullName>
+        <identifiers>
+          <gpoId>8048</gpoId>
+          <lisID>887</lisID>
+          <bioguideId>P000034</bioguideId>
+        </identifiers>
+        <firstName>FRANK</firstName>
+        <state>NJ</state>
+        <district>6</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>PALLONE</lastName>
+        <middleName />
+        <bioguideId>P000034</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kildee, Daniel T. [D-MI-5]</fullName>
+        <identifiers>
+          <bioguideId>K000380</bioguideId>
+          <lisID>2134</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Daniel</firstName>
+        <state>MI</state>
+        <district>5</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Kildee</lastName>
+        <middleName>T.</middleName>
+        <bioguideId>K000380</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Gottheimer, Josh [D-NJ-5]</fullName>
+        <identifiers>
+          <bioguideId>G000583</bioguideId>
+          <lisID>2338</lisID>
+          <gpoId />
+        </identifiers>
+        <firstName>Josh</firstName>
+        <state>NJ</state>
+        <district>5</district>
+        <sponsorshipDate>2017-07-19</sponsorshipDate>
+        <lastName>Gottheimer</lastName>
+        <middleName />
+        <bioguideId>G000583</bioguideId>
+        <party>D</party>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Congressional tributes</name>
+          </item>
+          <item>
+            <name>Military operations and strategy</name>
+          </item>
+          <item>
+            <name>Military personnel and dependents</name>
+          </item>
+          <item>
+            <name>Museums, exhibitions, cultural centers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>U.S. Air Forces Escape and Evasion Society Recognition Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>U.S. Air Forces Escape and Evasion Society Recognition Act of 2017</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To award a gold medal on behalf of the Congress to the U.S. Air Forces Escape and Evasion Society, in recognition of the ceaseless efforts of American aircrew members to escape captivity and evade capture by the enemy forces in occupied countries during our foreign wars, and the brave resistance organizations and patriotic nationals of those foreign countries who assisted them.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <chamberName />
+        <parentTitleType />
+        <titleType>Display Title</titleType>
+        <title>U.S. Air Forces Escape and Evasion Society Recognition Act of 2017</title>
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. TSONGAS:H.R. 2279.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution[Page H3004]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

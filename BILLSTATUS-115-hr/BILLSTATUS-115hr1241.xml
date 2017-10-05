@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-06T07:15:51Z</updateDate>
+    <congress>115</congress>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Education and the Workforce.</text>
+        <actionDate>2017-02-28</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsed00</systemCode>
+          <name>Education and the Workforce Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-28</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-02-28</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <latestAction>
+      <links />
+      <actionDate>2017-02-28</actionDate>
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <district>3</district>
+        <middleName />
+        <fullName>Rep. Garamendi, John [D-CA-3]</fullName>
+        <lastName>Garamendi</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000559</bioguideId>
+          <gpoId>7815</gpoId>
+          <lisID>1973</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>John</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>G000559</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <district>3</district>
+        <middleName>B.</middleName>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <lastName>JONES</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>J000255</bioguideId>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+        </identifiers>
+        <state>NC</state>
+        <firstName>WALTER</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>J000255</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Gallagher, Mike [R-WI-8]</fullName>
+        <lastName>Gallagher</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>G000579</bioguideId>
+          <lisID>2355</lisID>
+          <gpoId />
+        </identifiers>
+        <state>WI</state>
+        <firstName>Mike</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>G000579</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <district>7</district>
+        <middleName>P.</middleName>
+        <fullName>Rep. Duffy, Sean P. [R-WI-7]</fullName>
+        <lastName>Duffy</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2072</lisID>
+          <gpoId>8220</gpoId>
+          <bioguideId>D000614</bioguideId>
+        </identifiers>
+        <state>WI</state>
+        <firstName>Sean</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>D000614</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <district>20</district>
+        <middleName />
+        <fullName>Rep. Panetta, Jimmy [D-CA-20]</fullName>
+        <lastName>Panetta</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000613</bioguideId>
+          <gpoId />
+          <lisID>2309</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>Jimmy</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>P000613</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-02-28</sponsorshipDate>
+        <district>9</district>
+        <middleName />
+        <fullName>Rep. Kaptur, Marcy [D-OH-9]</fullName>
+        <lastName>KAPTUR</lastName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <identifiers>
+          <lisID>616</lisID>
+          <bioguideId>K000009</bioguideId>
+          <gpoId>8099</gpoId>
+        </identifiers>
+        <state>OH</state>
+        <firstName>MARCY</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>K000009</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-09</sponsorshipDate>
+        <district>40</district>
+        <middleName />
+        <fullName>Rep. Roybal-Allard, Lucille [D-CA-40]</fullName>
+        <lastName>ROYBAL-ALLARD</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000486</bioguideId>
+          <gpoId>7839</gpoId>
+          <lisID>997</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>LUCILLE</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>R000486</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <district>1</district>
+        <middleName>K.</middleName>
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <lastName>DelBene</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>D000617</bioguideId>
+          <gpoId>8374</gpoId>
+          <lisID>2096</lisID>
+        </identifiers>
+        <state>WA</state>
+        <firstName>Suzan</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>D000617</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-13</sponsorshipDate>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <lastName>Raskin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2332</lisID>
+          <gpoId />
+          <bioguideId>R000606</bioguideId>
+        </identifiers>
+        <state>MD</state>
+        <firstName>Jamie</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>R000606</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-03-27</sponsorshipDate>
+        <district>13</district>
+        <middleName />
+        <fullName>Rep. Ryan, Tim [D-OH-13]</fullName>
+        <lastName>RYAN</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>R000577</bioguideId>
+          <lisID>1756</lisID>
+          <gpoId>8107</gpoId>
+        </identifiers>
+        <state>OH</state>
+        <firstName>TIM</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>R000577</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-05</sponsorshipDate>
+        <district>23</district>
+        <middleName />
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <lastName>Reed</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8090</gpoId>
+          <bioguideId>R000585</bioguideId>
+          <lisID>1982</lisID>
+        </identifiers>
+        <state>NY</state>
+        <firstName>Tom</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>R000585</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <district>27</district>
+        <middleName />
+        <fullName>Rep. Collins, Chris [R-NY-27]</fullName>
+        <lastName>Collins</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2151</lisID>
+          <bioguideId>C001092</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>NY</state>
+        <firstName>Chris</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>C001092</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-20</sponsorshipDate>
+        <district>3</district>
+        <middleName>S.</middleName>
+        <fullName>Rep. Yoho, Ted S. [R-FL-3]</fullName>
+        <lastName>Yoho</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>Y000065</bioguideId>
+          <gpoId />
+          <lisID>2115</lisID>
+        </identifiers>
+        <state>FL</state>
+        <firstName>Ted</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>Y000065</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-04-26</sponsorshipDate>
+        <district>21</district>
+        <middleName>G.</middleName>
+        <fullName>Rep. Valadao, David G. [R-CA-21]</fullName>
+        <lastName>Valadao</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>V000129</bioguideId>
+          <gpoId />
+          <lisID>2105</lisID>
+        </identifiers>
+        <state>CA</state>
+        <firstName>David</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>V000129</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <district>3</district>
+        <middleName>D.</middleName>
+        <fullName>Rep. Lucas, Frank D. [R-OK-3]</fullName>
+        <lastName>LUCAS</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <gpoId>8111</gpoId>
+          <bioguideId>L000491</bioguideId>
+          <lisID>711</lisID>
+        </identifiers>
+        <state>OK</state>
+        <firstName>FRANK</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <bioguideId>L000491</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-05-16</sponsorshipDate>
+        <district>24</district>
+        <middleName>O.</middleName>
+        <fullName>Rep. Carbajal, Salud O. [D-CA-24]</fullName>
+        <lastName>Carbajal</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <lisID>2310</lisID>
+          <bioguideId>C001112</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>CA</state>
+        <firstName>Salud</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001112</bioguideId>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-05</sponsorshipDate>
+        <district>1</district>
+        <middleName />
+        <fullName>Rep. Pingree, Chellie [D-ME-1]</fullName>
+        <lastName>Pingree</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <identifiers>
+          <bioguideId>P000597</bioguideId>
+          <gpoId>7984</gpoId>
+          <lisID>1927</lisID>
+        </identifiers>
+        <state>ME</state>
+        <firstName>Chellie</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>P000597</bioguideId>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-02-28</introducedDate>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>American Food for American Schools Act of 2017</title>
+        <chamberName />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>American Food for American Schools Act of 2017</title>
+        <chamberName />
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>To amend the Richard B. Russell National School Lunch Act to require a school food authority to make publicly available any waiver of the Buy American requirement, and for other purposes.</title>
+        <chamberName />
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <title>American Food for American Schools Act of 2017</title>
+        <chamberName />
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <relatedBills />
+    <createDate>2017-03-01T05:20:53Z</createDate>
+    <policyArea>
+      <name>Agriculture and Food</name>
+    </policyArea>
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. LaMALFA:H.R. 1241.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution.[Page H1392]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Agriculture and Food</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Agricultural prices, subsidies, credit</name>
+          </item>
+          <item>
+            <name>Agricultural trade</name>
+          </item>
+          <item>
+            <name>Buy American requirements</name>
+          </item>
+          <item>
+            <name>Elementary and secondary education</name>
+          </item>
+          <item>
+            <name>Food assistance and relief</name>
+          </item>
+          <item>
+            <name>Food industry and services</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-02-28T15:00:21Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Education and the Workforce Committee</name>
+          <systemCode>hsed00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <actionDate>2017-02-28</actionDate>
+          <lastSummaryUpdateDate>2017-03-14T17:53:13Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>American Food for American Schools Act of 2017</b></p> <p>This bill amends the Richard B. Russell National School Lunch Act to require school food authorities (SFAs) to request a waiver from the Department of Agriculture (USDA) to purchase foreign commodities or products for the National School Lunch Program (NSLP). SFAs may purchase foreign commodities or products without a waiver if the commodities or products are not produced or available domestically. </p> <p>(Under current law, Buy American provisions require SFAs to purchase, to the maximum extent practicable, domestic commodities or products for the NSLP. There are limited exceptions which permit the purchase of foreign products in circumstances when using domestic products is truly not practicable. If an SFA uses an exception, there is no requirement to request a waiver to purchase a foreign product or commodity, but the SFA must keep documentation justifying the exception.) </p> <p>USDA may not grant a waiver for an SFA to purchase foreign commodities or products unless: (1) the commodities or products are not produced domestically in sufficient amounts or of satisfactory quality, (2) the domestic commodities or products would be significantly higher in price than foreign commodities or products, and (3) the SFA agrees to make the waiver publicly available on its website and email a notification of the waiver to parents or guardians of students who will be served the foreign commodity or product purchased pursuant to the waiver.</p>]]></text>
+          <updateDate>2017-02-28T05:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <state>CA</state>
+        <bioguideId>L000578</bioguideId>
+        <firstName>Doug</firstName>
+        <district>1</district>
+        <middleName />
+        <lastName>LaMalfa</lastName>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <billNumber>1241</billNumber>
+    <title>American Food for American Schools Act of 2017</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

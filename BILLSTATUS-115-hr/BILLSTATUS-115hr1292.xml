@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-03-02T05:13:48Z</createDate>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <actions>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <committee>
+          <systemCode>hsju00</systemCode>
+          <name>Judiciary Committee</name>
+        </committee>
+        <links />
+        <actionDate>2017-03-01</actionDate>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionDate>2017-03-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <committee />
+        <links />
+        <actionDate>2017-03-01</actionDate>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+      </item>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <title>CAPTIVE Act</title>
+    <cboCostEstimates />
+    <notes />
+    <recordedVotes />
+    <version>1.0.0</version>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <systemCode>hsju00</systemCode>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-03-01T15:02:15Z</date>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Judiciary Committee</name>
+          <chamber>House</chamber>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <lastName>Rooney</lastName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <middleName>J.</middleName>
+        <bioguideId>R000583</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <identifiers>
+          <lisID>1916</lisID>
+          <gpoId>7888</gpoId>
+          <bioguideId>R000583</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>17</district>
+        <party>R</party>
+        <fullName>Rep. Rooney, Thomas J. [R-FL-17]</fullName>
+        <firstName>Thomas</firstName>
+      </item>
+      <item>
+        <lastName>Deutch</lastName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <middleName>E.</middleName>
+        <bioguideId>D000610</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>FL</state>
+        <identifiers>
+          <gpoId>7891</gpoId>
+          <lisID>1976</lisID>
+          <bioguideId>D000610</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>22</district>
+        <party>D</party>
+        <fullName>Rep. Deutch, Theodore E. [D-FL-22]</fullName>
+        <firstName>Theodore</firstName>
+      </item>
+      <item>
+        <lastName>Johnson</lastName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <middleName>C. "Hank"</middleName>
+        <bioguideId>J000288</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>GA</state>
+        <identifiers>
+          <bioguideId>J000288</bioguideId>
+          <lisID>1843</lisID>
+          <gpoId>7901</gpoId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>4</district>
+        <party>D</party>
+        <fullName>Rep. Johnson, Henry C. "Hank," Jr. [D-GA-4]</fullName>
+        <firstName>Henry</firstName>
+      </item>
+      <item>
+        <lastName>Trott</lastName>
+        <sponsorshipDate>2017-03-01</sponsorshipDate>
+        <middleName>A.</middleName>
+        <bioguideId>T000475</bioguideId>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>MI</state>
+        <identifiers>
+          <lisID>2250</lisID>
+          <bioguideId>T000475</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>11</district>
+        <party>R</party>
+        <fullName>Rep. Trott, David A. [R-MI-11]</fullName>
+        <firstName>David</firstName>
+      </item>
+      <item>
+        <lastName>Roby</lastName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <middleName />
+        <bioguideId>R000591</bioguideId>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AL</state>
+        <identifiers>
+          <lisID>1986</lisID>
+          <gpoId>7787</gpoId>
+          <bioguideId>R000591</bioguideId>
+        </identifiers>
+        <sponsorshipWithdrawnDate />
+        <district>2</district>
+        <party>R</party>
+        <fullName>Rep. Roby, Martha [R-AL-2]</fullName>
+        <firstName>Martha</firstName>
+      </item>
+    </cosponsors>
+    <originChamber>House</originChamber>
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. POSEY:H.R. 1292.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3 of the Constitution of theUnited States: To regulate commerce with foreign nations, andamong the several states, and with the Indian tribes;Article I, Section 8, Clause 9 of the Constitution of theUnited States: To constitute tribunals inferior to theSupreme Court;Article I, Section 8, Clause 10 of the Constitution of theUnited States: To define and punish Piracies and Feloniescommitted on the high Seas, and Offenses against the Law ofNations;Article I, Section 8, Clause 18 of the Constitution of theUnited States: To make all Laws which shall be necessary andproper for carrying into Execution the forgoing Powers, andall other Powers vested by this Constitution in theGovernment of the United States or in any Department orOfficer thereof;Amendment V No person shall be . . . deprived of life,liberty, or property, without due process of law.[Page H1464]</pre>]]></constitutionalAuthorityStatementText>
+    <updateDate>2017-09-27T07:15:49Z</updateDate>
+    <relatedBills />
+    <latestAction>
+      <links />
+      <actionDate>2017-03-01</actionDate>
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </latestAction>
+    <introducedDate>2017-03-01</introducedDate>
+    <sponsors>
+      <item>
+        <bioguideId>P000599</bioguideId>
+        <district>8</district>
+        <middleName />
+        <fullName>Rep. Posey, Bill [R-FL-8]</fullName>
+        <identifiers>
+          <lisID>1915</lisID>
+          <gpoId>7887</gpoId>
+          <bioguideId>P000599</bioguideId>
+        </identifiers>
+        <lastName>Posey</lastName>
+        <party>R</party>
+        <byRequestType />
+        <state>FL</state>
+        <firstName>Bill</firstName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Law</name>
+    </policyArea>
+    <laws />
+    <congress>115</congress>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>CAPTIVE Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Clarifying Amendment to Provide Terrorism Victims Equity Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>CAPTIVE Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Clarifying Amendment to Provide Terrorism Victims Equity Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Terrorism Risk Insurance Act of 2002 to allow for the use of certain assets of foreign persons and entities to satisfy certain judgments against terrorist parties, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>CAPTIVE Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Law</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Bank accounts, deposits, capital</name>
+          </item>
+          <item>
+            <name>Civil actions and liability</name>
+          </item>
+          <item>
+            <name>Crime victims</name>
+          </item>
+          <item>
+            <name>Foreign property</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <amendments />
+    <calendarNumbers />
+    <billNumber>1292</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

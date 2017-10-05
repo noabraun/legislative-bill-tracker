@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-06-08</introducedDate>
+    <createDate>2017-06-09T03:11:39Z</createDate>
+    <billType>HR</billType>
+    <committees>
+      <billCommittees>
+        <item>
+          <subcommittees />
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+          <activities>
+            <item>
+              <date>2017-09-06T15:24:19Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+        </item>
+        <item>
+          <subcommittees />
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+          <activities>
+            <item>
+              <date>2017-09-05T18:39:20Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-25T13:57:24Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-06-08T14:05:50Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <links />
+      <actionDate>2017-09-06</actionDate>
+    </latestAction>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>16</houseOfRepresentatives>
+        <senate>1</senate>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-09-06</actionDate>
+        <committee>
+          <name>Banking, Housing, and Urban Affairs Committee</name>
+          <systemCode>ssbk00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>H38310</actionCode>
+        <links />
+        <actionTime>19:08:03</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>H37300</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6641</url>
+            <name>H6641</name>
+          </link>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll440.xml</url>
+            <name>Roll no. 440</name>
+          </link>
+        </links>
+        <actionTime>19:08:02</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 3 (Roll no. 440). (text: CR H6641)</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>8000</actionCode>
+        <links>
+          <link>
+            <url>http://clerk.house.gov/evs/2017/roll440.xml</url>
+            <name>Roll no. 440</name>
+          </link>
+        </links>
+        <actionTime>19:08:02</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 3 (Roll no. 440).</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6644</url>
+            <name>H6644</name>
+          </link>
+        </links>
+        <actionTime>18:59:07</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>Considered as unfinished business. (consideration: CR H6644)</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>H37220</actionCode>
+        <links />
+        <actionTime>18:05:22</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>H8D000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/2864</url>
+            <name>H.R. 2864</name>
+          </link>
+        </links>
+        <actionTime>17:54:01</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2864.</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>H30000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H6641-6643</url>
+            <name>H6641-6643</name>
+          </link>
+        </links>
+        <actionTime>17:53:59</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>Considered under suspension of the rules. (consideration: CR H6641-6643)</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>H30300</actionCode>
+        <links />
+        <actionTime>17:53:49</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Floor</type>
+        <committee />
+        <text>Mr. Hultgren moved to suspend the rules and pass the bill, as amended.</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>H12410</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Calendars</type>
+        <committee />
+        <text>Placed on the Union Calendar, Calendar No. 210.</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>H12200</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/292</url>
+            <name>H. Rept. 115-292</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-292.</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionCode>5000</actionCode>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/292</url>
+            <name>H. Rept. 115-292</name>
+          </link>
+        </links>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>Committee</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 115-292.</text>
+        <actionDate>2017-09-05</actionDate>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Ordered to be Reported (Amended) by the Yeas and Nays: 59 - 0.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-25</actionDate>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee>
+          <name>Financial Services Committee</name>
+          <systemCode>hsba00</systemCode>
+        </committee>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <actionDate>2017-06-08</actionDate>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-08</actionDate>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <type>IntroReferral</type>
+        <committee />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-08</actionDate>
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <reportedToHouse>1</reportedToHouse>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <considerationByHouse>2</considerationByHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <actionStageOverride>1</actionStageOverride>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <placeholderTextForH>2</placeholderTextForH>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <updateDate>2017-09-07T09:56:16Z</updateDate>
+    <version>1.0.0</version>
+    <notes />
+    <laws />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects />
+      </billSubjects>
+    </subjects>
+    <sponsors>
+      <item>
+        <firstName>Kyrsten</firstName>
+        <byRequestType />
+        <bioguideId>S001191</bioguideId>
+        <district>9</district>
+        <lastName>Sinema</lastName>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <identifiers>
+          <lisID>2099</lisID>
+          <gpoId />
+          <bioguideId>S001191</bioguideId>
+        </identifiers>
+        <party>D</party>
+        <middleName />
+        <state>AZ</state>
+      </item>
+    </sponsors>
+    <congress>115</congress>
+    <summaries>
+      <billSummaries />
+    </summaries>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-292</citation>
+      </committeeReport>
+    </committeeReports>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. SINEMA:H.R. 2864.Congress has the power to enact this legislation pursuantto the following:Article 1. Section 8.[Page H4820]</pre>]]></constitutionalAuthorityStatementText>
+    <billNumber>2864</billNumber>
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Improving Access to Capital Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Improving Access to Capital Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>To direct the Securities and Exchange Commission to allow certain issuers to be exempt from registration requirements, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <title>Improving Access to Capital Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Hollingsworth</lastName>
+        <identifiers>
+          <lisID>2327</lisID>
+          <bioguideId>H001074</bioguideId>
+          <gpoId />
+        </identifiers>
+        <district>9</district>
+        <party>R</party>
+        <bioguideId>H001074</bioguideId>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <state>IN</state>
+        <firstName>Trey</firstName>
+        <fullName>Rep. Hollingsworth, Trey [R-IN-9]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Williams</lastName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>W000816</bioguideId>
+          <lisID>2165</lisID>
+        </identifiers>
+        <district>25</district>
+        <party>R</party>
+        <bioguideId>W000816</bioguideId>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>TX</state>
+        <firstName>Roger</firstName>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName>French</middleName>
+        <lastName>Hill</lastName>
+        <identifiers>
+          <lisID>2223</lisID>
+          <gpoId />
+          <bioguideId>H001072</bioguideId>
+        </identifiers>
+        <district>2</district>
+        <party>R</party>
+        <bioguideId>H001072</bioguideId>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>AR</state>
+        <firstName>J.</firstName>
+        <fullName>Rep. Hill, J. French [R-AR-2]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>Messer</lastName>
+        <identifiers>
+          <bioguideId>M001189</bioguideId>
+          <lisID>2130</lisID>
+          <gpoId />
+        </identifiers>
+        <district>6</district>
+        <party>R</party>
+        <bioguideId>M001189</bioguideId>
+        <sponsorshipDate>2017-07-25</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>IN</state>
+        <firstName>Luke</firstName>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <middleName />
+        <lastName>SHERMAN</lastName>
+        <identifiers>
+          <bioguideId>S000344</bioguideId>
+          <lisID>1526</lisID>
+          <gpoId>7832</gpoId>
+        </identifiers>
+        <district>30</district>
+        <party>D</party>
+        <bioguideId>S000344</bioguideId>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <state>CA</state>
+        <firstName>BRAD</firstName>
+        <fullName>Rep. Sherman, Brad [D-CA-30]</fullName>
+      </item>
+    </cosponsors>
+    <title>Improving Access to Capital Act</title>
+    <relatedBills />
+    <calendarNumbers>
+      <item>
+        <number />
+        <calendar>U00210</calendar>
+      </item>
+    </calendarNumbers>
+    <recordedVotes>
+      <recordedVote>
+        <chamber>House</chamber>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll440.xml</url>
+        <sessionNumber>1</sessionNumber>
+        <date>2017-09-05T23:08:02Z</date>
+        <rollNumber>440</rollNumber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+      </recordedVote>
+    </recordedVotes>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+      <actionDate>2017-10-03</actionDate>
+    </latestAction>
+    <laws />
+    <recordedVotes>
+      <recordedVote>
+        <congress>115</congress>
+        <url>http://clerk.house.gov/evs/2017/roll544.xml</url>
+        <date>2017-10-02T22:52:42Z</date>
+        <chamber>House</chamber>
+        <fullActionName>Final Passage Under Suspension of the Rules Results</fullActionName>
+        <rollNumber>544</rollNumber>
+        <sessionNumber>1</sessionNumber>
+      </recordedVote>
+    </recordedVotes>
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>Senate</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-10-03T19:50:41Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees />
+          <name>Energy and Natural Resources Committee</name>
+          <systemCode>sseg00</systemCode>
+        </item>
+        <item>
+          <chamber>House</chamber>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <date>2017-08-29T16:29:05Z</date>
+              <name>Reported by</name>
+            </item>
+            <item>
+              <date>2017-07-26T17:07:25Z</date>
+              <name>Markup by</name>
+            </item>
+            <item>
+              <date>2017-03-15T20:31:20Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <activities>
+                <item>
+                  <date>2017-07-14T19:38:55Z</date>
+                  <name>Hearings by</name>
+                </item>
+                <item>
+                  <date>2017-03-24T20:23:00Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Federal Lands Subcommittee</name>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <billType>HR</billType>
+    <calendarNumbers>
+      <item>
+        <calendar>U00200</calendar>
+        <number />
+      </item>
+    </calendarNumbers>
+    <notes />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Public Lands and Natural Resources</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Arizona</name>
+          </item>
+          <item>
+            <name>Economic development</name>
+          </item>
+          <item>
+            <name>Land transfers</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <introducedDate>2017-03-15</introducedDate>
+    <createDate>2017-03-16T05:28:13Z</createDate>
+    <amendments />
+    <cboCostEstimates />
+    <policyArea>
+      <name>Public Lands and Natural Resources</name>
+    </policyArea>
+    <congress>115</congress>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>G000565</bioguideId>
+          <lisID>1992</lisID>
+          <gpoId>7798</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Paul</firstName>
+        <state>AZ</state>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>4</district>
+        <fullName>Rep. Gosar, Paul A. [R-AZ-4]</fullName>
+        <lastName>Gosar</lastName>
+        <party>R</party>
+        <bioguideId>G000565</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>1994</lisID>
+          <bioguideId>S001183</bioguideId>
+          <gpoId>7802</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <state>AZ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>6</district>
+        <fullName>Rep. Schweikert, David [R-AZ-6]</fullName>
+        <lastName>Schweikert</lastName>
+        <party>R</party>
+        <bioguideId>S001183</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId>7799</gpoId>
+          <bioguideId>F000448</bioguideId>
+          <lisID>1707</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Trent</firstName>
+        <state>AZ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>8</district>
+        <fullName>Rep. Franks, Trent [R-AZ-8]</fullName>
+        <lastName>Franks</lastName>
+        <party>R</party>
+        <bioguideId>F000448</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <lisID>2307</lisID>
+          <bioguideId>B001302</bioguideId>
+          <gpoId />
+        </identifiers>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Andy</firstName>
+        <state>AZ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>5</district>
+        <fullName>Rep. Biggs, Andy [R-AZ-5]</fullName>
+        <lastName>Biggs</lastName>
+        <party>R</party>
+        <bioguideId>B001302</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>S001191</bioguideId>
+          <gpoId />
+          <lisID>2099</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Kyrsten</firstName>
+        <state>AZ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>9</district>
+        <fullName>Rep. Sinema, Kyrsten [D-AZ-9]</fullName>
+        <lastName>Sinema</lastName>
+        <party>D</party>
+        <bioguideId>S001191</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000171</bioguideId>
+          <lisID>2306</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <state>AZ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>1</district>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <lastName>O'Halleran</lastName>
+        <party>D</party>
+        <bioguideId>O000171</bioguideId>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>G000574</bioguideId>
+          <gpoId />
+          <lisID>2226</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-03-15</sponsorshipDate>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ruben</firstName>
+        <state>AZ</state>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <district>7</district>
+        <fullName>Rep. Gallego, Ruben [D-AZ-7]</fullName>
+        <lastName>Gallego</lastName>
+        <party>D</party>
+        <bioguideId>G000574</bioguideId>
+      </item>
+    </cosponsors>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 115-280</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <latestTitle>Udall Park Land Exchange Completion Act</latestTitle>
+        <number>612</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+        <type>S</type>
+        <congress>115</congress>
+        <latestAction>
+          <actionDate>2017-03-13</actionDate>
+          <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        </latestAction>
+      </item>
+    </relatedBills>
+    <title>Udall Park Land Exchange Completion Act</title>
+    <actions>
+      <actionTypeCounts>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <generalDebate>1</generalDebate>
+        <referredToCommittee>1</referredToCommittee>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <prayer>1</prayer>
+        <unionCalendarAssignment>1</unionCalendarAssignment>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <placeholderTextForH>3</placeholderTextForH>
+        <committeeReportOfABill>1</committeeReportOfABill>
+        <introducedInHouse>1</introducedInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <reportedToHouse>1</reportedToHouse>
+        <considerationByHouse>2</considerationByHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <actionStageOverride>1</actionStageOverride>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>18</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-10-03</actionDate>
+        <committee>
+          <systemCode>sseg00</systemCode>
+          <name>Energy and Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>Senate</name>
+          <code>0</code>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionTime>18:52:43</actionTime>
+        <actionCode>H38310</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 544). (text: CR H7641)</text>
+        <actionTime>18:52:42</actionTime>
+        <actionCode>H37300</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H7641</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7641</url>
+          </link>
+          <link>
+            <name>Roll no. 544</name>
+            <url>http://clerk.house.gov/evs/2017/roll544.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 544).</text>
+        <actionTime>18:52:42</actionTime>
+        <actionCode>8000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>Roll no. 544</name>
+            <url>http://clerk.house.gov/evs/2017/roll544.xml</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered as unfinished business. (consideration: CR H7650-7651)</text>
+        <actionTime>18:31:35</actionTime>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H7650-7651</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7650-7651</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+        <actionTime>17:14:25</actionTime>
+        <actionCode>H37220</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1547.</text>
+        <actionTime>17:07:31</actionTime>
+        <actionCode>H8D000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H.R. 1547</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/1547</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H7641-7642)</text>
+        <actionTime>17:07:29</actionTime>
+        <actionCode>H30000</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <links>
+          <link>
+            <name>H7641-7642</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H7641-7642</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Mr. Thompson (PA) moved to suspend the rules and pass the bill.</text>
+        <actionTime>17:07:01</actionTime>
+        <actionCode>H30300</actionCode>
+        <type>Floor</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-10-02</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Placed on the Union Calendar, Calendar No. 200.</text>
+        <actionCode>H12410</actionCode>
+        <type>Calendars</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-08-29</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-280.</text>
+        <actionCode>H12200</actionCode>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-08-29</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-280</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/280</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <text>Reported by the Committee on Natural Resources. H. Rept. 115-280.</text>
+        <actionCode>5000</actionCode>
+        <type>Committee</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-08-29</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links>
+          <link>
+            <name>H. Rept. 115-280</name>
+            <url>https://www.congress.gov/congressional-report/115th-congress/house-report/280</url>
+          </link>
+        </links>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Ordered to be Reported by Unanimous Consent.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-26</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Committee Consideration and Mark-up Session Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-07-14</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Subcommittee Hearings Held.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2017-03-24</actionDate>
+        <committee>
+          <systemCode>hsii10</systemCode>
+          <name>Federal Lands Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <actionCode>H11100</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-03-15</actionDate>
+        <committee>
+          <systemCode>hsii00</systemCode>
+          <name>Natural Resources Committee</name>
+        </committee>
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>Intro-H</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-15</actionDate>
+        <committee />
+        <links />
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <actionCode>1000</actionCode>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-03-15</actionDate>
+        <committee />
+        <links />
+      </item>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Ms. ROS-LEHTINEN:H.R. 2061.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H2792]</pre>]]></constitutionalAuthorityStatementText>
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Udall Park Land Exchange Completion Act</b></p> This bill directs the Department of the Interior to convey, without consideration, to the city of Tucson, Arizona, the reversionary interest of the United States in and to an approximately 172.8-acre parcel of land owned by the city for the purpose of unencumbering the title to such land to enable its economic development.]]></text>
+          <lastSummaryUpdateDate>2017-04-07T18:37:24Z</lastSummaryUpdateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-03-15</actionDate>
+          <updateDate>2017-03-15T04:00:00Z</updateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <version>1.0.0</version>
+    <titles>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <title>Udall Park Land Exchange Completion Act</title>
+        <titleType>Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberName>House</chamberName>
+        <title>Udall Park Land Exchange Completion Act</title>
+        <titleType>Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Udall Park Land Exchange Completion Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>To provide for the unencumbering of title to non-Federal land owned by the city of Tucson, Arizona, for purposes of economic development by conveyance of the Federal reversionary interest to the City.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Udall Park Land Exchange Completion Act</title>
+        <titleType>Display Title</titleType>
+        <chamberCode />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <title>Udall Park Land Exchange Completion Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName>House</chamberName>
+        <title>Udall Park Land Exchange Completion Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Reported to House</titleType>
+        <chamberCode>H</chamberCode>
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberName />
+        <title>Udall Park Land Exchange Completion Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberCode />
+      </item>
+    </titles>
+    <updateDate>2017-10-04T16:00:14Z</updateDate>
+    <sponsors>
+      <item>
+        <middleName />
+        <firstName>Martha</firstName>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <bioguideId>M001197</bioguideId>
+        <lastName>McSally</lastName>
+        <party>R</party>
+        <identifiers>
+          <lisID>2225</lisID>
+          <bioguideId>M001197</bioguideId>
+          <gpoId />
+        </identifiers>
+        <state>AZ</state>
+        <district>2</district>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <billNumber>1547</billNumber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

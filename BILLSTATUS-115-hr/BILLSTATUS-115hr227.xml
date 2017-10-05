@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills />
+    <committeeReports />
+    <billType>HR</billType>
+    <actions>
+      <item>
+        <actionDate>2017-02-10</actionDate>
+        <committee>
+          <name>Federal Lands Subcommittee</name>
+          <systemCode>hsii10</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Federal Lands.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Natural Resources.</text>
+        <committee>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </committee>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <links />
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <links />
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionDate>2017-01-03</actionDate>
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <text><![CDATA[<p><b>Multinational Species Conservation Funds Reauthorization Act</b></p> <p>This bill reauthorizes the African Elephant Conservation Act, the Rhinoceros and Tiger Conservation Act of 1994, the Asian Elephant Conservation Act of 1997, the Great Ape Conservation Fund, and the Marine Turtle Conservation Fund through FY2022.</p> <p>This bill amends the Great Ape Conservation Act of 2000 to authorize Department of the Interior to award a multi-year grant to carry out a project that is an effective, long-term conservation strategy for great apes (chimpanzees, gorillas, bonobos, orangutans, or gibbons) and their habitats.</p> <p>Interior is required to convene a panel of experts to identify the greatest needs and priorities for the conservation of great apes within a year and every five years thereafter. Current law authorizes Interior to convene a panel to consider the greatest conservation needs every two years. The panel is required to consider relevant great ape conservation plans or strategies.</s></p> <p>This bill amends the Marine Turtle Conservation Act of 2004 to make a wildlife management authority of a U.S. territory eligible for financial assistance for marine turtle conservation.</p>]]></text>
+          <actionDate>2017-01-03</actionDate>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-03-06T17:34:06Z</lastSummaryUpdateDate>
+          <name>Introduced in House</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <createDate>2017-01-04T07:01:13Z</createDate>
+    <latestAction>
+      <links />
+      <actionDate>2017-02-10</actionDate>
+      <text>Referred to the Subcommittee on Federal Lands.</text>
+    </latestAction>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <firstName>DON</firstName>
+        <identifiers>
+          <gpoId>7785</gpoId>
+          <bioguideId>Y000033</bioguideId>
+          <lisID>1256</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>AK</state>
+        <fullName>Rep. Young, Don [R-AK-At Large]</fullName>
+        <bioguideId>Y000033</bioguideId>
+        <middleName>E.</middleName>
+        <district>0</district>
+        <party>R</party>
+        <lastName>YOUNG</lastName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Animals</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <state>NY</state>
+        <district>20</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Tonko, Paul [D-NY-20]</fullName>
+        <identifiers>
+          <bioguideId>T000469</bioguideId>
+          <gpoId>8082</gpoId>
+          <lisID>1942</lisID>
+        </identifiers>
+        <lastName>Tonko</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Paul</firstName>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <bioguideId>T000469</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>MD</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Ruppersberger, C. A. Dutch [D-MD-2]</fullName>
+        <identifiers>
+          <lisID>1728</lisID>
+          <gpoId>7977</gpoId>
+          <bioguideId>R000576</bioguideId>
+        </identifiers>
+        <lastName>Ruppersberger</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>C. A.</firstName>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <bioguideId>R000576</bioguideId>
+        <middleName>Dutch</middleName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>WI</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Kind, Ron [D-WI-3]</fullName>
+        <identifiers>
+          <lisID>1498</lisID>
+          <gpoId>8216</gpoId>
+          <bioguideId>K000188</bioguideId>
+        </identifiers>
+        <lastName>KIND</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>RON</firstName>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <bioguideId>K000188</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>IA</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Young, David [R-IA-3]</fullName>
+        <identifiers>
+          <lisID>2242</lisID>
+          <gpoId />
+          <bioguideId>Y000066</bioguideId>
+        </identifiers>
+        <lastName>Young</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <bioguideId>Y000066</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Soto, Darren [D-FL-9]</fullName>
+        <identifiers>
+          <lisID>2319</lisID>
+          <gpoId />
+          <bioguideId>S001200</bioguideId>
+        </identifiers>
+        <lastName>Soto</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Darren</firstName>
+        <sponsorshipDate>2017-02-27</sponsorshipDate>
+        <bioguideId>S001200</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <district>33</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Lieu, Ted [D-CA-33]</fullName>
+        <identifiers>
+          <bioguideId>L000582</bioguideId>
+          <lisID>2230</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Lieu</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Ted</firstName>
+        <sponsorshipDate>2017-03-07</sponsorshipDate>
+        <bioguideId>L000582</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>OR</state>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Blumenauer, Earl [D-OR-3]</fullName>
+        <identifiers>
+          <lisID>99</lisID>
+          <gpoId>8116</gpoId>
+          <bioguideId>B000574</bioguideId>
+        </identifiers>
+        <lastName>BLUMENAUER</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>EARL</firstName>
+        <sponsorshipDate>2017-03-29</sponsorshipDate>
+        <bioguideId>B000574</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>VT</state>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Welch, Peter [D-VT-At Large]</fullName>
+        <identifiers>
+          <lisID>1879</lisID>
+          <gpoId>8204</gpoId>
+          <bioguideId>W000800</bioguideId>
+        </identifiers>
+        <lastName>Welch</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Peter</firstName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <bioguideId>W000800</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>WA</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DelBene, Suzan K. [D-WA-1]</fullName>
+        <identifiers>
+          <lisID>2096</lisID>
+          <gpoId>8374</gpoId>
+          <bioguideId>D000617</bioguideId>
+        </identifiers>
+        <lastName>DelBene</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Suzan</firstName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <bioguideId>D000617</bioguideId>
+        <middleName>K.</middleName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>HI</state>
+        <district>1</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Hanabusa, Colleen [D-HI-1]</fullName>
+        <identifiers>
+          <bioguideId>H001050</bioguideId>
+          <gpoId>7912</gpoId>
+          <lisID>2010</lisID>
+        </identifiers>
+        <lastName>Hanabusa</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Colleen</firstName>
+        <sponsorshipDate>2017-05-02</sponsorshipDate>
+        <bioguideId>H001050</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>FL</state>
+        <district>16</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Buchanan, Vern [R-FL-16]</fullName>
+        <identifiers>
+          <lisID>1840</lisID>
+          <gpoId>7885</gpoId>
+          <bioguideId>B001260</bioguideId>
+        </identifiers>
+        <lastName>Buchanan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Vern</firstName>
+        <sponsorshipDate>2017-05-17</sponsorshipDate>
+        <bioguideId>B001260</bioguideId>
+        <middleName />
+        <party>R</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <district>44</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Barragan, Nanette Diaz [D-CA-44]</fullName>
+        <identifiers>
+          <lisID>2311</lisID>
+          <gpoId />
+          <bioguideId>B001300</bioguideId>
+        </identifiers>
+        <lastName>Barragan</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Nanette</firstName>
+        <sponsorshipDate>2017-05-24</sponsorshipDate>
+        <bioguideId>B001300</bioguideId>
+        <middleName>Diaz</middleName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>NJ</state>
+        <district>2</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. LoBiondo, Frank A. [R-NJ-2]</fullName>
+        <identifiers>
+          <lisID>699</lisID>
+          <gpoId>8044</gpoId>
+          <bioguideId>L000554</bioguideId>
+        </identifiers>
+        <lastName>LOBIONDO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>FRANK</firstName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>L000554</bioguideId>
+        <middleName>A.</middleName>
+        <party>R</party>
+      </item>
+      <item>
+        <state>MD</state>
+        <district>8</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Raskin, Jamie [D-MD-8]</fullName>
+        <identifiers>
+          <bioguideId>R000606</bioguideId>
+          <gpoId />
+          <lisID>2332</lisID>
+        </identifiers>
+        <lastName>Raskin</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Jamie</firstName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>R000606</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>CA</state>
+        <district>28</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Schiff, Adam B. [D-CA-28]</fullName>
+        <identifiers>
+          <lisID>1635</lisID>
+          <gpoId>7834</gpoId>
+          <bioguideId>S001150</bioguideId>
+        </identifiers>
+        <lastName>SCHIFF</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>ADAM</firstName>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <bioguideId>S001150</bioguideId>
+        <middleName>B.</middleName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>GU</state>
+        <district>0</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. Bordallo, Madeleine Z. [D-GU-At Large]</fullName>
+        <identifiers>
+          <gpoId>7911</gpoId>
+          <bioguideId>B001245</bioguideId>
+          <lisID>1723</lisID>
+        </identifiers>
+        <lastName>Bordallo</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>Madeleine</firstName>
+        <sponsorshipDate>2017-07-11</sponsorshipDate>
+        <bioguideId>B001245</bioguideId>
+        <middleName>Z.</middleName>
+        <party>D</party>
+      </item>
+      <item>
+        <state>MN</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. McCollum, Betty [D-MN-4]</fullName>
+        <identifiers>
+          <gpoId>8004</gpoId>
+          <lisID>1653</lisID>
+          <bioguideId>M001143</bioguideId>
+        </identifiers>
+        <lastName>MCCOLLUM</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>BETTY</firstName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <bioguideId>M001143</bioguideId>
+        <middleName />
+        <party>D</party>
+      </item>
+      <item>
+        <state>OR</state>
+        <district>4</district>
+        <sponsorshipWithdrawnDate />
+        <fullName>Rep. DeFazio, Peter A. [D-OR-4]</fullName>
+        <identifiers>
+          <bioguideId>D000191</bioguideId>
+          <gpoId>8117</gpoId>
+          <lisID>279</lisID>
+        </identifiers>
+        <lastName>DEFAZIO</lastName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <firstName>PETER</firstName>
+        <sponsorshipDate>2017-09-26</sponsorshipDate>
+        <bioguideId>D000191</bioguideId>
+        <middleName>A.</middleName>
+        <party>D</party>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-01-03T17:27:45Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <name>Federal Lands Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-02-10T16:48:14Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <systemCode>hsii10</systemCode>
+            </item>
+          </subcommittees>
+          <type>Standing</type>
+          <name>Natural Resources Committee</name>
+          <systemCode>hsii00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. YOUNG of Alaska:H.R. 227.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 3``The Congress shall have the power to regulate commercewith foreign nations, and among several states, and with theIndian Tribes''[Page H53]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <laws />
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Multinational Species Conservation Funds Reauthorization Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Multinational Species Conservation Funds Reauthorization Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To reauthorize the African Elephant Conservation Act, the Rhinoceros and Tiger Conservation Act of 1994, the Asian Elephant Conservation Act of 1997, the Great Ape Conservation Act of 2000, and the Marine Turtle Conservation Act of 2004, and for other purposes.</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Multinational Species Conservation Funds Reauthorization Act</title>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <title>Multinational Species Conservation Funds Reauthorization Act</title>
+    <amendments />
+    <introducedDate>2017-01-03</introducedDate>
+    <updateDate>2017-09-27T07:15:33Z</updateDate>
+    <billNumber>227</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Animals</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Africa</name>
+          </item>
+          <item>
+            <name>American Samoa</name>
+          </item>
+          <item>
+            <name>Asia</name>
+          </item>
+          <item>
+            <name>Caribbean area</name>
+          </item>
+          <item>
+            <name>Department of the Interior</name>
+          </item>
+          <item>
+            <name>Endangered and threatened species</name>
+          </item>
+          <item>
+            <name>Executive agency funding and structure</name>
+          </item>
+          <item>
+            <name>Guam</name>
+          </item>
+          <item>
+            <name>International organizations and cooperation</name>
+          </item>
+          <item>
+            <name>Mammals</name>
+          </item>
+          <item>
+            <name>Marine and coastal resources, fisheries</name>
+          </item>
+          <item>
+            <name>Northern Mariana Islands</name>
+          </item>
+          <item>
+            <name>Puerto Rico</name>
+          </item>
+          <item>
+            <name>Reptiles</name>
+          </item>
+          <item>
+            <name>U.S. territories and protectorates</name>
+          </item>
+          <item>
+            <name>Virgin Islands</name>
+          </item>
+          <item>
+            <name>Wildlife conservation and habitat protection</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

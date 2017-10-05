@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-06T07:13:44Z</updateDate>
+    <congress>115</congress>
+    <actions>
+      <actionTypeCounts>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForB>1</placeholderTextForB>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-20</actionDate>
+        <committee>
+          <systemCode>hswm03</systemCode>
+          <name>Human Resources Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <name>House committee actions</name>
+          <code>1</code>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Human Resources.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <links />
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-06-08</actionDate>
+      </item>
+      <item>
+        <links>
+          <link>
+            <name>H4715</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H4715</url>
+          </link>
+        </links>
+        <text>Sponsor introductory remarks on measure. (CR H4715)</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>B00100</actionCode>
+        <actionDate>2017-06-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-06-08</actionDate>
+      </item>
+      <item>
+        <links />
+        <text>Introduced in House</text>
+        <type>IntroReferral</type>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <committee />
+        <actionCode>1000</actionCode>
+        <actionDate>2017-06-08</actionDate>
+      </item>
+    </actions>
+    <latestAction>
+      <links />
+      <actionDate>2017-06-20</actionDate>
+      <text>Referred to the Subcommittee on Human Resources.</text>
+    </latestAction>
+    <cosponsors>
+      <item>
+        <identifiers>
+          <bioguideId>C001111</bioguideId>
+          <gpoId />
+          <lisID>2321</lisID>
+        </identifiers>
+        <district>13</district>
+        <bioguideId>C001111</bioguideId>
+        <firstName>Charlie</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <middleName />
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <lastName>Crist</lastName>
+        <sponsorshipDate>2017-06-08</sponsorshipDate>
+        <state>FL</state>
+        <fullName>Rep. Crist, Charlie [D-FL-13]</fullName>
+      </item>
+      <item>
+        <identifiers>
+          <bioguideId>D000600</bioguideId>
+          <lisID>1717</lisID>
+          <gpoId>7893</gpoId>
+        </identifiers>
+        <district>25</district>
+        <bioguideId>D000600</bioguideId>
+        <firstName>Mario</firstName>
+        <sponsorshipWithdrawnDate />
+        <party>R</party>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <lastName>Diaz-Balart</lastName>
+        <sponsorshipDate>2017-06-13</sponsorshipDate>
+        <state>FL</state>
+        <fullName>Rep. Diaz-Balart, Mario [R-FL-25]</fullName>
+      </item>
+    </cosponsors>
+    <introducedDate>2017-06-08</introducedDate>
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>SHELTER Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Strengthening Homes and Eliminating Liabilities Through Encouraging Readiness Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>SHELTER Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>Strengthening Homes and Eliminating Liabilities Through Encouraging Readiness Act</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to provide a credit against tax for hurricane and tornado mitigation expenditures.</title>
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberName />
+        <title>SHELTER Act</title>
+      </item>
+    </titles>
+    <relatedBills />
+    <createDate>2017-06-09T03:11:38Z</createDate>
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <recordedVotes />
+    <amendments />
+    <committeeReports />
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. BILIRAKIS:H.R. 2836.Congress has the power to enact this legislation pursuantto the following:The constitutional authority to law and collect Taxes,Duties, Imposts and Excises as enumerated in Article I,Section 8, Clause 1 of the United States Constitution.[Page H4819]</pre>]]></constitutionalAuthorityStatementText>
+    <laws />
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Natural disasters</name>
+          </item>
+          <item>
+            <name>Residential rehabilitation and home repair</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+    <billType>HR</billType>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <subcommittees>
+            <item>
+              <systemCode>hswm03</systemCode>
+              <name>Human Resources Subcommittee</name>
+              <activities>
+                <item>
+                  <date>2017-06-20T19:30:21Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-08T14:00:06Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <versionCode>00</versionCode>
+          <lastSummaryUpdateDate>2017-06-16T13:37:32Z</lastSummaryUpdateDate>
+          <actionDate>2017-06-08</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+          <text><![CDATA[<p> <strong>Strengthening Homes and Eliminating Liabilities Through Encouraging Readiness Act or the SHELTER Act</strong></p> <p>This bill amends the Internal Revenue Code to allow individual and business taxpayers a tax credit for 25% of their qualified hurricane and tornado mitigation property expenditures up to $5,000 for any taxable year. The bill defines such expenditures as expenditures in a dwelling unit or place of business for property to improve the strength of a roof deck attachment, create a secondary water barrier, improve the durability of a roof covering, brace gable-end walls, reinforce the connections between a roof and supporting wall, protect against windborne debris, or protect exterior doors and garages.</p>]]></text>
+          <updateDate>2017-06-08T04:00:00Z</updateDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <sponsors>
+      <item>
+        <identifiers>
+          <bioguideId>B001257</bioguideId>
+          <gpoId>7881</gpoId>
+          <lisID>1838</lisID>
+        </identifiers>
+        <byRequestType />
+        <party>R</party>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <state>FL</state>
+        <bioguideId>B001257</bioguideId>
+        <firstName>Gus</firstName>
+        <district>12</district>
+        <middleName>M.</middleName>
+        <lastName>Bilirakis</lastName>
+      </item>
+    </sponsors>
+    <originChamber>House</originChamber>
+    <calendarNumbers />
+    <billNumber>2836</billNumber>
+    <title>SHELTER Act</title>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

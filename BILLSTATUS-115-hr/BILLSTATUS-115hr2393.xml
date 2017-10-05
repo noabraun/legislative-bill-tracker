@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <introducedDate>2017-05-04</introducedDate>
+    <laws />
+    <createDate>2017-05-05T03:11:55Z</createDate>
+    <actions>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <type>IntroReferral</type>
+        <text>Referred to the House Committee on Small Business.</text>
+        <actionDate>2017-05-04</actionDate>
+        <links />
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hssm00</systemCode>
+          <name>Small Business Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-04</actionDate>
+        <links />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+        <actionDate>2017-05-04</actionDate>
+        <links />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+      </item>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <billReferrals>1</billReferrals>
+      </actionTypeCounts>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>S001190</bioguideId>
+        <firstName>Bradley</firstName>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <lastName>Schneider</lastName>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>S001190</bioguideId>
+          <lisID>2124</lisID>
+          <gpoId />
+        </identifiers>
+        <byRequestType />
+        <party>D</party>
+        <state>IL</state>
+        <middleName>Scott</middleName>
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. SCHNEIDER:H.R. 2393.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8[Page H4179]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Accelerate Our Startups Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Accelerate Our Startups Act of 2017</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To create a grant program for governmental and other nonprofit organizations that support startup businesses in formation and early growth stages by providing entrepreneurs with resources and services to produce viable businesses, and for other purposes.</title>
+        <chamberName />
+      </item>
+      <item>
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Accelerate Our Startups Act of 2017</title>
+        <chamberName />
+      </item>
+    </titles>
+    <policyArea>
+      <name>Commerce</name>
+    </policyArea>
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-05-04T13:01:45Z</date>
+            </item>
+          </activities>
+          <chamber>House</chamber>
+          <subcommittees />
+          <name>Small Business Committee</name>
+          <systemCode>hssm00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <title>Accelerate Our Startups Act of 2017</title>
+    <billNumber>2393</billNumber>
+    <billType>HR</billType>
+    <cosponsors>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>E000296</bioguideId>
+        <firstName>Dwight</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Evans, Dwight [D-PA-2]</fullName>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <district>2</district>
+        <lastName>Evans</lastName>
+        <middleName />
+        <identifiers>
+          <bioguideId>E000296</bioguideId>
+          <lisID>2298</lisID>
+          <gpoId />
+        </identifiers>
+        <state>PA</state>
+      </item>
+      <item>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <bioguideId>C001067</bioguideId>
+        <firstName>Yvette</firstName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <fullName>Rep. Clarke, Yvette D. [D-NY-9]</fullName>
+        <sponsorshipDate>2017-08-04</sponsorshipDate>
+        <district>9</district>
+        <lastName>Clarke</lastName>
+        <middleName>D.</middleName>
+        <identifiers>
+          <bioguideId>C001067</bioguideId>
+          <lisID>1864</lisID>
+          <gpoId>8072</gpoId>
+        </identifiers>
+        <state>NY</state>
+      </item>
+    </cosponsors>
+    <updateDate>2017-09-05T18:30:19Z</updateDate>
+    <congress>115</congress>
+    <version>1.0.0</version>
+    <originChamber>House</originChamber>
+    <latestAction>
+      <links />
+      <text>Referred to the House Committee on Small Business.</text>
+      <actionDate>2017-05-04</actionDate>
+    </latestAction>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-09-05T18:18:17Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <updateDate>2017-05-04T04:00:00Z</updateDate>
+          <text><![CDATA[<p><b>Accelerate Our Startups Act of 2017</b></p> <p> This bill amends the Small Business Act to direct the Small Business Administration (SBA) to develop and implement a grant program for state and local governmental and other nonprofit organizations located in the United States that support startup businesses by providing assistance for construction costs, space acquisition, and programmatic purposes. </p> <p>A grant recipient must: (1) demonstrate that it will use the grant to provide assistance to at least five client businesses per year that have been in business for less than five years, (2) require client businesses to pay an entry fee to participate in the program, and (3) submit annual progress reports.</p> <p>The SBA shall: (1) establish grant criteria favoring recipients that provide startups with office, manufacturing, or warehouse space, access to capital and professional services, and a formal structured mentorship or developmental program that assists with building business skills and competencies; and (2) in determining whether to make a grant, take into account promoting growth in underserviced areas with sufficient population density and the organization's entrepreneurial leadership experience, ability to utilize and leverage local strengths, and record with regard to client business participation. </p> <p>The SBA must condition receipt of a grant under this bill on the recipient obtaining matching funding for the same purposes from a local or state government grant and nonpublic funding.</p>]]></text>
+          <actionDate>2017-05-04</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <notes />
+    <relatedBills />
+    <cboCostEstimates />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Commerce</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <recordedVotes />
+    <committeeReports />
+    <calendarNumbers />
+    <amendments />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

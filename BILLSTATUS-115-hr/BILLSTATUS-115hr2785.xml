@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <committees>
+      <billCommittees>
+        <item>
+          <name>Veterans' Affairs Committee</name>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <date>2017-06-06T16:00:05Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <subcommittees>
+            <item>
+              <systemCode>hsvr03</systemCode>
+              <activities>
+                <item>
+                  <date>2017-06-06T16:44:16Z</date>
+                  <name>Referred to</name>
+                </item>
+              </activities>
+              <name>Health Subcommittee</name>
+            </item>
+          </subcommittees>
+          <systemCode>hsvr00</systemCode>
+          <type>Standing</type>
+        </item>
+      </billCommittees>
+    </committees>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>4</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-06-06</actionDate>
+        <committee>
+          <systemCode>hsvr03</systemCode>
+          <name>Health Subcommittee</name>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Health.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionCode>H11100</actionCode>
+        <links />
+        <text>Referred to the House Committee on Veterans' Affairs.</text>
+        <actionDate>2017-06-06</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committee>
+          <systemCode>hsvr00</systemCode>
+          <name>Veterans' Affairs Committee</name>
+        </committee>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionCode>1000</actionCode>
+        <links />
+        <text>Introduced in House</text>
+        <actionDate>2017-06-06</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committee />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <cosponsors>
+      <item>
+        <state>CA</state>
+        <fullName>Rep. LaMalfa, Doug [R-CA-1]</fullName>
+        <party>R</party>
+        <firstName>Doug</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>L000578</bioguideId>
+          <lisID>2100</lisID>
+        </identifiers>
+        <sponsorshipDate>2017-06-06</sponsorshipDate>
+        <lastName>LaMalfa</lastName>
+        <district>1</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>L000578</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NY</state>
+        <fullName>Rep. Reed, Tom [R-NY-23]</fullName>
+        <party>R</party>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <gpoId>8090</gpoId>
+          <lisID>1982</lisID>
+          <bioguideId>R000585</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-06-07</sponsorshipDate>
+        <lastName>Reed</lastName>
+        <district>23</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000585</bioguideId>
+        <middleName />
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>CT</state>
+        <fullName>Rep. Himes, James A. [D-CT-4]</fullName>
+        <party>D</party>
+        <firstName>James</firstName>
+        <identifiers>
+          <lisID>1913</lisID>
+          <bioguideId>H001047</bioguideId>
+          <gpoId>7869</gpoId>
+        </identifiers>
+        <sponsorshipDate>2017-07-10</sponsorshipDate>
+        <lastName>Himes</lastName>
+        <district>4</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001047</bioguideId>
+        <middleName>A.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+      <item>
+        <state>NC</state>
+        <fullName>Rep. Jones, Walter B., Jr. [R-NC-3]</fullName>
+        <party>R</party>
+        <firstName>WALTER</firstName>
+        <identifiers>
+          <lisID>612</lisID>
+          <gpoId>8026</gpoId>
+          <bioguideId>J000255</bioguideId>
+        </identifiers>
+        <sponsorshipDate>2017-08-29</sponsorshipDate>
+        <lastName>JONES</lastName>
+        <district>3</district>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000255</bioguideId>
+        <middleName>B.</middleName>
+        <sponsorshipWithdrawnDate />
+      </item>
+    </cosponsors>
+    <sponsors>
+      <item>
+        <firstName>Clay</firstName>
+        <party>R</party>
+        <district>3</district>
+        <bioguideId>H001077</bioguideId>
+        <middleName />
+        <state>LA</state>
+        <lastName>Higgins</lastName>
+        <fullName>Rep. Higgins, Clay [R-LA-3]</fullName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>H001077</bioguideId>
+          <lisID>2329</lisID>
+        </identifiers>
+        <byRequestType />
+      </item>
+    </sponsors>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. HIGGINS of Louisiana:H.R. 2785.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 14Article I, Section 8, clause 18[Page H4647]</pre>]]></constitutionalAuthorityStatementText>
+    <billType>HR</billType>
+    <congress>115</congress>
+    <policyArea>
+      <name>Armed Forces and National Security</name>
+    </policyArea>
+    <introducedDate>2017-06-06</introducedDate>
+    <summaries>
+      <billSummaries>
+        <item>
+          <updateDate>2017-06-06T04:00:00Z</updateDate>
+          <lastSummaryUpdateDate>2017-09-20T19:42:55Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Veterans Emergency Room Relief Act of 2017</strong></p> <p>This bill directs the Department of Veterans Affairs (VA) to enter into contracts under which the VA pays health care providers the reasonable costs of urgent care provided to eligible veterans at non-VA facilities. An &quot;eligible veteran&quot; is one who: (1) is enrolled in the VA health care system, and (2) has received health care through the VA during the two years preceding the date on which the veteran receives urgent care.</p> <p>The VA shall establish a cost-sharing amount that a veteran shall pay to the VA to receive such urgent care. Such amount shall not apply to a veteran who: (1) is admitted to a hospital for treatment or observation after receiving urgent care, or (2) is receiving urgent care for the treatment of a service-connected disability or condition.</p> <p> The VA shall: (1) be considered the primary payer for the urgent care provided, and (2) ensure that all types of urgent care providers have an opportunity to enter into such a contract.</p> <p> The VA also shall establish a cost-sharing amount that veterans shall pay to receive care at a VA emergency room. Such amount shall not apply to a veteran who: (1) is receiving care for a service-connected disability or condition, (2) meets a hardship exception, or (3) is admitted to a hospital for treatment or observation after receiving care at a VA emergency room. </p> <p>The VA may not require a veteran to pay multiple cost-sharing amounts if the veteran seeks urgent care under this bill and care at a VA emergency room for the same condition during a period determined by the VA.</p> <p> The VA shall report every two years on the use by veterans of urgent care facilities and of VA emergency room facilities.</p>]]></text>
+          <versionCode>00</versionCode>
+          <actionDate>2017-06-06</actionDate>
+          <name>Introduced in House</name>
+          <actionDesc>Introduced in House</actionDesc>
+        </item>
+      </billSummaries>
+    </summaries>
+    <cboCostEstimates />
+    <latestAction>
+      <text>Referred to the Subcommittee on Health.</text>
+      <actionDate>2017-06-06</actionDate>
+      <links />
+    </latestAction>
+    <calendarNumbers />
+    <version>1.0.0</version>
+    <notes />
+    <billNumber>2785</billNumber>
+    <committeeReports />
+    <recordedVotes />
+    <updateDate>2017-09-20T23:04:28Z</updateDate>
+    <laws />
+    <amendments />
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects />
+        <policyArea>
+          <name>Armed Forces and National Security</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <titles>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Veterans Emergency Room Relief Act of 2017</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Veterans Emergency Room Relief Act of 2017</title>
+        <titleType>Short Titles as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>To amend title 38, United States Code, to require the Secretary of Veterans Affairs to pay the reasonable costs of urgent care provided to certain veterans, to establish cost-sharing amounts for veterans receiving care at an emergency room of the Department of Veterans Affairs, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+      </item>
+      <item>
+        <chamberName />
+        <chamberCode />
+        <parentTitleType />
+        <title>Veterans Emergency Room Relief Act of 2017</title>
+        <titleType>Display Title</titleType>
+      </item>
+    </titles>
+    <createDate>2017-06-07T03:11:40Z</createDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-07-11</actionDate>
+          <text>Committee on Veterans' Affairs. Hearings held.</text>
+        </latestAction>
+        <congress>115</congress>
+        <type>S</type>
+        <latestTitle>Veterans Emergency Room Relief Act of 2017</latestTitle>
+        <number>1261</number>
+        <relationshipDetails>
+          <item>
+            <identifiedBy>CRS</identifiedBy>
+            <type>Identical bill</type>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <title>Veterans Emergency Room Relief Act of 2017</title>
+    <originChamber>House</originChamber>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -14,6 +14,18 @@
   {% endif %}
 
   <a href="{{url_wiki}}"><p>Wikipedia:</a> {{senator_wiki}}</p>
-  
+
+  <p>Sponsored Bills:<p>
+    <ul>
+        {% for bill_item in bills_sponsored %}
+            {% for bill_info in bill_item %}
+                <li>
+                    <a href="/bills/{{ bill_info.bill_id }}">{{ bill_info.bill_id }}: {{ bill_info.title }}</a>
+                </li>
+            {% endfor %}
+        {% endfor %}
+    </ul>
+
+
 </div>
 {% endblock %}

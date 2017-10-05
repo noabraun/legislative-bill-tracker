@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <updateDate>2017-09-22T14:00:13Z</updateDate>
+    <actions>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>9</houseOfRepresentatives>
+      </actionByCounts>
+      <actionTypeCounts>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <referredToCommittee>1</referredToCommittee>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+        <generalDebate>1</generalDebate>
+        <billReferrals>1</billReferrals>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+      </actionTypeCounts>
+      <item>
+        <actionDate>2017-02-01</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <committee />
+        <actionTime>16:10:26</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-31</actionDate>
+        <links />
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H793)</text>
+        <committee />
+        <actionTime>16:10:24</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-31</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H793</url>
+            <name>H793</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H793)</text>
+        <committee />
+        <actionTime>16:10:24</actionTime>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-31</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H793</url>
+            <name>H793</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 584.</text>
+        <committee />
+        <actionTime>16:01:11</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-31</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/584</url>
+            <name>H.R. 584</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <text>Considered under suspension of the rules. (consideration: CR H793-794)</text>
+        <committee />
+        <actionTime>16:01:09</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-31</actionDate>
+        <links>
+          <link>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H793-794</url>
+            <name>H793-794</name>
+          </link>
+        </links>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <text>Mr. Donovan moved to suspend the rules and pass the bill.</text>
+        <committee />
+        <actionTime>16:01:01</actionTime>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-31</actionDate>
+        <links />
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <text>Referred to the House Committee on Homeland Security.</text>
+        <committee>
+          <name>Homeland Security Committee</name>
+          <systemCode>hshm00</systemCode>
+        </committee>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionDate>2017-01-17</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>Intro-H</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-17</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <text>Introduced in House</text>
+        <committee />
+        <actionCode>1000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionDate>2017-01-17</actionDate>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <relatedBills>
+      <item>
+        <number>2922</number>
+        <latestTitle>PREPARE Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2017-06-28</actionDate>
+          <text>Referred to the Subcommittee on Emergency Preparedness, Response and Communications.</text>
+        </latestAction>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <billNumber>584</billNumber>
+    <congress>115</congress>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. DONOVAN:H.R. 584.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8 of the Constitution of the UnitedStates.[Page H553]</pre>]]></constitutionalAuthorityStatementText>
+    <titles>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Cyber Preparedness Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <title>Cyber Preparedness Act of 2017</title>
+        <parentTitleType />
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Passed House</titleType>
+        <title>Cyber Preparedness Act of 2017</title>
+        <parentTitleType>Short Titles House of Representatives</parentTitleType>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+      </item>
+      <item>
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Cyber Preparedness Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Homeland Security Act of 2002 to enhance preparedness and response capabilities for cyber attacks, bolster the dissemination of homeland security information related to cyber threats, and for other purposes.</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <title>Cyber Preparedness Act of 2017</title>
+        <parentTitleType />
+        <chamberCode />
+        <chamberName />
+      </item>
+    </titles>
+    <title>Cyber Preparedness Act of 2017</title>
+    <laws />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <activities>
+            <item>
+              <date>2017-02-01T23:27:00Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>ssga00</systemCode>
+          <chamber>Senate</chamber>
+          <subcommittees />
+        </item>
+        <item>
+          <type>Standing</type>
+          <name>Homeland Security Committee</name>
+          <activities>
+            <item>
+              <date>2017-01-17T17:00:37Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <systemCode>hshm00</systemCode>
+          <chamber>House</chamber>
+          <subcommittees />
+        </item>
+      </billCommittees>
+    </committees>
+    <amendments />
+    <recordedVotes />
+    <createDate>2017-01-18T05:04:56Z</createDate>
+    <billType>HR</billType>
+    <policyArea>
+      <name>Science, Technology, Communications</name>
+    </policyArea>
+    <version>1.0.0</version>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-02-02T15:45:34Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><b>Cyber Preparedness Act of 2017</b></p> <p>This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's (DHS's) State, Local, and Regional Fusion Center Initiative to coordinate with the national cybersecurity and communications integration center (NCCIC) to provide state, local, and regional fusion centers with expertise on DHS cybersecurity resources. (A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.) </p> <p>DHS must: (1) provide timely access to technical assistance, risk management support, and incident response capabilities for cybersecurity threat indicators, defensive measures, risks, and incidents, including cybersecurity risks to equipment and technology related to the electoral process; (2) review cybersecurity risk information gathered by fusion centers to incorporate into DHS's cybersecurity risk information; and (3) disseminate cybersecurity risk information to fusion centers.</p> <p>Fusion center officers or intelligence analysts may be assigned from the NCCIC. Such officers and analysts must assist fusion centers in using cybersecurity risk information to develop a comprehensive and accurate threat picture.</p> <p>The NCCIC may include, and must share analysis and best practices with, state and major urban area fusion centers.</p> <p>States, local or tribal governments, or high-risk urban areas receiving grants to protect against terrorism under the Urban Area Security Initiative or the State Homeland Security Grant Program may use the funds to: (1) prepare for and respond to cybersecurity risks and incidents, and (2) develop statewide cyber threat information analysis and dissemination activities.</p>]]></text>
+          <updateDate>2017-01-17T05:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-17</actionDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-03-15T20:24:51Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><b>Cyber Preparedness Act of 2017</b></p> <p>(Sec. 2) This bill amends the Homeland Security Act of 2002 to require the Department of Homeland Security's (DHS's) State, Local, and Regional Fusion Center Initiative to coordinate with the national cybersecurity and communications integration center (NCCIC) to provide state, local, and regional fusion centers with expertise on DHS cybersecurity resources. (A fusion center serves as a focal point within the state and local environment for the receipt, analysis, gathering, and sharing of threat-related information between the federal government and state, local, tribal, territorial, and private sector partners.) </p> <p>DHS must: (1) provide timely access to technical assistance, risk management support, and incident response capabilities for cybersecurity threat indicators, defensive measures, risks, and incidents, including cybersecurity risks to equipment and technology related to the electoral process; (2) review cybersecurity risk information gathered by fusion centers to incorporate into DHS's cybersecurity risk information; and (3) disseminate cybersecurity risk information to fusion centers.</p> <p>Fusion center officers or intelligence analysts may be assigned from the NCCIC. Such officers and analysts must assist fusion centers in using cybersecurity risk information to develop a comprehensive and accurate threat picture.</p> <p>The NCCIC may include, and must share analysis and best practices with, state and major urban area fusion centers.</p> <p>(Sec. 3) States, local or tribal governments, or high-risk urban areas receiving grants to protect against terrorism under the Urban Area Security Initiative or the State Homeland Security Grant Program may use the funds to: (1) prepare for and respond to cybersecurity risks and incidents, and (2) develop statewide cyber threat information analysis and dissemination activities.</p> <p> (Sec. 4) The bill expresses the sense of Congress that DHS should share actionable information related to cyber threats in an unclassified form to facilitate timely dissemination to state, local, and private sector stakeholders. </p>]]></text>
+          <updateDate>2017-01-31T13:47:01Z</updateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2017-01-31</actionDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <sponsors>
+      <item>
+        <party>R</party>
+        <middleName>M.</middleName>
+        <firstName>Daniel</firstName>
+        <state>NY</state>
+        <bioguideId>D000625</bioguideId>
+        <identifiers>
+          <lisID>2293</lisID>
+          <bioguideId>D000625</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <district>11</district>
+        <byRequestType />
+        <lastName>Donovan</lastName>
+      </item>
+    </sponsors>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Computer security and identity theft</name>
+          </item>
+          <item>
+            <name>Elections, voting, political campaign regulation</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Homeland security</name>
+          </item>
+          <item>
+            <name>Intelligence activities, surveillance, classified information</name>
+          </item>
+          <item>
+            <name>Intergovernmental relations</name>
+          </item>
+          <item>
+            <name>Public-private cooperation</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+          <item>
+            <name>Terrorism</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Science, Technology, Communications</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <latestAction>
+      <actionDate>2017-02-01</actionDate>
+      <links />
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </latestAction>
+    <notes />
+    <calendarNumbers />
+    <introducedDate>2017-01-17</introducedDate>
+    <cboCostEstimates />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <party>D</party>
+        <state>NJ</state>
+        <bioguideId>P000604</bioguideId>
+        <fullName>Rep. Payne, Donald M., Jr. [D-NJ-10]</fullName>
+        <middleName>M.</middleName>
+        <lastName>Payne</lastName>
+        <firstName>Donald</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <district>10</district>
+        <identifiers>
+          <gpoId>8373</gpoId>
+          <bioguideId>P000604</bioguideId>
+          <lisID>2097</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>M001157</bioguideId>
+        <fullName>Rep. McCaul, Michael T. [R-TX-10]</fullName>
+        <middleName>T.</middleName>
+        <lastName>McCaul</lastName>
+        <firstName>Michael</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <district>10</district>
+        <identifiers>
+          <bioguideId>M001157</bioguideId>
+          <gpoId>8166</gpoId>
+          <lisID>1804</lisID>
+        </identifiers>
+      </item>
+      <item>
+        <party>R</party>
+        <state>TX</state>
+        <bioguideId>R000601</bioguideId>
+        <fullName>Rep. Ratcliffe, John [R-TX-4]</fullName>
+        <middleName />
+        <lastName>Ratcliffe</lastName>
+        <firstName>John</firstName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <sponsorshipWithdrawnDate />
+        <sponsorshipDate>2017-01-17</sponsorshipDate>
+        <district>4</district>
+        <identifiers>
+          <gpoId />
+          <bioguideId>R000601</bioguideId>
+          <lisID>2268</lisID>
+        </identifiers>
+      </item>
+    </cosponsors>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

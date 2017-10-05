@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <relatedBills>
+      <item>
+        <congress>115</congress>
+        <type>HR</type>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <latestTitle>Financial CHOICE Act of 2017</latestTitle>
+        <latestAction>
+          <text>Committee on Banking, Housing, and Urban Affairs. Hearings held.</text>
+          <actionDate>2017-07-13</actionDate>
+        </latestAction>
+        <number>10</number>
+      </item>
+    </relatedBills>
+    <committeeReports />
+    <billType>HR</billType>
+    <actions>
+      <actionTypeCounts>
+        <introducedInHouse>1</introducedInHouse>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+      </actionTypeCounts>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <text>Referred to the House Committee on Financial Services.</text>
+        <links />
+        <committee>
+          <systemCode>hsba00</systemCode>
+          <name>Financial Services Committee</name>
+        </committee>
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>Intro-H</actionCode>
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+      </item>
+      <item>
+        <type>IntroReferral</type>
+        <actionCode>1000</actionCode>
+        <actionDate>2017-04-27</actionDate>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <text>Introduced in House</text>
+        <links />
+        <committee />
+      </item>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <originChamber>House</originChamber>
+    <notes />
+    <summaries>
+      <billSummaries>
+        <item>
+          <actionDate>2017-04-27</actionDate>
+          <lastSummaryUpdateDate>2017-08-16T18:29:01Z</lastSummaryUpdateDate>
+          <text><![CDATA[<p><strong>Micro Offering Safe Harbor Act</strong></p> <p>This bill&nbsp;amends the Securities Act of 1933 to&nbsp;exempt certain micro-offerings from: (1) state regulation of securities offerings, and (2) federal prohibitions&nbsp;related to&nbsp;interstate solicitation.</p>]]></text>
+          <actionDesc>Introduced in House</actionDesc>
+          <name>Introduced in House</name>
+          <updateDate>2017-04-27T04:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+        </item>
+      </billSummaries>
+    </summaries>
+    <calendarNumbers />
+    <createDate>2017-04-28T03:11:52Z</createDate>
+    <latestAction>
+      <links />
+      <actionDate>2017-04-27</actionDate>
+      <text>Referred to the House Committee on Financial Services.</text>
+    </latestAction>
+    <congress>115</congress>
+    <sponsors>
+      <item>
+        <firstName>Tom</firstName>
+        <identifiers>
+          <gpoId />
+          <bioguideId>E000294</bioguideId>
+          <lisID>2253</lisID>
+        </identifiers>
+        <byRequestType />
+        <state>MN</state>
+        <fullName>Rep. Emmer, Tom [R-MN-6]</fullName>
+        <bioguideId>E000294</bioguideId>
+        <middleName />
+        <district>6</district>
+        <party>R</party>
+        <lastName>Emmer</lastName>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Finance and Financial Sector</name>
+    </policyArea>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <district>15</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001187</bioguideId>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2047</lisID>
+          <bioguideId>S001187</bioguideId>
+          <gpoId>8105</gpoId>
+        </identifiers>
+        <fullName>Rep. Stivers, Steve [R-OH-15]</fullName>
+        <party>R</party>
+        <lastName>Stivers</lastName>
+        <firstName>Steve</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <district>6</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001189</bioguideId>
+        <state>IN</state>
+        <identifiers>
+          <lisID>2130</lisID>
+          <bioguideId>M001189</bioguideId>
+          <gpoId />
+        </identifiers>
+        <fullName>Rep. Messer, Luke [R-IN-6]</fullName>
+        <party>R</party>
+        <lastName>Messer</lastName>
+        <firstName>Luke</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-06</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000470</bioguideId>
+        <state>CO</state>
+        <identifiers>
+          <bioguideId>T000470</bioguideId>
+          <gpoId>7861</gpoId>
+          <lisID>1997</lisID>
+        </identifiers>
+        <fullName>Rep. Tipton, Scott  R. [R-CO-3]</fullName>
+        <party>R</party>
+        <lastName>Tipton</lastName>
+        <firstName>Scott</firstName>
+        <middleName>R.</middleName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <district>9</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>P000606</bioguideId>
+        <state>NC</state>
+        <identifiers>
+          <gpoId />
+          <lisID>2141</lisID>
+          <bioguideId>P000606</bioguideId>
+        </identifiers>
+        <fullName>Rep. Pittenger, Robert [R-NC-9]</fullName>
+        <party>R</party>
+        <lastName>Pittenger</lastName>
+        <firstName>Robert</firstName>
+        <middleName />
+      </item>
+      <item>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <district>3</district>
+        <sponsorshipWithdrawnDate />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001193</bioguideId>
+        <state>NJ</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>M001193</bioguideId>
+          <lisID>2258</lisID>
+        </identifiers>
+        <fullName>Rep. MacArthur, Thomas [R-NJ-3]</fullName>
+        <party>R</party>
+        <lastName>MacArthur</lastName>
+        <firstName>Thomas</firstName>
+        <middleName />
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <committees>
+      <billCommittees>
+        <item>
+          <activities>
+            <item>
+              <date>2017-04-27T14:00:26Z</date>
+              <name>Referred to</name>
+            </item>
+          </activities>
+          <name>Financial Services Committee</name>
+          <chamber>House</chamber>
+          <subcommittees />
+          <type>Standing</type>
+          <systemCode>hsba00</systemCode>
+        </item>
+      </billCommittees>
+    </committees>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. EMMER:H.R. 2201.Congress has the power to enact this legislation pursuantto the following:Article 1, Section 8[Page H2942]</pre>]]></constitutionalAuthorityStatementText>
+    <version>1.0.0</version>
+    <laws />
+    <titles>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <title>Micro Offering Safe Harbor Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <title>Micro Offering Safe Harbor Act</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <title>To amend the Securities Act of 1933 to exempt certain micro-offerings from the registration requirements of such Act, and for other purposes.</title>
+      </item>
+      <item>
+        <chamberName />
+        <parentTitleType />
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <title>Micro Offering Safe Harbor Act</title>
+      </item>
+    </titles>
+    <title>Micro Offering Safe Harbor Act</title>
+    <amendments />
+    <introducedDate>2017-04-27</introducedDate>
+    <updateDate>2017-09-28T07:16:12Z</updateDate>
+    <billNumber>2201</billNumber>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Finance and Financial Sector</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Securities</name>
+          </item>
+          <item>
+            <name>State and local government operations</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <cboCostEstimates />
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

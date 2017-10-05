@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <createDate>2017-01-04T07:01:10Z</createDate>
+    <actions>
+      <item>
+        <actionDate>2017-01-05</actionDate>
+        <committee>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <systemCode>ssga00</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>0</code>
+          <name>Senate</name>
+        </sourceSystem>
+        <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-01-04</actionDate>
+        <committee>
+          <name>Trade Subcommittee</name>
+          <systemCode>hswm04</systemCode>
+        </committee>
+        <links />
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>Referred to the Subcommittee on Trade.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:12:34</actionTime>
+        <links />
+        <committee />
+        <actionDate>2017-01-04</actionDate>
+        <type>Floor</type>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <actionCode>H38310</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:12:32</actionTime>
+        <links>
+          <link>
+            <name>H67-69</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H67-69</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-04</actionDate>
+        <type>Floor</type>
+        <text>On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H67-69)</text>
+        <actionCode>H37300</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionTime>13:12:32</actionTime>
+        <links>
+          <link>
+            <name>H67-69</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H67-69</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-04</actionDate>
+        <type>Floor</type>
+        <text>Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.(text: CR H67-69)</text>
+        <actionCode>8000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:01:38</actionTime>
+        <links>
+          <link>
+            <name>H.R. 70</name>
+            <url>https://www.congress.gov/bill/115th-congress/house-bill/70</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-04</actionDate>
+        <type>Floor</type>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 70.</text>
+        <actionCode>H8D000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:01:36</actionTime>
+        <links>
+          <link>
+            <name>H67-70</name>
+            <url>https://www.congress.gov/congressional-record/volume-163/house-section/page/H67-70</url>
+          </link>
+        </links>
+        <committee />
+        <actionDate>2017-01-04</actionDate>
+        <type>Floor</type>
+        <text>Considered under suspension of the rules. (consideration: CR H67-70)</text>
+        <actionCode>H30000</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionTime>13:01:15</actionTime>
+        <links />
+        <committee />
+        <actionDate>2017-01-04</actionDate>
+        <type>Floor</type>
+        <text>Mr. Chaffetz moved to suspend the rules and pass the bill.</text>
+        <actionCode>H30300</actionCode>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Ways and Means Committee</name>
+          <systemCode>hswm00</systemCode>
+        </committee>
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Ways and Means</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <links />
+        <committee>
+          <name>Oversight and Government Reform Committee</name>
+          <systemCode>hsgo00</systemCode>
+        </committee>
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to House Oversight and Government Reform</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>H11100-A</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <item>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <links />
+        <committee />
+        <actionDate>2017-01-03</actionDate>
+        <type>IntroReferral</type>
+        <text>Introduced in House</text>
+      </item>
+      <actionTypeCounts>
+        <generalDebate>1</generalDebate>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <passedAgreedToInHouse>1</passedAgreedToInHouse>
+        <finalPassageUnderSuspensionOfTheRulesResults>1</finalPassageUnderSuspensionOfTheRulesResults>
+        <motionMadeToSuspendTheRules>1</motionMadeToSuspendTheRules>
+        <referredToCommittee>1</referredToCommittee>
+        <introducedInHouse>1</introducedInHouse>
+        <considerationByHouse>1</considerationByHouse>
+        <placeholderTextForH>1</placeholderTextForH>
+        <billReferrals>2</billReferrals>
+        <billReferralsAggregate>1</billReferralsAggregate>
+        <motionToReconsiderResults>1</motionToReconsiderResults>
+      </actionTypeCounts>
+      <actionByCounts>
+        <senate>1</senate>
+        <houseOfRepresentatives>12</houseOfRepresentatives>
+      </actionByCounts>
+    </actions>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. CLAY:H.R. 70.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8, Clause 18 of the Constitution of theUnited States grants the Congress the power to enact thislaw.[Page H48]</pre>]]></constitutionalAuthorityStatementText>
+    <cboCostEstimates />
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <title>Federal Advisory Committee Act Amendments of 2017</title>
+    <laws />
+    <sponsors>
+      <item>
+        <byRequestType />
+        <middleName>LACY</middleName>
+        <district>1</district>
+        <state>MO</state>
+        <identifiers>
+          <gpoId>8009</gpoId>
+          <bioguideId>C001049</bioguideId>
+          <lisID>1654</lisID>
+        </identifiers>
+        <bioguideId>C001049</bioguideId>
+        <fullName>Rep. Clay, Wm. Lacy [D-MO-1]</fullName>
+        <firstName>WM.</firstName>
+        <party>D</party>
+        <lastName>CLAY</lastName>
+      </item>
+    </sponsors>
+    <latestAction>
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+      <actionDate>2017-01-05</actionDate>
+      <links />
+    </latestAction>
+    <committees>
+      <billCommittees>
+        <item>
+          <systemCode>ssga00</systemCode>
+          <type>Standing</type>
+          <name>Homeland Security and Governmental Affairs Committee</name>
+          <subcommittees />
+          <chamber>Senate</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-05T18:22:30Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hswm00</systemCode>
+          <type>Standing</type>
+          <name>Ways and Means Committee</name>
+          <subcommittees>
+            <item>
+              <systemCode>hswm04</systemCode>
+              <name>Trade Subcommittee</name>
+              <activities>
+                <item>
+                  <name>Referred to</name>
+                  <date>2017-01-04T21:51:33Z</date>
+                </item>
+              </activities>
+            </item>
+          </subcommittees>
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:04:40Z</date>
+            </item>
+          </activities>
+        </item>
+        <item>
+          <systemCode>hsgo00</systemCode>
+          <type>Standing</type>
+          <name>Oversight and Government Reform Committee</name>
+          <subcommittees />
+          <chamber>House</chamber>
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-01-03T17:04:35Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <summaries>
+      <billSummaries>
+        <item>
+          <lastSummaryUpdateDate>2017-01-06T21:51:55Z</lastSummaryUpdateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <actionDate>2017-01-03</actionDate>
+          <updateDate>2017-01-03T05:00:00Z</updateDate>
+          <versionCode>00</versionCode>
+          <name>Introduced in House</name>
+          <text><![CDATA[<p><strong>Federal Advisory Committee Act Amendments of 2017</strong></p> <p> This bill amends the Federal Advisory Committee Act (FACA) to require appointments to federal agency advisory committees to be made without regard to political affiliation or activity, unless required by federal statute.Each agency, prior to appointing members to an advisory committee, must give interested persons an opportunity to suggest potential committee members.</p> <p>The bill requires an individual appointed to an advisory committee who is not a full-time or permanent part-time officer or employee of the federal government to be designated as: (1) a special government employee if the individual is providing advice based on the individual's expertise or experience, or (2) a representative if the individual is representing the views of an entity outside of the federal government. An agency is prohibited from designating committee members as representatives to avoid subjecting them to federal ethics rules and requirements.</p> <p> Each agency shall ensure that advice and recommendations of an advisory committee that reports to the agency are the result of the advisory committee's judgment, independent from the agency.</p> <p> An individual who is not an officer or employee of the federal government shall be regarded as a member of an advisory committee if the individual regularly attends and participates in committee meetings as if the individual were a member, even if the individual does not have the right to vote or veto the advice or recommendations of the committee.</p> <p>Each agency shall make available on its Internet site specified information about each of the agency's advisory committees and their activities and shall designate an Advisory Committee Management Officer to be responsible for the establishment, management, and supervision of the agency's advisory committees. The Government Accountability Office shall review and report on compliance by agencies with FACA.</p>]]></text>
+        </item>
+        <item>
+          <lastSummaryUpdateDate>2017-01-06T21:56:05Z</lastSummaryUpdateDate>
+          <actionDesc>Passed House without amendment</actionDesc>
+          <actionDate>2017-01-04</actionDate>
+          <updateDate>2017-01-04T14:38:48Z</updateDate>
+          <versionCode>81</versionCode>
+          <name>Passed House without amendment</name>
+          <text><![CDATA[<p>(This measure has not been amended since it was introduced. The summary has been expanded because action occurred on the measure.)</p> <p><STRONG>Federal Advisory Committee Act Amendments of 2017</STRONG></p> <p>This bill amends the Federal Advisory Committee Act (FACA) to modify and expand requirements for federal advisory committees. A federal advisory committee is any term-limited committee, board, commission, council, conference, panel, task force, or similar group that dispenses objective advice and recommendations to officers and agencies of the executive branch.</p> <p>(Sec. 2) The bill requires that appointments to federal advisory committees be made without regard to political affiliation or political activity, unless required by federal statute. The head of a federal agency making an appointment to an advisory committee must give interested persons an opportunity to suggest potential committee members by including a request for comments in the Federal Register and providing a mechanism for interested persons to comment through the agency's official website. The agency must consider any comments submitted in making selections of advisory committee members. </p> <p>Any individual appointed to an advisory committee who is not a full-time or permanent part-time officer or employee of the federal government shall be designated as: (1) a special government employee if the individual is providing advice based on the individual's expertise or experience, or (2) a representative if representing the views of an entity outside of the federal government. An agency may not designate committee members as representatives to avoid making them subject to federal ethics rules and requirements. </p> <p>A designated ethics official of each agency shall review the designation of each member of an advisory committee to determine whether such member's designation is appropriate and may redesignate members if appropriate. </p> <p>Agency heads must ensure that the agency does not interfere with the free and independent participation, expression of views, and deliberation by advisory committee members. </p> <p>(Sec. 3) The bill deems an individual who is not a full-time or permanent part-time officer or employee of the federal government as a member of an advisory committee if such individual regularly attends and participates in committee meetings, even if such individual does not have the right to vote or veto the advice or recommendations of the committee. Subcommittees of advisory committees, advisory committees established under contract or other transactional authority, and committees that include members appointed as special government employees are deemed subject to FACA requirements. </p> <p>(Sec. 4) Agencies must make publicly available for each advisory committee: (1) the charter of the advisory committee; (2) the member appointment process; (3) a list of all current members, including designations as representatives or special government employees; (4) any recusal agreement made by a committee member to avoid a conflict of interest; (5) committee processes for making decisions; (6) detailed meeting minutes; and (7) notices of future committee meetings. This information must be placed on the agency's website and the website of the General Services Administration (GSA). </p> <p>Advisory committees may not meet or take any action until an advisory committee charter has been filed with the GSA, the agency to which the committee reports, and specified congressional committees. </p> <p>(Sec. 5) The head of each federal agency that has an advisory committee must designate a senior agency official as the agency's Advisory Committee Management Officer. Such official shall be an expert in implementing the requirements of FACA and shall be the primary point of contact for the GSA.</p> <p>(Sec. 6) The Government Accountability Office shall review, and report on, compliance by agencies with FACA, as amended by this Act, including whether agencies are appropriately appointing advisory committee members as either special government employees or representatives. </p> <p>(Sec. 7) The bill amends the Trade Act of 1974 to expand exemptions from FACA requirements for trade advisory committees under such Act.</p> <p>(Sec. 8) The bill adopts, for purposes of FACA , the definition of &quot;special Government employee&quot; in the federal criminal code.</p> <p>(Sec. 10) The effective date of this bill is 30 days after its enactment. </p> <p>(Sec. 11) No additional funds shall be authorized to carry out the requirements in this bill. </p>]]></text>
+        </item>
+      </billSummaries>
+    </summaries>
+    <committeeReports />
+    <congress>115</congress>
+    <billNumber>70</billNumber>
+    <calendarNumbers />
+    <amendments />
+    <introducedDate>2017-01-03</introducedDate>
+    <updateDate>2017-06-19T20:15:14Z</updateDate>
+    <subjects>
+      <billSubjects>
+        <policyArea>
+          <name>Government Operations and Politics</name>
+        </policyArea>
+        <legislativeSubjects>
+          <item>
+            <name>Advisory bodies</name>
+          </item>
+          <item>
+            <name>Congressional oversight</name>
+          </item>
+          <item>
+            <name>Government ethics and transparency, public corruption</name>
+          </item>
+          <item>
+            <name>Government information and archives</name>
+          </item>
+          <item>
+            <name>Government studies and investigations</name>
+          </item>
+          <item>
+            <name>Political parties and affiliation</name>
+          </item>
+        </legislativeSubjects>
+      </billSubjects>
+    </subjects>
+    <billType>HR</billType>
+    <relatedBills />
+    <notes />
+    <originChamber>House</originChamber>
+    <cosponsors>
+      <item>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <fullName>Rep. Cummings, Elijah E. [D-MD-7]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <bioguideId>C000984</bioguideId>
+          <lisID>256</lisID>
+          <gpoId>7982</gpoId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <firstName>ELIJAH</firstName>
+        <district>7</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000984</bioguideId>
+        <state>MD</state>
+        <lastName>CUMMINGS</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <fullName>Rep. Connolly, Gerald E. [D-VA-11]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8202</gpoId>
+          <lisID>1959</lisID>
+          <bioguideId>C001078</bioguideId>
+        </identifiers>
+        <middleName>E.</middleName>
+        <firstName>Gerald</firstName>
+        <district>11</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C001078</bioguideId>
+        <state>VA</state>
+        <lastName>Connolly</lastName>
+      </item>
+      <item>
+        <sponsorshipDate>2017-01-03</sponsorshipDate>
+        <fullName>Rep. Cooper, Jim [D-TN-5]</fullName>
+        <sponsorshipWithdrawnDate />
+        <party>D</party>
+        <identifiers>
+          <gpoId>8152</gpoId>
+          <bioguideId>C000754</bioguideId>
+          <lisID>231</lisID>
+        </identifiers>
+        <middleName>H.</middleName>
+        <firstName>JAMES</firstName>
+        <district>5</district>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>C000754</bioguideId>
+        <state>TN</state>
+        <lastName>COOPER</lastName>
+      </item>
+    </cosponsors>
+    <recordedVotes />
+    <titles>
+      <item>
+        <chamberCode />
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Federal Advisory Committee Act Amendments of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode>H</chamberCode>
+        <titleType>(Extracted from GPO) Short Titles as Passed House</titleType>
+        <chamberName>House</chamberName>
+        <title>Federal Advisory Committee Act Amendments of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Short Titles as Introduced</titleType>
+        <chamberName />
+        <title>Federal Advisory Committee Act Amendments of 2017</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Official Title as Introduced</titleType>
+        <chamberName />
+        <title>To amend the Federal Advisory Committee Act to increase the transparency of Federal advisory committees, and for other purposes.</title>
+        <parentTitleType />
+      </item>
+      <item>
+        <chamberCode />
+        <titleType>Display Title</titleType>
+        <chamberName />
+        <title>Federal Advisory Committee Act Amendments of 2017</title>
+        <parentTitleType />
+      </item>
+    </titles>
+    <version>1.0.0</version>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+

@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<billStatus>
+  <bill>
+    <actions>
+      <actionTypeCounts>
+        <billReferrals>1</billReferrals>
+        <introducedInTheHouse>1</introducedInTheHouse>
+        <introducedInHouse>1</introducedInHouse>
+      </actionTypeCounts>
+      <actionByCounts>
+        <houseOfRepresentatives>3</houseOfRepresentatives>
+      </actionByCounts>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <text>Referred to the House Committee on Ways and Means.</text>
+        <sourceSystem>
+          <name>House floor actions</name>
+          <code>2</code>
+        </sourceSystem>
+        <actionCode>H11100</actionCode>
+        <committee>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+        </committee>
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>Intro-H</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+      <item>
+        <actionDate>2017-07-28</actionDate>
+        <text>Introduced in House</text>
+        <sourceSystem>
+          <name>Library of Congress</name>
+          <code>9</code>
+        </sourceSystem>
+        <actionCode>1000</actionCode>
+        <committee />
+        <links />
+        <type>IntroReferral</type>
+      </item>
+    </actions>
+    <createDate>2017-07-29T03:11:40Z</createDate>
+    <version>1.0.0</version>
+    <notes />
+    <committees>
+      <billCommittees>
+        <item>
+          <type>Standing</type>
+          <chamber>House</chamber>
+          <systemCode>hswm00</systemCode>
+          <name>Ways and Means Committee</name>
+          <subcommittees />
+          <activities>
+            <item>
+              <name>Referred to</name>
+              <date>2017-07-28T13:10:30Z</date>
+            </item>
+          </activities>
+        </item>
+      </billCommittees>
+    </committees>
+    <billNumber>3632</billNumber>
+    <sponsors>
+      <item>
+        <district>3</district>
+        <fullName>Rep. Yoder, Kevin [R-KS-3]</fullName>
+        <identifiers>
+          <gpoId>7951</gpoId>
+          <lisID>2021</lisID>
+          <bioguideId>Y000063</bioguideId>
+        </identifiers>
+        <lastName>Yoder</lastName>
+        <bioguideId>Y000063</bioguideId>
+        <party>R</party>
+        <state>KS</state>
+        <firstName>Kevin</firstName>
+        <middleName />
+        <byRequestType />
+      </item>
+    </sponsors>
+    <introducedDate>2017-07-28</introducedDate>
+    <relatedBills>
+      <item>
+        <latestAction>
+          <actionDate>2017-01-24</actionDate>
+          <text>Read twice and referred to the Committee on Finance.</text>
+        </latestAction>
+        <type>S</type>
+        <latestTitle>PACE Act</latestTitle>
+        <relationshipDetails>
+          <item>
+            <type>Identical bill</type>
+            <identifiedBy>CRS</identifiedBy>
+          </item>
+        </relationshipDetails>
+        <number>208</number>
+        <congress>115</congress>
+      </item>
+    </relatedBills>
+    <originChamber>House</originChamber>
+    <billType>HR</billType>
+    <title>PACE Act</title>
+    <calendarNumbers />
+    <recordedVotes />
+    <amendments />
+    <policyArea>
+      <name>Taxation</name>
+    </policyArea>
+    <updateDate>2017-10-04T07:16:31Z</updateDate>
+    <cboCostEstimates />
+    <laws />
+    <summaries>
+      <billSummaries>
+        <item>
+          <name>Introduced in House</name>
+          <versionCode>00</versionCode>
+          <text><![CDATA[<p><b>Promoting Affordable Childcare for Everyone Act or the PACE Act </b></p> <p>This bill amends the Internal Revenue Code, with respect to the tax credit for expenses for household and dependent care services necessary for gainful employment (known as the Child and Dependent Care Tax Credit), to: (1) make the credit refundable, (2) increase the rate for the credit, and (3) require the dollar amounts for such credit to be adjusted for inflation after 2017. </p> <p>The bill also increases the amount of employer-provided dependent care assistance which may be excluded from the gross income of an employee and requires the increased exclusion amount to be adjusted for inflation after 2018. </p>]]></text>
+          <updateDate>2017-07-28T04:00:00Z</updateDate>
+          <actionDesc>Introduced in House</actionDesc>
+          <lastSummaryUpdateDate>2017-08-16T15:05:47Z</lastSummaryUpdateDate>
+          <actionDate>2017-07-28</actionDate>
+        </item>
+      </billSummaries>
+    </summaries>
+    <latestAction>
+      <text>Referred to the House Committee on Ways and Means.</text>
+      <actionDate>2017-07-28</actionDate>
+      <links />
+    </latestAction>
+    <cosponsors>
+      <item>
+        <middleName>N.</middleName>
+        <isOriginalCosponsor>True</isOriginalCosponsor>
+        <bioguideId>M001202</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Stephanie</firstName>
+        <sponsorshipDate>2017-07-28</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Murphy, Stephanie N. [D-FL-7]</fullName>
+        <district>7</district>
+        <state>FL</state>
+        <identifiers>
+          <bioguideId>M001202</bioguideId>
+          <gpoId />
+          <lisID>2318</lisID>
+        </identifiers>
+        <lastName>Murphy</lastName>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000625</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Daniel</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Donovan, Daniel M., Jr. [R-NY-11]</fullName>
+        <district>11</district>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>D000625</bioguideId>
+          <lisID>2293</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Donovan</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000612</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jeff</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Denham, Jeff [R-CA-10]</fullName>
+        <district>10</district>
+        <state>CA</state>
+        <identifiers>
+          <lisID>1995</lisID>
+          <bioguideId>D000612</bioguideId>
+          <gpoId>7824</gpoId>
+        </identifiers>
+        <lastName>Denham</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>D000619</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Rodney</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Davis, Rodney [R-IL-13]</fullName>
+        <district>13</district>
+        <state>IL</state>
+        <identifiers>
+          <bioguideId>D000619</bioguideId>
+          <lisID>2126</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Davis</lastName>
+      </item>
+      <item>
+        <middleName>Scott</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>S001190</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Bradley</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Schneider, Bradley Scott [D-IL-10]</fullName>
+        <district>10</district>
+        <state>IL</state>
+        <identifiers>
+          <lisID>2124</lisID>
+          <gpoId />
+          <bioguideId>S001190</bioguideId>
+        </identifiers>
+        <lastName>Schneider</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>O000171</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. O'Halleran, Tom [D-AZ-1]</fullName>
+        <district>1</district>
+        <state>AZ</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>O000171</bioguideId>
+          <lisID>2306</lisID>
+        </identifiers>
+        <lastName>O'Halleran</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>R000608</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jacky</firstName>
+        <sponsorshipDate>2017-09-13</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Rosen, Jacky [D-NV-3]</fullName>
+        <district>3</district>
+        <state>NV</state>
+        <identifiers>
+          <bioguideId>R000608</bioguideId>
+          <gpoId />
+          <lisID>2339</lisID>
+        </identifiers>
+        <lastName>Rosen</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001105</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Barbara</firstName>
+        <sponsorshipDate>2017-09-14</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Comstock, Barbara [R-VA-10]</fullName>
+        <district>10</district>
+        <state>VA</state>
+        <identifiers>
+          <bioguideId>C001105</bioguideId>
+          <lisID>2273</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Comstock</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>K000386</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>John</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Katko, John [R-NY-24]</fullName>
+        <district>24</district>
+        <state>NY</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>K000386</bioguideId>
+          <lisID>2264</lisID>
+        </identifiers>
+        <lastName>Katko</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>L000567</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Leonard</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Lance, Leonard [R-NJ-7]</fullName>
+        <district>7</district>
+        <state>NJ</state>
+        <identifiers>
+          <lisID>1936</lisID>
+          <gpoId>8049</gpoId>
+          <bioguideId>L000567</bioguideId>
+        </identifiers>
+        <lastName>Lance</lastName>
+      </item>
+      <item>
+        <middleName>K.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>F000466</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Brian</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Fitzpatrick, Brian K. [R-PA-8]</fullName>
+        <district>8</district>
+        <state>PA</state>
+        <identifiers>
+          <gpoId />
+          <bioguideId>F000466</bioguideId>
+          <lisID>2345</lisID>
+        </identifiers>
+        <lastName>Fitzpatrick</lastName>
+      </item>
+      <item>
+        <middleName>R.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>T000463</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Michael</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Turner, Michael R. [R-OH-10]</fullName>
+        <district>10</district>
+        <state>OH</state>
+        <identifiers>
+          <gpoId>8093</gpoId>
+          <lisID>1741</lisID>
+          <bioguideId>T000463</bioguideId>
+        </identifiers>
+        <lastName>Turner</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001056</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Jaime</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Herrera Beutler, Jaime [R-WA-3]</fullName>
+        <district>3</district>
+        <state>WA</state>
+        <identifiers>
+          <lisID>2071</lisID>
+          <bioguideId>H001056</bioguideId>
+          <gpoId>8207</gpoId>
+        </identifiers>
+        <lastName>Herrera Beutler</lastName>
+      </item>
+      <item>
+        <middleName>P.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>J000295</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>David</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Joyce, David P. [R-OH-14]</fullName>
+        <district>14</district>
+        <state>OH</state>
+        <identifiers>
+          <lisID>2154</lisID>
+          <gpoId />
+          <bioguideId>J000295</bioguideId>
+        </identifiers>
+        <lastName>Joyce</lastName>
+      </item>
+      <item>
+        <middleName>A.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001106</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Ryan</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Costello, Ryan A. [R-PA-6]</fullName>
+        <district>6</district>
+        <state>PA</state>
+        <identifiers>
+          <bioguideId>C001106</bioguideId>
+          <lisID>2266</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Costello</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>B001282</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Andy</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <district>6</district>
+        <state>KY</state>
+        <identifiers>
+          <bioguideId>B001282</bioguideId>
+          <lisID>2131</lisID>
+          <gpoId />
+        </identifiers>
+        <lastName>Barr</lastName>
+      </item>
+      <item>
+        <middleName>D.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>H001048</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Duncan</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Hunter, Duncan D. [R-CA-50]</fullName>
+        <district>50</district>
+        <state>CA</state>
+        <identifiers>
+          <bioguideId>H001048</bioguideId>
+          <gpoId>7857</gpoId>
+          <lisID>1909</lisID>
+        </identifiers>
+        <lastName>Hunter</lastName>
+      </item>
+      <item>
+        <middleName>M.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>Z000017</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Lee</firstName>
+        <sponsorshipDate>2017-09-18</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Zeldin, Lee M. [R-NY-1]</fullName>
+        <district>1</district>
+        <state>NY</state>
+        <identifiers>
+          <bioguideId>Z000017</bioguideId>
+          <gpoId />
+          <lisID>2261</lisID>
+        </identifiers>
+        <lastName>Zeldin</lastName>
+      </item>
+      <item>
+        <middleName>E.</middleName>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>A000369</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Mark</firstName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Amodei, Mark E. [R-NV-2]</fullName>
+        <district>2</district>
+        <state>NV</state>
+        <identifiers>
+          <lisID>2090</lisID>
+          <bioguideId>A000369</bioguideId>
+          <gpoId>8366</gpoId>
+        </identifiers>
+        <lastName>Amodei</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>M001197</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Martha</firstName>
+        <sponsorshipDate>2017-09-27</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. McSally, Martha [R-AZ-2]</fullName>
+        <district>2</district>
+        <state>AZ</state>
+        <identifiers>
+          <lisID>2225</lisID>
+          <gpoId />
+          <bioguideId>M001197</bioguideId>
+        </identifiers>
+        <lastName>McSally</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>G000581</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Vicente</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Gonzalez, Vicente [D-TX-15]</fullName>
+        <district>15</district>
+        <state>TX</state>
+        <identifiers>
+          <lisID>2349</lisID>
+          <bioguideId>G000581</bioguideId>
+          <gpoId />
+        </identifiers>
+        <lastName>Gonzalez</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001061</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Emanuel</firstName>
+        <sponsorshipDate>2017-09-28</sponsorshipDate>
+        <party>D</party>
+        <fullName>Rep. Cleaver, Emanuel [D-MO-5]</fullName>
+        <district>5</district>
+        <state>MO</state>
+        <identifiers>
+          <gpoId>8013</gpoId>
+          <bioguideId>C001061</bioguideId>
+          <lisID>1790</lisID>
+        </identifiers>
+        <lastName>Cleaver</lastName>
+      </item>
+      <item>
+        <middleName />
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+        <bioguideId>C001053</bioguideId>
+        <sponsorshipWithdrawnDate />
+        <firstName>Tom</firstName>
+        <sponsorshipDate>2017-10-03</sponsorshipDate>
+        <party>R</party>
+        <fullName>Rep. Cole, Tom [R-OK-4]</fullName>
+        <district>4</district>
+        <state>OK</state>
+        <identifiers>
+          <lisID>1742</lisID>
+          <gpoId>8112</gpoId>
+          <bioguideId>C001053</bioguideId>
+        </identifiers>
+        <lastName>Cole</lastName>
+      </item>
+    </cosponsors>
+    <congress>115</congress>
+    <subjects>
+      <billSubjects>
+        <legislativeSubjects>
+          <item>
+            <name>Child care and development</name>
+          </item>
+          <item>
+            <name>Employee benefits and pensions</name>
+          </item>
+          <item>
+            <name>Income tax credits</name>
+          </item>
+          <item>
+            <name>Income tax exclusion</name>
+          </item>
+          <item>
+            <name>Inflation and prices</name>
+          </item>
+        </legislativeSubjects>
+        <policyArea>
+          <name>Taxation</name>
+        </policyArea>
+      </billSubjects>
+    </subjects>
+    <committeeReports />
+    <titles>
+      <item>
+        <chamberName />
+        <title>PACE Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Promoting Affordable Childcare for Everyone Act</title>
+        <titleType>Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>To amend the Internal Revenue Code of 1986 to make the Child and Dependent Care Tax Credit fully refundable, and for other purposes.</title>
+        <titleType>Official Title as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>PACE Act</title>
+        <titleType>Display Title</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>PACE Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+      <item>
+        <chamberName />
+        <title>Promoting Affordable Childcare for Everyone Act</title>
+        <titleType>(Extracted from GPO) Short Titles as Introduced</titleType>
+        <parentTitleType />
+        <chamberCode />
+      </item>
+    </titles>
+    <constitutionalAuthorityStatementText><![CDATA[<pre>From the Congressional Record Online through the Government Publishing Office [<a href='http://www.gpo.gov'>www.gpo.gov</a>]By Mr. YODER:H.R. 3632.Congress has the power to enact this legislation pursuantto the following:Article I, Section 8:The Congress shall have Power To lay and collect Taxes,Duties, Imposts and Excises, to pay the Debts and provide forthe common Defense and general Welfare of the United States.[Page H6580]</pre>]]></constitutionalAuthorityStatementText>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>
+
