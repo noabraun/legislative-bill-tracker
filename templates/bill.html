@@ -23,7 +23,7 @@
         {% for senator_item in senators_sponsored %}
             {% for senator_info in senator_item %}
                 <li>
-                    <a href="/senators/{{ senator_info.name }}">{{ senator_info.name}}</a>
+                    <a href="/senators/{{ senator_info.name }}">{{ senator_info.name}} ({{senator_info.party}})</a>
                 </li>
             {% endfor %}
         {% endfor %}

@@ -18,11 +18,11 @@
     {% if search_results.get('tag') != []%}
 
         {% for tag in search_results.get('tag') %}
-            {% for bill in tag.bills %}
+
                 <li>
-                    {{ bill.bill_id }}: {{bill.title}}<br>
+                    <a href="/tags/{{ tag.tag_text}}"> Tag: {{tag.tag_text}}</a><br>
                 </li>
-            {% endfor %}
+
         {% endfor %}
 
     {% endif %}
@@ -32,7 +32,7 @@
         {% for committee in search_results.get('committee') %}
 
                 <li>
-                    <a href="/committees/{{ committee.name }}"> {{ committee.name }}</a><br>
+                    <a href="/committees/{{ committee.name }}"> Committee: {{ committee.name }}</a><br>
                 </li>
 
         {% endfor %}

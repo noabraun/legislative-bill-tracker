@@ -28,12 +28,14 @@ def index():
 
     return render_template("homepage.html")
 
+
 @app.route("/bills")
 def bill_list():
     """Show list of bills."""
 
     bills = Bill.query.order_by(Bill.date).all()
     return render_template("bill_list.html", bills=bills)
+
 
 @app.route("/bills/<bill_id>")
 def bill_detail(bill_id):
@@ -43,6 +45,12 @@ def bill_detail(bill_id):
 
     sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
     action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date).all()
+    # associated_committees = BillCommittee.query.filter_by(bill_id=bill_id).all()
+
+    # committees = []
+    # for committee in associated_committees:
+    #     bill_committee = Committee.query.filter_by(committee_id=committee.committee_id).first()
+    #     committees.append(bill_committee)
 
     senators_sponsored =[]
     for item in bill.sponsorships:
@@ -162,8 +170,6 @@ def tag_detail(tag_text):
         bills_tagged.append(bill_spons)
 
     return render_template("tag.html", tag=tag, bills_tagged=bills_tagged)
-
-
 
 
 if __name__ == "__main__":
