@@ -2,54 +2,68 @@
 {% block content %}
     <title>Search Results</title>
 
-<h1>Search Results for '{{search_input}}'</h1>
-
 <ul>
-    {% if search_results.get('senator_name') != []%}
+    {% if search_results == 'empty' %}
+        
+        <h1>We regret to inform you that no results were found for: '{{search_input}}'</h1>
 
-        {% for senator in search_results.get('senator_name') %}
-            <li>
-                <a href="/senators/{{ senator.name}}"> Senator: {{senator.name}}</a><br>
-            </li>
-        {% endfor %}
+        <img src="{{ rand_senator_image }}" alt="sad_lindsey" style="width:650px;height:400px;">
 
     {% endif %}
 
-    {% if search_results.get('tag') != []%}
+    {% if search_results != 'empty' %}
+        
+    <h1>Search Results for '{{search_input}}'</h1>
 
-        {% for tag in search_results.get('tag') %}
+        {% if search_results.get('senator_name') != []%}
 
+            {% for senator in search_results.get('senator_name') %}
                 <li>
-                    <a href="/tags/{{ tag.tag_text}}"> Tag: {{tag.tag_text}}</a><br>
+                    <a href="/senators/{{ senator.name}}"> Senator: {{senator.name}}</a><br>
                 </li>
+            {% endfor %}
 
-        {% endfor %}
+        {% endif %}
 
-    {% endif %}
+        {% if search_results.get('tag') != []%}
 
-    {% if search_results.get('committee') != []%}
+            {% for tag in search_results.get('tag') %}
 
-        {% for committee in search_results.get('committee') %}
+                    <li>
+                        <a href="/tags/{{ tag.tag_text}}"> Tag: {{tag.tag_text}}</a><br>
+                    </li>
 
+            {% endfor %}
+
+        {% endif %}
+
+        {% if search_results.get('committee') != []%}
+
+            {% for committee in search_results.get('committee') %}
+
+                    <li>
+                        <a href="/committees/{{ committee.name }}"> Committee: {{ committee.name }}</a><br>
+                    </li>
+
+            {% endfor %}
+
+        {% endif %}
+
+        {% if search_results.get('bill_title') != []%}
+
+            {% for bill in search_results.get('bill_title') %}
                 <li>
-                    <a href="/committees/{{ committee.name }}"> Committee: {{ committee.name }}</a><br>
+                    <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
                 </li>
+            {% endfor %}
 
-        {% endfor %}
-
-    {% endif %}
-
-    {% if search_results.get('bill_title') != []%}
-
-        {% for bill in search_results.get('bill_title') %}
-            <li>
-                <a href="/bills/{{ bill.bill_id }}"> {{ bill.bill_id }}: {{bill.title}}</a><br>
-            </li>
-        {% endfor %}
+        {% endif %}
 
     {% endif %}
 
 </ul>
+
+
 
 
 

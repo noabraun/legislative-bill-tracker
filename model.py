@@ -24,6 +24,7 @@ class Bill(db.Model):
 
     tags = db.relationship("Tag", secondary="bill_tags", backref="bills")
     committees = db.relationship("Committee", secondary="bill_committees", backref="bills")
+    senators = db.relationship("Senator", secondary='sponsorships', backref='bills')
 
 
     def __repr__(self):

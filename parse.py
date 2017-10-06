@@ -223,14 +223,6 @@ for item in os.listdir(directory):
         print counter
        
 
-# with open(directory + '/' + 'BILLSTATUS-115sres52.xml','r') as f:
-#      o = xmltodict.parse(f.read())
-#         #reads the xml file
-# json_obj = json.dumps(o) 
-# #converts xml to json 
-# bill_dict = json.loads(json_obj)
-# # converts json to dict
-
 print get_sponsor_info(bill_dict)
 print get_bill_info(bill_dict)
 print get_bill_title(bill_dict)

@@ -9,6 +9,8 @@ import wikipedia
 from newsapi.articles import Articles
 from markupsafe import Markup
 from sqlalchemy import distinct, or_
+from helper_functions import is_empty_list, random_sad_senator
+import xmltodict, json
 
 
 a = Articles(API_KEY="336f09646bd34a7b9736a784bb20abe4")
@@ -45,12 +47,14 @@ def bill_detail(bill_id):
 
     sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
     action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date).all()
-    # associated_committees = BillCommittee.query.filter_by(bill_id=bill_id).all()
+    bill_committees = BillCommittee.query.filter_by(bill_id=bill_id).all()
 
-    # committees = []
-    # for committee in associated_committees:
-    #     bill_committee = Committee.query.filter_by(committee_id=committee.committee_id).first()
-    #     committees.append(bill_committee)
+    committees = []
+    for item in bill_committees: 
+        committee_id = item.committee_id
+        committee = Committee.query.filter_by(committee_id=committee_id).first()
+        committees.append(committee)
+    print committees
 
     senators_sponsored =[]
     for item in bill.sponsorships:
@@ -60,7 +64,8 @@ def bill_detail(bill_id):
 
     return render_template("bill.html", bill=bill, 
                           sponsorship=sponsorship, action=action, 
-                          senators_sponsored=senators_sponsored)
+                          senators_sponsored=senators_sponsored, committees=committees)
+
 
 @app.route("/senators")
 def senator_list():
@@ -68,6 +73,7 @@ def senator_list():
 
     senators = Senator.query.all()
     return render_template("senator_list.html", senators=senators)
+
 
 @app.route("/senators/<name>")
 def senator_detail(name):
@@ -90,8 +96,6 @@ def senator_detail(name):
 def process_search_results():
     """ Use user inputted search to look for associated tags """
 
- # search_input = request.form.get('searchInput')
-
     search_input = request.args.get('nav_search')
     #returns what the user entered to search 
 
@@ -99,10 +103,8 @@ def process_search_results():
 
     senator_name = Senator.query.filter(or_(Senator.name.like("%"+search_input+"%"),
                                             Senator.state.like("%"+search_input+"%"))).all()
-    search_results['senator_name'] = senator_name
 
-    # senator_state = Senator.query.filter(Senator.state.like("%"+search_input+"%")).all()
-    # search_results['senator_state'] = senator_state
+    search_results['senator_name'] = senator_name
 
     tag = Tag.query.filter(Tag.tag_text.like("%"+search_input+"%")).all()
     search_results['tag'] = tag
@@ -116,12 +118,15 @@ def process_search_results():
     bill_title = Bill.query.filter(or_(Bill.title.like("%"+search_input+"%"), 
                                       Bill.description.like("%"+search_input+"%"),
                                       Bill.bill_type.like("%"+search_input+"%"))).all()
- 
-
     search_results['bill_title'] = bill_title
 
+    if search_results.get('bill_title') == [] and search_results.get('action_text') == [] and search_results.get('committee') == [] and search_results.get('tag') == [] and search_results.get('senator_name') == []:
+        #checks to see if there were no search results returned
+        search_results = 'empty'
 
-    return render_template('search_results.html', search_results=search_results, search_input=search_input)
+    rand_senator_image = random_sad_senator()
+
+    return render_template('search_results.html', search_results=search_results, rand_senator_image=rand_senator_image, search_input=search_input)
 
 
 @app.route("/committees")
@@ -149,6 +154,7 @@ def committee_detail(name):
 
     return render_template("committee.html", committee=committee, bills_sponsored=bills_sponsored)
 
+
 @app.route("/tags")
 def tag_list():
     """Show list of tags."""
@@ -170,6 +176,61 @@ def tag_detail(tag_text):
         bills_tagged.append(bill_spons)
 
     return render_template("tag.html", tag=tag, bills_tagged=bills_tagged)
+
+
+@app.route("/senator-relationships")
+def show_relationships():
+    """Data Visualization of who works together"""
+    relationships = {'nodes':[], 'links':[]}
+    seen = set()
+    nodes = []
+    directory = 'static'
+
+
+
+    for senator in Senator.query.all():
+        count = {}
+
+        if senator.party == 'D':
+            group = 1
+        elif senator.party == 'R': 
+            group = 0
+        else: 
+            group = 2
+
+        relationships.get('nodes').append({"id": senator.name, "group": group})
+        #appends senator name and party group to nodes key in the final relationships dict
+
+        bills = senator.bills #all bills sponsored by this senator
+
+        for bill in bills: # returns each bill within the bills list
+            bill_sponsors = bill.senators # each senator that has also sponsored that bill, includes current senator
+            for sen in bill_sponsors:
+                if sen.name == senator.name:
+                    #ensure current senator wont have relationship with self
+                    break
+                if sen.name in seen: 
+                    break
+                if count.get(sen.name): 
+                    count[sen.name] += 1
+                else: 
+                    count[sen.name] = 1
+        for item in count: #item is the same as the sen values
+            relationships.get('links').append({'source': senator.name, 'target': item, 'value': count.get(item)})
+
+        # relationships.get('links').append({senator.name: count})
+        seen.add(senator.name)
+
+    output = open(directory + '/' + 'relationships.json', 'w')
+
+    json_obj = json.dumps(relationships)
+    output.write(json_obj+'\n')
+
+    from pprint import pprint 
+    pprint(relationships)
+
+
+    return render_template("senator_relationships.html", relationships=relationships)
 
 
 if __name__ == "__main__":

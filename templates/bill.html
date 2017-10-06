@@ -29,5 +29,16 @@
         {% endfor %}
     </ul>
 
+    <p>Associated Committees:<p>
+    <ul>
+        {% for committee_item in committees %}
+
+                <li>
+                    <a href="/committees/{{ committee_item.name }}">{{ committee_item.name }} </a>
+                </li>
+
+        {% endfor %}
+    </ul>
+
 </div>
 {% endblock %}
