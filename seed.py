@@ -7,8 +7,8 @@ from sqlalchemy import func
 from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
 from server import app
 import parse 
-# directory = 'BILLSTATUS-115-sres'
-directory = 'BILLSTATUS-115-s'
+directory = 'BILLSTATUS-115-sres'
+# directory = 'BILLSTATUS-115-s'
 # directory = 'BILLSTATUS-115-hr'
 
 

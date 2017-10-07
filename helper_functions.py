@@ -1,4 +1,5 @@
 from random import choice
+import wikipedia
 
 def is_empty_list(input_list):
     if input_list == []:
@@ -15,3 +16,22 @@ def random_sad_senator():
                    'http://thehill.com/sites/default/files/cassidybill_grahamlindsey_091317gn_lead.jpg',
                    'http://i.huffpost.com/gen/1448414/images/o-RON-JOHNSON-facebook.jpg']
     return choice(sad_senators)
+
+
+def get_senator_image(name):
+    last_name = name.split()
+    last_name = last_name[1]
+    senator_images = wikipedia.page('Current_members_of_the_United_States_Senate')
+    image_wiki = senator_images.images
+
+    print last_name
+
+    for item in image_wiki: 
+
+        index = item.find(last_name)
+
+        if index != -1: 
+            senator_image = item
+            return senator_image
+        else: 
+            pass

@@ -9,7 +9,7 @@ import wikipedia
 from newsapi.articles import Articles
 from markupsafe import Markup
 from sqlalchemy import distinct, or_
-from helper_functions import is_empty_list, random_sad_senator
+from helper_functions import is_empty_list, random_sad_senator, get_senator_image
 import xmltodict, json
 
 
@@ -80,7 +80,6 @@ def senator_detail(name):
     """Show info about senator."""
     senator_wiki_page = wikipedia.page(name +" (politician)")
     url_wiki = senator_wiki_page.url
-    # image_wiki = senator_wiki_page.images
     senator_wiki = wikipedia.summary(name +" (politician)", sentences=5)
     senator = Senator.query.filter_by(name=name).first()
     bills_sponsored =[]
@@ -89,7 +88,11 @@ def senator_detail(name):
         bill_spons = Bill.query.filter_by(bill_id=bill_id).all()
         bills_sponsored.append(bill_spons)
 
-    return render_template("senator.html", senator=senator, 
+    sen_image = get_senator_image(name)
+    if sen_image == False: 
+        sen_image = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/US-Congress-UnofficialSeal.svg/2000px-US-Congress-UnofficialSeal.svg.png'
+
+    return render_template("senator.html", senator=senator, sen_image=sen_image,
                           senator_wiki=senator_wiki, url_wiki=url_wiki, bills_sponsored=bills_sponsored)
 
 @app.route("/search")
@@ -185,8 +188,6 @@ def show_relationships():
     seen = set()
     nodes = []
     directory = 'static'
-
-
 
     for senator in Senator.query.all():
         count = {}
