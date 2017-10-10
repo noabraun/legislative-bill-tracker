@@ -22,24 +22,34 @@ text {
   font-size: 10px;
 }
 
-svg {
-  opacity:.3;
-}
-svg:hover {
-  opacity:1;
-  transition:opacity 1s linear;*
-}
+
 
 </style>
+<img src='../static/loading.gif' id='loading_icon'> 
 <svg width="1300" height="900"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://code.jquery.com/jquery.js"></script>
 <script>
+
+$('svg').hide()
+
+function show_chart(){
+  $('svg').show()
+  $('#loading_icon').hide()
+}
+
+setTimeout(show_chart, 2500)
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");
 
-var color = d3.scaleOrdinal(d3.schemeCategory20);
+// var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+var color = d3.scaleOrdinal()
+.domain([0,1,2])
+.range(['#c30808', '#1f22c4', '#e3be10']);
+
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }))
