@@ -1,5 +1,7 @@
 from random import choice
 import wikipedia
+import csv
+import json
 
 def is_empty_list(input_list):
     if input_list == []:
@@ -35,3 +37,38 @@ def get_senator_image(name):
             return senator_image
         else: 
             pass
+
+
+def load_ideology():
+    csvfile = open('political_leaning.csv', 'r')
+    jsonfile = open('ideology.json', 'w')
+
+    fieldnames = ("ideology","lname")
+    reader = csv.DictReader( csvfile, fieldnames)
+    for row in reader:
+        json.dump(row, jsonfile)
+        jsonfile.write('\n')
+
+
+def calc_bill_ideology(senator_list):
+    bill_score = 1
+    for senator in senator_list: 
+        sen_id = senator.senator_id
+        ideology = Ideology.query.filter_by(senator_id=sen_id)
+        sen_ideology = ideology.score
+        bill_score *= sen_ideology
+    return sen_ideology
+
+
+
+
+
+
+
+
+
+
+
+
+
+

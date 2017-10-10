@@ -50,6 +50,22 @@ class Senator(db.Model):
         return "<Senator senator_id=%s name=%s state=%s party=%s original_sponsor=%s>" % (self.senator_id, self.name, 
                                                                      self.state, self.party, self.original_sponsor)
 
+class Ideology(db.Model):
+    """senator ideologies"""
+
+    __tablename__ = "ideologies"
+
+    ideology_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
+    senator_id = db.Column(db.Integer, db.ForeignKey('senators.senator_id'), nullable=False)
+    score = db.Column(db.Float)
+
+    senator = db.relationship("Senator", backref="ideologies")
+
+    def __repr__(self):
+        """Provide helpful representation when printed."""
+
+        return "<Ideology ideology_id=%s senator_id=%s score=%s>" % (self.ideology_id, self.senator_id, self.score)
+
 
 class Tag(db.Model):
     """Tag text"""
@@ -58,6 +74,7 @@ class Tag(db.Model):
 
     tag_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
     tag_text = db.Column(db.Text, nullable=True)
+
 
     def __repr__(self):
         """Provide helpful representation when printed."""
@@ -121,7 +138,6 @@ class Sponsorship(db.Model):
                                                                                                            self.senator_id, 
                                                                                                            self.withdrawn, 
                                                                                                            self.withdrawn_date)
-
 class BillTag(db.Model):
     """Association Table between Bill and Tag"""
 

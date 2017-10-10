@@ -13,10 +13,15 @@
     <p>Party: Republican</p>
   {% endif %}
 
-  <img src="{{ sen_image }}" alt="senator_image" style="width:290px;height:350px;">
+  <p> Senator Ideology Score (with 100 being most Progressive): {{progressive_score}}/100</p>
+
+
+  <ul>
+    <img src="{{ sen_image }}" alt="senator_image" style="width:290px;height:350px;">
+  </ul>
 
   
-  <a href="{{url_wiki}}"><p>Wikipedia:</a> {{senator_wiki}}</p>
+  <br><a href="{{url_wiki}}"><p>Wikipedia:</a> {{senator_wiki}}</p>
 
   <p>Sponsored Bills:<p>
     <ul>

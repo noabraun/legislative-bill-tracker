@@ -4,12 +4,12 @@
 from jinja2 import StrictUndefined
 from flask import Flask, render_template, request, flash, redirect, session, Markup
 from flask_debugtoolbar import DebugToolbarExtension
-from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
+from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee, Ideology
 import wikipedia
 from newsapi.articles import Articles
 from markupsafe import Markup
-from sqlalchemy import distinct, or_
-from helper_functions import is_empty_list, random_sad_senator, get_senator_image
+from sqlalchemy import distinct, or_, desc
+from helper_functions import is_empty_list, random_sad_senator, get_senator_image, calc_bill_ideology
 import xmltodict, json
 
 
@@ -36,6 +36,7 @@ def bill_list():
     """Show list of bills."""
 
     bills = Bill.query.order_by(Bill.date).all()
+
     return render_template("bill_list.html", bills=bills)
 
 
@@ -56,15 +57,20 @@ def bill_detail(bill_id):
         committees.append(committee)
     print committees
 
-    senators_sponsored =[]
-    for item in bill.sponsorships:
-        senator_id = item.senator_id
-        sen_spons = Senator.query.filter_by(senator_id=senator_id).all()
-        senators_sponsored.append(sen_spons)
+    bill_score = 0
+    # senators_sponsored =[]
+
+    for senator in bill.senators:
+        # senators_sponsored.append(senator)
+        ideology = Ideology.query.filter_by(senator_id=senator.senator_id).first()
+        sen_ideology = ideology.score*100
+        bill_score += sen_ideology
+
+    bill_score = bill_score/(len(bill.senators))
 
     return render_template("bill.html", bill=bill, 
                           sponsorship=sponsorship, action=action, 
-                          senators_sponsored=senators_sponsored, committees=committees)
+                          senators_sponsored=bill.senators, committees=committees, bill_score=bill_score)
 
 
 @app.route("/senators")
@@ -72,6 +78,7 @@ def senator_list():
     """Show list of senators."""
 
     senators = Senator.query.all()
+
     return render_template("senator_list.html", senators=senators)
 
 
@@ -81,7 +88,13 @@ def senator_detail(name):
     senator_wiki_page = wikipedia.page(name +" (politician)")
     url_wiki = senator_wiki_page.url
     senator_wiki = wikipedia.summary(name +" (politician)", sentences=5)
+
     senator = Senator.query.filter_by(name=name).first()
+    senator_id = senator.senator_id
+
+    sen_ideology = Ideology.query.filter_by(senator_id=senator_id).first()
+    progressive_score = (sen_ideology.score)*100 
+
     bills_sponsored =[]
     for item in senator.sponsorships:
         bill_id = item.bill_id
@@ -93,7 +106,8 @@ def senator_detail(name):
         sen_image = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/US-Congress-UnofficialSeal.svg/2000px-US-Congress-UnofficialSeal.svg.png'
 
     return render_template("senator.html", senator=senator, sen_image=sen_image,
-                          senator_wiki=senator_wiki, url_wiki=url_wiki, bills_sponsored=bills_sponsored)
+                          senator_wiki=senator_wiki, url_wiki=url_wiki, 
+                          bills_sponsored=bills_sponsored, progressive_score=progressive_score)
 
 @app.route("/search")
 def process_search_results():
@@ -162,7 +176,8 @@ def committee_detail(name):
 def tag_list():
     """Show list of tags."""
 
-    tags = Tag.query.all()
+    tags = Tag.query.order_by(Tag.tag_text).all()
+
     return render_template("tag_list.html", tags=tags)
 
 

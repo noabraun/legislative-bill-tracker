@@ -2,13 +2,13 @@
 {% block content %}
 
 <title>Senator Relationships</title>
-<h1>Senator Relationships</h1>
+<ul><h1>Senator Relationships</h1></ul>
 
 <meta charset="utf-8">
 <style>
 
 .links line {
-  stroke: #b29d9d;
+  stroke: #dfdfdf;
   stroke-opacity: 0.4;
 }
 
@@ -22,8 +22,16 @@ text {
   font-size: 10px;
 }
 
+svg {
+  opacity:.3;
+}
+svg:hover {
+  opacity:1;
+  transition:opacity 1s linear;*
+}
+
 </style>
-<svg width="1100" height="800"></svg>
+<svg width="1300" height="900"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -57,7 +65,7 @@ d3.json("/static/relationships.json", function(error, graph) {
     .enter().append("g")
     
   var circles = node.append("circle")
-      .attr("r", 5)
+      .attr("r", 7)
       .attr("fill", function(d) { return color(d.group); })
       .call(d3.drag()
           .on("start", dragstarted)
@@ -113,6 +121,7 @@ function dragended(d) {
 }
 
 </script>
+
 
 
 

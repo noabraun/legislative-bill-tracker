@@ -4,9 +4,10 @@ import xml.etree.ElementTree as etree
 import os
 import xmltodict, json
 from sqlalchemy import func
-from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
+from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee, Ideology
 from server import app
 import parse 
+from helper_functions import load_ideology
 directory = 'BILLSTATUS-115-sres'
 # directory = 'BILLSTATUS-115-s'
 # directory = 'BILLSTATUS-115-hr'
@@ -59,6 +60,7 @@ def load_senators(bill_dict):
 
     db_not_empty = Senator.query.filter_by(senator_id=1).first()
 
+
     if parse.get_sponsor_info(bill_dict) == None: 
 
         with open('cosponsors.json','r') as f:
@@ -98,7 +100,28 @@ def load_senators(bill_dict):
 
     # commits bill info to DB
     db.session.commit()
+    print "__________"
+    print 'finished senator table'
+    print "__________"
 
+def load_ideologies():
+    """Loads senator idealogies from csv and json files"""
+    load_ideology()
+    # populates json 
+    jsonfile = open('ideology.json', 'r')
+
+    for line in jsonfile:
+        line = json.loads(line) #unjsonifies the line 
+        lname = line.get('lname')
+
+        senator = Senator.query.filter(Senator.name.like("%"+lname)).first()
+        # senator.iygfgh = 'stuff'
+        senator_id = senator.senator_id
+        score = line.get('ideology')
+
+        ideology = Ideology(senator_id=senator_id, score=score)
+        db.session.add(ideology)
+    db.session.commit()
 
 
 def load_tags(bill_dict):
@@ -114,10 +137,6 @@ def load_tags(bill_dict):
     bill_id = bill_type + '-' + bill_number
 
     for key in bill_tags:
-        # if bill_tags.get(key) == None: 
-            # tag = Tag(tag_text=None)
-            # db.session.add(tag)
-            # db.session.commit()
 
         if bill_tags.get(key):
             for item in bill_tags.get(key):
@@ -126,8 +145,6 @@ def load_tags(bill_dict):
                 else: 
                     tag_text = item[0]
                     tag = Tag(tag_text=tag_text)
-                    # db.session.add(tag)
-                    # db.session.commit()
 
                     if not db_not_empty: #if db is empty
                         db.session.add(tag)
@@ -137,7 +154,6 @@ def load_tags(bill_dict):
                     else: 
                         db.session.add(tag)
                         db.session.commit()
-
 
                     tags = Tag.query.filter_by(tag_text=tag_text).first()
                     bill_tag_item = BillTag(bill_id=bill_id, tag_id=tags.tag_id)
@@ -268,3 +284,6 @@ if __name__ == "__main__":
             load_committees(bill_dict)
             load_actions(bill_dict)
             load_sponsorships(bill_dict)
+    load_ideologies()
+
+

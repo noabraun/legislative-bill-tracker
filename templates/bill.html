@@ -4,7 +4,10 @@
     <h2>{{ bill.bill_id }}: {{ bill.title }}</h2>
 
     <p>Date proposed: {{ bill.date.strftime('%m-%d-%Y') }}</p>
+    <p>Bill Progressive score: {{bill_score}}/100</p>
     <p>Description: {{ bill.description |safe }}</p>
+
+
 
     <p>Actions taken:</p>
     <ul>
@@ -20,12 +23,12 @@
 
     <p>Bill Sponsors:<p>
     <ul>
-        {% for senator_item in senators_sponsored %}
-            {% for senator_info in senator_item %}
+        {% for senator in senators_sponsored %}
+
                 <li>
-                    <a href="/senators/{{ senator_info.name }}">{{ senator_info.name}} ({{senator_info.party}})</a>
+                    <a href="/senators/{{ senator.name }}">{{ senator.name}} ({{senator.party}})</a>
                 </li>
-            {% endfor %}
+
         {% endfor %}
     </ul>
 
