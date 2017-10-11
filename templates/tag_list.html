@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block content %}
 
-<div class="well spaced" style="width:60%">
+<div class="well spaced" >
     <h1>Tags</h1>
     <ul>
       {% for tag in tags %}
@@ -14,14 +14,21 @@
       {% endfor %}
 
     <div class="pagination">
-      <a href="#">&laquo;</a>
-      <a href="#">1</a>
-      <a class="active" href="#">2</a>
-      <a href="#">3</a>
-      <a href="#">4</a>
-      <a href="#">5</a>
-      <a href="#">6</a>
-      <a href="#">&raquo;</a>
+
+      {% if page_num != 1 %}
+        <a href="/tags?page={{page_num-1}}">&laquo;</a>
+      {% endif %}
+
+      {% for number in range(max_pages+1) %}
+        {% if number != 0 %}
+          <a href="/tags?page={{number}}">{{number}}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if page_num != max_pages %}
+        <a href="/tags?page={{page_num+1}}">&raquo;</a>
+      {% endif %}
+
     </div>
     </ul>
 </div>

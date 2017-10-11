@@ -176,9 +176,18 @@ def committee_detail(name):
 def tag_list():
     """Show list of tags."""
 
-    tags = Tag.query.order_by(Tag.tag_text).all()
+    num_tags = len(Tag.query.all())
+    if num_tags % 20 != 0: 
+        max_pages = (num_tags/20) + 1
+    else:
+        max_pages = (num_tags/20)
 
-    return render_template("tag_list.html", tags=tags)
+    page_num = int(request.args.get('page', 1))
+    offset = (page_num-1)*20
+
+    tags = Tag.query.order_by(Tag.tag_text).limit(20).offset(offset).all()
+
+    return render_template("tag_list.html", tags=tags, page_num=page_num, num_tags=num_tags, max_pages=max_pages)
 
 
 @app.route("/tags/<tag_text>")
@@ -241,10 +250,6 @@ def show_relationships():
 
     json_obj = json.dumps(relationships)
     output.write(json_obj+'\n')
-
-    from pprint import pprint 
-    pprint(relationships)
-
 
     return render_template("senator_relationships.html", relationships=relationships)
 
