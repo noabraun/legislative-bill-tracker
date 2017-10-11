@@ -4,13 +4,14 @@ import xml.etree.ElementTree as etree
 import os
 import xmltodict, json
 from sqlalchemy import func
-from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee, Ideology
+from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
 from server import app
 import parse 
 from helper_functions import load_ideology
 directory = 'BILLSTATUS-115-sres'
 # directory = 'BILLSTATUS-115-s'
 # directory = 'BILLSTATUS-115-hr'
+data_directory = 'data'
 
 
 def load_file(filename): 
@@ -100,9 +101,6 @@ def load_senators(bill_dict):
 
     # commits bill info to DB
     db.session.commit()
-    print "__________"
-    print 'finished senator table'
-    print "__________"
 
 def load_ideologies():
     """Loads senator idealogies from csv and json files"""
@@ -115,14 +113,27 @@ def load_ideologies():
         lname = line.get('lname')
 
         senator = Senator.query.filter(Senator.name.like("%"+lname)).first()
-        # senator.iygfgh = 'stuff'
-        senator_id = senator.senator_id
-        score = line.get('ideology')
+        senator.ideology = line.get('ideology')
 
-        ideology = Ideology(senator_id=senator_id, score=score)
-        db.session.add(ideology)
+        db.session.add(senator)
     db.session.commit()
 
+    bills = Bill.query.all()
+
+
+    for bill in bills:
+
+        bill_score = 0
+        for senator in bill.senators:
+            sen_ideology = senator.ideology*100
+            bill_score += sen_ideology
+
+        bill_score = bill_score/(len(bill.senators))
+
+        bill.score = bill_score
+        db.session.add(bill)
+
+    db.session.commit()
 
 def load_tags(bill_dict):
     """Load tags from data files into database using parse.py"""
@@ -272,7 +283,7 @@ def load_sponsorships(bill_dict):
 if __name__ == "__main__":
     connect_to_db(app)
     db.create_all()
-
+    # for type_directory in os.listdir(data_directory):
     for item in os.listdir(directory):
         if item[0] == '.':
             pass

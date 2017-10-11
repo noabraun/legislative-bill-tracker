@@ -60,6 +60,11 @@ def calc_bill_ideology(senator_list):
     return sen_ideology
 
 
+def create_bar_graph(spons_data):
+    jsonfile = open('sen_bar_chart.json', 'w')
+
+
+
 
 
 

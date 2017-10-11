@@ -4,7 +4,7 @@
 from jinja2 import StrictUndefined
 from flask import Flask, render_template, request, flash, redirect, session, Markup
 from flask_debugtoolbar import DebugToolbarExtension
-from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee, Ideology
+from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
 import wikipedia
 from newsapi.articles import Articles
 from markupsafe import Markup
@@ -35,9 +35,19 @@ def index():
 def bill_list():
     """Show list of bills."""
 
-    bills = Bill.query.order_by(Bill.date).all()
+    num_bills = len(Bill.query.all())
 
-    return render_template("bill_list.html", bills=bills)
+    if num_bills % 20 != 0: 
+        max_pages = (num_bills/20) + 1
+    else:
+        max_pages = (num_bills/20)
+
+    page_num = int(request.args.get('page', 1))
+    offset = (page_num-1)*20
+
+    bills = Bill.query.order_by(Bill.date).limit(20).offset(offset).all()
+
+    return render_template("bill_list.html", bills=bills, page_num=page_num, num_bills=num_bills, max_pages=max_pages)
 
 
 @app.route("/bills/<bill_id>")
@@ -57,16 +67,7 @@ def bill_detail(bill_id):
         committees.append(committee)
     print committees
 
-    bill_score = 0
-    # senators_sponsored =[]
-
-    for senator in bill.senators:
-        # senators_sponsored.append(senator)
-        ideology = Ideology.query.filter_by(senator_id=senator.senator_id).first()
-        sen_ideology = ideology.score*100
-        bill_score += sen_ideology
-
-    bill_score = bill_score/(len(bill.senators))
+    bill_score = bill.score
 
     return render_template("bill.html", bill=bill, 
                           sponsorship=sponsorship, action=action, 
@@ -92,17 +93,18 @@ def senator_detail(name):
     senator = Senator.query.filter_by(name=name).first()
     senator_id = senator.senator_id
 
-    sen_ideology = Ideology.query.filter_by(senator_id=senator_id).first()
-    progressive_score = (sen_ideology.score)*100 
+    progressive_score = (senator.ideology)*100 
 
     bills_sponsored =[]
+
     for item in senator.sponsorships:
         bill_id = item.bill_id
         bill_spons = Bill.query.filter_by(bill_id=bill_id).all()
         bills_sponsored.append(bill_spons)
 
+
     sen_image = get_senator_image(name)
-    if sen_image == False: 
+    if sen_image == None: 
         sen_image = 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/US-Congress-UnofficialSeal.svg/2000px-US-Congress-UnofficialSeal.svg.png'
 
     return render_template("senator.html", senator=senator, sen_image=sen_image,
@@ -157,10 +159,7 @@ def committee_list():
 @app.route("/committees/<name>")
 def committee_detail(name):
     """Show info about committee."""
-    # senator_wiki_page = wikipedia.page(name +" (politician)")
-    # url_wiki = senator_wiki_page.url
-    # # image_wiki = senator_wiki_page.images
-    # senator_wiki = wikipedia.summary(name +" (politician)", sentences=5)
+
     committee = Committee.query.filter_by(name=name).first()
     bill_committee = BillCommittee.query.filter_by(committee_id=committee.committee_id).all()
     bills_sponsored =[]
@@ -233,9 +232,9 @@ def show_relationships():
             for sen in bill_sponsors:
                 if sen.name == senator.name:
                     #ensure current senator wont have relationship with self
-                    break
+                    continue
                 if sen.name in seen: 
-                    break
+                    continue
                 if count.get(sen.name): 
                     count[sen.name] += 1
                 else: 

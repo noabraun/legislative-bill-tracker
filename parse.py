@@ -223,15 +223,15 @@ for item in os.listdir(directory):
         print counter
        
 
-print get_sponsor_info(bill_dict)
-print get_bill_info(bill_dict)
-print get_bill_title(bill_dict)
-print get_date_introduced(bill_dict)
-print get_bill_type(bill_dict)
-print get_bill_number(bill_dict)
-print get_bill_summary(bill_dict)
-print get_committee(bill_dict)
-print get_action_taken(bill_dict)
+# print get_sponsor_info(bill_dict)
+# print get_bill_info(bill_dict)
+# print get_bill_title(bill_dict)
+# print get_date_introduced(bill_dict)
+# print get_bill_type(bill_dict)
+# print get_bill_number(bill_dict)
+# print get_bill_summary(bill_dict)
+# print get_committee(bill_dict)
+# print get_action_taken(bill_dict)
 
 
 

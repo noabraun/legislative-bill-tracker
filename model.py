@@ -21,6 +21,7 @@ class Bill(db.Model):
     date = db.Column(db.DateTime)
     description = db.Column(db.Text, nullable=True)
     bill_type = db.Column(db.String(32), nullable=False)
+    score = db.Column(db.Float, nullable=True)
 
     tags = db.relationship("Tag", secondary="bill_tags", backref="bills")
     committees = db.relationship("Committee", secondary="bill_committees", backref="bills")
@@ -30,8 +31,8 @@ class Bill(db.Model):
     def __repr__(self):
         """Provide helpful representation when printed."""
 
-        return "<Bill bill_id=%s title=%s date=%s description=%s bill_type=%s>" % (self.bill_id, self.title, self.date, 
-                                                                                   self.description, self.bill_type)
+        return "<Bill bill_id=%s title=%s date=%s description=%s bill_type=%s score=%s>" % (self.bill_id, self.title, self.date, 
+                                                                                   self.description, self.bill_type, self.score)
 
 class Senator(db.Model):
     """Senator metadata"""
@@ -43,28 +44,14 @@ class Senator(db.Model):
     state = db.Column(db.String(16))
     party = db.Column(db.String(32))
     original_sponsor = db.Column(db.Boolean, nullable=True)
+    ideology = db.Column(db.Float, nullable=True)
+
 
     def __repr__(self):
         """Provide helpful representation when printed."""
 
-        return "<Senator senator_id=%s name=%s state=%s party=%s original_sponsor=%s>" % (self.senator_id, self.name, 
-                                                                     self.state, self.party, self.original_sponsor)
-
-class Ideology(db.Model):
-    """senator ideologies"""
-
-    __tablename__ = "ideologies"
-
-    ideology_id = db.Column(db.Integer, autoincrement=True, primary_key=True)
-    senator_id = db.Column(db.Integer, db.ForeignKey('senators.senator_id'), nullable=False)
-    score = db.Column(db.Float)
-
-    senator = db.relationship("Senator", backref="ideologies")
-
-    def __repr__(self):
-        """Provide helpful representation when printed."""
-
-        return "<Ideology ideology_id=%s senator_id=%s score=%s>" % (self.ideology_id, self.senator_id, self.score)
+        return "<Senator senator_id=%s name=%s state=%s party=%s original_sponsor=%s ideology=%s>" % (self.senator_id, self.name, 
+                                                                     self.state, self.party, self.original_sponsor, self.ideology)
 
 
 class Tag(db.Model):
