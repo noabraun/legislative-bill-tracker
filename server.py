@@ -9,7 +9,7 @@ import wikipedia
 from newsapi.articles import Articles
 from markupsafe import Markup
 from sqlalchemy import distinct, or_, desc
-from helper_functions import is_empty_list, random_sad_senator, get_senator_image, calc_bill_ideology
+from helper_functions import is_empty_list, random_sad_senator, get_senator_image, calc_bill_ideology, create_bar_graph
 import xmltodict, json
 
 
@@ -57,7 +57,8 @@ def bill_detail(bill_id):
     bill = Bill.query.filter_by(bill_id=bill_id).first()
 
     sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
-    action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date).all()
+    action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date, Action.action_text).all()
+
     bill_committees = BillCommittee.query.filter_by(bill_id=bill_id).all()
 
     committees = []
@@ -78,7 +79,7 @@ def bill_detail(bill_id):
 def senator_list():
     """Show list of senators."""
 
-    senators = Senator.query.all()
+    senators = Senator.query.order_by(Senator.state).all()
 
     return render_template("senator_list.html", senators=senators)
 
@@ -97,11 +98,13 @@ def senator_detail(name):
 
     bills_sponsored =[]
 
+
     for item in senator.sponsorships:
         bill_id = item.bill_id
         bill_spons = Bill.query.filter_by(bill_id=bill_id).all()
         bills_sponsored.append(bill_spons)
 
+    y_axis = create_bar_graph(bills_sponsored)
 
     sen_image = get_senator_image(name)
     if sen_image == None: 
@@ -109,7 +112,7 @@ def senator_detail(name):
 
     return render_template("senator.html", senator=senator, sen_image=sen_image,
                           senator_wiki=senator_wiki, url_wiki=url_wiki, 
-                          bills_sponsored=bills_sponsored, progressive_score=progressive_score)
+                          bills_sponsored=bills_sponsored, progressive_score=progressive_score, y_axis=y_axis)
 
 @app.route("/search")
 def process_search_results():

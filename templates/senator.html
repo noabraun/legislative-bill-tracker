@@ -25,9 +25,7 @@
 
   <p> Senator Ideology Score (with 100 being most Progressive): {{progressive_score}}/100</p>
 
-  <div id='progressive_score'></div>
-
-  <br>
+  <div id='progressive_score'></div><br>
 
   <ul>
     <img src="{{ sen_image }}" alt="senator_image" style="width:290px;height:350px;">
@@ -47,6 +45,20 @@
         {% endfor %}
     </ul>
 </div>
+
+ <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+<div id="sponsorshipChart"><!-- Plotly chart will be drawn inside this DIV --></div>
+<script>
+var data = [{
+  x: ['0-20', '21-40', '41-60', '61-80', '81-100'],
+  // y: [6, 5, 4, 3, 2],
+  y: [{{y_axis.get('0-20')}}, {{y_axis.get('21-40')}}, {{y_axis.get('41-60')}}, {{y_axis.get('61-80')}}, {{y_axis.get('81-100')}}],
+  type: 'bar'
+}];
+
+Plotly.newPlot('sponsorshipChart', data);
+</script>
 
 
 {% endblock %}

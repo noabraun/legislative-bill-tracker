@@ -125,6 +125,9 @@ def load_ideologies():
 
         bill_score = 0
         for senator in bill.senators:
+            # senators_sponsored.append(senator)
+            # ideology = Ideology.query.filter_by(senator_id=senator.senator_id).first()
+            # ideology = senator.ideology
             sen_ideology = senator.ideology*100
             bill_score += sen_ideology
 
