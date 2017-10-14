@@ -60,7 +60,7 @@ def calc_bill_ideology(senator_list):
         bill_score *= sen_ideology
     return sen_ideology
 
-y_axis = {'0-20':0, '21-40':0, '41-60':0, '61-80':0, '81-100':0}
+y_axis = {'0-20':0, '21-40':0, '41-60':0, '61-80':0, '81-100':0} # initialize dict for senator bar charts
 
 def create_bar_graph(bill_spons):
 
@@ -68,29 +68,22 @@ def create_bar_graph(bill_spons):
         bill_spons = [bill_spons]
 
     for item in bill_spons:
+        for bill_obj in item: 
 
-        for thing in item: 
-
-
-            if thing.score >= 0 and thing.score <=20:
+            if bill_obj.score >= 0 and bill_obj.score <=20:
                 y_axis['0-20'] = y_axis.get('0-20')+1
-                # print y_axis.get('0-20')+1
 
-            elif thing.score >= 21 and thing.score <=40:
+            elif bill_obj.score >= 21 and bill_obj.score <=40:
                 y_axis['21-40'] = y_axis.get('21-40')+1
-                # print y_axis.get('21-40')+1
 
-            elif thing.score >= 41 and thing.score <=60:
+            elif bill_obj.score >= 41 and bill_obj.score <=60:
                 y_axis['41-60'] = y_axis.get('41-60')+1
-                # print y_axis.get('41-60')+1
 
-            elif thing.score >= 61 and thing.score <=80:
+            elif bill_obj.score >= 61 and bill_obj.score <=80:
                 y_axis['61-80'] = y_axis.get('61-80')+1
-                # print y_axis.get('61-80')+1
 
-            elif thing.score >= 81 and thing.score <=100:
+            elif bill_obj.score >= 81 and bill_obj.score <=100:
                 y_axis['81-100'] = y_axis.get('81-100')+1
-                # print y_axis.get('81-100')+1
 
     return y_axis
 
