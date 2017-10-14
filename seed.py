@@ -258,7 +258,7 @@ def load_sponsorships(bill_dict):
                     withdrawn_date = datetime.datetime.strptime(date, "%Y-%m-%d")
                     withdrawn = True
 
-                sponsorship = Sponsorship(bill_id=bill_id, senator=senator, 
+                sponsorship = Sponsorship(bill_id=bill_id, senator_id=senator.senator_id, 
                               withdrawn=withdrawn, withdrawn_date=withdrawn_date)
 
                 db.session.add(sponsorship)
@@ -272,7 +272,7 @@ def load_sponsorships(bill_dict):
 
         senator = Senator.query.filter_by(name=name).first()
 
-        sponsorship = Sponsorship(bill_id=bill_id, senator=senator, 
+        sponsorship = Sponsorship(bill_id=bill_id, senator_id=senator.senator_id, 
                       withdrawn=withdrawn, withdrawn_date=withdrawn_date)
 
         db.session.add(sponsorship)

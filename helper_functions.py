@@ -68,24 +68,33 @@ def create_bar_graph(bill_spons):
         bill_spons = [bill_spons]
 
     for item in bill_spons:
+
         for thing in item: 
 
-            if thing.score >= 0 or thing.score <=20:
+
+            if thing.score >= 0 and thing.score <=20:
                 y_axis['0-20'] = y_axis.get('0-20')+1
+                # print y_axis.get('0-20')+1
 
-            elif thing.score >= 21 or thing.score <=40:
+            elif thing.score >= 21 and thing.score <=40:
                 y_axis['21-40'] = y_axis.get('21-40')+1
+                # print y_axis.get('21-40')+1
 
-            elif thing.score >= 41 or thing.score <=60:
+            elif thing.score >= 41 and thing.score <=60:
                 y_axis['41-60'] = y_axis.get('41-60')+1
+                # print y_axis.get('41-60')+1
 
-            elif thing.score >= 61 or thing.score <=80:
+            elif thing.score >= 61 and thing.score <=80:
                 y_axis['61-80'] = y_axis.get('61-80')+1
+                # print y_axis.get('61-80')+1
 
-            elif thing.score >= 81 or thing.score <=100:
+            elif thing.score >= 81 and thing.score <=100:
                 y_axis['81-100'] = y_axis.get('81-100')+1
+                # print y_axis.get('81-100')+1
 
     return y_axis
+
+
 
 
 

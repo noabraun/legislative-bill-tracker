@@ -59,6 +59,11 @@ def bill_detail(bill_id):
     sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
     action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date, Action.action_text).all()
 
+    if len(action) > 4: 
+        timeline_approved = True
+    else: 
+        timeline_approved = False
+
     bill_committees = BillCommittee.query.filter_by(bill_id=bill_id).all()
 
     committees = []
@@ -72,7 +77,8 @@ def bill_detail(bill_id):
 
     return render_template("bill.html", bill=bill, 
                           sponsorship=sponsorship, action=action, 
-                          senators_sponsored=bill.senators, committees=committees, bill_score=bill_score)
+                          senators_sponsored=bill.senators, committees=committees, 
+                          bill_score=bill_score, timeline_approved=timeline_approved)
 
 
 @app.route("/senators")

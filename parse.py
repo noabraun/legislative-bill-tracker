@@ -64,8 +64,8 @@ def get_sponsor_info(bill_dict):
 
     else: 
         sponsor_dict = bill_dict.get('billStatus').get('bill').get('sponsors').get('item')
-        sponsor_fname = ((sponsor_dict.get('firstName')).lower()).capitalize()
-        sponsor_lname = ((sponsor_dict.get('lastName')).lower()).capitalize()
+        sponsor_fname = ((sponsor_dict.get('firstName')).lower()).title()
+        sponsor_lname = ((sponsor_dict.get('lastName')).lower()).title()
         sponsor_party = sponsor_dict.get('party')
         sponsor_state = sponsor_dict.get('state')
         sponsor_info = {sponsor_fname + ' ' + sponsor_lname: {'state': sponsor_state, 

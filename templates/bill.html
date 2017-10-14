@@ -7,7 +7,11 @@
     <p>Bill Progressive score: {{bill_score}}/100</p>
     <p>Description: {{ bill.description |safe }}</p>
 
+    {% if timeline_approved == True %}
 
+        INSERT TIMELINE 
+
+    {% endif %}
 
     <p>Actions taken:</p>
     <ul>
