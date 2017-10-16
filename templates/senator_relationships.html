@@ -22,23 +22,39 @@ text {
   font-size: 11.5px;
 }
 
+hover:link{
 
-
+}
 </style>
+
 <img src='../static/loading.gif' id='loading_icon'> 
 <svg width="1300" height="900"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://code.jquery.com/jquery.js"></script>
 <script>
 
-$('svg').hide()
+
+
+$('svg').hide();
 
 function show_chart(){
   $('svg').show()
   $('#loading_icon').hide()
 }
+setTimeout(show_chart, 2500);
 
-setTimeout(show_chart, 2500)
+// function showIcon(evt){
+//   evt.preventDefault();
+
+//   var formInput = {
+
+
+//   }
+//   setTimeout(show_chart, 2500);
+// }
+
+// $('#senator_selection').on('submit', showIcon);
+
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
@@ -50,8 +66,8 @@ var color = d3.scaleOrdinal()
 
 
 var simulation = d3.forceSimulation()
-    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(550).strength(1))
-    .force("collide", d3.forceCollide().radius(function(d) { return d.r + 1; }).iterations(2))
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(450).strength(1))
+    // .force("collide", d3.forceCollide().radius(function(d) { return d.r + 1; }).iterations(2))
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
 

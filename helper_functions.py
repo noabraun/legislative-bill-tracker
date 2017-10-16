@@ -60,6 +60,7 @@ def calc_bill_ideology(senator_list):
         bill_score *= sen_ideology
     return sen_ideology
 
+
 y_axis = {'0-20':0, '21-40':0, '41-60':0, '61-80':0, '81-100':0} # initialize dict for senator bar charts
 
 def create_bar_graph(bill_spons):

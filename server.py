@@ -213,7 +213,17 @@ def tag_detail(tag_text):
     return render_template("tag.html", tag=tag, bills_tagged=bills_tagged)
 
 
-@app.route("/senator-relationships")
+@app.route('/pick-relationships', methods=['GET'])
+def process_form():
+    """Show senator_relationships form."""
+
+    senators = Senator.query.all()
+
+    return render_template("pick_relationships.html", senators=senators)
+
+
+
+@app.route('/senator-relationships', methods=['POST'])
 def show_relationships():
     """Data Visualization of who works together"""
     relationships = {'nodes':[], 'links':[]}
@@ -221,7 +231,10 @@ def show_relationships():
     nodes = []
     directory = 'static'
 
-    for senator in Senator.query.all():
+    senators = request.form.getlist('senators')
+
+    for senator in senators:
+        senator = Senator.query.filter_by(name=senator).first()
         count = {}
 
         if senator.party == 'D':
@@ -242,7 +255,7 @@ def show_relationships():
                 if sen.name == senator.name:
                     #ensure current senator wont have relationship with self
                     continue
-                if sen.name in seen: 
+                if sen.name in seen or sen.name not in senators: 
                     continue
                 if count.get(sen.name): 
                     count[sen.name] += 1
@@ -258,8 +271,12 @@ def show_relationships():
 
     json_obj = json.dumps(relationships)
     output.write(json_obj+'\n')
+    print relationships
 
     return render_template("senator_relationships.html", relationships=relationships)
+
+
+
 
 
 if __name__ == "__main__":

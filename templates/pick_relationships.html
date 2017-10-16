@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<p>Select up to 10 senators:</p>
+<ul>
+    <form action="/senator-relationships" method="POST" name='relationships'>
+        {% for senator in senators %}
+            <input type="checkbox" name="senators" value="{{senator.name}}">{{senator.name}}<br>
+        {% endfor %}
+
+        <br>
+
+        <input type="submit" value="Submit">
+    </form> 
+</ul>
+
+{% endblock %}
