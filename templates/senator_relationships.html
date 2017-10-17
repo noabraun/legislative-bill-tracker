@@ -27,13 +27,13 @@ hover:link{
 }
 </style>
 
+
+
 <img src='../static/loading.gif' id='loading_icon'> 
 <svg width="1300" height="900"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://code.jquery.com/jquery.js"></script>
 <script>
-
-
 
 $('svg').hide();
 
@@ -42,19 +42,6 @@ function show_chart(){
   $('#loading_icon').hide()
 }
 setTimeout(show_chart, 2500);
-
-// function showIcon(evt){
-//   evt.preventDefault();
-
-//   var formInput = {
-
-
-//   }
-//   setTimeout(show_chart, 2500);
-// }
-
-// $('#senator_selection').on('submit', showIcon);
-
 
 var svg = d3.select("svg"),
     width = +svg.attr("width"),

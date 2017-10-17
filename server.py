@@ -53,14 +53,37 @@ def bill_list():
 @app.route("/bills/<bill_id>")
 def bill_detail(bill_id):
     """Show info about bill."""
+    timeline_events = {'title':{'headline': bill_id + " Action Timeline"}, 'events': []}
+    event_object = {'start_date': {}, 'text': {}}
+    directory = 'static'
 
     bill = Bill.query.filter_by(bill_id=bill_id).first()
 
     sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
     action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date, Action.action_text).all()
 
-    if len(action) > 4: 
+    if len(action) > 5:
+        for event in action: 
+            event_object = {'start_date': {}, 'text': {}}
+            print event
+            event_object.get('start_date')['month'] = event.date.strftime('%m')
+            event_object.get('start_date')['day'] = event.date.strftime('%d')
+            event_object.get('start_date')['year'] = event.date.strftime('%Y')
+            event_object.get('text')['headline'] = event.action_text
+            timeline_events.get('events').append(event_object)
+            # print '________'
+            # print timeline_events
+            # print '________'
         timeline_approved = True
+
+        output = open(directory + '/' + 'timeline_events.json', 'w')
+
+        json_obj = json.dumps(timeline_events)
+        output.write(json_obj+'\n')
+        output.close()
+        
+        # print timeline_events
+        
     else: 
         timeline_approved = False
 
@@ -220,7 +243,6 @@ def process_form():
     senators = Senator.query.all()
 
     return render_template("pick_relationships.html", senators=senators)
-
 
 
 @app.route('/senator-relationships', methods=['POST'])
