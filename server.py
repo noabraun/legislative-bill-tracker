@@ -53,11 +53,10 @@ def bill_list():
 @app.route("/bills/<bill_id>")
 def bill_detail(bill_id):
     """Show info about bill."""
-    timeline_events = {'title':{'headline': bill_id + " Action Timeline"}, 'events': []}
+    bill = Bill.query.filter_by(bill_id=bill_id).first()
+    timeline_events = {'title':{'text':{'headline': "Action Timeline: " + bill_id, 'text': bill.title}}, 'events': []}
     event_object = {'start_date': {}, 'text': {}}
     directory = 'static'
-
-    bill = Bill.query.filter_by(bill_id=bill_id).first()
 
     sponsorship = Sponsorship.query.filter_by(bill_id=bill_id).all()
     action = Action.query.filter_by(bill_id=bill_id).order_by(Action.date, Action.action_text).all()
@@ -71,30 +70,24 @@ def bill_detail(bill_id):
             event_object.get('start_date')['year'] = event.date.strftime('%Y')
             event_object.get('text')['headline'] = event.action_text
             timeline_events.get('events').append(event_object)
-            # print '________'
-            # print timeline_events
-            # print '________'
         timeline_approved = True
 
         output = open(directory + '/' + 'timeline_events.json', 'w')
-
         json_obj = json.dumps(timeline_events)
         output.write(json_obj+'\n')
-        output.close()
-        
-        # print timeline_events
-        
+        output.close()    
     else: 
         timeline_approved = False
 
     bill_committees = BillCommittee.query.filter_by(bill_id=bill_id).all()
 
-    committees = []
+
+    committees = set()
     for item in bill_committees: 
         committee_id = item.committee_id
         committee = Committee.query.filter_by(committee_id=committee_id).first()
-        committees.append(committee)
-    print committees
+        committees.add(committee)
+
 
     bill_score = bill.score
 

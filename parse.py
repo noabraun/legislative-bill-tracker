@@ -2,8 +2,8 @@ import xml.etree.ElementTree as etree
 import os
 import xmltodict, json
 location = os.getcwd() # get present working directory
-directory = 'BILLSTATUS-115-sres'
-# directory = 'BILLSTATUS-115-s'
+# directory = 'BILLSTATUS-115-sres'
+directory = 'BILLSTATUS-115-s'
 # directory = 'BILLSTATUS-115-hr'
 counter = 0 
 from pprint import pprint
@@ -164,7 +164,13 @@ def get_bill_summary(bill_dict):
     bill_summary = bill_dict.get('billStatus').get('bill').get('summaries').get('billSummaries')
 
     if bill_summary == None: 
-        return {'bill_summary': None, 'summary_date': None}
+        bill_summary = bill_dict.get('billStatus').get('bill').get('titles').get('item')
+        if type(bill_summary) == list:
+            bill_summary = bill_summary[-1].get('title')
+            return {'bill_summary': bill_summary, 'summary_date': None}
+        else:
+            return {'bill_summary': None, 'summary_date': None}
+
     else: 
         bill_summary = bill_summary.get('item')
     

@@ -8,8 +8,8 @@ from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Spon
 from server import app
 import parse 
 from helper_functions import load_ideology
-directory = 'BILLSTATUS-115-sres'
-# directory = 'BILLSTATUS-115-s'
+# directory = 'BILLSTATUS-115-sres'
+directory = 'BILLSTATUS-115-s'
 # directory = 'BILLSTATUS-115-hr'
 data_directory = 'data'
 

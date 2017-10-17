@@ -12,30 +12,30 @@
 
          <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
 
-         <div id='timeline-embed' style="width: 100%; height: 600px"></div>
+         <div id='timeline-embed' style="width: 100%; height: 450px"></div>
 
       <script type="text/javascript">
         timeline = new TL.Timeline('timeline-embed',
           '/static/timeline_events.json');
       </script>
+    {% endif %}
 
-        INSERT TIMELINE 
+    {% if timeline_approved == False %}
+        <p>Actions taken:</p>
+        <ul>
+            {% for item in action %}
+
+                <li>
+                    {{ item.date.strftime('%m-%d-%Y') }}: {{ item.action_text}}
+
+                </li>
+
+            {% endfor %}
+        </ul>
 
     {% endif %}
 
-    <p>Actions taken:</p>
-    <ul>
-        {% for item in action %}
-
-            <li>
-                {{ item.date.strftime('%m-%d-%Y') }}: {{ item.action_text}}
-
-            </li>
-
-        {% endfor %}
-    </ul>
-
-    <p>Bill Sponsors:<p>
+    <br><p>Bill Sponsors:<p>
     <ul>
         {% for senator in senators_sponsored %}
 
