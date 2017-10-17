@@ -27,7 +27,15 @@ hover:link{
 }
 </style>
 
+<div>
+  <ul>
+    {% for rel in track_relationships %}
 
+      <li>{{rel.get('source')}} has sponsored {{rel.get('value')}} bills with {{rel.get('target')}}</li>
+
+    {% endfor %}
+  </ul>
+</div>
 
 <img src='../static/loading.gif' id='loading_icon'> 
 <svg width="1300" height="900"></svg>

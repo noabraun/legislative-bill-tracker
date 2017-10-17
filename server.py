@@ -282,13 +282,15 @@ def show_relationships():
         # relationships.get('links').append({senator.name: count})
         seen.add(senator.name)
 
+    track_relationships = relationships.get('links')
+
     output = open(directory + '/' + 'relationships.json', 'w')
 
     json_obj = json.dumps(relationships)
     output.write(json_obj+'\n')
     print relationships
 
-    return render_template("senator_relationships.html", relationships=relationships)
+    return render_template("senator_relationships.html", relationships=relationships, track_relationships=track_relationships)
 
 
 
