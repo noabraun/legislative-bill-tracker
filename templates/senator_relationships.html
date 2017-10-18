@@ -1,4 +1,6 @@
 {% extends 'base.html' %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
 {% block content %}
 
 <title>Senator Relationships</title>
@@ -22,23 +24,36 @@ text {
   font-size: 11.5px;
 }
 
-hover:link{
-
+#loading_icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 </style>
 
-<div>
-  <ul>
-    {% for rel in track_relationships %}
-
-      <li>{{rel.get('source')}} has sponsored {{rel.get('value')}} bills with {{rel.get('target')}}</li>
-
-    {% endfor %}
-  </ul>
+<div class="container">
+  <div class="table-responsive">
+    <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Senator Name</th>
+            <th>Senator Name</th>
+            <th>Number of Joint Sponsorships</th>
+          </tr>
+        </thead>
+        {% for rel in track_relationships %}
+          <tbody>
+            <td>{{rel.get('source')}}</td>
+            <td>{{rel.get('target')}}</td>
+            <td>{{rel.get('value')}}</td>
+          </tbody>
+        {% endfor %}
+    </table>
+  </div>
 </div>
 
 <img src='../static/loading.gif' id='loading_icon'> 
-<svg width="1300" height="900"></svg>
+<div class="conatainer"><svg width="1300" height="800"></svg></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://code.jquery.com/jquery.js"></script>
 <script>
@@ -62,7 +77,6 @@ var color = d3.scaleOrdinal()
 
 var simulation = d3.forceSimulation()
     .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(450).strength(1))
-    // .force("collide", d3.forceCollide().radius(function(d) { return d.r + 1; }).iterations(2))
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
 
@@ -121,7 +135,6 @@ d3.json("/static/relationships.json", function(error, graph) {
   }
 });
 
-
 function dragstarted(d) {
   if (!d3.event.active) simulation.alphaTarget(0.3).restart();
   d.fx = d.x;
@@ -138,7 +151,6 @@ function dragended(d) {
   d.fx = null;
   d.fy = null;
 }
-
 </script>
 
 

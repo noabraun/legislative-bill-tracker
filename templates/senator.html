@@ -1,13 +1,22 @@
 {% extends 'base.html' %}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
 {% block content %}
+
 <style>
-
-#progressive_score{
-  background: linear-gradient(-90deg, #2085db, #f5f6c2, #cb2814);
-  width: 300px;
-  height: 40px;
+.progress-bar{
+  background: #bfb8b8;
+  float: right;
 }
-
+.progress{
+  width: 300px;
+  height: 20px;
+  background: linear-gradient(-90deg, #2085db, #f5f6c2, #cb2814);
+  border-color: black;
+  border-width: 5px; 
+  text-align: center;
+}
 </style>
 
 <div class="well spaced" style="width:97%">
@@ -25,7 +34,11 @@
 
   <p> Senator Ideology Score (with 100 being most Progressive): {{progressive_score}}/100</p>
 
-  <div id='progressive_score'></div><br>
+  <div class="progress">
+    <div class="progress-bar" role="progressbar" aria-valuenow='{{progressive_score}}'
+    aria-valuemin="0" aria-valuemax="100" style="width:{{100-progressive_score}}%">
+    </div>
+  </div>
 
   <ul>
     <img src="{{ sen_image }}" alt="senator_image" style="width:290px;height:350px;">

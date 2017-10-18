@@ -283,6 +283,13 @@ def show_relationships():
         seen.add(senator.name)
 
     track_relationships = relationships.get('links')
+    # source_seen = set()
+    # tr = {}
+    # for rel in track_relationships:
+    #     if rel.get('source') not in source_seen:
+    #         tr[rel.get('source')] = []
+    #         tr[rel.get('source')] = []
+
 
     output = open(directory + '/' + 'relationships.json', 'w')
 
