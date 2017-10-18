@@ -1,8 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+<style>
+a{
+  font-family: 'Nunito', sans-serif;
+}
+#search_bar{
+  font-family: 'Nunito', sans-serif;
+}
+#search_field{
+  font-family: 'Nunito', sans-serif;
+}
+p{
+  font-family: 'Nunito', sans-serif;
+}
+h1{
+  font-family: 'Nunito', sans-serif;
+}
+
+</style>
 <head>
     <title>The Swamp</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"> 
 </head>
 
 <body>
@@ -10,19 +29,13 @@
       <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
           <a class="navbar-brand" href="/">The Swamp</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="/committees">Committees <span class="sr-only">(current)</span></a></li>
+            <li class="active"><a href="/committees">Committees</a></li>
             <li><a href="/pick-relationships">Senator Relationships</a></li>
             <li><a href="/senators">Senators</a></li>
             <li><a href="/bills">Bills</a></li>
@@ -30,7 +43,7 @@
           </ul>
           <form class="navbar-form navbar-left" action='/search'>
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search" name = 'nav_search'>
+              <input type="text" class="form-control" placeholder="Search" id='search_bar'name = 'nav_search'>
             </div>
             <button type="submit" id="search_field" class="btn btn-default">Search</button>
           </form>

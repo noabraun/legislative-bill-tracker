@@ -1,13 +1,51 @@
 {% extends 'base.html' %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+ <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"> 
 {% block content %}
-    <div id="homepage-block">
-        <h1 id="homepage-title">Not Fake News</h1>
 
-        
+<style>
+h1{
+    font-family: 'Nunito', sans-serif;
+    font-size: 70px;
+}
+#logo{
+    height:400px;
+    width: 340px;
+
+}
+.wig {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    height:200px;
+    width:200px;
+    -webkit-transition: -webkit-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+}
+.wig:hover {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+}
 
 
-
+img:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+</style>
+<div>
+    <img class="wig" src="../static/wig.png" id="wig">
+</div>
+<div class='container'>
+    <div class="col-lg-4" id="homepage-image">
+        <h1 class="col-lg-8" id="homepage-title">The Swamp</h1>
+        <img class="img-responsive" src="../static/swamp_logo.png" id="logo">   
     </div>
+</div>
+
 
 
 

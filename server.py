@@ -64,7 +64,6 @@ def bill_detail(bill_id):
     if len(action) > 5:
         for event in action: 
             event_object = {'start_date': {}, 'text': {}}
-            print event
             event_object.get('start_date')['month'] = event.date.strftime('%m')
             event_object.get('start_date')['day'] = event.date.strftime('%d')
             event_object.get('start_date')['year'] = event.date.strftime('%Y')
@@ -279,23 +278,16 @@ def show_relationships():
         for item in count: #item is the same as the sen values
             relationships.get('links').append({'source': senator.name, 'target': item, 'value': count.get(item)})
 
-        # relationships.get('links').append({senator.name: count})
         seen.add(senator.name)
 
     track_relationships = relationships.get('links')
-    # source_seen = set()
-    # tr = {}
-    # for rel in track_relationships:
-    #     if rel.get('source') not in source_seen:
-    #         tr[rel.get('source')] = []
-    #         tr[rel.get('source')] = []
+
 
 
     output = open(directory + '/' + 'relationships.json', 'w')
 
     json_obj = json.dumps(relationships)
     output.write(json_obj+'\n')
-    print relationships
 
     return render_template("senator_relationships.html", relationships=relationships, track_relationships=track_relationships)
 

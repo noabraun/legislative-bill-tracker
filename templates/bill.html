@@ -1,10 +1,30 @@
 {% extends 'base.html' %}
 {% block content %}
+
+<style>
+.progress-bar{
+  background: #bfb8b8;
+  float: right;
+}
+.progress{
+  width: 300px;
+  height: 20px;
+  background: linear-gradient(-90deg, #2085db, #f5f6c2, #cb2814);
+  border-color: black;
+  border-width: 5px; 
+  text-align: center;
+}
+</style>
 <div class="well spaced" style="width:97%">
     <h2>{{ bill.bill_id }}: {{ bill.title }}</h2>
 
     <p>Date proposed: {{ bill.date.strftime('%m-%d-%Y') }}</p>
     <p>Bill Progressive score: {{bill_score}}/100</p>
+    <div class="progress">
+        <div class="progress-bar" role="progressbar" aria-valuenow='{{bill_score}}'
+        aria-valuemin="0" aria-valuemax="100" style="width:{{100-bill_score}}%">
+        </div>
+    </div>
     <p>Description: {{ bill.description |safe }}</p>
 
     {% if timeline_approved == True %}
@@ -24,12 +44,9 @@
         <p>Actions taken:</p>
         <ul>
             {% for item in action %}
-
                 <li>
                     {{ item.date.strftime('%m-%d-%Y') }}: {{ item.action_text}}
-
                 </li>
-
             {% endfor %}
         </ul>
 
@@ -38,22 +55,18 @@
     <br><p>Bill Sponsors:<p>
     <ul>
         {% for senator in senators_sponsored %}
-
                 <li>
                     <a href="/senators/{{ senator.name }}">{{ senator.name}} ({{senator.party}})</a>
                 </li>
-
         {% endfor %}
     </ul>
 
     <p>Associated Committees:<p>
     <ul>
         {% for committee_item in committees %}
-
                 <li>
                     <a href="/committees/{{ committee_item.name }}">{{ committee_item.name }} </a>
                 </li>
-
         {% endfor %}
     </ul>
 
