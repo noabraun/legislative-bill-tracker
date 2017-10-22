@@ -20,8 +20,6 @@ app = Flask(__name__)
 # Required to use Flask sessions and the debug toolbar
 app.secret_key = "ABC"
 
-# Normally, if you use an undefined variable in Jinja2, it fails silently.
-# This is horrible. Fix this so that, instead, it raises an error.
 app.jinja_env.undefined = StrictUndefined
 
 @app.route('/')
@@ -118,7 +116,6 @@ def senator_detail(name):
     progressive_score = (senator.ideology)*100 
 
     bills_sponsored =[]
-
 
     for item in senator.sponsorships:
         bill_id = item.bill_id
@@ -282,17 +279,12 @@ def show_relationships():
 
     track_relationships = relationships.get('links')
 
-
-
     output = open(directory + '/' + 'relationships.json', 'w')
 
     json_obj = json.dumps(relationships)
     output.write(json_obj+'\n')
 
     return render_template("senator_relationships.html", relationships=relationships, track_relationships=track_relationships)
-
-
-
 
 
 if __name__ == "__main__":

@@ -8,6 +8,8 @@
 .progress-bar{
   background: #bfb8b8;
   float: right;
+  border-left-style: solid;
+  border-left-color:#240701;
 }
 .progress{
   width: 300px;
@@ -17,6 +19,7 @@
   border-width: 5px; 
   text-align: center;
 }
+
 </style>
 
 <div class="well spaced" style="width:97%">
@@ -47,6 +50,23 @@
   
   <br><a href="{{url_wiki}}"><p>Wikipedia:</a> {{senator_wiki}}</p>
 
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+  <div id="sponsorshipChart"></div>
+  <script>
+    var data = [{
+    values: [{{y_axis.get('0-20')}}, {{y_axis.get('21-40')}}, {{y_axis.get('41-60')}}, 
+    {{y_axis.get('61-80')}}, {{y_axis.get('81-100')}}],
+    labels: ['0-20', '21-40', '41-60', '61-80', '81-100'],
+    type: 'pie'
+    }];
+
+    var layout = { title: 'Sponsorship Stats', height: 400, width: 500
+    };
+
+  Plotly.newPlot('sponsorshipChart', data, layout);
+</script>
+
   <p>Sponsored Bills:<p>
     <ul>
         {% for bill_item in bills_sponsored %}
@@ -59,36 +79,7 @@
     </ul>
 </div>
 
- 
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
-  <div id="sponsorshipChart"><!-- Plotly chart will be drawn inside this DIV --></div>
-  <script>
-  // var data = [{
-  //   x: ['0-20', '21-40', '41-60', '61-80', '81-100'],
-
-  //   y: [{{y_axis.get('0-20')}}, {{y_axis.get('21-40')}}, {{y_axis.get('41-60')}}, 
-  //   {{y_axis.get('61-80')}}, {{y_axis.get('81-100')}}],
-  //   type: 'bar'
-  // }];
-
-  // Plotly.newPlot('sponsorshipChart', data);
-
-  // alternative: use pie chart
-  var data = [{
-  values: [{{y_axis.get('0-20')}}, {{y_axis.get('21-40')}}, {{y_axis.get('41-60')}}, 
-  {{y_axis.get('61-80')}}, {{y_axis.get('81-100')}}],
-  labels: ['0-20', '21-40', '41-60', '61-80', '81-100'],
-  type: 'pie'
-  }];
-
-  var layout = {
-    height: 400,
-    width: 500
-  };
-
-Plotly.newPlot('sponsorshipChart', data, layout);
-</script>
 
 
 

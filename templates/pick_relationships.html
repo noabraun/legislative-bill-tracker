@@ -1,9 +1,17 @@
 {% extends 'base.html' %}
 {% block content %}
 
-<p>Select up to 10 senators:</p>
+<style>
+
+.senators{
+    font-family: 'Nunito', sans-serif;
+}
+
+</style>
+
+<p>Select the senators who you would like to view relationships between:</p>
 <ul>
-    <form action="/senator-relationships" method="POST" name='relationships'>
+    <form action="/senator-relationships" method="POST" name='relationships' class='senators'>
         {% for senator in senators %}
             <input type="checkbox" name="senators" value="{{senator.name}}">{{senator.name}}<br>
         {% endfor %}
