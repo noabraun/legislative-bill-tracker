@@ -1,7 +1,15 @@
 {% extends 'base.html' %}
 {% block content %}
-
-<div class="well spaced" style="width:60%">
+<style>
+  h1, h2{
+    font-family: 'Merriweather', serif;
+  }
+  body{
+    background-color: #fbf9f3;
+  }
+</style>
+<div>
+  <ul>
     <h1>Senators</h1>
     <ul>
       {% for senator in senators %}
@@ -14,6 +22,7 @@
 
       {% endfor %}
     </ul>
+  </ul>
 </div>
 {% endblock %}
 
