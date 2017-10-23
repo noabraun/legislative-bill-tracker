@@ -1,31 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <style>
-a{
-  font-family: 'Nunito', sans-serif;
+p, a, #search_field, #search_bar, .navbar-form, .navbar-left{
+  font-family: 'Merriweather Sans', sans-serif;
+  font-color: #110000;
 }
-#search_bar{
-  font-family: 'Nunito', sans-serif;
+h1, h2{
+  font-family: 'Merriweather', serif;
 }
-#search_field{
-  font-family: 'Nunito', sans-serif;
+body{
+  background-color: #fbf9f3;
 }
-p{
-  font-family: 'Nunito', sans-serif;
+
+.container-fluid{
+  font-color: #110000;
+  background-color: #f5f0e0;
+  border-bottom-color: #881920;
+  border-bottom-style: solid;
 }
-h1{
-  font-family: 'Nunito', sans-serif;
+
+.navbar-default, .navbar-brand, .navbar-nav{
+  font-color: #881920;
+  color: #110000;
 }
-h2{
-  font-family: 'Nunito', sans-serif;
-}
+
 
 
 </style>
 <head>
     <title>The Swamp</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Merriweather+Sans" rel="stylesheet">
 </head>
 
 <body>
@@ -39,7 +44,7 @@ h2{
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="/committees">Committees</a></li>
+            <li><a href="/committees">Committees</a></li>
             <li><a href="/pick-relationships">Senator Relationships</a></li>
             <li><a href="/senators">Senators</a></li>
             <li><a href="/bills">Bills</a></li>
@@ -57,11 +62,5 @@ h2{
 
     {% block content %}
     {% endblock %}
-
-    <script src="https://code.jquery.com/jquery.js"></script>
-    <script>
-    
-
-    </script>
 </body>
 </html>

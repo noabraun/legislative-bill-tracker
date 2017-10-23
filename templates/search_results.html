@@ -2,12 +2,31 @@
 {% block content %}
     <title>Search Results</title>
 
+<style>
+
+body{
+    background-color: #fbf9f3;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+}
+#not_found{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#text_not_found{
+    font-size: 40px;
+}
+</style>
+
 <ul>
     {% if search_results == 'empty' %}
         
-        <h1>We regret to inform you that no results were found for: '{{search_input}}'</h1>
-
-        <img src="{{ rand_senator_image }}" alt="sad_lindsey" style="width:650px;height:400px;">
+        <h1 id='text_not_found'>We regret to inform you that no results were found for: '{{search_input}}'</h1><br><br>
+        
+        <img src="{{ rand_senator_image }}" alt="sad_lindsey"  id='not_found' style="width:500px;height:307px;">
 
     {% endif %}
 

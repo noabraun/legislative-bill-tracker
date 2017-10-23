@@ -15,62 +15,90 @@
   background: linear-gradient(-90deg, #2085db, #f5f6c2, #cb2814);
 }
 h2{
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Merriweather', serif;
 }
+
+body{
+  background-color: #fbf9f3;
+}
+.tl-text h2.tl-headline, .tl-text h2.tl-headline-title{
+  font-family: 'Merriweather', serif;
+}
+
+.tl-slide, .tl-slide-content-container{
+  background-color: #faf1d6;
+}
+
+.tl-timenav-slider-background{
+  border-top-color: #881920;
+  border-top-style: solid;
+}
+
+#timeline-embed{
+  display: block;
+  margin: auto;
+}
+
+.tl-timemarker, .tl-timemarker-content-container, .tl-timemarker-content{
+  background-color:#4c8eaa;
+}
+
 </style>
-<div class="well spaced" style="width:97%">
-    <h2>{{ bill.bill_id }}: {{ bill.title }}</h2>
-
-    <p>Date proposed: {{ bill.date.strftime('%m-%d-%Y') }}</p>
-    <p>Bill Progressive score: {{bill_score}}/100</p>
-    <div class="progress">
-        <div class="progress-bar" role="progressbar" aria-valuenow='{{bill_score}}'
-        aria-valuemin="0" aria-valuemax="100" style="width:{{100-bill_score}}%">
-        </div>
-    </div>
-    <p>Description: {{ bill.description |safe }}</p>
-
-    {% if timeline_approved == True %}
-         <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
-
-         <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
-
-         <div id='timeline-embed' style="width: 100%; height: 480px"></div>
-
-      <script type="text/javascript">
-        timeline = new TL.Timeline('timeline-embed',
-          '/static/timeline_events.json');
-      </script>
-    {% endif %}
-
-    {% if timeline_approved == False %}
-        <p>Actions taken:</p>
-        <ul>
-            {% for item in action %}
-                <li>
-                    {{ item.date.strftime('%m-%d-%Y') }}: {{ item.action_text}}
-                </li>
-            {% endfor %}
-        </ul>
-
-    {% endif %}
-
-    <br><p>Bill Sponsors:<p>
+<div>
     <ul>
-        {% for senator in senators_sponsored %}
-                <li>
-                    <a href="/senators/{{ senator.name }}">{{ senator.name}} ({{senator.party}})</a>
-                </li>
-        {% endfor %}
-    </ul>
+      <h2>{{ bill.bill_id }}: {{ bill.title }}</h2>
 
-    <p>Associated Committees:<p>
-    <ul>
-        {% for committee_item in committees %}
-                <li>
-                    <a href="/committees/{{ committee_item.name }}">{{ committee_item.name }} </a>
-                </li>
-        {% endfor %}
+      <p>Date proposed: {{ bill.date.strftime('%m-%d-%Y') }}</p>
+      <p>Bill Progressive score: {{bill_score}}/100</p>
+      <div class="progress">
+          <div class="progress-bar" role="progressbar" aria-valuenow='{{bill_score}}'
+          aria-valuemin="0" aria-valuemax="100" style="width:{{100-bill_score}}%">
+          </div>
+      </div>
+      <p>Description: {{ bill.description |safe }}</p>
+
+      {% if timeline_approved == True %}
+           <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+
+           <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+           <div id='timeline-embed' style="width: 90%; height: 480px"></div>
+
+        <script type="text/javascript">
+          timeline = new TL.Timeline('timeline-embed',
+            '/static/timeline_events.json');
+        </script>
+      {% endif %}
+
+      {% if timeline_approved == False %}
+          <p>Actions taken:</p>
+          <ul>
+              {% for item in action %}
+                  <li>
+                      {{ item.date.strftime('%m-%d-%Y') }}: {{ item.action_text}}
+                  </li>
+              {% endfor %}
+          </ul>
+
+      {% endif %}
+
+      <br><p>Bill Sponsors:<p>
+      <ul>
+          {% for senator in senators_sponsored %}
+                  <li>
+                      <a href="/senators/{{ senator.name }}">{{ senator.name}} ({{senator.party}})</a>
+                  </li>
+          {% endfor %}
+      </ul>
+
+      <p>Associated Committees:<p>
+      <ul>
+          {% for committee_item in committees %}
+                  <li>
+                      <a href="/committees/{{ committee_item.name }}">{{ committee_item.name }} </a>
+                  </li>
+          {% endfor %}
+      </ul>
     </ul>
 
 </div>

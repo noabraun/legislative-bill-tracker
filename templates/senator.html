@@ -20,63 +20,107 @@
   text-align: center;
 }
 
+body{
+  background-color: #fbf9f3;
+}
+
+h2{
+  font-family: 'Merriweather', serif;
+}
+
+svg.main-svg:first-child{
+  background: #fbf9f3 !important;
+}
+
+rect.bg{
+  fill: #fbf9f3 !important;
+}
+
+text.gtitle{
+  font-family: 'Merriweather', serif !important;
+}
+
+#sponsored_bills{
+  font-weight: bold;
+}
+
 </style>
 
-<div class="well spaced" style="width:97%">
-  <h2>{{ senator.name }}</h2>
+<div class='container'>
+  <div class='row'>
+    <div class="col-lg-12">
+      <ul>
+        <h2>{{ senator.name }}</h2>
+      </ul>
+    </div>
+  </div> 
+    <div class='row'>
+    <div class="col-lg-6">
+      <ul>
+      <p>State: {{ senator.state }}</p>
 
-  <p>State: {{ senator.state }}</p>
+      {% if senator.party == 'D' %}
+        <p>Party: Democrat</p>
+      {% endif %}
 
-  {% if senator.party == 'D' %}
-    <p>Party: Democrat</p>
-  {% endif %}
+      {% if senator.party == 'R' %}
+        <p>Party: Republican</p>
+      {% endif %}
 
-  {% if senator.party == 'R' %}
-    <p>Party: Republican</p>
-  {% endif %}
+      <p> Senator Ideology Score (with 100 being most Progressive): {{progressive_score}}/100</p>
 
-  <p> Senator Ideology Score (with 100 being most Progressive): {{progressive_score}}/100</p>
+      <div class="progress">
+        <div class="progress-bar" role="progressbar" aria-valuenow='{{progressive_score}}'
+        aria-valuemin="0" aria-valuemax="100" style="width:{{100-progressive_score}}%">
+        </div>
+      </div>
+    </div>
+  </div> 
+  <div class="row">
+    <div class="col-lg-4">
+      <ul>
+        <img src="{{ sen_image }}" alt="senator_image" id='senator_image' style="width:290px;height:350px;">
+      </ul>
+    </div>
+    <div class="col-lg-8">
+      <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+      <div id="sponsorshipChart"></div>
+      <script>
+        var data = [{
+        values: [{{y_axis.get('0-20')}}, {{y_axis.get('21-40')}}, {{y_axis.get('41-60')}}, 
+        {{y_axis.get('61-80')}}, {{y_axis.get('81-100')}}],
+        labels: ['0-20', '21-40', '41-60', '61-80', '81-100'],
+        type: 'pie'
+        }];
 
-  <div class="progress">
-    <div class="progress-bar" role="progressbar" aria-valuenow='{{progressive_score}}'
-    aria-valuemin="0" aria-valuemax="100" style="width:{{100-progressive_score}}%">
+        var layout = { title: 'Sponsorship Stats', height: 400, width: 500
+        };
+
+      Plotly.newPlot('sponsorshipChart', data, layout);
+    </script>
     </div>
   </div>
+  <div class='row'>
+    <div class="col-lg-12">
+      <br><a href="{{url_wiki}}"><p>Wikipedia:</a> {{senator_wiki}}</p>  
+    </div>
+  </div>    
+  <div class='row'>
+    <div class="col-lg-12">
+      <p id='sponsored_bills'>Sponsored Bills:<p>
+          <ul>
+              {% for bill_item in bills_sponsored %}
+                  {% for bill_info in bill_item %}
+                      <li>
+                          <a href="/bills/{{ bill_info.bill_id }}">{{ bill_info.bill_id }}: {{ bill_info.title }}</a>
+                      </li>
+                  {% endfor %}
+              {% endfor %}
+          </ul>
+        </ul>
+      </div>
+  </div> 
 
-  <ul>
-    <img src="{{ sen_image }}" alt="senator_image" style="width:290px;height:350px;">
-  </ul>
-
-  
-  <br><a href="{{url_wiki}}"><p>Wikipedia:</a> {{senator_wiki}}</p>
-
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-
-  <div id="sponsorshipChart"></div>
-  <script>
-    var data = [{
-    values: [{{y_axis.get('0-20')}}, {{y_axis.get('21-40')}}, {{y_axis.get('41-60')}}, 
-    {{y_axis.get('61-80')}}, {{y_axis.get('81-100')}}],
-    labels: ['0-20', '21-40', '41-60', '61-80', '81-100'],
-    type: 'pie'
-    }];
-
-    var layout = { title: 'Sponsorship Stats', height: 400, width: 500
-    };
-
-  Plotly.newPlot('sponsorshipChart', data, layout);
-</script>
-
-  <p>Sponsored Bills:<p>
-    <ul>
-        {% for bill_item in bills_sponsored %}
-            {% for bill_info in bill_item %}
-                <li>
-                    <a href="/bills/{{ bill_info.bill_id }}">{{ bill_info.bill_id }}: {{ bill_info.title }}</a>
-                </li>
-            {% endfor %}
-        {% endfor %}
-    </ul>
 </div>
 
 

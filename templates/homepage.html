@@ -4,8 +4,12 @@
 {% block content %}
 
 <style>
+body{
+  background-color: #fbf9f3;
+}
+
 h1{
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Merriweather', serif;
     font-size: 70px;
 }
 #logo{
@@ -29,17 +33,28 @@ h1{
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
 }
+.container{
+    background-color: #fbf9f3;
+}
+.row{
+
+}
 
 </style>
-<div>
-    <img class="wig" src="../static/wig.png" id="wig">
-</div>
 <div class='container'>
-    <div class="col-lg-4" id="homepage-image">
-        <h1 class="col-lg-8" id="homepage-title">The Swamp</h1>
-        <img class="img-responsive" src="../static/swamp_logo.png" id="logo">   
+
+    <h1 id="homepage-title">The Swamp</h1> 
+
+    <div>
+        <img class="wig" src="../static/wig.png" id="wig">
     </div>
 </div>
+
+ <div class="row">
+  <div class="col-sm-4">.col-sm-4</div>
+  <div class="col-sm-4">.col-sm-4</div>
+  <div class="col-sm-4">.col-sm-4</div>
+</div> 
 
 
 

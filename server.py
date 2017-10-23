@@ -6,14 +6,10 @@ from flask import Flask, render_template, request, flash, redirect, session, Mar
 from flask_debugtoolbar import DebugToolbarExtension
 from model import connect_to_db, db, Bill, Senator, Committee, Tag, Action, Sponsorship, BillTag, BillCommittee
 import wikipedia
-from newsapi.articles import Articles
 from markupsafe import Markup
 from sqlalchemy import distinct, or_, desc
 from helper_functions import is_empty_list, random_sad_senator, get_senator_image, calc_bill_ideology, create_bar_graph
 import xmltodict, json
-
-
-a = Articles(API_KEY="336f09646bd34a7b9736a784bb20abe4")
 
 app = Flask(__name__)
 
@@ -77,7 +73,6 @@ def bill_detail(bill_id):
         timeline_approved = False
 
     bill_committees = BillCommittee.query.filter_by(bill_id=bill_id).all()
-
 
     committees = set()
     for item in bill_committees: 
