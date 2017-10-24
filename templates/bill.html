@@ -21,8 +21,8 @@ h2{
 body{
   background-color: #fbf9f3;
 }
-.tl-text h2.tl-headline, .tl-text h2.tl-headline-title{
-  font-family: 'Merriweather', serif;
+.tl-text h2.tl-headline, .tl-text h2.tl-headline-title, .actions{
+  font-family: 'Merriweather Sans', sans-serif;
 }
 
 .tl-slide, .tl-slide-content-container{
@@ -32,6 +32,7 @@ body{
 .tl-timenav-slider-background{
   border-top-color: #881920;
   border-top-style: solid;
+  border-top-width: 10px;
 }
 
 #timeline-embed{
@@ -74,7 +75,7 @@ body{
           <p>Actions taken:</p>
           <ul>
               {% for item in action %}
-                  <li>
+                  <li class='actions'>
                       {{ item.date.strftime('%m-%d-%Y') }}: {{ item.action_text}}
                   </li>
               {% endfor %}
