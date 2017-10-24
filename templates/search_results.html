@@ -15,7 +15,18 @@ h1{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-color: #bea57d;
+    border-style: solid;
+    border-width: 5px;
+    animation-name: fadein;
+    animation-duration: 10s;
 }
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
 #text_not_found{
     font-size: 40px;
 }
@@ -24,8 +35,8 @@ h1{
 <ul>
     {% if search_results == 'empty' %}
         
-        <h1 id='text_not_found'>We regret to inform you that no results were found for: '{{search_input}}'</h1><br><br>
-        
+        <h1 id='text_not_found'>Uh oh! No results were found for: '{{search_input}}'</h1><br><br>
+
         <img src="{{ rand_senator_image }}" alt="sad_lindsey"  id='not_found' style="width:500px;height:307px;">
 
     {% endif %}

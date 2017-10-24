@@ -11,22 +11,32 @@ h1{
 }
 
 .senators{
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 
 </style>
 
-<p>Select the senators who you would like to view relationships between:</p>
 <ul>
-    <form action="/senator-relationships" method="POST" name='relationships' class='senators'>
-        {% for senator in senators %}
-            <input type="checkbox" name="senators" value="{{senator.name}}">{{senator.name}}<br>
-        {% endfor %}
+    <p>Select the senators who you would like to view relationships between:</p>
+    <ul>
+        <form action="/senator-relationships" method="POST" name='relationships' class='senators'>
+        <table>
+            {% for senator_batch in senators|batch(5) %}
+                <tr>
+                    {% for senator in senator_batch %}
+                        <td>
+                            <input type="checkbox" name="senators" value="{{senator.name}}">{{senator.name}}
+                        </td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </table>
 
-        <br>
-
-        <input type="submit" value="Submit">
-    </form> 
+            <br>
+            
+            <input type="submit" value="Submit">
+        </form> 
+    </ul>
 </ul>
 
 {% endblock %}

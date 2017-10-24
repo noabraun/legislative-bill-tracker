@@ -31,19 +31,12 @@ h1{
     width: 350px;
 }
 
-#header_block{
-    border-color: #bea57d;
-    border-bottom-style: outset;
-    border-bottom-width: 2px;
-}
-
 #homepage-title{
     text-align: center;
     color:#23150c;
 }
 
 .wig {
-
     height:50px;
     width:50px;
     -webkit-transition: -webkit-transform .8s ease-in-out;
@@ -57,34 +50,43 @@ h1{
 }
 
 </style>
+
 <div class='container'>
-    <div class="row">
-        <div class="col-lg-12" id='header_block'>
-            <h1 id="homepage-title"><img class="wig" src="../static/wig.png">  The Swamp  <img class="wig" src="../static/wig.png">
-            </h1>
+    <div class="col-lg-1" id='left_col'></div>
+    <div class="col-lg-10">
+        <div class="row">
+            <div class="col-lg-12" id='header_block'>
+                <h1 id="homepage-title"><img class="wig" src="../static/wig.png">  The Swamp  <img class="wig" src="../static/wig.png">
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <br>
+                <br>
+                <br>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-6">
+                <img id="sen_relationships" src="../static/relationships.png">
+            </div>
+            <div class="col-xs-6">
+                <p class='inline-block'>Select your representatives to view who they are co-sponsoring legislation with. Note that the width of the links between senators represents the frequency with which they collaborate on bills.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <img id="spons_stats" src="../static/spons_stats.png">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <img id="timeline" src="../static/timeline.png">
+            </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-lg-12">
-            <h1>  </h1> 
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-12">
-            <img id="sen_relationships" src="../static/relationships.png">
-            <p>Select your representatives to view who they are co-sponsoring legislation with. Note that the width of the links between senators represents the frequency with which they collaborate on bills.</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-12">
-            <img id="spons_stats" src="../static/spons_stats.png">
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-12">
-            <img id="timeline" src="../static/timeline.png">
-        </div>
-    </div>
+    <div class="col-lg-1" id='right_col'></div> 
 </div>
 
 
