@@ -6,18 +6,37 @@ body{
   background-color: #fbf9f3;
 }
 
-h1{
+h1, #header{
     font-family: 'Merriweather', serif;
 }
 
+#header{
+    font-size: 20px;
+}
+
 .senators{
-    font-family: 'Merriweather', serif;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 12px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+tr:nth-child(even) {background-color: #f5f0e0}
+
+table{
+    margin: 0 auto;
 }
 
 </style>
 
 <ul>
-    <p>Select the senators who you would like to view relationships between:</p>
+    <p id='header'>Select the senators who you would like to view relationships between:</p>
+    <p>The resulting visualization utilizes a D3 force-directed graph to show the extent to which these Senators co-sponsor legislation, where the width of the lines connecting the Senators represents the frequency with which the pair works together</p>
+
+    <br>
     <ul>
         <form action="/senator-relationships" method="POST" name='relationships' class='senators'>
         <table>
@@ -25,7 +44,7 @@ h1{
                 <tr>
                     {% for senator in senator_batch %}
                         <td>
-                            <input type="checkbox" name="senators" value="{{senator.name}}">{{senator.name}}
+                            <input type="checkbox" name="senators" value="{{senator.name}}"> {{senator.name}} ({{senator.party}})
                         </td>
                     {% endfor %}
                 </tr>
@@ -33,7 +52,7 @@ h1{
         </table>
 
             <br>
-            
+
             <input type="submit" value="Submit">
         </form> 
     </ul>

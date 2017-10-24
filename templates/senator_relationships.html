@@ -6,7 +6,7 @@
 <title>Senator Relationships</title>
 <ul>
   <h1>Senator Relationships</h1>
-  <p>Refer to the table below to view the number of times the selected Senators have co-sponsored bills in 2017-2018 (115th Congress). The width of the lines in the chart represents the extent to which the chosen Senators have worked together.</p>
+  <p>Refer to the table below to view the number of times the selected Senators have co-sponsored bills in 2017-2018 (115th Congress). The width of the lines in the chart represents the extent to which the chosen Senators have co-sponsored legislation together.</p>
 </ul>
 
 
@@ -16,7 +16,9 @@
 h1, h2{
   font-family: 'Merriweather', serif;
 }
-
+p{
+  font-family: 'Merriweather Sans', sans-serif;
+}
 body{
   background-color: #fbf9f3;
 }
@@ -41,13 +43,32 @@ text {
     margin-left: auto;
     margin-right: auto;
 }
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 12px;
+}
+
+table tr:nth-child(odd) {
+   background-color: #f5f0e0;
+}
+
+table{
+  border: 1px solid #bea57d;
+  margin: 0 auto;
+}
+svg{
+  margin: 0 auto;
+}
 </style>
 
 <img src='../static/loading.gif' id='loading_icon'> 
 <div class="conatainer"><svg width="1300" height="800"></svg></div>
 <div class="container">
   <div class="table-responsive">
-    <table class="table table-striped">
+    <table class="table table-striped" id='senator_table'>
         <thead>
           <tr>
             <th>Senator Name</th>
