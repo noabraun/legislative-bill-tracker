@@ -27,7 +27,7 @@ h1{
 }
 
 #timeline{
-    height:262px;
+    height:250px;
     width: 350px;
 }
 
@@ -48,6 +48,32 @@ h1{
     -webkit-transform: rotate(360deg);
     transform: rotate(360deg);
 }
+#header_block{
+    padding-bottom: 30px;
+}
+
+#timeline_block, #stats_block, #relationship_block{
+    padding-bottom: 30px;
+    padding-top: 20px;
+    border-bottom-color: #bea57d;
+    border-bottom-style: solid;
+}
+
+#relationship_block{
+    padding-bottom: 30px;
+    padding-top: 20px;
+    border-top-color: #bea57d;
+    border-top-style: solid;
+}
+p{
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.section-headers{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+}
 
 </style>
 
@@ -60,29 +86,31 @@ h1{
                 </h1>
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <br>
-                <br>
-                <br>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-6">
+        <div class="row" id='relationship_block'>
+            <div class="col-xs-5">
                 <img id="sen_relationships" src="../static/relationships.png">
             </div>
-            <div class="col-xs-6">
+            <div class="col-xs-7">
+                <p class='section-headers'>Understand Senator Relationships</p>
                 <p class='inline-block'>Select your representatives to view who they are co-sponsoring legislation with. Note that the width of the links between senators represents the frequency with which they collaborate on bills.</p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <img id="spons_stats" src="../static/spons_stats.png">
+        <div class="row" id='timeline_block'>
+            <div class="col-xs-7">
+                <p class='section-headers'>View Detailed Bill Information</p>
+                <p class='inline-block'>View what actions have been taken on any bill that has passed through the 115th Congress (2017-2018). Bill page also displays a bill description, proposal date, Senators who have sponsored the bill, and a score that ranks how progressive the bill is (0-100, with 100 being the most progressive).</p>
+            </div>
+            <div class="col-xs-5">
+                <img id="timeline" src="../static/timeline.png">
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <img id="timeline" src="../static/timeline.png">
+        <div class="row" id='stats_block'>
+            <div class="col-xs-5">
+                <img id="spons_stats" src="../static/spons_stats.png">
+            </div>
+            <div class="col-xs-7">
+                <p class='section-headers'>Visualize Senator Bill-Sponsorships</p>
+                <p class='inline-block'>Displays the frequency with which the chosen Senator sponsors bills of differing ideologies (0-100, with 100 being the most progressive). Each Senator's page will also display party and state information as well as utilize the Wikipedia API to fetch a Senator summary. </p>
             </div>
         </div>
     </div>
