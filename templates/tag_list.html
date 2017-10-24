@@ -1,35 +1,47 @@
 {% extends 'base.html' %}
 {% block content %}
 
-<div class="well spaced" >
-    <h1>Tags</h1>
+<style>
+body{
+  background-color: #fbf9f3;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+}
+</style>
+
+<div>
     <ul>
-      {% for tag in tags %}
-          <li>
-              <a href="/tags/{{ tag.tag_text }}">
-                {{ tag.tag_text }}
-              </a>
-          </li>
+      <h1>Tags</h1>
+      <ul>
+        {% for tag in tags %}
+            <li>
+                <a href="/tags/{{ tag.tag_text }}">
+                  {{ tag.tag_text }}
+                </a>
+            </li>
 
-      {% endfor %}
+        {% endfor %}
 
-    <div class="pagination">
+      <div class="pagination">
 
-      {% if page_num != 1 %}
-        <a href="/tags?page={{page_num-1}}">&laquo;</a>
-      {% endif %}
-
-      {% for number in range(max_pages+1) %}
-        {% if number != 0 %}
-          <a href="/tags?page={{number}}">{{number}}</a>
+        {% if page_num != 1 %}
+          <a href="/tags?page={{page_num-1}}">&laquo;</a>
         {% endif %}
-      {% endfor %}
 
-      {% if page_num != max_pages %}
-        <a href="/tags?page={{page_num+1}}">&raquo;</a>
-      {% endif %}
+        {% for number in range(max_pages+1) %}
+          {% if number != 0 %}
+            <a href="/tags?page={{number}}">{{number}}</a>
+          {% endif %}
+        {% endfor %}
 
-    </div>
-    </ul>
+        {% if page_num != max_pages %}
+          <a href="/tags?page={{page_num+1}}">&raquo;</a>
+        {% endif %}
+
+      </div>
+      </ul>
+  </ul>
 </div>
 {% endblock %}

@@ -1,7 +1,18 @@
 {% extends 'base.html' %}
 {% block content %}
 
-<div class="well spaced" style="width:60%">
+<style>
+body{
+  background-color: #fbf9f3;
+}
+
+h1{
+    font-family: 'Merriweather', serif;
+}
+</style>
+
+<div>
+  <ul>
     <h1>Committees</h1>
     <ul>
       {% for committee in committees %}
@@ -13,5 +24,6 @@
 
       {% endfor %}
     </ul>
+  </ul>
 </div>
 {% endblock %}

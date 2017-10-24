@@ -1,19 +1,32 @@
 {% extends 'base.html' %}
 {% block content %}
 
-<div class="well spaced" style="width:60%">
-    <h1>{{ committee.name }}</h1>
+<style>
+body{
+  background-color: #fbf9f3;
+}
 
-    <p>Bills passed to committee: </p>
+h1{
+    font-family: 'Merriweather', serif;
+}
 
+</style>
+
+<div>
     <ul>
-        {% for bill_item in bills_sponsored %}
-            {% for bill_info in bill_item %}
-                <li>
-                    <a href="/bills/{{ bill_info.bill_id }}">{{ bill_info.bill_id }}: {{ bill_info.title }}</a>
-                </li>
+        <h1>{{ committee.name }}</h1>
+
+        <p>Bills passed to committee: </p>
+
+        <ul>
+            {% for bill_item in bills_sponsored %}
+                {% for bill_info in bill_item %}
+                    <li>
+                        <a href="/bills/{{ bill_info.bill_id }}">{{ bill_info.bill_id }}: {{ bill_info.title }}</a>
+                    </li>
+                {% endfor %}
             {% endfor %}
-        {% endfor %}
+        </ul>
     </ul>
 
 </div>
